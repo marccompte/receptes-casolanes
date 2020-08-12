@@ -1,0 +1,21 @@
+[Titol]
+Carxofes amb romesco
+
+[Ingredients]
+persones = 4
+enciam = 100 g de barreja d’enciams
+pop = 150 g de pop net
+carxofa = 10 carxofes
+oli = 500 ml d’oli de gira-sol
+sal = Sal
+pebre negre = Pebre negre en gra
+llorer = 2 fulles de llorer
+orenga = Orenga
+
+[Elaboracio]
+Tallem les llesques de pa i les torrem.
+Laminem la tòfona i la posem a sobre de les llesques de pa.
+Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+
+[Categories]
+categoria = Amanides

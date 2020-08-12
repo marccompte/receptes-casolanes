@@ -1,0 +1,16 @@
+[Titol]
+Cigrons salats
+
+[Ingredients]
+cigrons = 200 grs. de cigrons
+oli = Oli d’oliva
+sal = Sal
+
+[Elaboracio]
+Poso els cigrons en remull durant 6 hores, i els escorro bé.
+En una paella amb abundant oli calent, tiro els cigrons, els vaig removent amb una cullera perquè es vagin daurant per tots costats igual, quan estan ben daurats els trec i els poso sobre paper de cuina perquè absorbeixi l’excés d’oli.
+Els poso en un bol i els empolvoro amb sal.
+<strong>Han de quedar tendres però cruixents</strong>
+
+[Categories]
+categoria = Aperos

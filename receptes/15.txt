@@ -1,0 +1,44 @@
+[Titol]
+Arròs de cloïsses, sípia i escamarlans
+
+[Ingredients]
+persones = 4
+cloïssa = Cloïsses
+sípia = 1 Sípia
+escamarlà = 20 Escamarlans
+ceba = 500 g Ceba
+tomàquet = 250 g Tomàquet
+arròs = 360 g Arròs bomba
+rom = Un raig de rom
+all = All
+oli = Oli d’oliva
+sal = Sal
+fumet = Fumet de peix: Ceba, Pastanaga, Api, Porro, All, Tomàquet i Peix de roca
+
+[Elaboracio]
+Per al fumet:
+Feu un sofregit, amb all, ceba, pastanaga, api, porro i tomàquet. Cuineu-ho bé, i quan comencin a enganxar-se els ingredients, poseu-hi peix de roca o morralla, i cobriu-ho d’aigua. El fumet no ha de bullir més de 15 o 20 minuts com a màxim.
+
+Per al sofregit:
+Peleu la ceba. Després talleu el peduncle als tomàquets, feu-los un tall per sota, i peleu els alls.
+Escaldeu els tomàquets en una cassola amb aigua bullent durant un minut, i tot seguit, traieu-los la pell. Reserveu-los.
+Talleu a trossets la ceba i tritureu-la tant com pugueu amb una batedora elèctrica o amb l’aparell elèctric que tingueu que trituri bé. Feu el mateix amb els tomàquets escaldats i sense pell, tritureu-los bé. Reserveu-los en bols diferents.
+Talleu l’all a talls molt petits.
+
+Cocció del sofregit:
+Poseu l’all picat en una cassola i daureu-lo. Després la ceba, i sofregiu-la ben bé. A mesura que es vagi enganxant a la cassola, remeneu-la bé perquè es tracta que caramel·litzi.
+Un cop tingueu cuits l’all i la ceba, tireu-hi el tomàquet. Cal que torneu a fer el mateix pas que l’anterior, caramel·litzar el tomàquet fins que en quedi un concentrat.
+
+Preparar la sípia:
+Netegeu bé la sípia de sorra amb un raig d’aigua, però no li tragueu la pell. És molt important que l’hi deixeu. Talleu a tires la sípia, després a daus, i quan ho tingueu fet, afegiu-hi la melsa i la tinta, que havíeu reservat prèviament. Barregeu-ho ben bé amb les mans, amb guants, per no tacar-vos-les.
+Comprovareu que la sípia tallada a daus us queda de color negre. La tinta ens donarà gust i també color atractiu a l’arròs. Reserveu-los.
+
+Cocció:
+Ara comenceu a preparar l’arròs. En una paella, poseu-hi un bon raig d’oli i salteu-hi els escamarlans. Mentre els salteu, poseu-hi un raig de rom i flamegeu-los. Després poseu-hi el litre de  fumet de peix.
+Quan comenci a bullir, tireu-hi la sal. Un truc és tirar-ne un pensament per persona que menjarà l’arròs. Després de la sal, poseu-hi quatre cullerades de sofregit. Barregeu-lo perquè no hi quedin grumolls.
+Tot seguit, poseu-hi la sípia, que heu ben barrejat amb la melsa i la tinta. Comprovareu que el caldo adquireix un color marró.
+Al cap d’uns minuts, afegiu-hi les cloïsses, i quan comenci a bullir tot plegat, serà el moment de posar-hi l’arròs (90 grams per persona).
+Un pas molt important és que el tingueu a foc fort durant dos minuts, i després retireu l’arròs del foc i fiqueu-lo al forn durant 14 minuts més a 220ºC.
+
+[Categories]
+categoria = Arrossos

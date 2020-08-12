@@ -1,0 +1,16 @@
+[Titol]
+Botifarra gratinada
+
+[Ingredients]
+pa = Llesques de pa Bimbo sense escorça.
+botifarra = 1 botifarra o 2 depenent dels comensals.
+bacon = 1 paquet de rodanxes de bacon.
+formatge = Formatge Emmental ratllat per a gratinar.
+
+[Elaboracio]
+Primer he torrat les llesques de pa Bimbo a la torradora, després les he partit en quatre quadradets.
+Les rodanxes de bacon les he tallat de la mateixa grandària que el quadradet de pa i les he posat en el microones durant 1 minut aprox. (es posen en un plat gran i es posa un tovalló de cuina a baix després les rodanxes de bacon i després un altre tovalló de cuina i al microones).
+Quan s’han fet, he posat el bacon sobre el pa, després he fet rodanxetes de botifarra i l’he fregit una miqueta a la paella i les he posat damunt del bacon i desprès he posat tots els canapès en una safata de forn i ho he empolvorat amb el formatge, després he punxat cada canapè amb un escuradents i l’he ficat uns minuts al forn a gratinar.
+
+[Categories]
+categoria = Aperos

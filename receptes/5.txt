@@ -1,0 +1,31 @@
+[Titol]
+Fideus amb cloïsses
+
+[Ingredients]
+caçó = ½ Kg. de caçó
+cloïsses = ½ Kg. de cloïsses
+gambes = 1 Kg. de gambes
+pasta = 250 gr. fideus grossos
+pèsols = 150 gr. de pèsols
+ceba = 1 ceba
+pebrot = 2 pebrots verds
+all = 4 grans d’all
+farina = 2 cullerades de farina
+tomàquet = 1 got de tomàquet fregit
+llorer = Llorer
+safrà = Safrà
+pebre vermell = Pebre vermell dolç
+
+[Elaboracio]
+Pelar les gambes i reservar-les en fred.
+Les peles les cobrim amb aigua, afegim sal i deixem bullir uns minuts.
+Picar la ceba i començar a sofregir-la amb el llorer.
+Afegir els alls filetejats i els pebrots verds picats.
+Afegir dues cullerades de farina, una de pebre roig i, seguidament, el tomàquet fregit.
+Afegir al sofregit el brou de les gambes.
+Incorporar al guisat els fideus, els pèsols i el safrà.
+Netejar el caçó i tallar-ho en petites porcions. Ho afegim i deixem coure uns minuts.
+Just abans de servir afegirem les gambes i les cloïsses.
+
+[Categories]
+categoria = Pasta

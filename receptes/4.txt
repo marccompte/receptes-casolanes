@@ -1,0 +1,30 @@
+[Titol]
+Arròs amb ànec
+
+[Ingredients]
+ànec = 1 Ànec
+bolets = 400 gr. de bolets de temporada
+arròs = 350 gr. d’arròs
+all = 4 grans d’all
+pebrot vermell = 1 pebrot vermell
+porro = 2 porros
+tomàquet = 3 tomàquets madurs
+vi blanc = 2 gots de vi blanc
+pebre vermell = Pebre vermell dolç
+safrà = safrà
+farigola = farigola
+oli = Oli d’oliva
+sal = sal
+pebre negre = pebre
+
+[Elaboracio]
+Desossar i trossejar l’ànec, reservant els pits de pollastre. Torrar la carcassa en el forn a 200 °C fins que estigui daurada.
+Salpebrar la carn i daurar-la amb els alls laminats. Abocar-hi el vi, cobrir amb aigua, afegir un grapat de sal i la carcassa torrada.
+Tallar els pits de pollastre, marinar amb oli, sal, pebre i reservar-les. Picar el porro i sofregir-lo amb el safrà.
+Afegir els bolets i el pebrot picat, una cullerada de pebre roig dolç i el tomàquet trossejat.
+Incorporar l’ànec, la farigola, l’arròs i el brou.
+Deixar bullir 15 minuts.
+Saltejar els pits de pollastre a foc viu.
+
+[Categories]
+categoria = Arrossos
