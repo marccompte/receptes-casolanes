@@ -1,0 +1,32 @@
+{
+  "name": "receptes-casolanes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --port 4001",
+    "build": "parcel build src/index.html --no-content-hash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/mcompte/receptes-casolanes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mcompte/receptes-casolanes#readme",
+  "dependencies": {
+    "crossroads": "^0.12.2",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.10"
+  },
+  "staticFiles": {
+    "staticPath": [
+      "receptes"
+    ]
+  }
+}
