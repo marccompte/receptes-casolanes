@@ -3,7 +3,7 @@ Cigrons salats
 
 [Ingredients]
 cigrons = 200 grs. de cigrons
-oli = Oli d’oliva o girasol
+oli = Oli d’oliva
 sal = Sal
 
 [Elaboracio]
