@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html --port 4001",
-    "build": "parcel build src/index.html --no-content-hash"
+    "build": "parcel build --public-url . src/index.html --no-content-hash"
   },
   "repository": {
     "type": "git",
