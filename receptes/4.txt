@@ -11,11 +11,11 @@ porro = 2 porros
 tomàquet = 3 tomàquets madurs
 vi blanc = 2 gots de vi blanc
 pebre vermell = Pebre vermell dolç
-safrà = safrà
-farigola = farigola
+safrà = Safrà
+farigola = Farigola
 oli = Oli d’oliva
-sal = sal
-pebre negre = pebre
+sal = Sal
+pebre = Pebre
 
 [Elaboracio]
 Desossar i trossejar l’ànec, reservant els pits de pollastre. Torrar la carcassa en el forn a 200 °C fins que estigui daurada.

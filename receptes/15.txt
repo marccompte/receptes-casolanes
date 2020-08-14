@@ -13,7 +13,14 @@ rom = Un raig de rom
 all = All
 oli = Oli d’oliva
 sal = Sal
-fumet = Fumet de peix: Ceba, Pastanaga, Api, Porro, All, Tomàquet i Peix de roca
+titol = Fumet
+ceba = Ceba
+pastanaga = Pastanaga
+api = Api
+porro = Porro
+all = All
+tomàquet = Tomàquet
+peix = Peix de roca
 
 [Elaboracio]
 Per al fumet:
