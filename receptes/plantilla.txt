@@ -2,7 +2,7 @@
 ; També es mostren dades d'exemple d'una recepta tipus.
 ; Aquestes dades són de la recepta 15 i en pots veure el resultat a:
 ;
-; http://receptes.marccompte.com/recepta/15
+; http://receptes.braquets.cat/recepta/15
 ;
 ; El format del fitxer és com un fitxer INI.
 ; Si una línea comença amb semicoma (com aquestes) són comentaris interns
@@ -36,6 +36,9 @@ Arròs de cloïsses, sípia i escamarlans
 ;
 ; persones =
 ;
+; Per a receptes complexes com aquesta, si l'identificador és "titol".
+; enlloc de tractar-lo com un ingredient es tracta com un títol.
+
 persones = 4
 cloïssa = Cloïsses
 sípia = 1 Sípia
@@ -47,7 +50,14 @@ rom = Un raig de rom
 all = All
 oli = Oli d’oliva
 sal = Sal
-fumet = Fumet de peix: Ceba, Pastanaga, Api, Porro, All, Tomàquet i Peix de roca
+titol = Fumet
+ceba = Ceba
+pastanaga = Pastanaga
+api = Api
+porro = Porro
+all = All
+tomàquet = Tomàquet
+peix = Peix de roca
 
 [Elaboracio]
 ; La descripció de com fer el plat.
@@ -88,4 +98,5 @@ Un pas molt important és que el tingueu a foc fort durant dos minuts, i despré
 ; I l'identificador ha de ser sempre categoria.
 ; La descripció ha de ser tal com es vol que aparegui a la web (al menú i a tot arreu).
 ; Si es vol canviar el nom de l'apartat a la web, cal canviar-ho a totes les receptes.
+
 categoria = Arrossos
