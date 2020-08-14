@@ -6,11 +6,20 @@ Tots els vostres comentaris i suggeriments que envieu a <a href="mailto: montse@
 
 # Descripció
 
-Aquí hi veure el codi de la web, per veure la web heu d'anar a <a href="https://receptes.braquets.cat/" target="_blank">https://receptes.braquets.cat/</a>.
+Aquí hi veureu el codi de la web, per veure la web heu d'anar a <a href="https://receptes.braquets.cat/" target="_blank">https://receptes.braquets.cat/</a>.
 
 # Descarregar les receptes
 
 Per descarregar les receptes us heu de descarregar el codi des del botó de color verd "Code" que veureu més amunt. Us ho podeu descarregar en format ZIP i descomprimir al vostre ordinador. Un cop descomprimit trobareu les receptes a la carpeta receptes.
+
+# Format de les receptes
+
+Cada recepta es guarda en un fitxer. Cada fitxer està numerat amb un número enter successivament creixent. El nom del fitxer és el número de recepta. Cada fitxer està estructurat de manera similar a un fitxer INI:
+
+- Els comentaris s'identifiquen amb ;
+- Cada apartat comença amb [ i acaba amb ]
+
+<a href="receptes/plantilla.txt">Trobareu més informació sobre com s'han de definir les dades de les receptes a la plantilla</a>.
 
 # Modificar receptes existents
 
