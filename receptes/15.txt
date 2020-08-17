@@ -48,4 +48,4 @@ Al cap d’uns minuts, afegiu-hi les cloïsses, i quan comenci a bullir tot pleg
 Un pas molt important és que el tingueu a foc fort durant dos minuts, i després retireu l’arròs del foc i fiqueu-lo al forn durant 14 minuts més a 220ºC.
 
 [Categories]
-categoria = Arrossos2
+categoria = Arrossos
