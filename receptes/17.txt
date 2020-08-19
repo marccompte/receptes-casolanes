@@ -3,7 +3,7 @@ Olivada 1
 
 [Ingredients]
 persones =
-oliva = oliva negra d'Aragó
+olives = oliva negra d'Aragó
 ceba = ceba tendra
 romaní = romaní fresc
 all = all
