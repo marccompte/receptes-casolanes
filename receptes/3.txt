@@ -3,7 +3,7 @@ Carpaccio de ceps 1
 
 [Ingredients]
 persones =
-ceps = Ceps
+bolets = Ceps
 formatge = Un pols de parmesà
 
 [Elaboracio]
