@@ -4,7 +4,7 @@ Oros i bastos
 [Ingredients]
 persones =
 anxova = 8 filets d’anxoves en oli
-poma = 2 pomes reinetes grans 
+fruita = 2 pomes reinetes grans 
 
 [Elaboracio]
 Peleu les pomes i traieu-los el cor. Talleu-les a rodanxes per cobrir el fons de dos plats plans. Introduïu-les al microones tapades amb una campana per a microones i deixeu-ho coure durant 3 minuts cada plat.
