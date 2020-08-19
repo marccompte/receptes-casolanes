@@ -3,8 +3,8 @@ Fideus amb cloïsses
 
 [Ingredients]
 caçó = ½ Kg. de caçó
-cloïsses = ½ Kg. de cloïsses
-gambes = 1 Kg. de gambes
+cloïssa = ½ Kg. de cloïsses
+gamba = 1 Kg. de gambes
 pasta = 250 gr. fideus grossos
 pèsols = 150 gr. de pèsols
 ceba = 1 ceba
@@ -12,9 +12,8 @@ pebrot = 2 pebrots verds
 all = 4 grans d’all
 farina = 2 cullerades de farina
 tomàquet = 1 got de tomàquet fregit
-llorer = Llorer
-safrà = Safrà
-pebre vermell = Pebre vermell dolç
+espècies = Llorer i Safrà
+pebre = Pebre vermell dolç
 
 [Elaboracio]
 Pelar les gambes i reservar-les en fred.
