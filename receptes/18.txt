@@ -4,8 +4,8 @@ Olivada 2
 [Ingredients]
 persones =
 oliva = oliva negra d'Aragó
-pastanaga = ceba tendra
-maionesa = romer fresc
+ceba = ceba tendra
+romaní = romaní fresc
 all = all
 farigola = farigola
 oli = oli d'oliva verge
