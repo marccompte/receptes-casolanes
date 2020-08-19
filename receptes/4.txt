@@ -6,16 +6,15 @@ Arròs amb ànec
 bolets = 400 gr. de bolets de temporada
 arròs = 350 gr. d’arròs
 all = 4 grans d’all
-pebrot vermell = 1 pebrot vermell
+pebrot = 1 pebrot vermell
 porro = 2 porros
 tomàquet = 3 tomàquets madurs
-vi blanc = 2 gots de vi blanc
-pebre vermell = Pebre vermell dolç
-safrà = Safrà
-farigola = Farigola
+vi = 2 gots de vi blanc
+pebre = Pebre vermell dolç ipebre negre
+espècies = Safrà
+herbes = Farigola
 oli = Oli d’oliva
 sal = Sal
-pebre = Pebre
 
 [Elaboracio]
 Desossar i trossejar l’ànec, reservant els pits de pollastre. Torrar la carcassa en el forn a 200 °C fins que estigui daurada.
