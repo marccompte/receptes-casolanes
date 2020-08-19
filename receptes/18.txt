@@ -1,0 +1,19 @@
+[Titol]
+Olivada 2
+
+[Ingredients]
+persones =
+oliva = oliva negra d'Aragó
+pastanaga = ceba tendra
+maionesa = romer fresc
+all = all
+farigola = farigola
+oli = oli d'oliva verge
+
+[Elaboració]
+Posar en adob les olives, la ceba tendra ben picada, l'all picat, el romaní i la farigola (millor si és fresc) l'oli i una mica de sal, deixar-lo tota la nit.
+Treure les olives i llevar-los l'os, llevar les bullis i tornar a posar les olives, triturar-lo tot junt amb la batedora fins que quedi un puré, es pot posar en pots de vidre i es conserva bastant temps.
+Servir sobre torradetas o d’amunt d'uns tomàquets
+
+[Categories]
+categoria = Aperos
