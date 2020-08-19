@@ -8,9 +8,8 @@ pop = 150 g de pop net
 carxofa = 10 carxofes
 oli = 500 ml d’oli de gira-sol
 sal = Sal
-pebre negre = Pebre negre en gra
-llorer = 2 fulles de llorer
-orenga = Orenga
+pebre = Pebre negre en gra
+herbes = 2 fulles de llorer, Orenga
 ; Vinagreta
 cava = 25 ml de cava brut
 vinagre = 25 ml de vinagre de Mòdena
@@ -18,14 +17,12 @@ oli = 50 ml d’oli d’oliva
 sal = Sal
 ; Per al romesco
 tomàquet = 100 g de tomàquet canari escalivat
-ametlles = 40 g d’ametlles torrades picades al morter
+fruits secs = 40 g d’ametlles torrades picades al morter
 all = 3 grans d’all escalivat
-pebre vermell = 2 culleradetes de pebre vermell dolç
-pebre vermell = 1 culleradeta de pebre vermell picant
-julivert = 1 branquilló de julivert
-menta = 6 fulles de menta o d’herba de Santa Maria
+pebre = 2 culleradetes de pebre vermell dolç, 1 culleradeta de pebre vermell picant
+herbes = 6 fulles de menta o d’herba de Santa Maria, 1 branquilló de julivert
 oli = 100 ml d’oli verge d’arbequina
-nyora = 1 nyora bullida
+espècies = 1 nyora bullida
 vinagre = 2 cullerades de vinagre bo
 sal = Sal
 
