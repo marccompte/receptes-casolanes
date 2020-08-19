@@ -2,7 +2,7 @@
 Amb tòfona
 
 [Ingredients]
-persones =
+persones = 1
 pa = Unes llesques de pa de baguette tallades fines
 tòfona = Una o dues tòfones negres (poden ser de conserva)
 sal = Un pols de sal
