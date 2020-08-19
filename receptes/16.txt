@@ -17,3 +17,6 @@ pebrot = 2 pebrots de piquillo i julivert (per a decorar)
 Coure les patates i la pastanaga fins que estiguin tendres. Retirar la pell i aixafar amb una forquilla. Incorporar la tonyina escorreguda, la sal i remoure fins a obtenir una massa homogènia. Pelar les gambes, trossejar-les i afegir-les. Barrejar aquesta massa amb la maionesa.
 Emplenar les tartaletes, disposar una tira de piquillo, una rodanxa d’oliva negra i ½ gamba tallada longitudinalment.
 Decorar amb julivert en fulles.
+
+[Categories]
+categoria = Aperos
