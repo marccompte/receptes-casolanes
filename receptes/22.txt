@@ -1,0 +1,11 @@
+[Titol]
+Paté de formatge
+
+[Ingredients]
+persones =
+Formatge  =  Roquefort, Manxego semicurat, Filadèlfia, 100g de cada
+fruits secs = 100 gr. Anous
+Llet = 100 ml.Llet
+
+[Categories]
+Categoria = Aperos
