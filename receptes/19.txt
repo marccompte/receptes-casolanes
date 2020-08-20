@@ -12,4 +12,3 @@ Penseu que s’han de menjar tot just acabades de sortir del forn. Poseu-hi per 
 
 [Categories]
 categoria = Aperos
-	
