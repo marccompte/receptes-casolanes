@@ -1,0 +1,22 @@
+﻿[Titol]
+Rovellons en vinagre
+
+[Ingredients]
+persones =
+bolets = 1 kg de rovellons
+oli = 1/2  litre d’oli d’oliva
+vinagre = 1/2  litre de vinagre de vi blanc
+all = 4 grans d’all
+sal =sal
+pebre = pebre negre acabat de moldre
+herbes = 1 branqueta de farigola
+
+[Elaboracio]
+Netegeu els rovellons tallant la part posterior del peu i passant-hi un drap humit per a treure alguna farda que hi pugui haver.
+Poseu una olla al foc amb aigua i quan arrenqui el bull escaldeu-los durant 30 segons i traieu-los ràpidament.
+Deixeu-los refredar.
+Poseu-los en un pot de vidre de boca ampla. Hi afegiu sal, pebre acabat de moldre, els grans d’all pelats, la branqueta de farigola i la mescla de oli i vinagre.
+Deixeu-los confitar al rebost uns quants dies i ja es podran consumir.
+
+[Categories]
+categoria = Aperos
