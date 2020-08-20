@@ -3,7 +3,6 @@ Paté
 
 [Ingredients]
 persones =
-
 titol = de gambes
 formatge  =  2 cullerades de formatge Filadèlfia
 gamba = 1/2 Kg. Gambes (salades)
