@@ -1,16 +1,24 @@
-[Titol]
-Amb tòfona
+﻿[Titol]
+Limoncello
 
 [Ingredients]
-pa = Unes llesques de pa de baguette tallades fines
-tòfona = Una o dues tòfones negres (poden ser de conserva)
-sal = Un pols de sal
-oli = Un raig d’oli d’oliva
+persones = per a 2 litres de licor
+alcohol = 1 litre d’alcohol pur de 90/95 graus
+llimona = 12 llimones bio (és a dir sense tractar)
+aigua = 1 litre d’aigua
+sucre = 800 grams de sucre
 
 [Elaboracio]
-Tallem les llesques de pa i les torrem.
-Laminem la tòfona i la posem a sobre de les llesques de pa.
-Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+Rentar les llimones amb aigua calenta.
+Pelar-les les llimones just només la pell groga  (la part blanca de la llimona li dona un gust amarg al licor).
+Posar les pells de la llimona en un pot de vidre amb l’alcohol.
+Tapeu el pot i deixeu macerar durant 30 dies, a temperatura ambient, en un indret fosc i fresc. Remenar-ho cada dos dies.
+Al final del període de maceració, poseu al foc en una cassola el litre d’aigua i els 800 grams de sucre, fins que el sucre quedi dissolt.
+Filtreu l’alcohol i llenceu les pells de llimona.
+Adjunteu l’alcohol aromatitzat de llimona a la barreja d’aigua i sucre.
+Agiteu fort i poseu immediatament la barreja a les ampolles.
+Les ampolles han de reposar durant 10 dies al menys en un lloc fresc a temperatura ambient.
+Tradicionalment el limoncello és serveix glaçat: es recomana de conservar l’ampolla al congelador.
 
 [Categories]
 categoria = Digestius
