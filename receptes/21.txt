@@ -14,6 +14,5 @@ Quan els tingueu nets i pelats, prepareu una paella amb oli i deixeu-lo escalfar
 També ho podeu farcir amb qualsevol altre producte, fent-hi una mica de sofregit. Cal servir-ho ràpidament, si no, els xampinyons queden pansits i ja no són tan macos. 
 Nota: per a aquest entrant, cal trobar uns xampinyons que siguin grossets de mida, ja que això us permetrà treballar més bé. Si empreu carn de perol a granel, o si feu servir una botifarra de perol,podeu passarla per la paella abans d’utilitzar-la.
 
-
 [Categories]
-Categoria = Aperos
+categoria = Aperos
