@@ -1,16 +1,23 @@
-[Titol]
-Amb tòfona
+﻿[Titol]
+Llenties amb calamars
 
 [Ingredients]
-pa = Unes llesques de pa de baguette tallades fines
-tòfona = Una o dues tòfones negres (poden ser de conserva)
-sal = Un pols de sal
-oli = Un raig d’oli d’oliva
+persones =
+llenties = 250 grams de llenties
+calamars = 8 calamarsons mitjans
+ceba = 1 ceba tendra fresca
+pebrot = 1 pebrot verd
+tomàquet = 1 tomàquet madur
+all = 2 grans d'all
+pebre = 1 culleradeta pebre roig dolç
+oli = 1 dl d'oli d'oliva
+sal = Sal
 
 [Elaboracio]
-Tallem les llesques de pa i les torrem.
-Laminem la tòfona i la posem a sobre de les llesques de pa.
-Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+Netegem i rentem els calamars, donant uns talls al cos sense arribar a trencar-lo del tot perquè quedin units.
+En una cassola baixa sofregim la ceba tendra, el pebrot verd i els grans d'all, tot això tallat en juliana. Una vegada que estiguin semicocinados agregamnos el tomàquet tallat en cuadraditos i vegada tinguem sofritas les hortalisses afegim els calamarsons. Ofeguem el conjunt.
+Accessibilitat Mapa Web Autors de les imatges Creative Commons d'aquesta pàgina Afegim una cucharadita de pebre roig dolç, les llenties, cobrim amb aigua i cuinem a foc mitjà durant 1 hora a 1 ½ més o menys.
+Posem a punt de sal i deixem reposar 15 minuts abans de servir.
 
 [Categories]
 categoria = Llegums
