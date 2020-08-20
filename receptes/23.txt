@@ -1,0 +1,26 @@
+﻿[Titol]
+Paté
+
+[Ingredients]
+titol = de gambes
+persones =
+formatge  =  2 cullerades de formatge Filadèlfia
+gamba = 1/2 Kg. Gambes (salades)
+tonyina = 1 llauna de tonyina
+maionesa = 4 cullerades de maionesa
+Cranc = 4 palets de Surimi (barretes de cranc)
+
+titol = de formatge
+formatge  =  Roquefort, Manxego semicurat, Filadèlfia, 100g de cada
+fruits secs = 100 gr. Anous
+Llet = 100 ml.Llet
+
+titol = de musclos
+musclos = 1 llauna de musclos
+tonyna = 1 llauna de tonyina
+formatge = 2 formatgets (tipo Caserío)
+
+[Elaboracio]
+
+[Categories]
+categoria = Aperos
