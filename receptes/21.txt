@@ -1,13 +1,19 @@
 ﻿[Titol]
-Paté de gambes
+Xampinyons farcits
 
 [Ingredients]
 persones =
-Formatge  =  2 cullerades de formatge Filadèlfia
-gamba = 1/2 Kg. Gambes (salades)
-tonyina = 1 llauna de tonyina
-maionesa = 4 cullerades de maionesa
-Cranc = 4 palets de Surimi (barretes de cranc)
+bolets  =  12 xampinyons grans
+botifarra = 100 g de botifarra de perol
+formatge = formatge parmesà ratllat
+oli = oli d’oliva verge extra
+
+[Elaboracio]
+Talleu el tronc dels xampinyons i peleu-los.
+Quan els tingueu nets i pelats, prepareu una paella amb oli i deixeu-lo escalfar. Quan sigui calent, fregiu els xampinyons per la part de sota. Quan veieu que ja enrosseixen per sota, abaixeu el foc i retireu-los. Gireulos i farciu-los amb la carn de perol i un pols de formatge. Torneu-los a posar a la paella i deixeu-los fer fins que ja estiguin fregits.
+També ho podeu farcir amb qualsevol altre producte, fent-hi una mica de sofregit. Cal servir-ho ràpidament, si no, els xampinyons queden pansits i ja no són tan macos. 
+Nota: per a aquest entrant, cal trobar uns xampinyons que siguin grossets de mida, ja que això us permetrà treballar més bé. Si empreu carn de perol a granel, o si feu servir una botifarra de perol,podeu passarla per la paella abans d’utilitzar-la.
+
 
 [Categories]
 Categoria = Aperos

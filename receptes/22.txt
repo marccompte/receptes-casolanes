@@ -1,11 +1,19 @@
-[Titol]
-Paté de formatge
+﻿[Titol]
+Suc de tomàquet
 
 [Ingredients]
 persones =
-Formatge  =  Roquefort, Manxego semicurat, Filadèlfia, 100g de cada
-fruits secs = 100 gr. Anous
-Llet = 100 ml.Llet
+all = 3 grans d’all
+sal= 1 culleradeta de sal
+aigua = 1 culleradeta d’aigua
+oli = 1 culleradeta d’oli
+tomàquets = 3 tomàquets (pomarrosa, canari, de penjar, de pera…).
+
+[Elaboracio]
+Picar en el morter els alls fins aconsseguir una pasta finíssima. Afegir l’oli lentament fins aconseguir uns 50 ml d’allioli. Guardar a la nevera.
+Pelar i treure les llavors de tres tomàquets crus i vermells. Trossejar-los en cubs petits, separant el líquit que deixin anar.
+En un vol barrejar l’allioli amb l’aigua (al gust). Afegir la sal al gust i afegir els trossos de tomàquet sense agitar. Posar a la nevera.
+Menjar-lo amb cullera o begut; segons la viscositat, que dependrà de l’aigua afegida.
 
 [Categories]
 Categoria = Aperos
