@@ -2,8 +2,9 @@
 Paté
 
 [Ingredients]
-titol = de gambes
 persones =
+
+titol = de gambes
 formatge  =  2 cullerades de formatge Filadèlfia
 gamba = 1/2 Kg. Gambes (salades)
 tonyina = 1 llauna de tonyina
@@ -21,6 +22,7 @@ tonyna = 1 llauna de tonyina
 formatge = 2 formatgets (tipo Caserío)
 
 [Elaboracio]
+Barrejar tots els ingredients fins a obtenir una pasta consistent i uniforme.
 
 [Categories]
 categoria = Aperos
