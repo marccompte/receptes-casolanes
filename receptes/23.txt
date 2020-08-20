@@ -3,19 +3,21 @@ Paté
 
 [Ingredients]
 persones =
-titol = de gambes
+titol = de gambes:
 formatge  =  2 cullerades de formatge Filadèlfia
 gamba = 1/2 Kg. Gambes (salades)
 tonyina = 1 llauna de tonyina
 maionesa = 4 cullerades de maionesa
 Cranc = 4 palets de Surimi (barretes de cranc)
-titol = de formatge
+
+titol = de formatge:
 formatge  =  Roquefort, Manxego semicurat, Filadèlfia, 100g de cada
 fruits secs = 100 gr. Anous
 Llet = 100 ml.Llet
-titol = de musclos
+
+titol = de musclos:
 musclos = 1 llauna de musclos
-tonyna = 1 llauna de tonyina
+tonyina = 1 llauna de tonyina
 formatge = 2 formatgets (tipo Caserío)
 
 [Elaboracio]
