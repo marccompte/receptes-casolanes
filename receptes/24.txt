@@ -19,4 +19,4 @@ Poseu-los en un pot de vidre de boca ampla. Hi afegiu sal, pebre acabat de moldr
 Deixeu-los confitar al rebost uns quants dies i ja es podran consumir.
 
 [Categories]
-categoria = Aperos
+categoria = Conserves
