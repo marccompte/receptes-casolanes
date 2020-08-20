@@ -1,0 +1,13 @@
+﻿[Titol]
+Paté de gambes
+
+[Ingredients]
+persones =
+Formatge  =  2 cullerades de formatge Filadèlfia
+gamba = 1/2 Kg. Gambes (salades)
+tonyina = 1 llauna de tonyina
+maionesa = 4 cullerades de maionesa
+Cranc = 4 palets de Surimi (barretes de cranc)
+
+[Categories]
+Categoria = Aperos
