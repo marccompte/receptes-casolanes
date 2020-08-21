@@ -1,0 +1,19 @@
+﻿[Titol]
+Suc de tomàquet
+
+[Ingredients]
+persones =
+all = 3 grans d’all
+sal= 1 culleradeta de sal
+aigua = 1 culleradeta d’aigua
+oli = 1 culleradeta d’oli
+tomàquets = 3 tomàquets (pomarrosa, canari, de penjar, de pera…).
+
+[Elaboracio]
+Picar en el morter els alls fins aconsseguir una pasta finíssima. Afegir-hi lentament l’oli fins aconseguir uns 50 ml d’allioli. Guardar a la nevera.
+Pelar i treure les llavors de tres tomàquets crus i vermells. Trossejar-los en cubs petits, separant el líquit que deixin anar.
+En un vol barrejar l’allioli amb l’aigua (al gust). Afegir la sal que calgui i els trossos de tomàquet sense remenar. Posar-ho a la nevera.
+Menjar-lo amb cullera o begut; segons la viscositat, que dependrà de l’aigua afegida.
+
+[Categories]
+Categoria = Aperos
