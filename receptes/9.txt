@@ -1,16 +1,29 @@
-[Titol]
-Amb tòfona
+﻿[Titol]
+Flan de formatge amb gers
 
 [Ingredients]
-pa = Unes llesques de pa de baguette tallades fines
-tòfona = Una o dues tòfones negres (poden ser de conserva)
-sal = Un pols de sal
-oli = Un raig d’oli d’oliva
+persones =
+gerds = 100 gr. de gerds de Moguer
+formatge = 300 gr. de formatge crema
+ous = 3 ous
+pa = 2 llesques de pa de motlle
+llet = 1 tassa de llet condensada
+sucre = 380 gr. sucre
+llimona = 2 llimones
+taronja = 1 taronja
+farina = 75 gr. farina
+mantega = 75 gr. mantega
+aigua = Aigua
 
 [Elaboracio]
-Tallem les llesques de pa i les torrem.
-Laminem la tòfona i la posem a sobre de les llesques de pa.
-Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+Fer un caramel amb 150 gr. de sucre, 75 gr. d'aigua i un suc d'¼ de llimona al foc.
+Cobrir la base del motlle i deixar refredar.
+Barrejar el pa de motlle sense escorça, els ous, el formatge crema i la mateixa quantitat d'aigua que de llet condensada.
+Batre i abocar sobre el motlle.
+Introduir en el forn al bany María a 100 °C – 120 °C. Aprox. 60 minuts.
+Disposar al foc alguns gerds amb 2 cullerades de sucre. Deixar coure, batre i reservar al fred.
+Per a la galeta barrejar 200 gr. de sucre, 75 gr. de mantega, 75 gr. de farina, el suc d'una llimona i la ralladura d'aquest i d'una taronja.
+Estendre capes fines sobre paper de forn, i enfornar a 175 °C fins que prengui color.
 
 [Categories]
 categoria = Postres
