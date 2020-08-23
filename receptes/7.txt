@@ -1,5 +1,5 @@
 ﻿[Titol]
-Gamba amb sindria,
+Gamba amb sindria, 
 meló i guacamole
 
 
@@ -32,10 +32,9 @@ pebre = Pebre blanc
 
 
 [Elaboracio]
-Amb una cullera parisenca, feu boles de
-l'interior del meló i de la síndria. Reserveu-les
-.
-Piqueu molt petit el pernil ibèric i 
+Amb una cullera parisenca,feu boles de
+l'interior del meló i de la síndria.Reserveu-les
+. Piqueu molt petit el pernil ibèric i 
 passeu-lo per una paella coberta d'oli d'oliva 
 perquè en resulti una pols. Reserveu-lo
 .
@@ -61,8 +60,7 @@ i afegiu-hi les boles de meló.
 Deixeu que s'infusionin i
 reserveu-les.Feu el mateix 
 amb les boles de síndria.Reserveu-les
-
-
+.
 Escaldeu les gambes 
 30 segons en una olla amb 
 aigua bullent. Traieu-les amb
