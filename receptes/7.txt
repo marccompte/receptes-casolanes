@@ -1,5 +1,5 @@
 ﻿[Titol]
-Gamba amb sindria, 
+Gamba sindria, 
 meló i guacamole
 
 
@@ -33,12 +33,11 @@ pebre = Pebre blanc
 
 [Elaboracio]
 Amb una cullera parisenca,feu boles de
-l'interior del meló i de la síndria.Reserveu-les
-. Piqueu molt petit el pernil ibèric i 
+l'interior del meló i de la síndria. Reserveu-les
+.Piqueu molt petit el pernil ibèric i 
 passeu-lo per una paella coberta d'oli d'oliva 
-perquè en resulti una pols. Reserveu-lo
-.
-Peleu el cos de la gamba i 
+perquè en resulti una pols.Reserveu-lo
+. Peleu el cos de la gamba i 
 deixeu-hi enganxats el cap i la 
 cua. Traieu-li l'estómac, que
  és el fil de color grana que la 
@@ -47,17 +46,16 @@ travessa.Traieu-ne les potes
 d'oliva ben calent
 .
 
-
 PER FER EL GUACAMOLE
 :
 En un bol, poseu-hi tots 
 els ingredients a trossos 
 bateu-ho tot junt amb el
- turmix. 
+ turmix.
 Poseu en un bol el suc 
 d'una llimona, fulles de menta 
 i afegiu-hi les boles de meló. 
-Deixeu que s'infusionin i
+Deixeu que s'infusionin i 
 reserveu-les.Feu el mateix 
 amb les boles de síndria.Reserveu-les
 .
@@ -68,7 +66,6 @@ aigua bullent. Traieu-les amb
 seguit, fiqueu-les en un bol 
 amb aigua i gel per 
 aturar-ne la cocció.
-
 
 EL MUNTATGE
 :
