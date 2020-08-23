@@ -34,7 +34,7 @@ pebre = Pebre blanc
 [Elaboracio]
 Amb una cullera parisenca, feu boles de
 l'interior del meló i de la síndria. Reserveu-les
-
+.
 Piqueu molt petit el pernil ibèric i 
 passeu-lo per una paella coberta d'oli d'oliva 
 perquè en resulti una pols. Reserveu-lo
@@ -43,10 +43,10 @@ Peleu el cos de la gamba i
 deixeu-hi enganxats el cap i la 
 cua. Traieu-li l'estómac, que
  és el fil de color grana que la 
-travessa. Traieu-ne les potes
+travessa.Traieu-ne les potes
  senceres que fregireu en oli 
 d'oliva ben calent
-es.
+.
 
 
 PER FER EL GUACAMOLE
@@ -59,14 +59,14 @@ Poseu en un bol el suc
 d'una llimona, fulles de menta 
 i afegiu-hi les boles de meló. 
 Deixeu que s'infusionin i
- reserveu-les. Feu el mateix 
-amb les boles de síndria. Reserveu-les
+reserveu-les.Feu el mateix 
+amb les boles de síndria.Reserveu-les
 
 
 Escaldeu les gambes 
 30 segons en una olla amb 
 aigua bullent. Traieu-les amb
- una cullera escumadora i, tot
+ una cullera escumadora i,tot
 seguit, fiqueu-les en un bol 
 amb aigua i gel per 
 aturar-ne la cocció.
@@ -83,6 +83,7 @@ Al voltant de la preparació
  coloqueu-hi les boles de
  meló i les de sindria. Poseu les potes de la gamba fregides damunt 
 del guacamole.
+
 
 [Categories]
 categoria = Peix
