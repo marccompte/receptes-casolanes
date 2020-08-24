@@ -1,25 +1,14 @@
 ﻿[Titol]
-carbonara amb alvocat
+Trufas d'alvocat
 
 [Ingredients]
-Persones =
-alvocat = 1 alvocat mitjà 
-llimona = mitja llimona
-pasta = pasta fresca (pot ser qualsevol altra)
-formatge = formatge ratllat
-ous = 1 ou
-all = 1 all
-tomàquet = tomàquet sec en oli
-pinyons = pinyons
-oli = oli d'oliva verge extra
-sal = Un pols de sal
-pebre = pebre mòlt
+Persones = per a 18 trufes
+alvocat = 1 alvocat madur
+xocolata = 80g de xocolata negra per a postres, 
+cacau = cacau en pols.
 
 [Elaboracio]
-Comença pelant l'alvocat, parteix-lo en trossos. Pela l'all. En una batedora de got incorpora l'alvocat, l'all, el suc de mitja llimona, un ou i posa'l a batre. Vés afegint, a poc a poc, la crema de civada. Veuràs que es crea una mescla amb una pinta molt maca. Reserva.
-En una paella afegeix el tomàquet sec escorregut i tallat a tires. No fa falta que hi posis oli. Incorpora també els pinyons i deixa-ho fins que s'hagin daurat. Reserva-ho també.
-I ara anem a fer la pasta. He utilitzat pasta fresca per a dues persones però pots utilitzar qualsevol tipus de pasta. Segueix les indicacions del fabricant per a aconseguir la pasta al dente.
-En un bol ampli acabarem de fer la recepta. Primer afegeix la pasta escorreguda, després el tomàquet i els pinyons, la salsa d'alvocat, formatge ratllat, pebre mòlt i sal. Mescla-ho bé. Prova de sal i rectifica, si fos necessari.
+Obre l'alvocat i retira l'os. Amb ajuda d'una cullera, extreu la polpa i pica-la amb una forquilla fins a obtenir una crema. D'altra banda, fon la xocolata negra en el microones en dues o tres sèries d'un minut. Aboca la xocolata fosa sobre la polpa d'alvocat i treballa la mescla fins que sigui homogènia. Obtindràs una massa amb textura molt lleugera impossible de manejar. Per això, fiquem la massa en el congelador durant uns 45min. Passat aquest temps. formem les tòfones fent boles amb les mans, passant aquestes després pel cacau en pols per a obtenir el seu aspecte habitual
 
 [Categories]
-categoria = Vegetarià
+categoria = Postres
