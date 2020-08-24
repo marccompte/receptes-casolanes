@@ -1,0 +1,24 @@
+﻿[Titol]
+humus amb crudités
+
+[Ingredients]
+Persones = 4 pax (20 min. 431 cal)
+cigrons = 400 g de cigrons cuits 
+all = 1-2 grans d'all
+llimona = el suc de ½  llimona
+espècies = 2-3 cullaradetes de tahini
+espècies = 1 cullaradeta de comí mòlt
+pebre = 1 cullaradeta de pebre vermell dolç
+sal = sal i pebre negre
+oli = oli d'oliva
+verdures = verdures per a acompanyar (pastanagues, api, cogombre..)
+pa = pa de pita
+
+[Elaboracio]
+Deixa en remull els cigrons la nit anterior. L’endemà, renta'ls molt bé i cou-los en abundant aigua bullint.
+Tritura els cigrons, ja frets, amb els grans d'all pelats, el suc de llimona, el tahini, un chorret d'oli d'oliva, el comí, sal i pebre fins que quedi una textura fina. Si fes falta, pots afegir una mica de brou de la cocció o una mica d'aigua.
+Serveix l'humus en petits bols, empolvora amb pebre roig i ruixa amb oli d'oliva. Acompanya l'humus amb pa de pita i crudités de verdures.
+Per a donar a aquest humus un bonic color, agrega a la recepta una remolatxa cuita. Després, tritura-ho tot bé.
+
+[Categories]
+categoria = Vegetarià
