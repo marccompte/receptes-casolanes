@@ -2,7 +2,7 @@
 hamburguesa d’albergínia
 
 [Ingredients]
-Persones = 4
+Persones = 4 pax
 albergínia = 1 albergínia gran
 pebrot = 1 pebrot vermell
 ceba = 1 ceba mitjana

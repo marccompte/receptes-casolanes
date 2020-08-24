@@ -2,7 +2,7 @@
 puré d’albergínia
 
 [Ingredients]
-Persones = 4 (90 min. 214 Kcal/persona)
+Persones = 4 pax (90 min. 214 Kcal/persona)
 llom = 50g de llom ibèric de Salamanca
 faves = 200g de favetes fregides en oli d'oliva
 ceba = 1 ceba tendra fresca

@@ -2,7 +2,7 @@
 gaspatxo d’alvocats
 
 [Ingredients]
-Persones = 4 
+Persones = 4 pax
 alvocat = 3 alvocats
 iogurt = 4 iogurts naturals
 pebrot = 1/2 pebrot verd
