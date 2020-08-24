@@ -16,4 +16,4 @@ En un vol barrejar l’allioli amb l’aigua (al gust). Afegir la sal que calgui
 Menjar-lo amb cullera o begut; segons la viscositat, que dependrà de l’aigua afegida.
 
 [Categories]
-Categoria = Digestius
+categoria = Aperos
