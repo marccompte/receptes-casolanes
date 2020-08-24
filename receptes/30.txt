@@ -1,0 +1,25 @@
+﻿[Titol]
+carbonara amb alvocat
+
+[Ingredients]
+Persones =
+alvocat = 1 alvocat mitjà 
+llimona = mitja llimona
+pasta = pasta fresca (pot ser qualsevol altra)
+formatge = formatge ratllat
+ous = 1 ou
+all = 1 all
+tomàquet = tomàquet sec en oli
+pinyons = pinyons
+oli = oli d'oliva verge extra
+sal = Un pols de sal
+pebre = pebre mòlt
+
+[Elaboracio]
+Comença pelant l'alvocat, parteix-lo en trossos. Pela l'all. En una batedora de got incorpora l'alvocat, l'all, el suc de mitja llimona, un ou i posa'l a batre. Vés afegint, a poc a poc, la crema de civada. Veuràs que es crea una mescla amb una pinta molt maca. Reserva.
+En una paella afegeix el tomàquet sec escorregut i tallat a tires. No fa falta que hi posis oli. Incorpora també els pinyons i deixa-ho fins que s'hagin daurat. Reserva-ho també.
+I ara anem a fer la pasta. He utilitzat pasta fresca per a dues persones però pots utilitzar qualsevol tipus de pasta. Segueix les indicacions del fabricant per a aconseguir la pasta al dente.
+En un bol ampli acabarem de fer la recepta. Primer afegeix la pasta escorreguda, després el tomàquet i els pinyons, la salsa d'alvocat, formatge ratllat, pebre mòlt i sal. Mescla-ho bé. Prova de sal i rectifica, si fos necessari.
+
+[Categories]
+categoria = Vegetarià

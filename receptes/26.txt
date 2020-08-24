@@ -1,0 +1,21 @@
+﻿[Titol]
+gaspatxo d’alvocats
+
+[Ingredients]
+Persones = 4 
+alvocat = 3 alvocats
+iogurt = 4 iogurts naturals
+pebrot = 1/2 pebrot verd
+tomàquet = 1 tomàquet per l'amanida
+cogombre = 1/2 cogombre
+oli = 2 cullerades d'oli d'oliva
+vinagre = 2 cullerades de vinagre
+sal = Un pols de sal
+
+[Elaboracio]
+Obrir els alvocats per la meitat i extreure la seva polpa amb una cullereta per a postres. A continuació barrejar la polpa amb una cullerada de cafè rasa de sal, els iogurts naturals, l'all, l'oli d'oliva i el vinagre blanc. Barrejar tots els ingredients amb una batedora elèctrica fins a obtenir una crema fina i homogènea.       Deixar refredar en la nevera. Rentar el cogombre sota l'aigua, eixugar-lo amb paper absorbent i tallar-ne quatre rodanxes fines. Reservar. Pelar la resta del cogombre, retirar les llavors i picar-lo en daus molt petits.
+Netejar el tomàquet, tallar-lo per la meitat i retirar totes les llavors i el cor; tallar-lo en daus petits. Col•locar totes les verdures en un bol gran i barrejar-les amb el cogombre. Assaonar amb sal i pebre.
+Disposar la crema d'alvocat en gotets o bols petits, prèviament refredats en el congelador durant uns 15 minuts. Decorar amb una rodanxa de cogombre reservada anteriorment i completar amb el picat de verduretes.
+
+[Categories]
+categoria = Vegetarià

@@ -1,0 +1,22 @@
+﻿[Titol]
+puré d’albergínia
+
+[Ingredients]
+Persones = 4 (90 min. 214 Kcal/persona)
+llom = 50g de llom ibèric de Salamanca
+faves = 200g de favetes fregides en oli d'oliva
+ceba = 1 ceba tendra fresca
+albergínia = 1 albergínia
+oli = oli d'oliva
+sal = Un pols de sal
+
+[Elaboracio]
+Rentem l'albergínia, la tallem al llarg i per la meitat, l'emboliquem en paper d'alumini i la fiquem al forn, que abans hem escalfat a 200 C, durant uns 30 minuts. Traiem i refredem.
+Posem la seva carn en el got de la batedora, hi afegim un doll d'oli d'oliva assaonem i triturem fins a aconseguir un puré fi.
+Piquem la ceba tendra i escorrem l'excés d'oli de les faves. Escalfem la ceba tendra en una paella amb oli d'oliva fins que quedi transparent.
+Afegim les faves, pugem el foc i saltagem uns minuts. Piquem les làmines de llom en juliana molt fina.
+Sobre un platet profund col•loquem una base de puré d'albergínia, damunt les faves i acabem amb un bouquet de llom en juliana.
+Una alternativa és substituir el llom ibèric per tomàquet sec en oli
+
+[Categories]
+categoria = 

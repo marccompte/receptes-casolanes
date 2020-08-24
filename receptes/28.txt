@@ -1,0 +1,23 @@
+﻿[Titol]
+hamburguesa d’albergínia
+
+[Ingredients]
+Persones = 4
+albergínia = 1 albergínia gran
+pebrot = 1 pebrot vermell
+ceba = 1 ceba mitjana
+ous = 2 ous
+civada = 75 g de segol de civada (o pa rallat)
+all = 2 alls i un bon manoll de julivert
+oli = oli d'oliva verge extra
+sal = Un pols de sal
+
+[Elaboracio]
+Col·loca les verdures en la safata del forn, el més amunt possible, encara que toqui la resistència, amb calor a dalt i a baix a 250 graus. Ens interessa que les verdures es facin el més ràpid possible, en mitja hora o 45 minuts ja estaran rostides. Deixa que es refredin abans de pelar-les.
+Retira la pell a les verdures. Pica les verdures amb un ganivet ben afilat el més fi que puguis.
+Passa-les a un bol i afegeix all i julivert picat al gust, dos ous sencers i assaona amb sal. Mescla tot bé i, finalment, afegeix el segol de civada o el pa rallat. Barreja-ho de nou i deixa-ho reposar perquè el segol s'infli i absorbeixi la humitat.
+Col·loca una paella al foc amb una mica d'oli d'oliva verge extra. Aboca una cullerada sopera de massa i dóna-li forma d'hamburguesa amb l'ajuda d'una espàtula o llengua de gat. Assegura't que no s’enganxi  i afegeix oli si ho creus necessari.
+
+[Categories]
+categoria = Vegetarià
+
