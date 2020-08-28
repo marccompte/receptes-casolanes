@@ -1,0 +1,19 @@
+﻿[Titol]
+salsa de ceps
+
+[Ingredients]
+Persones = 
+bolets = 50 g de ceps trossejats
+llimona = el suc i la ratlladura de mitja llimona
+llet = 12 ml de llet sencera
+espècies = pebre negre
+oli = 120 ml d’oli d’oliva
+sal = sal
+
+[Elaboracio]
+Confiteu els ceps amb l’oli d’oliva. Per fer-ho, cobriu els ceps d’oli i deixeu-ho macerar dues hores.
+Barregeu els ceps, ja confitats, amb la llet, el suc i la ratlladura de llimona.
+Tritureu-ho, i salpebreu al vostre gust. Finalment, aneu-ho lligant amb oli d’oliva perquè agafi consistència com de maionesa.
+
+[Categories]
+categoria = Vegetarià

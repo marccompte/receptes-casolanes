@@ -1,0 +1,27 @@
+﻿[Titol]
+salsa calçots
+
+[Ingredients]
+Persones = 
+nyora = 1 nyora 
+all = 1-2 grans d'all
+tomàquet = 4 tomàquets
+llimona = 1/4 de llimona
+ametlles torrades
+espècies = pebre negre i vermell dolç
+sal = sal
+oli = oli d'oliva
+pa = pa torrat
+
+[Elaboracio]
+El primer que hem de fer és preparar les nyores: les obrim, traiem les llavors i les posem en remull en un got amb aigua calenta.
+Posem a escalivar els 4 tomàquets i la cabeça d’alls. Ho podem fer al forn (fins que s’estovin) o, si volem anar més ràpid, també ho podem fer al microones (uns 10 minuts cada cosa), tenint en compte que els alls els heu de pelar.
+Mentre les nyores se segueixen estovant, preparem una olla o un bol molt gran, on hi anirem posant tots els altres ingredients: els tomàquets escalivats els pelem i els tirem a dins l’olla juntament amb el suc que han deixat anar; els alls escalivats, les ametlles torrades pelades, les llesques de pa torrat (les podem haver torrat nosaltres o també es pot fer amb pa torrat empaquetat); el quart de llimona, pelada i sense pinyols; una mica de sal; una mica de pebre negre; el polsim de pebre vermell dolç; i finalment, la “carn” de les nyores. Hem d’agafar-les i anar rascant la carn que està enganxada a la pell i que, després d’haver estat a l’aigua, veureu que està molt tova i surt fàcilment.
+Ho triturem tot amb el “minipimer”, de manera que ens quedi tot ben barrejat. Si veiem que no vol agafar una mica de consistència, li podem afegir una mica de l’aigua on hem estovat les nyores.
+Agafem l’oli i el tirem a dins l’olla. Amb el “minipimer” ho anem barrejant tot com si estiguéssim fent maionesa. La massa s’anirà lligant i cada vegada tindrà més consistència. Finalment hi posem el vinagre i ho barregem una estona més.
+Si ens falta una mica de sal, ara és el moment de provar la salsa i rectificar.
+
+
+
+[Categories]
+categoria = Vegetarià

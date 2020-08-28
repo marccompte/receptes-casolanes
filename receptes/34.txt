@@ -1,0 +1,17 @@
+﻿[Titol]
+Maionesa amb menta
+
+[Ingredients]
+Persones =  4 - 6 pax
+nyora = 12 fulles de menta fresca
+maionesa = 6 cullerades de maionesa suau
+all = 1/2 gra d'all
+llimona = suc de llimona
+espècies = pebre negre
+sal = sal
+
+[Elaboracio]
+Posar tots els ingredients al turmix.
+
+[Categories]
+categoria = Vegetarià
