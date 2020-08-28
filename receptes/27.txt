@@ -19,4 +19,4 @@ Sobre un platet profund col•loquem una base de puré d'albergínia, damunt les
 Una alternativa és substituir el llom ibèric per tomàquet sec en oli
 
 [Categories]
-categoria = 
+categoria = Vegetarià
