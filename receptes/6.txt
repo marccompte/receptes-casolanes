@@ -2,7 +2,7 @@
 Llenties amb calamars
 
 [Ingredients]
-persones =
+Persones =
 llenties = 250 grams de llenties
 calamars = 8 calamarsons mitjans
 ceba = 1 ceba tendra fresca
