@@ -1,23 +1,25 @@
 ﻿[Titol]
-Parmentier amb ou escumat i tòfona
+tarta Tatin
 
 [Ingredients]
 Persones = 
-bolets = 6 patates mitjanes
-all = 2 grans d’all 
-llet = 150 ml de crema de llet 
-mantega = 30 g de mantega 
-tòfona = Tòfona ratllada al gust 
-ou = 1 ou
-oli = Oli d’oliva
+poma = 5-6 pomes de la varietat que més t'agradin
+pasta fullada = 1 làmina de pasta fullada
+mantega = 50 gr de mantega sense sal
+espècies = pebre negre
+sucre = 150 gr de sucre blanc
+espècies = 1 cullerada de canyella en pols (no ho sol portar la recepta tradicional)
 
 [Elaboracio]
-Coem 6 patates mitjanes al forn, pelades i embolicades en paper de plata. 
-En una paella, saltegem en oli bo un parell d’alls durant un minut i els retirem.
- Hi posem les patates cuites, l’oli amb regust d’all, 150 ml de crema de llet, 30 g de mantega i tòfona ratllada al gust (millor si és fresca), i ho triturem fins que quedi ben fi (a mi m’agrada força cremós: podem afegir-hi un culet d’aigua per aclarir-ho). 
-Emplatem el Parmentier i hi tirem un raig d’oli de tòfona. 
-Per a l’ou escumat: tindrem preparat un bol gran amb aigua i glaçons. Hem deixat 24 hores els ous amb la tòfona perquè s’aromatitzin, millor. Cobrim un bol petit amb paper film, hi tirem un raig d’oli i l’untem (perquè l’ou no se’ns enganxi), hi posem un ou cru i l’emboliquem fent bosseta, tancada amb una agulla d’estendre. El bullim 3,5 minuts (l’agulla d’estendre a la vora perquè no s’enfonsi). Quan el traiem el posem al bol amb l’aigua gelada per aturar la cocció. El desemboliquem i el deixem sobre el Parmentier emplatat. 
-Per donar-hi un punt més de gust, hi poden afegir trossets de cansalada.
+Si la massa de pasta fullada que utilitzaràs és congelada, treu-la a temperatura ambient i col·loca-la sobre paper de forn. Quan s'hagi descongelat lleugerament, si estava plegada, desdoblega-la perquè acabi de descongelar-se.
+Pela les pomes i treu-ne el cor. Parteix-les en quarts i barreja-les en un bol amb la canyella.
+En una olla no gaire alta, afegeix la mantega i el sucre i posa el foc a mitja temperatura. Remou perquè es barregin completament tots dos ingredients, fins que comenci a formar-se un caramel lleugerament bru.
+Incorpora les pomes i regira-les amb el caramel, perquè s'impregnin bé. Posa el foc al mínim i deixa que la mescla es cogui durant uns 15 minuts, perquè les pomes es caramel·litzin i quedin toves i sucoses. Vigila que no se't cremi el caramel! Si el foc està massa fort i creus que se t'agafarà, aparta l'olla fins que estigui més freda, o si ha començat a enganxar-se, tira-hi una mica d'aigua i remou el fons per a desprendre l'agafat.
+Escalfa el forn a 180 °C.
+Estira la massa de pasta fullada amb ajuda d'un corró, perquè pugui cobrir de sobres tot el motlle rodó que utilitzaràs.
+Folra el motlle que vagis a utilitzar amb paper de forn, o bé unta-ho amb una mica de mantega (tant la base com les parets internes) perquè el pastís no es quedi enganxat.
+Tira les pomes caramel·litzades de manera que cobreixin per complet el fons, bé compactes i atapeïdes les unes amb les altres.
+Cobreix les pomes amb la massa de pasta fullada estirada, pressionant amb cura les vores pels laterals perquè tot el motlle quedi ben cobert.
 
 [Categories]
-categoria = Vegetarià
+categoria = Postres
