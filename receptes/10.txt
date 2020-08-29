@@ -1,16 +1,21 @@
-[Titol]
-Amb tòfona
+﻿[Titol]
+ou, patata i bolets
 
 [Ingredients]
-pa = Unes llesques de pa de baguette tallades fines
-tòfona = Una o dues tòfones negres (poden ser de conserva)
+Persones = 4 (50 min. 340 cal)
+ous = 4 ous
+patates = 2 patates mitjanes
+bolets = 25 g de bolets deshidratats
+llet = 200 ml de llet evaporada
+porro = 2 porros
 sal = Un pols de sal
+pebre = pebre negre
 oli = Un raig d’oli d’oliva
 
 [Elaboracio]
-Tallem les llesques de pa i les torrem.
-Laminem la tòfona i la posem a sobre de les llesques de pa.
-Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+Deixa els bolets en remull amb aigua temperada 2 hores. Talla 4 trossos de film apte per a la cuina i folra amb ells 4 tasses. Unta’l amb oli i trenca-hi els ous. Junta els extrems del film i lliga'ls amb fil de cuina. Cou les bossetes en aigua bullint 2 o 3 minuts.
+Retira-les, deixa que es temperin un moment i obre-les. Neteja els porros, renta'ls, pica'ls i sofregeix-els, amb 2 cullerades d'oli 2 minuts. Pela les patates, renta-les i trosseja-les. Afegeix-les al sofregit i cobreix amb aigua.
+Deixa coure fins que les patates estiguin toves. Ajusta de sal, afegeix la llet i tritura. Escorre els bolets i salteja’ls en un fons d'oli 2 minuts. Després, tritura-ho amb 50ml d'oli. Reparteix la crema en bols i serveix-la amb l'ou salpebrat i aromatitzat amb l'oli de bolets.
 
 [Categories]
 categoria = Vegetarià
