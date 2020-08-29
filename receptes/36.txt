@@ -6,7 +6,6 @@ Persones =
 poma = 5-6 pomes de la varietat que més t'agradin
 pasta fullada = 1 làmina de pasta fullada
 mantega = 50 gr de mantega sense sal
-espècies = pebre negre
 sucre = 150 gr de sucre blanc
 espècies = 1 cullerada de canyella en pols (no ho sol portar la recepta tradicional)
 
