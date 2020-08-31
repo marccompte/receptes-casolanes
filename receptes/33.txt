@@ -24,4 +24,4 @@ Si ens falta una mica de sal, ara és el moment de provar la salsa i rectificar.
 
 
 [Categories]
-categoria = Vegetarià
+categoria = Salses
