@@ -14,4 +14,4 @@ sal = sal
 Posar tots els ingredients al turmix.
 
 [Categories]
-categoria = Vegetarià
+categoria = Salses
