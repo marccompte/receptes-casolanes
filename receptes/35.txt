@@ -16,4 +16,4 @@ Barregeu els ceps, ja confitats, amb la llet, el suc i la ratlladura de llimona.
 Tritureu-ho, i salpebreu al vostre gust. Finalment, aneu-ho lligant amb oli d’oliva perquè agafi consistència com de maionesa.
 
 [Categories]
-categoria = Vegetarià
+categoria = Salses
