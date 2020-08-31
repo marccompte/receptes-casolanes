@@ -1,0 +1,26 @@
+[Titol]
+Kladdkaka
+
+[Ingredients]
+Persones =
+mantega = 100 g de mantega o margarina
+ous = 2 ous
+sucre = 2 tasses de sucre granulat i 2 més de sucre de vainilla
+cacau = 3 cullerades de cacau
+sal =sal
+farina = 2 dl farina de blat
+nata = nata
+
+[Elaboracio]
+Untar amb mantega un motlle rodó, d'uns 20 cm de diàmetre, preferiblement amb vora desmuntable.
+Preescalfem el forn a 175 °C
+Fondre la mantega (o margarina) en una cassola a foc.
+Quan una mica més de la meitat de la mantega s'ha fos, traieu la cassola del foc i remeneu amb una cullera fins que la resta de la mantega s'hagi fos. D'aquesta manera la mantega no es posa innecessàriament calenta, i és millor per afegir-hi la resta de ingredients.
+Afegir els ous, sucre granulat, sucre de vainilla, cacau i un pols de sal a la mantega fosa.
+Batre o remenar ràpidament per a obtenir una massa suau. (Utilitzant el turmix el pastís aconsegueix una superfície més cruixent, però queda enganxós per dins si no es cou prou estona)
+Ara afegim la farina i continuem remenant fins obtenir una massa suau. A continuació omplim el motlle amb aquesta massa.
+Possem el motlle al mig del forn i ho couem durant uns 17 minuts. Traieu-lo i deixe-lo refredar durant  1-2 hores
+Servir-ho acompanyat de nata.
+
+[Categories]
+categoria = Postres
