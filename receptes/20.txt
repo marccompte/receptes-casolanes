@@ -9,7 +9,7 @@ farina = 150g de farina
 mantega = 100g de mantega
 formatge = 150g de formatge gruyère
 sal = 1/2 cullerada de cafè de sal
-especies = un polsim de pebre, una mica de nou moscada
+espècies = un polsim de pebre, una mica de nou moscada
 
 [Elaboracio]
 En una cassola, posar la mantega, l’aigua, la sal, el pebre i la nou moscada. Quan la mantega és fosa i la massa bull, retirar-ho del foc i afegir-hi la farina tota de cop, remenar-ho durant uns minuts amb foc suau fins que la massa sigui ben uniforme i es desenganxi completament del fons de la cassola. Retirar del foc, deixar-ho refredar. Quan sigui tèbia, afegir-hi els ous, de un en un, remenant vigorosament entre l’un i l’altre.
