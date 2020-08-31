@@ -16,4 +16,4 @@ S’agafa un bol i s’hi posa l’oli, la sal, la cervesa, i l’aigua, la past
 S’estén a la safata del forn, una capa super fina i amb el ganivet es marquen, amb ratles al llarg i l’ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure una mica al forn, màxim uns 15 minuts, i llestos.
 
 [Categories]
-categoria = Postres
+categoria = Apero
