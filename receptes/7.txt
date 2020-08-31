@@ -1,6 +1,5 @@
 ﻿[Titol]
-Gamba sindria, 
-meló i guacamole
+Gamba amb guacamole
 
 
 [Ingredients]
