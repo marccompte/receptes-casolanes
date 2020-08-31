@@ -1,34 +1,20 @@
 ﻿[Titol]
 Gamba amb guacamole
 
-
 [Ingredients]
 persones = 2
 gamba = 2 gambes 
-
 sindria = 1/2 sindria
-
 meló = 1/2 melo
-
 llimona = Suc de llimona
-
 pernil = Pernil ibèric (tallat prim fins i tot picat)
-
 herbes = Fulles de menta
-
-
 titol = Per al guacamole (quantitats al vostre gust)
-
 ceba = Ceba
-
 tomàquet = Tomàquet
-
 alvocat = Alvocat
-
 herbes = Coriandre
-
 pebre = Pebre blanc
-
 
 [Elaboracio]
 Amb una cullera parisenca, feu boles de l'interior del meló i de la síndria. Reserveu-les.
