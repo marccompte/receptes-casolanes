@@ -2,7 +2,7 @@
 Kladdkaka
 
 [Ingredients]
-Persones = 4 pax
+persones = 4 pax
 mantega = 100 g de mantega o margarina
 ous = 2 ous
 sucre = 2 tasses de sucre granulat
