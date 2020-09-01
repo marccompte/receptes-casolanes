@@ -5,10 +5,11 @@ Kladdkaka
 Persones =
 mantega = 100 g de mantega o margarina
 ous = 2 ous
-sucre = 2 tasses de sucre granulat i 2 més de sucre de vainilla
+sucre = 2 tasses de sucre granulat
 cacau = 3 cullerades de cacau
-sal =sal
 farina = 2 dl farina de blat
+sal =sal
+espècies = 2 cullarades de cafè de sucre de vainilla
 nata = nata
 
 [Elaboracio]
