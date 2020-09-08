@@ -9,7 +9,7 @@ ceba = 4 cebes de Figueres
 fruits secs = 25 avellanes i 25 ametlles
 all = 1 gra d'all
 vinagre = 500ml de vinagre merlot
-1 raig de vi ranci, 1 raig de brandi, 1 raig d'agràs o suc de llimona
+alcohol = 1 raig de vi ranci, 1 raig de brandi, 1 raig d'agràs o suc de llimona
 herbes = Julivert, llorer, sal, pebre negre, 
 oli = oli oliva
 
