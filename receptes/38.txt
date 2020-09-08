@@ -10,9 +10,10 @@ brou = 3l de brou de pollastre
 conyac = 1 copa de conyac
 oli = oli d’oliva 
 espècies = sal i pebre
-titol = Per a la guarnició
+
+Per a la guarnició:
 cansalada = 50g de cansalada
-all = 50 g d’all
+all = 50g d’all
 herbes = 20g de fulles de julivert
 oli = un raig d’oli d’oliva
 
