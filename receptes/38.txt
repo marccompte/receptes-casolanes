@@ -2,7 +2,7 @@
 Sopa de fredolics
 
 [Ingredients]
-persones = 4
+Persones = 4
 pa = 100g de pa de crosta
 bolets = 400g de fredolics
 ceba = 2 cebes mitjanes
@@ -10,7 +10,6 @@ brou = 3l de brou de pollastre
 conyac = 1 copa de conyac
 oli = oli d’oliva 
 espècies = sal i pebre
-
 Per a la guarnició:
 cansalada = 50g de cansalada
 all = 50g d’all
