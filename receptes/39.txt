@@ -1,0 +1,27 @@
+[Titol]
+Calamarcets amb cigrons
+
+[Ingredients]
+Persones = 4
+calamars = 500g de calamarcets
+cigrons = 500g de cigró menut cuit
+ceba = 4 cebes de Figueres
+fruits secs = 25 avellanes i 25 ametlles
+all = 1 gra d'all
+vinagre = 500ml de vinagre merlot
+1 raig de vi ranci, 1 raig de brandi, 1 raig d'agràs o suc de llimona
+herbes = Julivert, llorer, sal, pebre negre, 
+oli = oli oliva
+
+[Elaboracio]
+Posem el vinagre merlot a reduir en un pot alt, perquè no esquitxi. Ha de quedar amb una textura de xarop.
+Tallem la ceba a una mida ben menuda, i l'enrossim a foc mitjà en una cassola amb força oli.
+Traiem la ploma dels calamarcets, que és la part interior que fa d'espina dorsal.
+Quan la ceba sigui ben fosca, hi afegim un gra d'all aixafat, 1 fulla de llorer i 2 branques de julivert tallades de qualsevol manera. Ho integrem bé perquè deixin anar els seus perfums, i hi afegim els calamarcets. Ho remenem i que cogui uns minuts.
+Quan estigui mig cuit, apugem el foc i hi aboquem un raig de vi ranci i un altre de conyac. Ho deixem evaporar. Quan perdi la fortor d'alcohol, hi afegim pebre negre i abaixem el foc. Hi incorporem el cigró cuit, juntament amb una mica de la seva aigua de cocció.
+Refredem el vinagre, ja reduït, canviant-lo de pot i afegint-hi un raig d'agràs.
+Fem una picada amb l'ametlla i l'avellana, i l'afegim a la cassola, sense integrar-ho. Que quedi just al capdamunt perquè faci crec, crec.
+Ho servim amb la reducció de vinagre per damunt.
+
+[Categories]
+categoria = Entrants
