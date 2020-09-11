@@ -1,0 +1,20 @@
+﻿[Titol]
+Rovellons en conserva
+
+[Ingredients]
+bolets = Rovellons sans
+aigua = aigua
+sal = Un pols de sal
+oli = Un raig d’oli d’oliva
+all = All
+pebre = pebe negre
+herbes = llorer
+
+[Elaboracio]
+Per fer-ho cal tallar-los la pota i deixar-los ben nets posant-los en aigua. De passada es poden anar trinxant.
+A continuació posem una cassola al foc amb aigua i sal. Quan comença a bullir hi llencem els bolets.
+Al cap d’uns minuts es posen els bolets en una palangana d’aigua freda.
+Un cop freds es posen dins dels pots de vidre: Uns quants bolets, unes quantes fulles de llorer, all, pebre i més bolets. Quan el pot estigui ple, s’hi afegeix aigua salada de la cassola i un raig d’oli just abans de tapar ben tapat el pot.
+
+[Categories]
+categoria = Conserves
