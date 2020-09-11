@@ -2,7 +2,7 @@
 Calamarcets amb cigrons
 
 [Ingredients]
-Persones = 4
+persones = 4
 calamars = 500g de calamarcets
 cigrons = 500g de cigró menut cuit
 ceba = 4 cebes de Figueres
