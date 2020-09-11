@@ -5,7 +5,7 @@ Carpacio de Ceps 2
 persones =
 bolets = ceps i/o barreja de bolets
 fruits secs = 50 g de pinyons
-herbes = branqueta de romaní, branqueta de farigola, pinassa,
+herbes = branqueta de romaní, branqueta de farigola, pinassa
 oli  = 300 ml oli oliva
 pebre = pebre 
 sal= sal grossa
@@ -19,4 +19,4 @@ Netegem els ceps en una palangana amb aigua i els tallem a làmines primes.
 Posem les làmines en un plat amb els talls més bonics per fora i els més petits per dins. Hi afegim l'oli de bosc per sobre, sal i pebre i unes fulles de farigola.
 
 [Categories]
-categoria = entrants
+categoria = Entrants
