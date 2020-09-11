@@ -1,0 +1,16 @@
+[Titol]
+Conserva de bolets
+
+[Ingredients]
+bolets = bolets
+aigua = aigua
+sal = sal grossa
+
+[Elaboracio]   
+Posem a escalfar una olla amb aigua mineral per escaldar els bolets.
+Netegem en un bol amb aigua els bolets i els tallem a daus.
+Escaldem els trossos de bolet en l'olla bullint durant 10 segons i tot seguit els submergim en un bol amb aigua freda per tallar la cocció.
+Omplim pots de conserva fent una capa de sal grossa i una altra de bolets fins que arriba dalt de tot. Hi afegim l'aigua d'escaldar-los. Ho tapem i ho guardem al rebost.
+
+[Categories]
+categoria = Conserves
