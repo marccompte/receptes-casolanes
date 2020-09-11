@@ -1,0 +1,26 @@
+[Titol]
+Carbassa rostida
+
+[Ingredients]
+persones = 4
+carbassa = 1 carbassa grossa
+fruits secs = 20 nous senceres
+all = 1 cabeça d’all negre
+herbes = Romaní, farigola, enciamet
+sal = Sal 
+pebre = pebre negre
+oli = oli d’oliva
+
+[Elaboracio]
+Rentem la carbassa.
+Tallem la carbassa com si fos un meló. Hi afegim sal i pebre negre.
+Ho posem sobre una safata de forn amb paper sulfurat i hi tirem per sobre unes fulles de farigola i romaní.
+Ho posem al forn a 220 ºC durant 30 minuts.
+Pelem una cabeça d’alls negres i posem els grans en un got de batedora.
+Hi afegim sal i oli oliva. Ho triturem i emulsionem amb la batedora. Posem en una mànega aquesta mena d’allioli i ho reservem.
+Pelem 20 nous i les piquem en un morter.
+Netegem unes fulles d’enciamet.
+Servim una llesca de carbassa amb l’allioli, les nous picades per sobre i l’enciamet.
+
+[Categories]
+categoria = Vegetarià
