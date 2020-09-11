@@ -2,7 +2,7 @@
 Sopa de fredolics
 
 [Ingredients]
-persones = 4
+persones = 4 pax
 pa = 100g de pa de crosta
 bolets = 400g de fredolics
 ceba = 2 cebes mitjanes
