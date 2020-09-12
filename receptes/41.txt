@@ -1,5 +1,5 @@
 [Titol]
-Conserva de bolets
+Conserva de ceps o barreja
 
 [Ingredients]
 bolets = bolets
