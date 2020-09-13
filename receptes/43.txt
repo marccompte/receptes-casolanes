@@ -3,7 +3,7 @@ Poquet del paradís
 
 [Ingredients]
 persones = 6
-sucre = 375g 
+sucre = 375g sucre
 aigua = 375ml. aigua
 ous = 4 ous + 4 rovells
 
