@@ -21,7 +21,5 @@ Ho triturem tot amb el “minipimer”, de manera que ens quedi tot ben barrejat
 Agafem l’oli i el tirem a dins l’olla. Amb el “minipimer” ho anem barrejant tot com si estiguéssim fent maionesa. La massa s’anirà lligant i cada vegada tindrà més consistència. Finalment hi posem el vinagre i ho barregem una estona més.
 Si ens falta una mica de sal, ara és el moment de provar la salsa i rectificar.
 
-
-
 [Categories]
 categoria = Salses
