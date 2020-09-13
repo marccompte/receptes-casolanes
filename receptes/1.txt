@@ -13,4 +13,4 @@ Laminem la tòfona i la posem a sobre de les llesques de pa.
 Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
 
 [Categories]
-categoria = Carn
+categoria = Aperos
