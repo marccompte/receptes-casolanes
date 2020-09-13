@@ -1,0 +1,23 @@
+[Titol]
+Poquet del paradís
+
+[Ingredients]
+persones = 6
+sucre = 375g 
+aigua = 375ml. aigua
+ous = 4 ous + 4 rovells
+
+[Elaboracio]
+Preescalfem el forn a 160ºC.
+Posem una mica d'aigua en un bol, l'escalfem a 90ºCi hi afegim 4 cullarades de sucre i o remanem fins que obtinguem un caramel.
+Ho tirem en un motlle per anar al forn i cobrim tot el seu fons amb el caramel.
+Afegim la resta d'aigu i sucre al bol i tornem a fer un almibar. 
+En un cassó batem els ous i rovells procurant no afegir-hi gaire aire.
+Quan l'almibar s'hagi refredat força afegir-lo lentament sobre els ous mentre continuen batent-ho fins obtenir una crema.
+Abocar aquesta crema al motlle, a través d'un colador.Tapar el motlle amb paper d'alumini.
+Col·locar el motlle a bany maria dins el forn durant 35 - 40 minuts.
+Amb la punta d'un ganivet comprova que hagi ben quallat i el treiem del forn.
+Un cop fret a temperatura ambient el posem a la nevera, per a poder-lo desmotllar.
+
+[Categories]
+categoria = Postres
