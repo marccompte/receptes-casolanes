@@ -1,0 +1,19 @@
+[Titol]
+Remenat d'ou i verdures
+
+[Ingredients]
+verdura =	verdures, espàrregs verds, pèsols, etc.
+gambes =	gambes
+bolets =	bolets
+all =	alls tendres
+ou =	1 ou
+oli = oli
+
+[Elaboracio]
+Posem les verdures en una paella amb una mica d’oli i anem remenant.
+Podeu tallar les verdures de temporada o bé comprar els iingredients congelats (que ja vénen tallats).
+Quan veiem que els alls tendres, els bolets (poden ser xampinyons o bé un variat de bolets) i les gambes ja estan al punt, hi afegim un ou cru, i a poc a poc esperem que es faci.
+Amb l’oli de la paella ja n’hi haurà prou perquè es faci. No cal afegir oli.
+
+[Categories]
+categoria = Entrants
