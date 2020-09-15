@@ -2,8 +2,8 @@
 Calçots arrebossats
 
 [Ingredients]
-Persones = 1 a 12 calçots petits:
-calçots = 20 calçots
+Persones = 1
+calçots = 12 calçots petits
 ous = 1 ou
 oli = oli d’oliva
 sal = sal
