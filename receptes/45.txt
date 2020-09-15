@@ -1,0 +1,19 @@
+[Titol]
+Calçots arrebossats
+
+[Ingredients]
+Persones = 1 a 12 calçots petits:
+calçots = 20 calçots
+ous = 1 ou
+oli = oli d’oliva
+sal = sal
+farina =  50 g de farina
+aigua = 200 ml d’aigua
+
+[Elaboracio]
+Trieu els calçots més prims que trobeu i netegeu-los retirant-ne la capa exterior, les arrels i la part verda de les fulles. Escorreu-los. 
+Prepareu la pasta de fregir: poseu un rovell d’ou en un bol amb una cullerada d’oli, una mica de sal i la farina. Remeneu-ho amb un batedor de varetes fins que us quedi una pasta sense grumolls. Afegiu-hi l’aigua i torneu-ho a remenar. Deixeu reposar la pasta mitja hora. Munteu la clara d’ou a punt de neu i mescleu-la suaument amb la pasta de fregir que acabeu de fer. 
+Suqueu els calçots en aquesta pasta i fregiu-los amb oli abundant i calent fins que quedin rossos. Escorreu-los sobre un tovalló de paper i serviu-los calents. Per arrodonir la receta, podeu acompanyar els calçots de maionesa, allioli o, encara millor, de salsa de xató.
+
+[Categories]
+categoria = Vegetarià
