@@ -2,9 +2,10 @@
 esparrecs verds amb llagostins
 
 [Ingredients]
+persones = 
 espàrrecs = 2 manolls d'espàrrecs verds
 bolets = 100 gr. de bolets
- 100gr. de llagostins
+llagostins = 100gr. de llagostins
 all = 2 grans d'all
 magrana = 1 magrana
 porro = 2 porros
