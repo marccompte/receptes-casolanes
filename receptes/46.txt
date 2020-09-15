@@ -1,0 +1,37 @@
+[Titol]
+esparrecs verds amb llagostins
+
+[Ingredients]
+espàrrecs = 2 manolls d'espàrrecs verds
+bolets = 100 gr. de bolets
+ 100gr. de llagostins
+all = 2 grans d'all
+magrana = 1 magrana
+porro = 2 porros
+brou= 1 got de brou de pollastre
+nata = 1 got de nata
+pasta fullada = 1 làmina de pasta fullada
+moscatell = 1 got de vi moscatell
+oli =  Oli d'oliva
+sal = sal
+espècies = pebre
+
+[Elaboracio]
+Trossejar les tiges dels espàrrecs, reservant, a la nevera, les puntes per a després.
+En un cassó mitjà, sofregir en oli d'oliva les tiges amb l'all laminat aprox. 2 minuts.
+Afegir brou de carn i quan bulli, incorporar la nata, salpebrar i reduir 4 minuts.
+Triturem la salsa i reservem.
+Treure, en un bol, les llavors de la magrana, filmar i guardar en el frigorífic. Tallar la pasta fullada amb la mateixa grandària dels espàrrecs.
+Enfornar-ho en la safata del forn, coberta amb paper de forn i amb un pes damunt (per a evitar que pugi molt la massa), a 190 °C durant 8 minuts.
+Reservar.
+Piquem un porro en petits daus i l'altre porro el tallem en juliana fina i el reservem.
+En una paella gran sofregim el porro picat amb oli d'oliva. Tallem els bolets en juliana i els afegim a la paella. Ofeguem un minut. Afegir els llagostins pelats i salpebrar.
+Incorporar el vi moscatell i deixar evaporar l'alcohol durant 1 minut. Afegir la salsa d'espàrrecs que teníem reservada.
+Deixar coure a foc mig 5 minuts.
+Pelar les puntes dels espàrrecs verds.
+Daurar-les en una paella petita amb oli d'oliva.
+En una altra paella petita, amb oli d'oliva, fregir el porro en juliana.
+Apartar-lo en un plat amb paper perquè s'escorri i salpebrar.
+
+[Categories]
+categoria = Entrants
