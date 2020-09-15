@@ -2,7 +2,7 @@
 Calçots arrebossats
 
 [Ingredients]
-Persones = 1
+Persones = 1 pax
 calçots = 12 calçots petits
 ous = 1 ou
 oli = oli d’oliva
