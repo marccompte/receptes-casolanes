@@ -1,0 +1,27 @@
+[Titol]
+Pebrots farcits de formatge
+
+[Ingredients]
+formatge = 200 gr. de Formatge
+pebrot = 12 pebrots del piquillo
+carn = 250 gr. de carn picada
+bacon = 4 rodanxes de bacón
+ceba = 1 ceba
+all = 2 grans d'all
+farina = Farina
+ous =2 ous
+nata = ½ litre de nata
+llet = 1 got de llet
+brou = 1 got de brou de carn
+julivert = Julivert fresc
+oli = Oli d'oliva 
+sal = sal
+pebre = pebre
+
+[Elaboració]
+Per al farciment piquem l/2 ceba, els alls i el bacón. Sofregir-ho i incorporar-hi la carn picada. Afegir una cullerada de farina, ofegar-ho i abocar-hi la llet. Incorporar una mica de formatge ratllat, salpebrar i deixar refredar la mescla.
+Per a la salsa de formatge sofregir l'altra meitat de la ceba. Afegir-hi el formatge tallat en daus i la nata. Deixar bullir. Abocar el brou de carn i salpebrar.
+Emplenar els pebrots del piquillo. Passar-los per farina, ou batut i fregir-los.
+
+[Categories]
+categoria = Entrants
