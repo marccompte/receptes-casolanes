@@ -1,0 +1,23 @@
+[Titol]
+Alvocats farcits
+
+[Ingredients]
+persones = 4 pax, 20 min
+ous = 4 ous
+bacon = 250g bacon
+alvocat = 2 alvocats
+llimona = suc de ½ llimona
+formatge = 60g de mozzarella rallada
+pa =unes llesques de pa
+pebre = pebre
+sal = sal
+
+[Elaboració]
+Escalfar el forn a 180 °C. 
+Netejar el bacon eliminant l'escorça, tallar-lo en daus petits i daurar-lo en una paella antiadherent, sense afegir-hi oli.
+Tallar els alvocats per la meitat i extreure l'os. Engrandir el buit central retirant una mica de la polpa amb una cullereta, ruixar-lo amb el suc de llimona perquè no s'enfosqueixi i reservar-lo per a una altra recepta.
+Disposar els mitjos alvocats en una safata refractària. Trencar 1 ou en un gotet, abocar-lo en el buit central i salpebrar-lo.
+Repetir l'operació amb els ous i els alvocats restants. Distribuir per damunt el bacon i la mozzarella i enfornar de 12 a 15 minuts, fins que la clara es qualli; el rovell ha de quedar líquid. Torrar les llesques de pa en la torradora o en el forn i servir-les amb els alvocats.
+
+[Categories]
+categoria = Entrants
