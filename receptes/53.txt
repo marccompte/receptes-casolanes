@@ -1,0 +1,27 @@
+[Titol]
+Arròs amb carxofes
+
+[Ingredients]
+persones = 4
+carxofa = 8 carxofes        
+calçots = 5 calçots
+brou = 900 ml brou de pollastre
+arròs = 400 g arròs  bomba    
+mantega = 80 g mantega     
+ou = 1 ou
+all = 1 gra d'all
+llimona = 1 llimona
+julivert = julivert
+oli = Oli
+sal = sal
+pebre = pebre blanc    
+
+[Elaboracio]
+Fem tres rentades a l'arròs amb aigua mineral.
+Netegem, pelem i tallem a rodelles 5 calçots. Els posem a suar en una cassola amb un raig d'oli d'oliva, a foc molt baix. Pelem, tallem puntes i traiem les barbes de 8 carxofes. Les deixem a vuitens i les reservem en un atuell amb aigua, el suc d'una llimona i unes branques de julivert. Així no s'ennegreixen i es mantenen fermes.
+Quan el calçot estigui caramel·litzat, apugem el foc i hi afegim l'arròs. Ho salpebrem amb pebre negre i hi fem unes voltes que s'integri tot bé. Hi afegim les carxofes, ho integrem bé i hi aboquem el brou bullint. Ha de coure a foc fort 14 minuts. Passat aquest temps, hi afegim la mantega tallada a trossets i el julivert picat. Ho embolcallem amb la cullera perquè la mantega es vagi desfent. Ho tapem amb un drap humit i ho deixem reposar durant 2 minuts.
+Fem una maionesa amb un ou, sal, pebre blanc, un gra d'all, una bona quantitat d'oli d'oliva verge extra i unes gotes de llimona. Ho batem fins aconseguir la textura que volem.
+Servim l'arròs amb una mica de maionesa per damunt i pebre blanc.
+
+[Categories]
+categoria = Arrossos
