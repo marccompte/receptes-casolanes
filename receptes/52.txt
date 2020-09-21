@@ -2,7 +2,7 @@
 Popets estofats
 
 [Ingredients]
-Persones =
+persones =
 pop = 400 g de popets o calamars
 patates = 1 kg de patates
 oli = 1 tasseta d'oli
