@@ -2,6 +2,7 @@
 Pebrots farcits de formatge
 
 [Ingredients]
+persones = 
 formatge = 200 gr. de Formatge
 pebrot = 12 pebrots del piquillo
 carn = 250 gr. de carn picada
