@@ -1,0 +1,29 @@
+[Titol]
+Popets estofats
+
+[Ingredients]
+Persones =
+pop = 400 g de popets o calamars
+patates = 1 kg de patates
+oli = 1 tasseta d'oli
+ceba = 2 cebes grosses
+julivert = julivert trinxat
+sal = sal
+pebre = pebre blanc o negre en pols
+herbes = 1 fulla de llorer i 1 branqueta de farigola
+tomàquet = 1 cullerada de puré de tomàquet
+alcohol = 1/2 l de vi negre i 1 copa d'aiguardent
+titol = Per a la picada
+safrà = uns brins de safrà
+all = 3 alls fregits
+fruits secs = ametlles torrades
+xoxolata = 30 g de xocolata en pols
+
+[Elaboracio]
+Per començar, en un cassó amb oli fregiu-hi la ceba tallada ben petita.
+Quan estigui ben daurada afegiu-hi els popets, les patates tallades a trossos, la farigola, el llorer, el julivert, el pebre, el puré de tomàquet, l'aiguardent i el vi negre i deixeu-ho coure.
+Per fer la picada, tritureu amb el morter les ametlles, el safrà, els alls fregits i la xocolata. Després poseu-hi una mica d'aigua i remeneu-ho bé.
+Finalment, afegiu la picada al cassó dels popets, rectifiqueu de sal i ja podeu emplatar-ho.
+
+[Categories]
+categoria = Peix
