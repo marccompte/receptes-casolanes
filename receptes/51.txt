@@ -1,5 +1,5 @@
 [Titol]
-Espaguetis de carbassó tres pestos
+Espaguetis de carbassó 3 pestos
 
 [Ingredients]
 persones = 4
@@ -13,8 +13,7 @@ all = 1 o 2 grans d'all
 1 cullerada gran de llevat
 llimona = Suc de llimona nutricional o de cervesa
 titol = Pesto rosso
-4 tomàquets deshidratats i remullats
-herbes = Fulles d'alfàbrega fresca
+4 tomàquets deshidratats i remullatsherbes = Fulles d'alfàbrega fresca
 all = 1 o 2 grans d'all
 fruits secs = 4 cullerades grans d'ametlla Marcona en granet
 titol = Pesto de ruca
@@ -23,7 +22,7 @@ fruits secs = Nous del Brasil
 all = 1 o 2 grons d'all
 formatge = Parmesà ratllat
 
-[Elaboració]
+[Elaboracio]
 Aquest procés serveix per a cada un de dels tres pestos
 Poseu-hi també sal marina, oli d'oliva verge extra i una mica d'aigua mineral per ajustar-ne la textura. Ajunteu tots els ingredients i passeu-los pel turmix fins que en resulti la textura desitjada.
 Poseu els tres pestos sobre els espaguetis verds de carbassó i guarniu-ho amb llesques de parmesà
