@@ -1,5 +1,5 @@
 [Titol]
-Pebrots farcits de formatge
+Pebrots farcits
 
 [Ingredients]
 persones = 
