@@ -3,7 +3,7 @@ Espaguetis de carbassó 3 pestos
 
 [Ingredients]
 persones = 4
-titol = Espaguetis
+Espaguetis:
 2 carbassons tallats amb un Spirali, amb el gruix que més us agradi. Si són ecològics conserveu-ne la pell.
 titol = Pesto vegà
 alvocat = 1 alvocat madur
@@ -13,18 +13,19 @@ all = 1 o 2 grans d'all
 1 cullerada gran de llevat
 llimona = Suc de llimona nutricional o de cervesa
 titol = Pesto rosso
-4 tomàquets deshidratats i remullatsherbes = Fulles d'alfàbrega fresca
+4 tomàquets deshidratats i remullats
+herbes = 4 fulles d'alfàbrega fresca
 all = 1 o 2 grans d'all
 fruits secs = 4 cullerades grans d'ametlla Marcona en granet
 titol = Pesto de ruca
-herbes = 4 fulles deRuca i 4 d'alfàbrega fresca
-fruits secs = Nous del Brasil
-all = 1 o 2 grons d'all
+herbes = 4 fulles de ruca i 4 d'alfàbrega fresca
+fruits secs = nous del Brasil
+all = 1 o 2 grans d'all
 formatge = Parmesà ratllat
 
 [Elaboracio]
 Aquest procés serveix per a cada un de dels tres pestos
-Poseu-hi també sal marina, oli d'oliva verge extra i una mica d'aigua mineral per ajustar-ne la textura. Ajunteu tots els ingredients i passeu-los pel turmix fins que en resulti la textura desitjada.
+A tots els ingredients, afegiu-hi també sal marina, oli d'oliva verge extra i una mica d'aigua mineral per ajustar-ne la textura. Passeu tot junt pel turmix fins que en resulti la textura desitjada.
 Poseu els tres pestos sobre els espaguetis verds de carbassó i guarniu-ho amb llesques de parmesà
 
 [Categories]
