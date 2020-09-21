@@ -12,7 +12,7 @@ pa =unes llesques de pa
 pebre = pebre
 sal = sal
 
-[Elaboració]
+[Elaboracio]
 Escalfar el forn a 180 °C. 
 Netejar el bacon eliminant l'escorça, tallar-lo en daus petits i daurar-lo en una paella antiadherent, sense afegir-hi oli.
 Tallar els alvocats per la meitat i extreure l'os. Engrandir el buit central retirant una mica de la polpa amb una cullereta, ruixar-lo amb el suc de llimona perquè no s'enfosqueixi i reservar-lo per a una altra recepta.
