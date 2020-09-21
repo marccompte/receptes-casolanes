@@ -2,6 +2,7 @@
 Patates amb fredolics
 
 [Ingredients]
+persones =
 patates = 1Kg. de patates
 bolets = ½ Kg. de fredolics
 cansalada = 2 talls de cansalada del coll
@@ -9,7 +10,7 @@ all = 2 grans d’all
 oli = Oli d’oliva
 sal = Sal
 
-[Elaboració]
+[Elaboracio]
 Fem bullir les patates a talls, amb aigua i una mica de sal. Quan estiguin cuites, les escorrem i les aixafem ben fines. 
 En una paella, fregim la  cansalada a tallets; a mig coure hi tirem els alls ( pelats ) a trossets i els fredolics nets. Remenem i ho tapem, amb poc foc, fins que els fredolics siguin cuits.Tirem tot el que hi ha a la paella al damunt de les patates, formant una muntanyeta.
 Podem acompanyar-ho amb una amanida. 
