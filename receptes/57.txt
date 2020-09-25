@@ -1,0 +1,24 @@
+[Titol]
+bunyols de poma
+
+[Ingredients]
+farina = 500 g de farina
+poma = 1 poma ratllada golden
+sucre = 150 g de sucre i 1 cullerada de sucre de vainilla
+alcohol = 100 ml d’anís dolç
+sal = una mica de sal
+ous = 3 ous
+llimona = 1 llimona
+mantega = 50 g de mantega
+llet = 150 ml de llet
+llevat = 15 g llevat Royal)
+herbes = 4 culleradetes de matafaluga
+oli = oli d’oliva
+
+[Elaboracio]
+Per a la massa: barregeu els ous, el sucre, l’anís, la llet, la meitat de la pell de la llimona ratllada, la mantega, la sal, la matafaluga, la poma i, finalment, la farina.
+Treballeu-ho a mà fins que veieu que la pasta sigui gairebé feta, i al final afegiu-hi el Royal i acabeu-ho de pastar, fins que veieu que us queda la pasta homogènia. Tot seguit, escalfeu l’oli amb la resta de la pell de la llimona en un atuell de ceràmica i, abans que la pell estigui rossa, traieu-la i aneu-hi posant els bunyols amb una cullereta, per donar-los forma. Espereu que quedin rossos a foc mitjà, perquè no quedin crus de dins.
+Una vegada freds, afegiu-hi sucre al gust i ja estan llestos per menjar.
+
+[Categories]
+categoria = Postres
