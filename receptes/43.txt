@@ -1,5 +1,5 @@
 [Titol]
-Poquet del paradís
+Porquet del paradís
 
 [Ingredients]
 persones = 6
