@@ -1,30 +1,29 @@
+[Titol]
+Maduixes i arrÃ²s amb llet
 
-?Titol?
-Maduixes i arròs amb llet
-
-?Ingredients?
+[Ingredients]
 maduixes = 1 Kg de maduixes
-arròs = 200 gr. d'arròs de gra curt
+arrÃ²s = 200 gr. d'arrÃ²s de gra curt
 figues = 8 figues fresques
 llet = 2 Litres de llet natural
 nata = 1 got de nata.
 mantega = una mica de mantega.
-alcohol = 1 copa de Pedro Ximénez
+alcohol = 1 copa de Pedro XimÃ©nez
 sucre = 350 gr. de sucre
 gelat = gelat de Vainilla
 vinagre = 2 cullerades de vinagre de Xeres
 canyella = 2 branques de canyella.
 herbes = menta fresca
 
-? Elaboracio?
+[Elaboracio]
 Netejar les maduixes i talla-les a quarts.
-Disposar algunes en un bol amb el Pedro Ximénez i un parell de cullerades de vinagre de Jerez. Filmar i reservar en fred.
-Col·loquem la meitat de les maduixes en un cassó (petit) amb una mica de sucre i aigua. Ho posem a foc suau durant 10 minuts. Posar una casserola (gran) a escalfar amb la llet i la canyella. Esperar que bulli. Mentre esperem que bulli la llet, posar l'arròs en una paella (petita) i cobrir-lo d'aigua freda. L’escalfem  i, just quan comença a bullir, escorrem l'arròs i l'incorporem a la casserola de la llet bullint.
-Remoure l'arròs amb llet, a foc mitjà, durant 30 minuts. Quan porta ½ hora bullint suaument, hi afegim la nata i afegim la mantega i el retirem del foc.
+Disposar algunes en un bol amb el Pedro XimÃ©nez i un parell de cullerades de vinagre de Jerez. Filmar i reservar en fred.
+ColÂ·loquem la meitat de les maduixes en un cassÃ³ (petit) amb una mica de sucre i aigua. Ho posem a foc suau durant 10 minuts. Posar una casserola (gran) a escalfar amb la llet i la canyella. Esperar que bulli. Mentre esperem que bulli la llet, posar l'arrÃ²s en una paella (petita) i cobrir-lo d'aigua freda. Lâ€™escalfem  i, just quan comenÃ§a a bullir, escorrem l'arrÃ²s i l'incorporem a la casserola de la llet bullint.
+Remoure l'arrÃ²s amb llet, a foc mitjÃ , durant 30 minuts. Quan porta Â½ hora bullint suaument, hi afegim la nata i afegim la mantega i el retirem del foc.
 Llavors, ja fora del foc, incorporem 250 gr. de sucre poc a poc.
-Canviem de recipient (bol gran), deixem refredar i ho guardem al frigorífic. Batem les maduixes que teníem en el foc fins a obtenir una salsa i el reservem.
-Posar en un cassó (petit) tres cullerades de sucre i unes gotes d'aigua. Fer un caramel i, quan tingui color, bolcar en paper de forn i estendre’l amb un corró fins obtenir fins cristalls de caramel i reservar-lo. Tallar la resta de maduixes en fines làmines.
-Estendre paper film, col·locar damunt les làmines de maduixes i tornar a cobrir-ho amb film. Espalmar les maduixes fins que quedin fines com un Carpaccio. Guardar-lo al congelador.
+Canviem de recipient (bol gran), deixem refredar i ho guardem al frigorÃ­fic. Batem les maduixes que tenÃ­em en el foc fins a obtenir una salsa i el reservem.
+Posar en un cassÃ³ (petit) tres cullerades de sucre i unes gotes d'aigua. Fer un caramel i, quan tingui color, bolcar en paper de forn i estendreâ€™l amb un corrÃ³ fins obtenir fins cristalls de caramel i reservar-lo. Tallar la resta de maduixes en fines lÃ mines.
+Estendre paper film, colÂ·locar damunt les lÃ mines de maduixes i tornar a cobrir-ho amb film. Espalmar les maduixes fins que quedin fines com un Carpaccio. Guardar-lo al congelador.
 
-?Categories?
+[Categories]
 categoria = Postres
