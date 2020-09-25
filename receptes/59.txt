@@ -1,0 +1,18 @@
+[Titol]
+Mousse de préssec
+
+[Ingredients]
+préssec = 500 g de préssec groc.
+sucre = 150 g de sucre.
+llimona = la pell d'una llimona.
+nata = 1/4l de nata líquida per a muntar.
+ou = 4 clares d'ou.
+
+[Elaboracio]
+Pelem els préssecs, els trossegem i en un cassó amb una mica d'aigua els coem per espai de 15 minuts, a foc mitjà, juntament amb la pell sencera d'una llimona. Una vegada cuits escorrem de l'aigua de cocció i rebutgem la pell.
+Triturem la polpa de préssec juntament amb el sucre i la nata líquida fins a formar una crema homogènia. Agreguem unes gotes de licor sense alcohol de préssec.
+Batem les clares a punt de neu. Ajuntem la crema de préssec amb les clares a poc a poc i removem amb un cullerot de fusta, no amb les varetes o la batedora, així s'evita que baixi l'esponjositat. Barregem de manera homogènia i repartim en copes.
+Adornem amb alguna fulla de menta.
+
+[Categories]
+categoria = Postres
