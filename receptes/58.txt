@@ -1,0 +1,30 @@
+[Titol]
+pastís de maduixots
+
+[Ingredients]
+maduixes = 500 g de maduixots
+gelatina = 100 g de gelatina de poma
+titol = Per a la pasta brisa
+farina = 125 g de farina
+mantega = 60 g de mantega
+sucre = 30 g de sucre
+ous = 1 ou
+titol = Per a la crema de pastisseria
+llet = 250 ml de llet
+sucre = 125 g de sucre
+farina = 60 g de farina
+ous = 2 rovells d’ou
+llimona = pell de llimona
+canyella = canyella en rama
+
+[Elaboracio]
+Per a la pasta brisa: barregeu bé la farina i la mantega. Afegiu-hi el sucre i després l’ou, sense treballar-ho gaire (ha de quedar una massa compacta). Si veieu que queda massa forta, hi podeu afegir una mica d’aigua. Deixeu-ho reposar al frigorífic tapat amb film transparent 1 h. 
+Per a la crema:
+poseu a bullir la meitat de la llet amb la pell de la llimona i la canyella. Remeneu bé els rovells amb el sucre i després afegiu-hi la farina. I remeneu-ho amb l’altra meitat de llet freda. Treieu la llet del foc i aboqueu-la amb els rovells. Remeneu-ho bé i poseu-ho al foc. Així que arrenqui el bull, retireu-ho.
+Per a coure el pastís:
+estireu la pasta brisa amb el corró fins que la deixeu a un gruix de 2 mm. Folreu amb ella el fons del motlle, punxeu-la amb una forquilla i cobriu-la amb una capa de llenties (perquè la pasta no pugi). Poseu-ho al forn 30 min a 150 ºC. Un cop la pasta sigui cuita, llenceu les llenties i procediu a farcir el pastís. 
+Muntatge:
+cobriu la pasta amb la crema, talleu els maduixots al gust i cobriu-ne el motlle. Pinteu-lo amb la gelatina. Poseu-lo al frigorífic.
+
+[Categories]
+categoria = Postres
