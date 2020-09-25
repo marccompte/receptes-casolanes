@@ -1,0 +1,18 @@
+[Titol]
+Crocant Urpina
+
+[Ingredients]
+nata = 1 kg nata líquida per muntar
+sucre = 0,3 kg sucre en pols
+ametlles= 0,5 kg ametlles torrades i garapinyades
+ous = 2 ous
+
+[Elaboracio]
+Posar la nata líquida a la batedora. Parar quan hagi adquirit consistència.
+Triturar les ametlles fins ser un granulat que es puguin notar però que no sigui pols.
+Batre els dos ous amb clara i rovell
+Barrejar tots els ingredients en un bol i posar-ho al congelador dins el motlle escollit.
+NOTA Si no és disposa de sucre en pols es pot moldre el sucre normal.
+
+[Categories]
+categoria = Postres
