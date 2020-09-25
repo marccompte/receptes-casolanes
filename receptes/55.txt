@@ -1,5 +1,5 @@
 [Titol]
-pastís de Santiago
+tarta de Santiago
 
 [Ingredients]
 ametlles = 200g d’ametlles crues pelades
