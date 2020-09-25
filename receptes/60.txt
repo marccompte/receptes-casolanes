@@ -1,0 +1,23 @@
+[Titol]
+Coca de revetlla
+
+[Ingredients]
+ous = 6 ous
+sucre = 450 gr. de sucre
+aigua = 50cl d’aigua
+oli= 50cl d’oli
+llet = 100cl de llet
+farina = 500 gr. de farina
+llevat = 1 sobre de llevat
+alcohol = 1 copeta d’anís
+llimona = ratlladura de llimona
+fruita = fruita confitada
+ametlla = ametlla laminada
+
+[Elaboracio]
+Engegar el forn posant-lo a 180ºC
+En un bol barrejar els ous i el sucre remenant-ho enèrgicament, després afegir-hi l’aigua, l’oli, la llet i per últim el llevat, la farina i la ratlladura de llimona. Posar-ho aproximadament 1/2h al forn traient-lo quan punxant amb una agulla sigui cuit. Adornar-ho amb la fruita i l’ametlla, ruixar-ho amb l’anís i enfornar-ho uns minuts a 200ºC.
+Es pot substituir l’anís per crema.
+
+[Categories]
+categoria = Postres
