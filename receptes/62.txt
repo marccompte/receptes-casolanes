@@ -1,0 +1,23 @@
+[Titol]
+Musclos en salsa blanca
+
+[Ingredients]
+musclos = 1 kilo de musclos
+nata = 1 decilitre de nata líquida.
+ceba = 100 g de ceba.
+all = 2 grans de all.
+mantega = 40 g de mantega.
+farina = 40 g de farina.
+oli = 4 cullerades d'oli d'oliva.
+julivert = Julivert.
+sal = Sal.
+
+[Elaboració]
+Tallem la ceba i l'all en brounoisse (cuadradito molt petit) i cuinem a foc lent amb una mica d'oli, evitant que agafi color. Quan estigui tova i transparent la traiem del foc i la deixem reposar en la paella tapada.
+Obrim els musclos en una cassola tapada. Quan estiguin oberts colem i reservem l'aigua que hagin desprès.
+Separem i rebutgem les trenquessis, quedant-nos amb la carn que col·locarem en platitos aptes per al forn.
+Accessibilitat Mapa Web Autors de les imatges Creative Commons d'aquesta pàgina Agreguem la mantega a la ceba i a l'all cuinats i tornem a posar al foc. Quan comenci a bullir afegim la farina removent perquè s'integri com si fos unes farinetes.
+Afegim un quart de litre del brou de cocció dels musclos i la nata liquida. Es deixa coure fins que aconseguim una salsa homogènia, posem a punt de sal i si volem un toc de nou moscada o de pebre variat. Tirem la salsa damunt dels musclos gratinem al forn lleugerament abans de servir.
+
+[Categories]
+categoria = Peix
