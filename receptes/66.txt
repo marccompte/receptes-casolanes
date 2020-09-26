@@ -1,0 +1,30 @@
+[Titol]
+tomàquet, llagostins i poma
+
+[Ingredients]
+tomàquets = 4 tomàquets dels Palaus
+llagostins = 200 gr. de llagostins cuits
+pernil= 100 gr. de pernil ibèric
+espàrrecs = 4 espàrrecs blancs
+tonyina = 100 gr. de tonyina en conserva
+escarola = 1 manoll d'Escarola
+poma = 2 pomes Rojas
+anxova = 50 gr. d'anxoves
+olives = 100 gr. olives negres sense os
+all = 1 gra d'all
+ous = 2 ous cuits
+formatge = 1 tassa de formatge ratllat
+fruits secs = Nous
+herbes = Orenga
+oli = oli d'oliva
+vinagre = vinagre
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Bullir els tomàquets i després refreda'ls en un bol amb aigua i gel. Retirar del gel i llevar la pell dels tomàquets. Amb ajuda d'un ganivet buidar els tomàquets i deixar-los reposar en la nevera, amb la part de peduncle cap avall i sobre un paper de cuina. El tomàquet que hem llevat al buidar-los, el triturem en un bol amb orenga i salpebrem. Abocar el contingut en un motlle de glaçons i guardar en el congelador. Picar els llagostins, el pernil, els espàrrecs blancs, els ous cuits i barrejar-lo tot en un bol. Escórrer i afegir la tonyina, orenga, sal i barrejar-ho fins a aconseguir una pasta homogènia.
+Emplenar els tomàquets. Disposar en un plat, amb paper de cuina, cap avall i reservar en un costat per al seu posterior ús. En una gerra i amb la batedora, triturar les anxoves, la meitat de les olives negres, l'all, sal, oli d'oliva i vinagre.
+Passar a un bol petit, filmar i reservar al fred. Netejar molt bé la poma i tallar-la en galledes, sense llevar-li la pell. Reservar per a l'emplatat.
+
+[Categories]
+categoria = Entrants
