@@ -1,0 +1,23 @@
+[Total]
+pastís de cabratxo
+
+[Ingredients]
+persones = 12
+escórpora = 500 gr de carn d'escórpora cuita
+cranc = 1 llauna de carn de cranc
+nata = 200 ml de nata
+ous = 4 o 5 ous
+tomàquet = 100 gr de tomàquet fregit
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Untar amb mantega un motlle de plum-cake i empolvorar-lo de pa ratllat.
+Triturar tots els ingredients fins a fer una pasta rosada.
+Abocar en el motlle i enfornar a bany maria 45-50 minuts o fins que en punxar amb un escuradents, aquest surti net.
+Servir sobre llit d'enciam adornat amb maionesa.
+Es menja untat en llesques de pa torrat.
+També es pot fer amb lluç, mes ràpid i barat.
+
+[Categories]
+categoria = Entrants
