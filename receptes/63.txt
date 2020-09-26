@@ -1,0 +1,20 @@
+[Titol]
+esqueixada
+
+[Ingredients]
+bacallà = Bacallà dessalat
+olives = Olives verdes sense pinyol i Olives negres (amb o sense)
+tomàquets = Tomàquets vermells
+ceba = Ceba
+pebrot = Pebrot verd i vermell
+oli = Oli
+sal= Sal
+
+[Elaboracio]
+Unes 8 hores abans de començar a preparar el plat, haurem d’haver posat a dessalar en aigua el bacallà (canviant-li l’aigua un parell de vegades).
+Preparem tots els ingredients i els anem posant en un bol per barrejar-ho i amanir-ho:
+Tallem el bacallà a tires. Pelem els tomàquets i els tallem a trossets. Les olives verdes també les tallem a rodanxes, mentre que les negres posen anar directament al bol. Amb la ceba, un cop pelada, n’ agafem una mica i la tallem a trossets petits, al igual que els pebrots (tan el verd com el vermell). Les quantitats son lliures, podent-ne posar més quantitat d’allò que més ens agradi.
+Un cop ho tinguem tot junt al bol, ho amanim ben bé amb sal i oli i ho deixem reposar una estona abans de menja’ns-ho.
+
+[Categories]
+categoria = Entrants
