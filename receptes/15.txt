@@ -1,5 +1,5 @@
 [Titol]
-Arròs de cloïsses, sípia i escamarlans
+de cloïsses, sípia i escamarlans
 
 [Ingredients]
 persones = 4
