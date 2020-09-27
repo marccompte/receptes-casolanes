@@ -1,5 +1,5 @@
 [Titol]
-Arròs amb carxofes
+amb carxofes
 
 [Ingredients]
 persones = 4
