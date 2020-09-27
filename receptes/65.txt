@@ -1,0 +1,31 @@
+[Titol]
+Tomàquet, pernil i formatge
+
+[Ingredients]
+tomàquet = 1 Kg. de tomàquets Raf
+pernil = 200 gr. de pernil ibèric
+formatge = 250 gr. de mozzarella fresca
+síndria = 200 gr. de síndria
+ceba = 1 ceba tendra i 2 cebes vermelles
+all = 4 grans d'all
+pa = 200 gr. de pa de motlle
+herbes = fulles d'alfàbrega fresca
+oli = mig got d'oli d'oliva
+vinagre = 1 cullerada de vinagre
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Tallar les cebes vermelles en juliana i sofregir suaument en un cassó (petit) amb oli d'oliva. Incorporar mig got de Montilla Moriles i cuinar fins que la ceba estigui caramel•litzada. Reservar en el mateix cassó per al seu posterior ús.
+Netejar dos tomàquets raf i tallar-los en rodanxes d'1 cm. de gruix.
+En una paella (gran) daurar lleugerament les rodanxes de tomàquet.Reservar en un plat.
+Netejar dos tomàquets raf, trossejar-los i posar-los en una gerra.
+Afegir la meitat de la síndria (sense llavors), la ceba tendra, la meitat del pa de motlle (sense escorces), l'alfàbrega, ½ got d'oli d'oliva, el vinagre i salpebrar-ho. Triturar amb la batedora fins a obtenir una consistència fina. Colar aquest gaspatxo i reservar-lo en una gerra en el frigorífic.
+Tallar el pernil ibèric en juliana gruixuda. Sobre el pernil tornem a disposar una rodanxa de tomàquet raf i repetim l'ordre.
+Sobre una safata (de ceràmica) greixada amb oli d'oliva, fer uns milfulls amb les rodanxes de tomàquet daurades, ceba vermella caramel•litzada, mozzarella i pernil en juliana. Salpebrem la milfulls de tomàquet, el reguem amb oli i vinagre i l¡introduïm al forn a 150 °C. durant 10 minuts.
+Laminar l'all i fregir-lo amb oli d'oliva en una paella (petita) i apartar-lo en un plat amb paper de cuina. Fregir unes fulles d'alfàbrega en l'oli dels alls. Apartar-ho juntament amb els alls fregits.
+Tallar el pa de motlle en daus petits, fregir-lo en la mateixa paella i apartar-lo en el mateix plat de l'alfàbrega i els alls.
+Tallar 1 tomàquet raf en grillons, disposar en un plat i amanir amb oli, sal i vinagre.
+
+[Categories]
+categoria= Entrants
