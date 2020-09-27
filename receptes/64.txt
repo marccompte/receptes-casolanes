@@ -1,4 +1,4 @@
-[Total]
+[Titol]
 pastís de cabratxo
 
 [Ingredients]
