@@ -3,7 +3,7 @@ Mousse de préssec
 
 [Ingredients]
 préssec = 500 g de préssec groc.
-sucre = 150 g de sucre.
+sucre = 120 g de sucre.
 llimona = la pell d'una llimona.
 nata = 1/4l de nata líquida per a muntar.
 ou = 4 clares d'ou.
