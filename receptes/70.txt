@@ -1,0 +1,24 @@
+[Titol]
+paella de rap
+
+[Ingredients]
+persones = 4
+arròs = 200 g d'arròs.
+rap = 300 g de cua de rap.
+ceba = ½ ceba.
+pebrot = 1 pebrot vermell.
+tomàquet = 1 tomàquet.
+all = 3 grans d'all.
+brou = 1 litre de brou de peix.
+llimona = ½ llimona.
+oli = 4 cullerades d'oli d'oliva verge.
+sal = Sal
+
+[Elaboracio]
+Netegem el rap llevant-li la pell i l'espina central. Ho trossegem en porcions de cullerada (que càpiguen en una cullera).
+Piquem la ceba, el pebrot vermell i l'all en brounoisse (picadet fi). Posem la paellera o la cassola baixa al foc, amb 4 cullerades d'oli d'oliva verge, sofregim les verdures volta i volta. Sofregim també la ceba i l'all fins que comencin a daurar-se. Agreguem el tomàquet
+pelat, sense llavors i trossejat en quadradets. Ofeguem durant 3 minuts i en aquest moment afegim l'arròs i deixem sofregir durant 2 minuts. Mullem l'arròs amb el brou de peix calent i repartim de manera uniforme. Posem a punt de sal, unes gotes de llimona i deixem cuinar durant 10 minuts, després dels quals incorporarem els trossos de rap distribuint-los per sobre de l'arròs.
+Deixem cuinar a foc suau altres 8 minuts. Una vegada cuinat l'arròs traiem la cassola del foc. Tapem la paella amb un drap net de cuina perquè no es recogui i deixem reposar 5 minuts. A continuació ho servim calent.
+
+[Categories]
+categoria = Arrossos
