@@ -1,8 +1,7 @@
-
 [Titol]
 de bolets
 
-[Ingredient]
+[Ingredients]
 persones = 4 
 arròs = 400g d’arròs bomba
 bolets = 150g. de rovellons, 150g. de gírgoles i 150g. de llenega blanca
