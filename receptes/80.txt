@@ -1,0 +1,21 @@
+[Titol]
+Espaguetis, bolets, gambes i alvocat
+
+[Ingredients]
+persones = 4
+espaguetis = 250 g d'espaguetis.
+gamba = 150 g de gambes pelades.
+ceba = 50 g de ceba tendra fresca.
+alvocat = 1 alvocat.
+bolets = 200 g de bolets.
+all = 4 grans d'all.
+oli = 6 cullerades d'oli d'oliva.
+sal = Sal.
+
+[Elaboracio]
+Coem la pasta en aigua bullint amb sal durant 5 minuts. Una vegada cuits escorrem i refresquem sota el doll d'aigua freda. Reservem lleugerament untats d'oli d'oliva.
+En una cassola escalfem a foc suau la ceba tendra picada, l'all i els bolets nets i trossejats. Quan estiguin cuinades els bolets afegim les gambes pelades i uns trossets d'alvocat.
+Barregem aquest saltejat de bolets, gambes i alvocats amb els espaguetis, donem unes voltes en la cassola perquè s'escalfi i servim al moment.
+
+[Categories]
+categoria = Pasta
