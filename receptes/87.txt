@@ -1,0 +1,26 @@
+[Titol]
+Mac & Cheese
+
+[Ingredients]
+macarrons = 250 g de macarrons tipus colze 
+llet = 250 ml de llet fresca sencera 
+formatge = 80 g de formatge cheddar, 80 g de formatge cantal 100 g de formatge pecorino vell 
+mantega = 30 g de mantega 
+farina = 30 g de farina 
+nata = 50 ml de nata 
+mostassa = 1 cullerada sopera de mostassa Dijon 
+ous = ous
+sal = sal
+pebre = pebre blanc 
+
+[Elaboracio]
+Ratllem per separat els 80 g de formatge cheddar i 80 g de cantal.
+Posem en un pot d’acer inoxidable 30 g de mantega i 30 g de farina, ho barregem i deixem coure la farina.
+Escalfem en una olla 250 ml de llet fresca, 50 ml de nata i un polsim de pebre blanc. Afegim el roux a l’olla de làctics calents i ho remenem fins que n’aconseguim textura.
+Separem 3 ous, posem els rovells en un bol i les clares en un tàper, que guardarem a la nevera per a una altra preparació. Blanquegem els rovells amb les varetes elèctriques i amb una cullerada de mostassa de Dijon.
+Hi afegim aquests rovells blanquejats i ho remenem. Afegim la meitat del cheddar ratllat a la beixamel i l’hi integrem. Afegim la meitat del cantal ratllat i l’hi integrem. Ho filmem amb filmde plàstic.
+Bullim 250 g de macarrons tipus colze durant 5 minuts. Posem els macarrons bullits a l’olla de la beixamel, hi afegim 1 cullerot de l’aigua de la cocció i la resta dels formatges ratllats. Ho barregem.
+Omplim una safata de forn rodona amb els macarrons amb formatge. Ratllem 100 g de formatge pecorino vell per sobre de la safata i l’enfornem a 250º durant 10 minuts. Ho traiem del forn i ho servim.
+
+[Categories]
+categoria = Vegetarià
