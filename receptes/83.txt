@@ -1,0 +1,29 @@
+[Titol]
+de molls i calamarcets
+
+[Ingredients]
+peix = 1 Kg. de rogers
+calamars = ¼ Kg. de puntillites
+tomàquet = 4 tomàquets
+all= 4 grans d'all
+enciam = 4 cabdells d'enciam
+cus cus = 4 gots de cous-cous
+olives = olives negres sense os
+taronja = 2 taronges
+sucre = sucre
+herbes = alfàbrega fresca
+formatge = formatge ratllat d'ovella
+
+[Elaboracio]
+Pelar 4 tomàquets i tallar-los en petits daus. Reservar un d'ells en fred per a l'emplatat final.
+En una paella (petita), sofregir els alls laminats i, quan prenguin color, afegir el tomàquet picat. Afegir alfàbrega fresca molt picada, sucre, ajustar de sal i deixar cuinar fins que evapori l'aigua del tomàquet, i adquireixi una consistència de compota.
+En un cassó (petit) fem bullir un got d'aigua. Quan bulli, tirem aquesta aigua en el bol on hi hem possat els cous-cous. Cobrim amb film de plàstic i deixem reposar 5 minuts.
+Mentre reposa el cous-cous. Fem el pesto. Amb la batedora, batem en una gerra, alfàbrega fresca, formatge ratllat, oli d'oliva, sal i pebre. L’apartem en un bol, cobrim amb film i deixem reposar.
+Barrejar el cous-cous amb la compota de tomàquet. Picar les olives negres i afegir al cous-cous.
+Netejar els lloms dels rogers i marcar-los en una paella (gran). Ajustar de sal.
+Netejar una taronja i treure’n els grills.
+Enfarinar i fregir les puntillites en una paella (petita). Apartar en un plat amb paper de cuina i salar.
+Barrejar en un bol les puntillitas recentment fregides amb els grills de taronja.
+
+[Categories]
+categoria = Amanides
