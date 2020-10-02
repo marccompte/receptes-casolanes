@@ -1,0 +1,35 @@
+[Titol]
+de xipirons i cherries
+
+[Ingredients]
+tomàquet = tomàquets cherry
+calamars = 12 calamarsons
+pebrot = 1 pebrot vermell
+carabassó = 1 carabassó
+pastanaga = 1 pastanaga
+ceba = 1 ceba vermella
+all = 2 grans d'all
+poma = 2 pomes
+pa = 4 llesques de pa de motlle
+brou = ½ got de suc de carn
+vinagre = vinagre de Jerez
+fruits secs = pinyons
+julivert = julivert fresc
+herbes = orenga
+oli = oli d'oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Netejar els calamarsons i emplenar-los amb els seus pròpies tentacles. Els tanquem ajudant-nos d'un escuradents. Reservar en la nevera.
+Tallem la cua dels tomàquets cherry. Els disposem en una safata de forn i ho salpebrem. Abocar-hi sobre oli d'oliva, una mica de vinagre, sucre i orenga. Introduir en el forn a 160 °C durant 30 minuts aprox.
+Tallar en juliana, i en aquest ordre, la ceba vermella, la pastanaga, el pebrot vermell i el carabassó. I anem incorporant progressivament en una paella (gran) amb oli d'oliva.
+Saltejar les verdures cinc minuts, salpebrar i reservar per a emplatar.
+Tallar el pa de motlle en rectangles. En una paella (petita), amb oli d'oliva, fregir un parell de grans d'all en juliana. Apartar-los en un plat amb paper de cuina. I en aquest oli, fregir els rectangles de pa de motlle. Apartar en el mateix plat que els alls. Reservar per a l'emplatat.
+En una paella (gran) saltar els calamarsons fins que adquireixin un color daurat. Salpebrar i apartar en un plat, reservant-los.
+Pelar les pomes i tallar-les en daus.
+En la mateixa paella on hem cuinat els calamarsons, saltar les pomes. Afegir suc de carn i apartar en un bol.
+Ja en el bol, afegir els pinyons, el vinagre, julivert picat i sal i pebre.
+
+[Categories]
+categoria = Amanides
