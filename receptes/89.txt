@@ -1,0 +1,21 @@
+[Titol]
+Macarrons
+
+[Ingredients]
+persones = 4
+pasta = 350 grams de macarrons
+formatge = 100 grams de formatge fresc cremós, 30 grams de formatge gruyère, 40 grams de parmesà ratllat
+llet = 30 grams de llet
+tòfona = 40 grams de tòfona
+ous = 2 rovells d’ou
+mantega = 50 grams de mantega
+nata = 1 cullerada de nata líquida
+sal = Sal
+pebre = pebre negre acabat de moldre
+
+[Elaboracio]
+Fondre al bany Maria el formatge fresc cremós amb el formatge gruyère i la nata líquida. Barrejar bé i incorporar els rovells d’ou. Anteriorment coure la pasta en aigua bullint i sal. Escorreu un cop cuita i condimenteu-la amb la mantega fosa i el formatge ratllat.
+Posar-ho en una font preescalfada, ruixar-la amb els formatges fosos i escampar per sobre la tòfona tallada en làmines.
+
+[Categories]
+categoria = Vegetarià
