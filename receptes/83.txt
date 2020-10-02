@@ -1,29 +1,24 @@
 [Titol]
-de molls i calamarcets
+de rap, mango i alvocat
 
 [Ingredients]
-peix = 1 Kg. de rogers
-calamars = ¼ Kg. de puntillites
-tomàquet = 4 tomàquets
-all= 4 grans d'all
-enciam = 4 cabdells d'enciam
-cus cus = 4 gots de cous-cous
-olives = olives negres sense os
-taronja = 2 taronges
-sucre = sucre
-herbes = alfàbrega fresca
-formatge = formatge ratllat d'ovella
+llom = 500 gr. de llom de rap net
+mango = 3 mangos
+alvocat = 2 alvocats
+magrana = 1 magrana
+iogurt = 1 iogurt grec
+enciam = 1 bol d'enciams variats, cebollí fresc
+pebre = Pebre vermell dolç i negre
+oli = oli d'oliva
+vinage = vinagre
+sal = sal
 
 [Elaboracio]
-Pelar 4 tomàquets i tallar-los en petits daus. Reservar un d'ells en fred per a l'emplatat final.
-En una paella (petita), sofregir els alls laminats i, quan prenguin color, afegir el tomàquet picat. Afegir alfàbrega fresca molt picada, sucre, ajustar de sal i deixar cuinar fins que evapori l'aigua del tomàquet, i adquireixi una consistència de compota.
-En un cassó (petit) fem bullir un got d'aigua. Quan bulli, tirem aquesta aigua en el bol on hi hem possat els cous-cous. Cobrim amb film de plàstic i deixem reposar 5 minuts.
-Mentre reposa el cous-cous. Fem el pesto. Amb la batedora, batem en una gerra, alfàbrega fresca, formatge ratllat, oli d'oliva, sal i pebre. L’apartem en un bol, cobrim amb film i deixem reposar.
-Barrejar el cous-cous amb la compota de tomàquet. Picar les olives negres i afegir al cous-cous.
-Netejar els lloms dels rogers i marcar-los en una paella (gran). Ajustar de sal.
-Netejar una taronja i treure’n els grills.
-Enfarinar i fregir les puntillites en una paella (petita). Apartar en un plat amb paper de cuina i salar.
-Barrejar en un bol les puntillitas recentment fregides amb els grills de taronja.
+Netejar el rap. Fregar els lloms nets amb oli d'oliva, sal i pebre vermell dolç. Cobrir amb film plàstic i bullir en aigua amb sal durant 12 minuts. Retirar i escórrer el rap. Deixar refredar en la nevera amb pes damunt.
+Pelar els mangos i treure’n la carn. Tallar algunes làmines de mango i reservar-lo en fred. Tallar la resta de mango en daus.
+Farem una salsa triturant el mango sobrant amb el iogurt grec, oli d'oliva, sal i pebre.
+Netejar l'alvocat, tallar-lo en làmines i reservar en fred. L'altre alvocat el tallem en daus
+Fer una vinagreta amb els daus de mango i alvocat, la magrana, cebollí, julivert, oli d'oliva, vinagre, sal i pebre.
 
 [Categories]
 categoria = Amanides
