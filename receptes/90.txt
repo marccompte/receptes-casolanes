@@ -1,0 +1,39 @@
+[Titol]
+Galets farcits de foie i bolets
+
+[Ingredientes]
+personas = 4
+pasta =150 grams de Galets grans 
+foie = 200 grams de foie-gras d'ànec o d'oca
+ceba = 1 ceba tendra
+all = 1 gra d'all
+bolets = 100 grams de bolets
+nata = 1 decilitre de nata líquida
+oli= 4 cullerades d'oli d'oliva
+sal = Sal
+titol = Crema temperada de carabassa i taronja
+carabassa = Mig quilo de carabassa
+taronja = 2 taronges
+ceba = 50 grams de ceba
+porro = 2 porros mitjans
+patates = Una patata petita
+brou = Mig litre de brou de verdures
+oli = 3 cullerades d'oli d'oliva verge
+pebre = Pebre negre
+sal = sal
+titol = cruixent de taronja:
+taronja = Suc d'1 taronja
+sucre = 100 grams de sucre bru
+aigua = 1 cullerada d'aigua
+
+[Elaboracio]
+Es talla en brounoisse la ceba tendra i l'all i se salta a foc suau en una paella amb unes gotetes d'oli. Quan estigui a punt de cuinar-se s'afegeixen les setitas netes i trossejades. Es posa el punt de sal i es cuina durant 20 minutos a foc suau. A continuació, s'agrega la nata líquida i es deixa reduir fins que formi una crema.
+Es retira del foc, s'afegeix el foie-gras i es deixa refredar. S'emplenen els galets i es reserven en una safata de forn per a escalfar-los just abans de servir. Per a emplatar, es disposa la pasta en plats individuals i se serveix sobre la crema de carabassa i amb el vel cruixent de taronja.
+Crema de carabassa i taronja:
+Es netegen, pelen i piquen la carabassa, la patata i la part blanca dels porros. En una cassola, s'escalfen tres cullerades d'oli a foc no gaire fort, s'incorpora la ceba i s'ofega tot durant tres minuts.
+A continuació, s'afegeix la patata i es deixa ofegar. S'incorpora la carabassa, es remou tot i s'amaneix al gust amb sal i pebre negre recentment mòlt. S'afegeix el brou de verdures, el suc de taronja i la ralladura de la pell de ½ taronja i es deixa coure durant mitja hora. Després, es retira del foc i es passa per la batedora.
+Vel cruixent de taronja:
+Es barreja el suc de la taronja, el sucre i una cullerada d'aigua i es bull fins que es formi el caramel. S'estén sobre una placa antiadherente i es modela fins a aconseguir cristalls transparents.
+
+[Categories]
+categoria = Paasta
