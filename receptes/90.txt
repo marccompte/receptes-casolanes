@@ -36,4 +36,4 @@ Vel cruixent de taronja:
 Es barreja el suc de la taronja, el sucre i una cullerada d'aigua i es bull fins que es formi el caramel. S'estén sobre una placa antiadherente i es modela fins a aconseguir cristalls transparents.
 
 [Categories]
-categoria = Paasta
+categoria = Pasta
