@@ -1,0 +1,21 @@
+[Titol]
+Pasta amb ceps
+
+[Ingredients]
+persones =
+pasta = 320 g de tagliatelle (pasta fresca) 
+bolets = 400 g de ceps 
+ceba = 1 ceba mitjana 
+all = 1 gra d’all 
+nata = 200 ml de crema de llet (opcional) 
+julivert = 1 ram de julivert 
+oli = Oli d’oliva 
+
+[Elaboracio]
+Elimineu la terra i netegeu els ceps amb un drap o paper de cuina humit. Talleu-los a làmines més aviat primes, de dalt a baix del bolet. Talleu la ceba i l’all a quadradets ben menuts.  Sofregiu la ceba i l’all amb un raig d’oli, a foc lent, vigilant que no es cremin
+Ja podeu posar l’aigua al foc per la pasta. 
+Quan la ceba i l’all siguin sofregits, afegiu els bolets i un polsim de sal a la paella. Deixeu-los coure tapats durant 10 min, a foc moderat. Quan siguin cuits, afegiu una mica de julivert picat a la paella. Si els voleu amb crema e llet, afegiu-la als bolets, remeneu i apagueu el foc. (No espereu a que es lligui la salsa, o bé serà massa espessa. Ja ho farà quan hi incorporeu la pasta.
+Coleu la pasta, reservant-ne un parell de cullerots d’aigua de cocció. Afegiu la pasta i els dos cullerots d’aigua de cocció a la paella, amb els bolets. Saltegeu la pasta durant un minut, banyant-la bé amb la salsa. Serviu la pasta amb una mica de julivert picat per sobre.
+
+[Categories]
+categoria = Vegetarià
