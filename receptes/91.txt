@@ -1,0 +1,29 @@
+[Titol]
+Canelons d’ànec, tòfona i formatge
+
+[Ingredients]
+persones = 4
+ànec = 500 g de cuixes d’ànec confitades i 100 g de fetge gras d’ànec
+ceba = 2 cebes
+all = 2 alls
+alcohol = 1 raig de vi ranci, raig de conyac
+tomàquet = 1 tomàquet madur
+oli = oli d’oliva verge extra
+pa = 2 llesques de pa (només la molla)
+llet = 1 litre de llet
+mantega = 30 g de mantega
+farina = 30 g de farina
+sal = sal
+pebre = pebre blanc
+caneló = 12 làmines de pasta de caneló
+formatge = 125 g de formatge
+tòfona = 100 g de tòfona d’hivern
+
+[Elaboracio]
+Poseu una cassola al foc amb un raig d’oli i enrossiu els alls pelats i tallats a làmines i les cebes ratllades. Deixeu coure lentament. Quan sigui mig cuita, afegiu la tomata ratllada i deixeu concentrar. Mentrestant, traieu el greix de les cuixes confitades, la pell i l’os. Remulleu el sofregit amb el raig de vi ranci i el de conyac. Deixeu que s’evapori l’alcohol i afegiu-hi la carn de la cuixa confitada i el fetge gras. Deixeu coure 4 minuts.
+Remulleu la molla de pa amb llet i afegiu-la a la carn. Comproveu el punt de sal i pareu el foc. Deixeu refredar la carn una mica. Tot seguit, passeu la carn per la màquina de trinxar carn amb el forat mitjà. Poseu a bullir uns minuts les làmines de pasta. Refredeu-les en aigua freda i col•loqueu-les al damunt d’un drap blanc. Aneu posant a cada làmina una cullerada de carn i enrotlleu els canelons.
+Feu la beixamel posant a bullir mig litre de llet. En una altra cassola, poseu la mantega i deixeu-lafondre. Incorporeu la farina i deixeu coure un parell de minuts a foc suau. Afegiu a poc a poc la llet perquè no faci grumolls i coieu lentament un parell de minuts. Ratlleu-hi la tòfona i el formatge Urgèlia perquè quedi ben fos. Poseu a punt de sal i pebre blanc.
+Tireu una cullerada de beixamel al fons de la plàtera de forn, al damunt poseu-hi els canelons i acabeu de cobrir amb la beixamel. Poseu al forn a 100 °C per tal que s’escalfin els canelons i serviu amb la beixamel.
+
+[Categories]
+categoria = Pasta
