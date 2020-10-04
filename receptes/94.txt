@@ -1,0 +1,29 @@
+[Titol]
+vichyssoise de coliflor i gambes
+
+[Ingredients]
+porro = 300 grams de la part blanca del porro
+patata = 400 grams de patata
+coliflor = 100 grams de coliflor en rams nets
+ceba = 100 grams de ceba
+julivert = 1 ramet de julivert
+oli = 6 cullerades d'oli d'oliva
+mantega = 20 grams de mantega
+llet = ¼ litre de llet
+nata = ¼ litre de nata líquida
+sal = Sal
+titol = acompanyment:
+gambes = 200 grams de gambes grans
+oli = 4 cullerades d'oli d'oliva
+llimona = Ratlladura de llima i unes gotetes del seu suc
+sal = Sal
+
+[Elaboracio]
+En una cassola, escalfar la mantega i l'oli d'oliva. Picar en brounoisse la ceba, afegir-la a la cassola, escalfar-la i a continuació incorporar el blanc del porro també tallat en trossos petits. Quan estigui daurat, afegir les patates pelades i trencades.
+En una altra cassola, amb aigua bullint i un polsim de sal, s'introdueix la coliflor perquè cogui durant 5 minuts. Després, s'escorren i s'introdueixen en l'altra cassola amb el porro, la ceba i les patates. Es cobreix fins al nivell de les patates amb aigua i es deixa coure fins que la patata estigui tova (uns 30 minuts).
+Una vegada que estigui temperat es passa per la batedora. A continuació, s'aboca la llet, es torna a passar per la batedora i s'afegeix la nata. Es dóna un bulliment al conjunt, es posa el punt de sal i de consitència (ha de ser una crema lleugera) i es cola en un colador xinès. S'introdueix en la nevera en un recipient tapat fins que es refredi, almenys durant unes 4 hores.
+Es pelen les gambes, s'impregnen d'oli d'oliva, gotes de suc de llima i un polsim de ralladura de llima. Es salten en la paella fins que canviïn de color. Finalment, es condimenten amb sal. La vichyssoise es serveix en bols, acompanyada de gambetes aromatitzades amb llima i amb una mica de julivert picat.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes
