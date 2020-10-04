@@ -1,5 +1,5 @@
 [Titol]
-tomàquet, arrós i esparrecs
+tomàquet, arrós i espàrrecs
 
 [Ingredients]
 persones = 
