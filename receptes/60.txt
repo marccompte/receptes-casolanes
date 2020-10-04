@@ -21,3 +21,4 @@ Es pot substituir l’anís per crema.
 
 [Categories]
 categoria = Postres
+subcategoria = Coques
