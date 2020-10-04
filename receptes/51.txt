@@ -3,17 +3,17 @@ Espaguetis de carbassó 3 pestos
 
 [Ingredients]
 persones = 4
-titol = Espaguetis:
-2 carbassons tallats amb un Spirali, amb el gruix que més us agradi. Si són ecològics conserveu-ne la pell.
+titol = Espaguetis
+carabassó = 2 carbassons tallats amb un Spirali, amb el gruix que més us agradi. Si són ecològics conserveu-ne la pell.
 titol = Pesto vegà
 alvocat = 1 alvocat madur
 fruits secs = 2 grapats de festucs pelats
 herbes = 4 fulles d'alfàbrega fresca
 all = 1 o 2 grans d'all
-1 cullerada gran de llevat
+llevat = 1 cullerada gran de llevat
 llimona = Suc de llimona nutricional o de cervesa
 titol = Pesto rosso
-4 tomàquets deshidratats i remullats
+tomàquet = 4 tomàquets deshidratats i remullats
 herbes = 4 fulles d'alfàbrega fresca
 all = 1 o 2 grans d'all
 fruits secs = 4 cullerades grans d'ametlla Marcona en granet
