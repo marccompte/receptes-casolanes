@@ -1,23 +1,20 @@
 [Titol]
-pastís de cabratxo
+tomàquet, arrós i esparrecs
 
 [Ingredients]
-persones = 12
-escórpora = 500 gr de carn d'escórpora cuita
-cranc = 1 llauna de carn de cranc
-nata = 200 ml de nata
-ous = 4 o 5 ous
-tomàquet = 100 gr de tomàquet fregit
-sal = sal
-pebre = pebre
+persones = 
+arròs = 200 g d'arròs.
+tomàquets = 2 tomàquets madurs.
+ceba = 100 g de ceba.
+espàrrecs = 16 puntes d'espàrrecs bladers.
+brou = 1 litre de brou de verdures.
+mantega = 1 cullerada de mantega.
+oli = 4 cullerades d'oli d'oliva.
+sal = Sal.
 
 [Elaboracio]
-Untar amb mantega un motlle de plum-cake i empolvorar-lo de pa ratllat.
-Triturar tots els ingredients fins a fer una pasta rosada.
-Abocar en el motlle i enfornar a bany maria 45-50 minuts o fins que en punxar amb un escuradents, aquest surti net.
-Servir sobre llit d'enciam adornat amb maionesa.
-Es menja untat en llesques de pa torrat.
-També es pot fer amb lluç, mes ràpid i barat.
+En una cassola, sofregim la ceba picada fina amb dues cullerades d'oli i 25 grams de mantega. Quan es dauri, agreguem les puntes d'espàrrecs. Una vegada daurats traiem de la cassola, reservem. En l'oli del saltat cuinem el tomàquet picat. Una vegada cuinat agreguem el brou. Rectifiquem de sal i pebre. Deixem coure 10 minuts. Afegim l'arròs i deixem coure durant 25 minuts. Esperem deu minuts abans de servir la sopa d'arròs. Posem a punt de sal, agreguem les puntes d'espàrrecs saltats i servim molt calent.
 
 [Categories]
 categoria = Entrants
+subcategoria = Sopes
