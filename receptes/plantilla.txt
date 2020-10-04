@@ -1,0 +1,13 @@
+[Titol]
+
+
+[Ingredients]
+ingredient_base = descripcio
+
+
+[Elaboracio]
+
+
+[Categories]
+categoria = Arrossos
+subcategoria = Mar
