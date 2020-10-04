@@ -21,3 +21,4 @@ Sobre una torradeta disposar el paté acabat de preparar, un quart de tomaca che
 
 [Categories]
 categoria = Aperos
+subcategoria = Olivada
