@@ -1,0 +1,27 @@
+[Titol]
+Sopa de marisc
+
+[Ingredients]
+llagostins = ¼ Kg. de llagostins
+ 100 gr. cloïsses
+porro = 1 porro
+pastanaga = 3 pastanagues
+ceba = 1 ceba
+arròs = ½ tassa d'arròs
+tomàquet = 1 got de salsa de tomàquet
+conyac = 1 copa de conyac
+pebre = 1 cullerada de pebre roig dolç
+oli= Oli d'oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Daurar les peles i caps dels llagostins. Afegir el porro, la ceba, la pastanaga trossejada i flambear amb una copita de conyac.
+Ofegar i fregir el pebre roig dolç. Abocar la salsa de tomàquet i cobrir amb aigua.
+Netejar el rap i afegir l'espina.
+Deixar bullir, ajustar de sal i tirar un grapat d'arròs per a espessir. Deixar coure 30 minuts a foc suau. Treure l'espina del rap, triturar i colar.
+Tallar el rap en daus petits i sofregir-los juntament amb les cloïsses, els llagostins oberts per la meitat i una mica de brou de la sopa.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes
