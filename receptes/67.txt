@@ -16,5 +16,4 @@ sal = Sal.
 En una cassola, sofregim la ceba picada fina amb dues cullerades d'oli i 25 grams de mantega. Quan es dauri, agreguem les puntes d'espàrrecs. Una vegada daurats traiem de la cassola, reservem. En l'oli del saltat cuinem el tomàquet picat. Una vegada cuinat agreguem el brou. Rectifiquem de sal i pebre. Deixem coure 10 minuts. Afegim l'arròs i deixem coure durant 25 minuts. Esperem deu minuts abans de servir la sopa d'arròs. Posem a punt de sal, agreguem les puntes d'espàrrecs saltats i servim molt calent.
 
 [Categories]
-categoria = Entrants
-subcategoria = Sopes
+categoria = Vegetarià
