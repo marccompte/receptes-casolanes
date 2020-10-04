@@ -20,3 +20,4 @@ Posem les làmines en un plat amb els talls més bonics per fora i els més peti
 
 [Categories]
 categoria = Aperos
+subcategoria = Carpaccio
