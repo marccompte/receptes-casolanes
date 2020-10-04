@@ -1,7 +1,7 @@
 [Titol]
 Galets farcits de foie i bolets
 
-[Ingredientes]
+[Ingredients]
 personas = 4
 pasta =150 grams de Galets grans 
 foie = 200 grams de foie-gras d'ànec o d'oca
