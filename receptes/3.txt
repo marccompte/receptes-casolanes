@@ -15,3 +15,4 @@ Ja el tenim a punt per menjar! El servirem acabat de sortir de la nevera, ja que
 
 [Categories]
 categoria = Entrants
+subcategoria = Carpaccio
