@@ -98,5 +98,10 @@ Un pas molt important és que el tingueu a foc fort durant dos minuts, i despré
 ; I l'identificador ha de ser sempre categoria.
 ; La descripció ha de ser tal com es vol que aparegui a la web (al menú i a tot arreu).
 ; Si es vol canviar el nom de l'apartat a la web, cal canviar-ho a totes les receptes.
+;
+; Si, dins d'aquesta categoria, la recepta s'ha d'agrupar en una subcategoria cal afegir;
+;
+; subcategoria = nom_subcategoria
 
 categoria = Arrossos
+subcategoria = Mar
