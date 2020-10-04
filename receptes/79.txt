@@ -1,0 +1,30 @@
+[Titol]
+Fideus, espinacs, bolets i gambes
+
+[Ingredients]
+pasta = 250 gr. de Pasta
+bolets = 200 gr. de bolets
+gambas = 200 gr. de gambes crues pelades
+ceba = 1 ceba
+all = 4 grans d'all
+albergínia = 1 albergínia
+tomàquet = 1 tomàquet
+espinacs = ½ manoll d'espinacs
+nata = 1 got de nata
+formatge = 1 tascó de formatge
+herbes = Alfàbrega fresca
+oli = Oli d'oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Coure la pasta en aigua amb sal. Refredar i reservar.
+Trossejar i sofregir la ceba, els alls, les albergínies i el tomàquet. Afegir alfàbrega picada, salpebrar i reservar.
+Saltejar els bolets amb 1 gra d'all picat i salpebrar.
+Triturar la meitat dels bolets amb 1 got de nata i reservar.
+Afegir les gambes pelades a la paella dels bolets i sofregir lleugerament.
+Barrejar la salsa, amb els bolets, les gambes, les verdures ofegades i la pasta.
+Cobrir un motlle amb fulles d'espinacs, emplenar amb la pasta, cobrir-lo amb formatge ratllat i enfornar 5 minuts a 190 °C
+
+[Categories]
+categoria = Pasta

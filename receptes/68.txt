@@ -1,0 +1,35 @@
+[Titol]
+negre amb sèpia
+
+[Ingredients]
+Sípia = 2 chocos de Huelva
+arròs = 350 gr. arròs de gra curt
+gamba = 150 gr. de gambes arrosseres
+ceba = 1 ceba
+pebrot = 2 pebrots verds i 1 vermell
+all = 8 grans d'all
+porro = 2 porros
+pa = 3 llesques de pa torrat
+tinta = 5 sobres de tinta de calamar
+conyac  = 1 copa de conyac
+brou = 1 litre de brou de peix.
+pebre = pebre negre i roig dolç
+herbes = julivert i Llorer
+oli = olï d'oliva
+sal = sal
+
+[Elaboracio]
+Picar generosament la ceba, el pebrot verd i 1 gra d'all. Sofregir en un cassó fins que estovi la verdura. Afegir les llesques de pa fregit i un got de brou de peix.
+Tallar els sobres de tinta i incorporar-los al cassó. Deixar bullir uns 8 minuts.
+Netejar els chocos i daurar-los en la paellera. Apartar-los en un plat.
+Piquem el porro, all i pebrot vermell i l’ofeguem breument, amb el llorer, en la mateixa paellera.
+Afegeixo el pebre vermell i el brandi. Li cremem l'alcohol.
+Triturar la salsa negra amb la batedora.
+Afegir l'arròs a la paellera i sofregir-lo lleugerament
+Abocar el doble de brou de peix que d'arròs i incorporar 2 cassons sopers de salsa de tinta.
+Coure l'arròs 8 minuts, revisant el punt de sal.
+Disposar els chocos reservats i les gambes sobre l'arròs i introduir en el forn a 220 °C durant 5 minuts.
+Fer una picada en el morter amb 1 gra d'all, sal, julivert picat i oli d'oliva.
+
+[Categories]
+categoria = Arrossos

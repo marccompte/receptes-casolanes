@@ -1,0 +1,22 @@
+[Titol]
+Risotto
+
+[Ingredients]
+persones = 2
+arròs = 150 g d’arròs Arborio
+porro = Un porro
+tòfona = Una cullerada de postre de pasta de tòfona
+brou = Brou de verdures
+mantega = 20 g de mantega
+formatge = Parmesà ratllat
+vi = Un raig de vi blanc
+oli = Oli
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Tallem el porro molt petit i el sofregim amb un raig d’oli en una cassola de fang (o alguna altra cassola baixa). Quan estigui cuit hi posem l’arròs i hi donem unes voltes fins que estigui una mica transparent. Ara hi posem un raig de vi i deixem evaporar. Hi comencem a afegir el brou en petites quantitats. Com sempre, per fer el risotto hi posarem el líquid a poques quantitats sense deixar de remenar, i afegint-ne de nou a mesura que l’arròs se’l vagi bevent. Resulta pràctic tenir el brou en un cassó al fogó del costat, així es manté calent mentre l’anem afegint durant el procés de cocció de l’arròs.
+Ho courem uns 17 minuts, i cap al final de la cocció hi posarem la mantega, parmesà ratllat al gust i la pasta de tòfona, remenant-ho bé.
+
+[Categories]
+categoria = Vegetarià

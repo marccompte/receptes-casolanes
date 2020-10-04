@@ -1,0 +1,20 @@
+[Titol]
+de bolets
+
+[Ingredients]
+persones = 4 
+arròs = 400g d’arròs bomba
+bolets = 150g. de rovellons, 150g. de gírgoles i 150g. de llenega blanca
+ceba = 1 ceba
+all = 2 alls pelats
+pebrot = 1 pebrot verd i 1/4 de vermell
+sal = sal
+oli = oli
+
+[Elaboracio]
+Renteu i talleu els bolets a talls petits. Escalfeu un parell de litres d’aigua i escaldeu-hi tots els bolets quan arrenqui el bull. Guardeu aquest brou.
+En una cassola de terrissa amb un raig d’oli, sofregiu-hi a ceba triturada. Incorporeu-hi els bolets i deixeu coure un parell de minuts. Afegiu-hi els alls laminats i els pebrots tallats a daus petits.
+Quan aquest sofregit estigui ben confitat i els bolets hagin deixat anar el suc, tireu-hi l’arròs i remeneu-ho bé. Aneu afegint-hi el brou dels bolets i deixeu-ho coure 8 minuts a foc fort. Tot seguit saleu i deixeu-ho coure uns minuts més a foc baix fins que l’arròs estigui al punt. Serviu-lo una mica sucós.
+
+[Categories]
+categoria = Arrossos

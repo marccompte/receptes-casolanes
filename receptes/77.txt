@@ -1,0 +1,32 @@
+[Titol]
+Cigrons amb sípia
+
+[Ingredients]
+cigrons = ½ Kg. de Cigrons
+patates = ½ Kg. de Patates
+sípia = 1 Kg. de Choco net
+pèsols = 100 gr. de pèsols
+ceba = 2 cebes
+pebrot = 1 pebrot vermell
+all = 5 grans d'all
+tomàquet = 1 tomàquet
+pa = 1 baguette
+vi = 1 copa de vi blanc
+brou = 2 litres de brou de pescat
+pebre = Pebre roig dolç
+safrà = safrà
+herbes = llorer
+julivert = julivert.
+oli = Oli d'oliva
+
+[Elaboracio]
+Coure els cigrons en aigua amb sal, una ceba i llorer.
+Picar l'altra ceba, el pebrot vermell i 4 grans d'all. Ofegar-los amb una fulla de llorer. Tallar el choco en daus i incorporar-ho a les verdures. Afegir una cullerada de pebre roig dolç, els tomàquets trossejats i deixem fregir el tomàquet. Incorporar una copa de vi blanc i seguidament, el brou de peix.
+Pelar les patates, trossejar-les i afegir-les al guisat juntament amb el safrà.
+Deixar coure fins que les patates i el xoco estiguin tous.
+Acabar el guisat incorporant els cigrons, els pèsols i ajustant de sal i deixar coure lentament 10 minuts.
+Batre ½ got d'oli d'oliva amb 1 gra d'all i julivert fresc. Tallar el pa en llesques i untar amb aquest oli de julivert.
+Torrar les llesques en el forn a 190 °C.
+
+[Categories]
+categoria = Llegums

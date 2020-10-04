@@ -1,0 +1,21 @@
+[Titol]
+Tallarines
+
+[Ingredients]
+persones = 2
+pasta = 250 g pasta d’ou (tallarines)
+ceba = 2 cebes de Figueres
+oli = oli d’oliva verge extra
+sal = sal
+tòfona = tòfona negra
+
+[Elaboracio]
+En una paella, s’hi escalfa un xic d’oli d’oliva. Mentrestant, es tallen les cebes ben petites.
+A continuació, es couen les cebes amb l’oli ben calent fins que quedin ben cuites i toves i comencin a agafar un xic de color.
+Mentrestant, es talla una mica de tòfona negra ben petita i s’afegeix a la ceba.
+Per altra banda, es bull la pasta en una olla amb aigua bullint i un pols de sal.
+Es deixa coure el temps recomanat segons el tipus de pasta. S’escorre i s’afegeix a la paella amb la ceba i la tòfona.
+Finalment, s’emplata la pasta, s’amaneix amb un bon raig d’oli i unes llesques ben fines de tòfona negra.
+
+[Categories]
+categoria = Vegetarià

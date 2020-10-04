@@ -1,0 +1,24 @@
+[Titol]
+de rap, mango i alvocat
+
+[Ingredients]
+llom = 500 gr. de llom de rap net
+mango = 3 mangos
+alvocat = 2 alvocats
+magrana = 1 magrana
+iogurt = 1 iogurt grec
+enciam = 1 bol d'enciams variats, cebollí fresc
+pebre = Pebre vermell dolç i negre
+oli = oli d'oliva
+vinage = vinagre
+sal = sal
+
+[Elaboracio]
+Netejar el rap. Fregar els lloms nets amb oli d'oliva, sal i pebre vermell dolç. Cobrir amb film plàstic i bullir en aigua amb sal durant 12 minuts. Retirar i escórrer el rap. Deixar refredar en la nevera amb pes damunt.
+Pelar els mangos i treure’n la carn. Tallar algunes làmines de mango i reservar-lo en fred. Tallar la resta de mango en daus.
+Farem una salsa triturant el mango sobrant amb el iogurt grec, oli d'oliva, sal i pebre.
+Netejar l'alvocat, tallar-lo en làmines i reservar en fred. L'altre alvocat el tallem en daus
+Fer una vinagreta amb els daus de mango i alvocat, la magrana, cebollí, julivert, oli d'oliva, vinagre, sal i pebre.
+
+[Categories]
+categoria = Amanides

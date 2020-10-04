@@ -1,0 +1,25 @@
+[Titol]
+Espaguetis, musclos, gambes i tonyina
+
+[Ingredients]
+persones = 4
+espaguetis = 250 grams d'espaguetis.
+gamba = 100 grams de gambes pelades.
+musclos = 200 grams de musclo sense closca.
+tonyina = 1 medalló de tonyina.
+ceba = 100 grams de ceba.
+all = 2 dents d'alls.
+julivert = julivert.
+oli = 1 decilitre d'oli d'oliva.
+vi = 1 decilitre de vi blanc.
+farina = 1 cullerada petita de maicena exprés.
+sal = Sal.
+
+[Elaboracio]
+Coem la pasta en aigua bullint amb un polsim de sal durant 10 minuts. Una vegada cuita refresquem sota l'aixeta d'aigua freda i escorrem, untem d'oli d'oliva i reservar-nos.
+En una paella, posem l'oli, l'all trossejat, la ceba en juliana i, una vegada ofegats, afegim la tonyina en trossets, la carn dels musclos, les gambes i una mica de sal.
+Quan el peix i marisc estan a punt, s'aboca el vi blanc i donem un bulliment perquè s'evapori l'alcohol. A continuació, s'afegeix 1 decilitre d'aigua, i un polsim de maicena exprés que espesseixi una mica.
+Barregem la salsa amb la pasta, es dóna un toc de verd amb una mica de julivert fresc picat, escalfem de nou, posem a punt de sal i servim a l'instant.
+
+[Categories]
+categoria = Pasta

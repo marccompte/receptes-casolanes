@@ -1,0 +1,15 @@
+[Titol]
+Canalons de carn
+
+[Ingredients]
+pollastre = pollastre
+vedella = carn de vedella
+porc = carn de porc
+
+[Elaboracio]
+En una cassola posarem a rostir tot el tall juntament amb un tomàquet, una ceba i un tros de pastanaga. Quan el tinguem ja fet i ben ros li afegim una mica de conyac i després ja ho podrem triturar tot. Ho barregem bé i ho posem en una paella amb una mica de farina (que quedi ben torrada) i afegim una mica de llet perquè es mescli millor i sigui més melós.
+Amb aquesta operació ja tindrem el farcit preparat. I podrem començar a enrotllar els canelons que anirem posant en una safata preparada per anar al forn amb una mica de mantega a sota perquè no s’enganxin. Quan tinguem tots els canelons enrotllats li tirem la beixamel per sobre i li posem força formatge ratllat per sobre amb trossos de mantega petits i ja ho
+podrem posar al forn a gratinar.
+
+[Categories]
+categoria = Pasta
