@@ -1,23 +1,25 @@
 [Titol]
-Carpacio de Ceps 2
+consomé de pollastre
 
 [Ingredients]
 persones =
-bolets = ceps i/o barreja de bolets
-fruits secs = 50 g de pinyons
-herbes = branqueta de romaní, branqueta de farigola, pinassa
-oli  = 300 ml oli oliva
-pebre = pebre 
-sal= sal grossa
+pollastre = 1 pollastre de 1,5 Kg. aproximadament
+bolets = 100 gr. de bolets de temporada
+ceba = 1 ceba
+porro = 1 porro
+pastanaga = 1 pastanaga
+vi = 1 got de vi de Jerez
+herbes = Llorer i farigola
+oli = Oli d'oliva
+sal = sal
+pebre = pebre
 
 [Elaboracio]
-Tallem unes quantes fulles de romaní i unes de pinassa i les posem dins el got de la batedora amb fulles de farigola i oli oliva.
-Triturem l'oli amb les herbes. L'escalfem en un pot uns minuts sense que arribi a bullir i ho deixem reposar durant 30 minuts tapat amb un drap.
-Colem l'oli de bosc amb una malla fina dins el got de la batedora.
-Afegim 50 g de pinyons a l'oli de bosc i ho triturem. Ho deixem reposar i n'omplim un flascó.
-Netegem els ceps en una palangana amb aigua i els tallem a làmines primes.
-Posem les làmines en un plat amb els talls més bonics per fora i els més petits per dins. Hi afegim l'oli de bosc per sobre, sal i pebre i unes fulles de farigola.
+Llevar els pits de pollastre i les cuixes al pollastre. Rentar bé la carcassa i introduir-la al forn amb la ceba tallada en rodanxes, 190 °C fins que estigui daurada.
+Posar la carcassa i les cuixes al foc coberts amb aigua freda. Quan comenci a bullir ho retirem i ho rentem en aigua amb gel. Els tornem a posar al foc, coberts amb aigua freda.
+Afegim a l'aigua les rodanxes de ceba torrades i un grapat de sal i un ramet amb el blanc del porro, la pastanaga, llorer i farigola i ho deixem bullir suaument 1 hora.
+Saltar la carn trossejada dels pits de pollastre amb els bolets tallats en daus. Salpebrar i reservar.
 
 [Categories]
 categoria = Entrants
-subcategoria = Carpaccio
+subcategoria = Sopes
