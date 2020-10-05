@@ -14,5 +14,5 @@ Deixem reposar a la nevera uns 10 minuts.
 Ja el tenim a punt per menjar! El servirem acabat de sortir de la nevera, ja que el fred dona la consistència perfecta al <i>carpaccio</i>.
 
 [Categories]
-categoria = Apero
+categoria = Aperos
 subcategoria = Carpaccio
