@@ -1,5 +1,5 @@
 [Titol]
-Carpaccio de ceps 1
+de ceps 1
 
 [Ingredients]
 persones =
