@@ -1,5 +1,5 @@
 ﻿[Titol]
-Carpaccio de ceps 2
+de ceps 2
 
 [Ingredients]
 persones = 4 pax
