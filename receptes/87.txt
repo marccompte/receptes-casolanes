@@ -24,4 +24,4 @@ Omplim una safata de forn rodona amb els macarrons amb formatge. Ratllem 100 g d
 
 [Categories]
 categoria = Vegetarià
-subctegoria = Pasta
+subcategoria = Pasta
