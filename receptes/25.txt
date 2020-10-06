@@ -17,3 +17,4 @@ Per a anar encara més ràpid, pots preparar la crema amb pebrots del piquillo e
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Puré
