@@ -1,5 +1,5 @@
 [Titol]
-Sopa de fredolics
+de fredolics
 
 [Ingredients]
 persones = 4 pax
