@@ -1,0 +1,16 @@
+[Titol]
+Sopa d'all
+
+[Ingredients]
+all = 4 grans d'all
+pa = 300 grs.de pa sec
+ous = 4 ous
+sal = sal
+oli = Oli d'oliva verge extra
+
+[Elaboracio]
+Fregim els quatre grans d'alli, amb el mateix oli, les llesques de pa del dia abans fins que estiguin daurades.Ho barrejem tot i ho fem bullir amb aigua, ho salem i ho deixem coure durant uns quince minuts.Si es desitja, es pot afegir un ou per persona durant els ultims minuts de cocció, fis que les clares estiguin quallades.
+
+[Categories]
+categoria = Entrant
+subcategoria = Sopes
