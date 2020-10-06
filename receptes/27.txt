@@ -1,5 +1,5 @@
 ﻿[Titol]
-puré d’albergínia
+d’albergínia
 
 [Ingredients]
 Persones = 4 pax (90 min. 214 Kcal/persona)
@@ -20,3 +20,4 @@ Una alternativa és substituir el llom ibèric per tomàquet sec en oli
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Puré
