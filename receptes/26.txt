@@ -19,3 +19,4 @@ Disposar la crema d'alvocat en gotets o bols petits, prèviament refredats en el
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Puré
