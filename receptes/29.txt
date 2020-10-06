@@ -23,3 +23,4 @@ En un bol ampli acabarem de fer la recepta. Primer afegeix la pasta escorreguda,
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Pasta
