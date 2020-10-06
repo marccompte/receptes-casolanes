@@ -12,5 +12,5 @@ oli = Oli d'oliva verge extra
 Fregim els quatre grans d'alli, amb el mateix oli, les llesques de pa del dia abans fins que estiguin daurades.Ho barrejem tot i ho fem bullir amb aigua, ho salem i ho deixem coure durant uns quince minuts.Si es desitja, es pot afegir un ou per persona durant els ultims minuts de cocció, fis que les clares estiguin quallades.
 
 [Categories]
-categoria = Entrant
+categoria = Entrants
 subcategoria = Sopes
