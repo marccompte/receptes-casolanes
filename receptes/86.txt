@@ -1,5 +1,5 @@
 [Titol]
-Tallarines
+Tallarines & tòfona
 
 [Ingredients]
 persones = 2
@@ -19,3 +19,4 @@ Finalment, s’emplata la pasta, s’amaneix amb un bon raig d’oli i unes lles
 
 [Categories]
 categoria = Vegetarià
+subctegoria = Pasta
