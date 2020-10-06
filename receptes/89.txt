@@ -19,4 +19,4 @@ Posar-ho en una font preescalfada, ruixar-la amb els formatges fosos i escampar 
 
 [Categories]
 categoria = Vegetarià
-subctegoria = Pasta
+subcategoria = Pasta
