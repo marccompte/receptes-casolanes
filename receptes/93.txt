@@ -1,5 +1,5 @@
 [Titol]
-Sopa de marisc
+de marisc
 
 [Ingredients]
 llagostins = ¼ Kg. de llagostins
