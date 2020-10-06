@@ -1,5 +1,5 @@
 ﻿[Titol]
-puré de pèsols i pebrots
+de pèsols i pebrots
 
 [Ingredients]
 Persones = 4 pax (25 min. 170 cal)
