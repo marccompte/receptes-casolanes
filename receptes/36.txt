@@ -23,3 +23,4 @@ Enforna-la durant 25-30 minuts, que serà el moment en el qual la massa comenci 
 
 [Categories]
 categoria = Postres
+subcategoria = Pastís
