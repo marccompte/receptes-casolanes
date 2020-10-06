@@ -1,5 +1,5 @@
 [Titol]
-pastís de maduixots
+de maduixots
 
 [Ingredients]
 maduixes = 500 g de maduixots
@@ -28,3 +28,4 @@ cobriu la pasta amb la crema, talleu els maduixots al gust i cobriu-ne el motlle
 
 [Categories]
 categoria = Postres
+subcategoria = Pastís
