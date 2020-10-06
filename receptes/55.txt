@@ -16,3 +16,4 @@ Una vegada ha sortit del forn i s’ha refredat, desmotllar-la, posar a sobre un
 
 [Categories]
 categoria = Postres
+subcategoria = Pastís
