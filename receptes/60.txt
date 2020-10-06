@@ -1,5 +1,5 @@
 [Titol]
-Coca de revetlla
+de revetlla
 
 [Ingredients]
 ous = 6 ous
