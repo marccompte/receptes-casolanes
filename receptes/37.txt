@@ -25,3 +25,4 @@ Servir-ho acompanyat de nata.
 
 [Categories]
 categoria = Postres
+subcategoria = Pastís
