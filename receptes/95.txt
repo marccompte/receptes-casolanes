@@ -2,14 +2,16 @@
 Sopa d'all
 
 [Ingredients]
-all = 4 grans d'all
+persones = 4
+all = 8 grans d'all
 pa = 300 grs.de pa sec
-ous = 4 ous
+brou = 1,5l de brou de versures o pollastre
+ous = 2 ous
 sal = sal
 oli = Oli d'oliva verge extra
 
 [Elaboracio]
-Fregim els quatre grans d'alli, amb el mateix oli, les llesques de pa del dia abans fins que estiguin daurades.Ho barrejem tot i ho fem bullir amb aigua, ho salem i ho deixem coure durant uns quince minuts.Si es desitja, es pot afegir un ou per persona durant els ultims minuts de cocció, fis que les clares estiguin quallades.
+Fregim els vuit grans d'all i, amb el mateix oli, el pa sec trossejat remanant constanment fins que estiguin daurades. Ho barrejem tot i ho fem bullir amb el brou, rectifiquem de sal i ho deixem coure durant 15 - 20 minuts. Retirar-ho del foc, afegir els ous batuts i remanem fins que les clar es estiguin quallades.
 
 [Categories]
 categoria = Entrants
