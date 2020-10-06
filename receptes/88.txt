@@ -19,3 +19,4 @@ Coleu la pasta, reservant-ne un parell de cullerots d’aigua de cocció. Afegiu
 
 [Categories]
 categoria = Vegetarià
+subctegoria = Pasta
