@@ -3,7 +3,7 @@ Sopa de marisc
 
 [Ingredients]
 llagostins = ¼ Kg. de llagostins
- 100 gr. cloïsses
+cloïssa = 100 gr. cloïsses
 porro = 1 porro
 pastanaga = 3 pastanagues
 ceba = 1 ceba
