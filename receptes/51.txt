@@ -30,3 +30,4 @@ Poseu els tres pestos sobre els espaguetis verds de carbassó i guarniu-ho amb l
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Pasta
