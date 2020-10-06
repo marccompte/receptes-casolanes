@@ -1,5 +1,5 @@
 [Titol]
-Sopa d'all
+d'all
 
 [Ingredients]
 persones = 4
