@@ -1,0 +1,18 @@
+[Titol]
+de ceps 1
+
+[Ingredients]
+persones =
+bolets = Ceps
+formatge = Un pols de parmesà
+
+[Elaboracio]
+Primer netegem els ceps. És molt important que els ceps siguin molt tendres i sans, ja que tenen la textura perfecta per fer el <i>carpaccio</i>. Si triem exemplars massa madurs el resultat no serà tant bo.
+Un cop nets els ceps, els tallarem a làmines molt fines. Repartirem les làmines de ceps pel plat i amanirem al gust, sense passar-nos ja que es tracta de respectar el gust del cep.
+Ratllarem una mica de parmesà i el tirarem per sobre. Un cop més haurem d’anar amb compte de no emmascarar gaire el gust dels bolets.
+Deixem reposar a la nevera uns 10 minuts.
+Ja el tenim a punt per menjar! El servirem acabat de sortir de la nevera, ja que el fred dona la consistència perfecta al <i>carpaccio</i>.
+
+[Categories]
+categoria = Aperos
+subcategoria = Carpaccio
