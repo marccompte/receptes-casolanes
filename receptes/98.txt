@@ -12,6 +12,6 @@ En una paella amb l’oli ben calent, posem uns talls ben fins de pernil de gla 
 En una altra paella amb l’oli també ben calent posem un motllo rodo d’alumini, tirem un parell d’ous, podeu retirar una mica de clara, fregim els ous quan estiguin ben fets, és a dir a punt de sucar-hi pa, els retirem amb compte, si el motllo us queda enganxat amb els ous, que és el més probable, retireu conjuntament amb un estri de cuina i un drap per agafar el motllo, i ho posem al plat, i llavors delicadament retirem el motllo amb un estri fi, estil flam d’abans.
 Els ous fregits ens quedaran rodons, els acompanyem pel voltant amb els cruixents de pernil de gla, i després ratllem per sobre dels ous el pernil la tòfona negra al gust, tot acompanyat també d’un bon pa i un millor vi negre, l’aroma de la tòfona us acompanyarà bona part del dia i/o la nit, és un plat que recordareu i alguna vegada enyorareu i tot.
 
-[Categries]
+[Categories]
 categoria = Entrants
 subcategoria = Ous
