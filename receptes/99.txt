@@ -1,0 +1,17 @@
+[Titol]
+Ous de guatlla, ceps i tòfona
+
+[Ingredients]
+bolets = 250g de ceps frescos
+oli = 200ml d’oli d’oliva extra verge
+tòfona = 2 tòfones
+herbes = Flors de romaní
+sal = Sal Maldon
+ous = 16 ous de guatlla
+
+[Elaboracio]
+Primer de tot netegeu molt bé els ceps. Feu-ho amb un drap una mica humit. Un cop nets, talleu-los a làmines. Poseu un cassó petit al foc amb l’oli d’oliva extra verge i  les tòfones tallades a làmines. Incorporeu-hi els ceps laminats i deixeu-ho coure tot junt, mitja hora a una temperatura baixa (60-65º). Un cop cuits els ceps, enretireu-los del foc i distribuïu-los en el plat de presentació. En una paella, poseu-hi oli de la cocció dels ceps i fregiu els ous de guatlla a foc mitjà. Poseu els ous sobre els ceps i a sobre una làmina de tòfona. Amaniu els ceps amb una mica de sal Maldon i decoreu amb unes flors de romaní.
+
+[Categories]
+categoria = Entrants
+subcategoria = Ous
