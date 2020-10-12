@@ -1,0 +1,17 @@
+[Titol]
+Ous fregits, tòfona i pernil
+
+[Ingredients]
+ous = 1 parell d’ous per persona
+pernil = pernil de gla
+tòfona = tòfona negra
+
+[Elaboracio]
+Posem en un tupper un parell d’ous frescos i una tòfona negra, els tapem hermèticament i els hi deixem entre 24 i 48 hores. El que es produirà serà que l’aroma de la tòfona entrarà dins dels ous, encara que sembli mentida és així, si ens mengéssim els ous fregits sols tindrien gust de tòfona.
+En una paella amb l’oli ben calent, posem uns talls ben fins de pernil de gla quan estiguin ben torrats els retirem en un plat amb paper absorbent de cuina i el deixem reposar perquè perdin les restes d’oli i així quedin cruixents.
+En una altra paella amb l’oli també ben calent posem un motllo rodo d’alumini, tirem un parell d’ous, podeu retirar una mica de clara, fregim els ous quan estiguin ben fets, és a dir a punt de sucar-hi pa, els retirem amb compte, si el motllo us queda enganxat amb els ous, que és el més probable, retireu conjuntament amb un estri de cuina i un drap per agafar el motllo, i ho posem al plat, i llavors delicadament retirem el motllo amb un estri fi, estil flam d’abans.
+Els ous fregits ens quedaran rodons, els acompanyem pel voltant amb els cruixents de pernil de gla, i després ratllem per sobre dels ous el pernil la tòfona negra al gust, tot acompanyat també d’un bon pa i un millor vi negre, l’aroma de la tòfona us acompanyarà bona part del dia i/o la nit, és un plat que recordareu i alguna vegada enyorareu i tot.
+
+[Categries]
+categoria = Entrants
+subcategoria = Ous
