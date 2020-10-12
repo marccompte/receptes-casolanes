@@ -1,0 +1,26 @@
+[Titol]
+Truita de pebrots
+
+[Ingredients]
+ous = 8 ous.
+pebrot = 200 grams de pebrot del piquillo  escorreguts.
+ceba = 1 ceba tendra fresca.
+all = 2 grans d'all.
+oli = 6 cullerades d'oli d'oliva.
+sucre = 2 cullerades de sucre.
+sal = Sal.
+titol = Per a acompanyar:
+pa= 4 torrades de pa de poble.
+enciam = Unes fulles d'enciam i de créixens.
+titol = Vinagreta de poma:
+oli = 6 cullerades d'oli d'oliva.
+vinagre = 2 cullerades de vinagre de poma.
+sal = Sal.
+
+[Elaboracio]
+Trossegem els pebrots del piquillo en tires no gaire llargues, tallem la ceba tendra i l'all en brounoisse (picadet molt petit). En una paella amb oli calent saltagem la ceba tendra amb l'all. Quan la ceba tendra s'hagi estovat, hi agreguem els pebrots i ofeguem el conjunt fins que el pebrot es cuini. Posem a punt de sal i un toc de sucre.
+Batem els ous, els agreguem el saltat de pebrots i barregem el conjunt. Fem quatre truites individuals en una paella antiadherent amb una cullerada d'oli d'oliva, fent la truita rodona tipus brioix. Servim juntament amb una torrada de pa, enciam i créixens, amanits amb la vinagreta de poma.
+
+[Categories]
+categoria = Entrants
+subcategoria = ous
