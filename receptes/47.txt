@@ -17,3 +17,4 @@ Amb l’oli de la paella ja n’hi haurà prou perquè es faci. No cal afegir ol
 
 [Categories]
 categoria = Entrants
+subcategoria = ous
