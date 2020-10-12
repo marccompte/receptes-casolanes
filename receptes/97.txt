@@ -1,0 +1,17 @@
+[Titol]
+Niu d’ou amb patates
+
+[Ingredients]
+patates = 5 patates mitjanes
+ous = 4 ous
+tòfona = 1 tòfona
+oli = oli d’ oliva, sal, una mica de pebre, una mica de julivert per a decorar
+
+[Elaboracio]
+Fem bullir les patates a trossos amb sal fins que siguin cuites. Reservem una mica d’ aigua de cocció (per afegir-la al puré de patates, si ens cal). Les aixafem amb una mica d’ oli d’ oliva i una mica de pebre. Afegim si ens convé, l’aigua de cocció.
+Posem un tros de paper film en una tassa, l’ untem amb oli i hi aboquem l’ ou. Fem una mena de paquet cargolant l’ extrem del plàstic. Fem un paquet per cada ou. Posem aigua en una olla i quan bull  hi posem els paquetets amb els ous. Els deixem coure uns 5 minuts. També els podriem fer ferrats.
+Muntem el plat: posem a sota el puré de patates amb la màniga pastissera, després l’ ou, i per últim la tòfona ratllada (prèviament rentada i raspallada amb un raspallet ben petit, per treure tota al terra que té) i el julivert picat.
+
+[Categories]
+categoria = Entrants
+subcategoria = Ous
