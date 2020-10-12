@@ -1,0 +1,20 @@
+[Titol]
+Niu d’ous, pernil i tòfona
+
+[Ingredients]
+Persones = 2
+pa = dos panets rodons individuals
+ous = 4 ous (o 2, depenent dels que us soleu menjar)
+pernil = Pernil salat o ibèric (molt millor)
+herbes = Herbes provençals
+Tòfona
+
+[Elaboracio]
+Posem a preescalfar el forn a 180ºC.
+Tallem la part superior del pa, que ens servirà de tapa, i després buidem l’interior del pa de la molla. Tot seguit hi tallem una mica de pernil ibèric per tota la base, hi posem els ous al damunt, tornem a tallar una mica més de pernil ibèric pel damunt dels ous, hi posem una mica d’herbes provençals i ho posem al forn, primer, 10 minuts sense la tapa i després, 10 minuts més tapant-lo. I si veiem que els ous encara no estant cuits del tot, l’hi podem deixar 5 minuts més. També, dir-vos que si el pa es torra massa li podem posar una mica de paper d’alumini pel voltant i així els ous s’acabaran de fer i el pa quedarà perfecte.
+Ho retirem del forn, el destapem i hi ratllem una mica de tòfona pel damunt. I ja ho tenim a punt!
+Per aprofitar la molla del pa, n’he fet boletes, les he punxat amb un escuradents i així hem pogut sucar el rovell dels ous amb la tapa i la molla del pa.
+
+[Categories]
+categoria = Entrants
+subcategoria = Ous
