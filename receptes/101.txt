@@ -2,14 +2,14 @@
 de mongetes, figues, i pernil
 
 [Ingredients]
-persones = 4 pax
+persones = 4
 figues = 8 figues
 mongetes = 400 g de mongeta perona
 pernil = Pernil ibèric tallat fi
 herbes = Alfàbrega morada
 llimona = Llimona confitada
 oli = Oli d'oliva extra verge
-sal = sal
+sal = Sal
 
 [Elaboracio]
 Es tracta d'un encurtit que podeu preparar a casa, cal deixar-lo fermentar durant almenys quatre setmanes o comprar-lo fet en una botiga de menjar àrab.
