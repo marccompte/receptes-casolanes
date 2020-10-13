@@ -10,9 +10,9 @@ herbes = Alfàbrega morada
 llimona = Llimona confitada
 oli = Oli d'oliva extra verge
 sal = sal
-Es tracta d'un encurtit que podeu preparar a casa, cal deixar-lo fermentar durant almenys quatre setmanes o comprar-lo fet en una botiga de menjar àrab.
 
 [Elaboracio]
+Es tracta d'un encurtit que podeu preparar a casa, cal deixar-lo fermentar durant almenys quatre setmanes o comprar-lo fet en una botiga de menjar àrab.
 Traieu les puntes de les mongetes i talleu-les després en forma de rombe perquè queda més atractiva quan les col·loquem en una amanida.
 Un cop tallades, tireu-les en una olla amb aigua bullent amb una cullerada de bicarbonat que farà que no perdin color. Deixeu-les bullir durant 7 minuts perquè quedin al dente, passat aquest temps,coleu-les i reserveu-les.
 Talleu les fihgues en 4 trossos.
