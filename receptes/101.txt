@@ -1,0 +1,26 @@
+[Titol]
+de mongetes, figues, i pernil
+
+[Ingredients]
+Persones = 4
+figues = 8 figues
+mongetes = 400 g de mongeta perona
+pernil = Pernil ibèric tallat fi
+herbes = Alfàbrega morada
+llimona =Llimona confitada
+oli = Oli d'oliva extra verge
+sal = sal
+
+[Elaboracio]
+Es tracta d'un encurtit que podeu preparar a casa, cal deixar-lo fermentar durant almenys quatre setmanes o comprar-lo fet en una botiga de menjar àrab
+1. Traieu les puntes de les mongetes i talleu-les després en forma de diamant perquè queda més atractiva quan les col·loquem en una amanida.
+2. Un cop tallades, tireu-les en una olla amb aigua bullent amb una cullerada de bicarbonat que farà que no perdin color.Deixeu-les bullir durant 7 minutsperquè quedin al dente, passat aquest temps,coleu-les i reserveu-les.
+3. Talleu les fihgues en 4 trossos.
+4. Agafeu un grill de llimona confitada en sal i talleu-lo a dauets.
+5. Per muntar el plat, poseu primer una base de mongeta tendra, que sigui més o menys uns 100 o 120 grams. Saleu-la i poseu-hi oli d'oliva.
+6. Escampeu pel damunt els bocins de llimona que li donaran un toc fresc i citric.
+7, Repartiu les figues tallades (2 per plat).
+8. Poseu les llenques de pernil al centre del plat, guarniu-la amb les fulles d'alfàbrega.
+
+[Categories]
+categoria = Amanides
