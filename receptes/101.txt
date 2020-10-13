@@ -2,7 +2,7 @@
 de mongetes, figues, i pernil
 
 [Ingredients]
-persones = 4
+persones = 4 pax
 figues = 8 figues
 mongetes = 400 g de mongeta perona
 pernil = Pernil ibèric tallat fi
