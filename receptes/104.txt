@@ -1,0 +1,31 @@
+[Titol]
+de Llavaneres
+
+[Ingredients]
+titol = Per a la crema
+sucre =[] 100gr de sucre
+llet = 500gr de llet
+farina= 50gr de maicena
+ous = 3 ous
+vainilla = beina de vainilla (només les llavors de l'interior)
+titol = Per a la coca:
+pasta fullada = 2 planxes rectangulars de pasta fullada de mantega.
+ous = 2 ous, separant rovells i clares
+sucre = sucre
+fruits secs = 100gr de pinyons
+llimona = Unes gotes de suc de llimona
+
+[Elaboracio]
+titol = La crema:
+Posar tots els ingredients en el got i programar 7 min/90è/vel 4. Reservar en un bol. Rentar bé got, fulles i tapa.
+titol= La coca:
+Escalfar el forn a 180è
+Sobre un paper de forn posar una planxa de pasta fullada i estirar-la una mica amb un corró. Punxar tota la superfície amb una forquilla. Repartir la crema sobre la massa.
+Estirar l'altra planxa una mica més gran que la t1ra i punxar-la amb una forquilla. Posar-la sobre la crema i doblegar tot el sobrant cap a sota la 1a massa.
+Posar les fulles de la màquina (molt net! qualsevol rastre de greix impediria muntar) posar les 2 clares i unes gotes de suc de llimona. Programar 2 min/37è/vel 3,5
+En un bol gran, posar els rovells i batre'ls una mica. Després incorporar les clares muntades a poc a poc i amb moviments suaus de dalt a baix. Cobrir bé tota la superfície de la coca. Repartir per damunt els pinyons i sucre amb generositat.
+Enfornar uns 30 min aproximadament. (depend de cada forn)
+
+[Categories]
+categoria = Postres
+subcategoria = Coques
