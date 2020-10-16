@@ -3,7 +3,7 @@ amb massa mare
 
 [Ingredients]
 titol = Glacejat
-sucre = 60gr de sucre(*)
+sucre = 60gr de sucre (*)
 taronja = La pell de 1 taronja
 llimona = 1 llimona, sense la part blanca
 titol = massa mare
