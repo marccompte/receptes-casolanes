@@ -1,0 +1,28 @@
+[Titol]
+Coca de Sant Joan
+ 
+[Ingredients]
+sucre = 50 g sucre i 50gr de sucre invertit (*)
+ous = 2 ous + 1 per pintar la superfície
+mantega = 65 g mantega
+llet = 120 g llet
+taronja = La pell d’una taronja
+llimona = La pell d’una llimona
+herbes= 30 g d’aigua de tarongina(o anís)
+llevat = 30 g llevat de fer pa
+farina = 480 g farina de força
+sal = 1 pessic de sal
+fruits secs = Pinyons, fruita confitada, ou batut, sucre o crema pastissera per decorar.
+ 
+[Elaboracio]
+per 1 coca gran, polvoritzar el sucre 30" a vel 5-10, afegir les pells (ben seques) y repetir 30" més i afegir-hi els ous, el sucre invertit, la mantega, la llet, el llevat i l’aigua de tarongina. Programar 2 min/37º/vel 2.
+Incorporar la farina i la sal i barrejar 4 seg/vel 6 i amassar 2 min/vel espiga.
+Treure la massa del got i estirar sobre la safata del forn forrada amb paper vegetal. Deixar pujar uns 50 minuts en un lloc càlid allunyat de corrents d’aire.
+Escalfar el forn a 170-180º. Posar un recipient amb una mica d’aigua.
+Decorar amb la fruita i pinyons, pintar amb ou batut, empolvorar  amb el sucre granulat lleugerament humida amb unes gotes d’aigua. O be, amb ajut d’una màniga pastissera, fer una reixa de crema pastissera.
+Fornejar uns 15 o 20 minuts; que no agafi massa color o quedarà seca.
+(*) Si no es vol utilitzar sucre invertit, s'hi pot posar 100gr de sucre al glacejat
+
+[Categories]
+categoria = Postres
+subcategoria = Coques
