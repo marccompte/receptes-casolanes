@@ -3,7 +3,7 @@ de Llavaneres
 
 [Ingredients]
 titol = Per a la crema
-sucre =[] 100gr de sucre
+sucre = 100gr de sucre
 llet = 500gr de llet
 farina= 50gr de maicena
 ous = 3 ous
