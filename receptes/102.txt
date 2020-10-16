@@ -1,5 +1,5 @@
 [Titol]
-Coca de Sant Joan
+de Sant Joan
  
 [Ingredients]
 sucre = 50 g sucre i 50gr de sucre invertit (*)
