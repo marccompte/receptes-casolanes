@@ -2,6 +2,7 @@
 amb massa mare
 
 [Ingredients]
+persones = 12
 titol = Glacejat
 sucre = 60gr de sucre (1)
 taronja = La pell de 1 taronja
