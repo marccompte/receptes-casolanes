@@ -2,6 +2,7 @@
 de Sant Joan
  
 [Ingredients]
+persones = 12
 sucre = 50 g sucre i 50gr de sucre invertit
 ous = 2 ous i un altre per a pintar la superfície
 mantega = 65 g mantega
