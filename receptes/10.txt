@@ -19,3 +19,4 @@ Deixa coure fins que les patates estiguin toves. Ajusta de sal, afegeix la llet 
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Ous
