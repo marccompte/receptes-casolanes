@@ -18,5 +18,5 @@ Retira-les, deixa que es temperin un moment i obre-les. Neteja els porros, renta
 Deixa coure fins que les patates estiguin toves. Ajusta de sal, afegeix la llet i tritura. Escorre els bolets i salteja’ls en un fons d'oli 2 minuts. Després, tritura-ho amb 50ml d'oli. Reparteix la crema en bols i serveix-la amb l'ou salpebrat i aromatitzat amb l'oli de bolets.
 
 [Categories]
-categoria = Vegetarià
-subcategoria = Ou
+categoria = Entrants
+subcategoria = Ous
