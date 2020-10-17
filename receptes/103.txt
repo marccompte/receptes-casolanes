@@ -3,7 +3,7 @@ amb massa mare
 
 [Ingredients]
 titol = Glacejat
-sucre = 60gr de sucre (*)
+sucre = 60gr de sucre (1)
 taronja = La pell de 1 taronja
 llimona = 1 llimona, sense la part blanca
 titol = massa mare
@@ -15,9 +15,9 @@ titol  = massa
 llet = 60gr de llet
 mantega = 70gr de mantega a temperatura ambient
 ous = 2 ous
-sucre = 60gr de sucre invertit(*)
+sucre = 60gr de sucre invertit(1)
 llevat = 30gr de llevat fresc de fer pa
-herbes = 20gr de aigua de tarongina(**)
+herbes = 20gr de aigua de tarongina(2)
 farina = 450gr de farina de força
 sal= 1 pessic de sal 
 titol = per a decorar
@@ -33,9 +33,9 @@ Posar al got el glacejat reservat, els ingredients de la massa i la massa mare. 
 Escalfar el forn a 200º. Introduir-hi un recipient refractari amb aigua per donar humitat.
 Fornejar uns 20 minuts a 180º. No ha d’agafar gaire color o quedarà seca
 NOTES
-(*)Si no es vol fer servir sucre invertit posar 120gr de sucre al glacejat. 
-(**) Es pot substituir per anís.
-(***)Es pot congelar part de la massa en aquest punt si no es volen fer dos coques a la vegada. Quan calgui, deixar descongelar la massa, donar la forma, l’acabat, el repòs final i fornejar.
+(1)Si no es vol fer servir sucre invertit posar 120gr de sucre al glacejat. 
+(2) Es pot substituir per anís.
+Es pot congelar part de la massa en aquest punt si no es volen fer dos coques a la vegada. Quan calgui, deixar descongelar la massa, donar la forma, l’acabat, el repòs final i fornejar.
 Una cop cuita es pot obrir i farcir amb crema pastissera, amb nata muntada, amb trufa… Si es vol cobrir de la típica reixeta de crema pastissera, fer-ho amb una màniga pastissera, abans de fornejar.
 
 [Categories]
