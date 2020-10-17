@@ -22,5 +22,5 @@ Trossegem els pebrots del piquillo en tires no gaire llargues, tallem la ceba te
 Batem els ous, els agreguem el saltat de pebrots i barregem el conjunt. Fem quatre truites individuals en una paella antiadherent amb una cullerada d'oli d'oliva, fent la truita rodona tipus brioix. Servim juntament amb una torrada de pa, enciam i créixens, amanits amb la vinagreta de poma.
 
 [Categories]
-categoria = Vegetarià
-subcategoria = ou
+categoria = Entrants
+subcategoria = ous
