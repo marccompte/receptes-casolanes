@@ -2,8 +2,8 @@
 de Sant Joan
  
 [Ingredients]
-sucre = 50 g sucre i 50gr de sucre invertit (*)
-ous = 2 ous + 1 per pintar la superfície
+sucre = 50 g sucre i 50gr de sucre invertit (1)
+ous = 2 ous i un altre per a pintar la superfície
 mantega = 65 g mantega
 llet = 120 g llet
 taronja = La pell d’una taronja
@@ -21,7 +21,7 @@ Treure la massa del got i estirar sobre la safata del forn forrada amb paper veg
 Escalfar el forn a 170-180º. Posar un recipient amb una mica d’aigua.
 Decorar amb la fruita i pinyons, pintar amb ou batut, empolvorar  amb el sucre granulat lleugerament humida amb unes gotes d’aigua. O be, amb ajut d’una màniga pastissera, fer una reixa de crema pastissera.
 Fornejar uns 15 o 20 minuts; que no agafi massa color o quedarà seca.
-(*) Si no es vol utilitzar sucre invertit, s'hi pot posar 100gr de sucre al glacejat
+(1) Si no es vol utilitzar sucre invertit, s'hi pot posar 100gr de sucre al glacejat
 
 [Categories]
 categoria = Postres
