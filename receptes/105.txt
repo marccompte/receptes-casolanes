@@ -1,0 +1,25 @@
+[Titol]
+Carquinyolis d'ametlla
+
+[Ingredients]
+fruits secs = 125 g d'ametlles senceres amb pell
+farina = 340 g de farina fluixa amb 10 g de llevat
+mantega = 40 g de mantega a temperatura ambient
+aigua = 60 g d'aigua
+sucre = 160 g de sucre
+llimona = Pell de llimona ratllada
+ou = 1 rovell d'ou
+canyella = Canyella en pols
+
+[Elaboracio]
+Rer fer 40 carquinyolis, renteu les ametlles amb aigua perTreure'ls-hi el polsim i perquè humides s'enganxaran millor a la massa. Coleu-les i escorreu-les. Reserveu-les.
+Barregeu en un bol la farina amb el llevat, la mantega en pomada, el sucre, 50gr de massapà (que podeu preparar barrejant farina d'ametlla crua, sucre llustre i una clara d'ou), la ratlladura de llimona, el rovell d'ou, la canyella i, finalment, l'aigua. 
+Treballeu bé amb les mans tots els ingredients. Si la massa queda seca, podeu ategir-hi una mica més d'aigua. La barreja anirà absorbint l'aigua i agafarà consistència. 
+Afegiu-hi les ametlles humides, que acabaran de compactar la massa dels carquinyolis. 
+Prepareu boles d'uns 180 grams de massa. A continuació, aneu fent barretes amb les mans com si féssiu xurros procurant que quedin regulars. 
+Aneu-les col·locant damunt d'una safata per anar al forn, que haureu cobert prèviament amb paper sulfuritzat.
+Pinteu les barretes amb un pinzell sucat en rovell d'ou i poseu-les al forn entre 160°C i 180°C, amb escalfor a dalt i a baix durant 25 minuts. 
+Passat aquest temps traieu-les del forn i aneu-les tallant ràpidament de biaix amb un ganivet llis. Feu-ho ràpid o les barretes quedaran dures. Un cop tallats els carquinyolis ja els podeu deixar refredar. Si els guardeu en una carmanyola s'hi conservaran bé durant dues o tres setmanes. 
+
+[Categories]
+categoria = Postres
