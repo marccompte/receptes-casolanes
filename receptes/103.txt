@@ -3,11 +3,6 @@ amb massa mare
 
 [Ingredients]
 persones = 12
-titol = Glacejat
-sucre = 60gr de sucre (1)
-taronja = La pell de 1 taronja
-llimona = 1 llimona, sense la part blanca
-titol = massa mare
 llet = 60gr de llet
 llevat = 10gr de llevat fresc de fer pa i Massa mare
 sucre = 1 culleradeta de sucre
@@ -21,6 +16,10 @@ llevat = 30gr de llevat fresc de fer pa
 herbes = 20gr de aigua de tarongina(2)
 farina = 450gr de farina de força
 sal= 1 pessic de sal 
+titol = Glacejat
+sucre = 60gr de sucre (1)
+taronja = La pell de 1 taronja
+llimona = 1 llimona, sense la part blanca
 titol = per a decorar
 ous = 1 Ou batut
 fruita = Fruita confitada
