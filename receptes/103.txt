@@ -2,7 +2,7 @@
 amb massa mare
 
 [Ingredients]
-persones = 12
+persones = 8
 llet = 60gr de llet
 llevat = 10gr de llevat fresc de fer pa i Massa mare
 sucre = 1 culleradeta de sucre
