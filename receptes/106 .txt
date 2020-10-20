@@ -1,5 +1,5 @@
 [Titol]
-Coca d'oli
+d'oli
 
 [Ingredients]
 aigua = 1 tassa d'aigua
