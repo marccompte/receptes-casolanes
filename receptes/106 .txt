@@ -1,0 +1,19 @@
+[Titol]
+Coca d'oli
+
+[Ingredients]
+aigua = 1 tassa d'aigua
+oli = 1 tassa oli
+cervesa = 1 tassa de cervesa
+sal = una mica de sal
+farina = farina
+llevat = 1 pastilla de llevat
+pebre = pebre vermell
+
+[Elaboracio]
+En un bol es posa l'oli, la sal, el llevat, la cervesa i l'aigua. Es barreja tot mentre, a poc a poc, se li va afegint la farina fins que quedi una massa que es desenganxi dels dits. Es fa una pilota i es deixa reposar fins que pugi.
+S'esten a la safata del forn una capa súper fina i amb el ganivet es marquen, amb ratlles al llarg i ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure un màxim de 15 minuts al forn.
+
+[Categories]
+categoria = Postres
+subcategoria = Coques
