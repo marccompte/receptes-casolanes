@@ -2,15 +2,15 @@
 de Sant Joan
  
 [Ingredients]
-sucre = 50 g sucre i 50gr de sucre invertit
+sucre = 50g sucre i 50g sucre invertit
 ous = 2 ous i un altre per a pintar la superfície
-mantega = 65 g mantega
-llet = 120 g llet
-taronja = La pell d’una taronja
-llimona = La pell d’una llimona
-herbes = 30 g d’aigua de tarongina o anís
-llevat = 30 g llevat de fer pa
-farina = 480 g farina de força
+mantega = 65g mantega
+llet = 120g llet
+taronja = la pell d'una
+llimona = la pell d'una
+herbes = 30g d'aigua de tarongina o anís
+llevat = 30g llevat de fer pa
+farina = 480g farina de força
 sal = 1 pessic de sal
 fruits secs = Pinyons, fruita confitada, ou batut, sucre o crema pastissera per decorar.
  
