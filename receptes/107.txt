@@ -1,19 +1,23 @@
 [Titol]
-puré de pèsols i pebrots
+brou de Nadal
 
 [Ingredients]
-persones = 4 (25 min. 170 cal)
-pèsols = 400 g de pèsols congelats
-pebrot = 2 pebrots vermells
-ceba = 1 ceba tendra
-oli = oli d'oliva verge
-sal = Sal
+brou = 2 litres de brou
+botifarra = 250g carn de botifarra
+pasta = 250g de galets grossos
+formatge = 100g de formatge rallat
+porro= 1 porro
+espàrrecs = 1 manat de espàrrecs verds
+vi = 1/2 got de vi blanc
+oli = oli d’oliva
 
 [Elaboracio]
-Renta i eixuga els pebrots. Retira la cua, les llavors i els filaments. Cou-los 10 minuts en aigua i escorre'ls. Quan es refredin, pela'ls i tritura'ls amb 2 cullerades d'oli i un polsim de sal fins a aconseguir una crema fina; reserva-la en la nevera. Renta bé la ceba tendra i talla-la en juliana gruixuda.
-Cou els pèsols, en un got d'aigua, durant 5 minuts. Escorre'ls i tritura'ls amb un polsim de sal i una cullerada d'oli; passa'ls pel xinès i reserva en la nevera.
-Emplena uns gots de xopet amb la crema de pebrots fins a una quarta part i completa amb la de pèsols. Serveix-los decorats amb la ceba tendra.
-Per a anar encara més ràpid, pots preparar la crema amb pebrots del piquillo en conserva.
+En una olla amb aigua bullent, hi fem coure els galets durant 10 min. Els escorrem i els reservem.
+En una paella, fregim a foc suau el porro tallat finet hi afegim el vi blanc i, un cop evaporat l’alcohol, la traiem del foc i hi afegim la botifarra barrejant-ho tot molt bé.
+Amb això i una cullereta de cafè farcim els galets, ben atapeïts. Es necessitem 8 galets per persona.
+Posem el brou en una olla i quan bull hi afegim els galets farcits fent-los bullir 5 minuts més. Apagar el foc, treure els galets i posar-los en una safata, afegir-hi el formatge rallat per sobre i gratinar-los fins que quedin ben enrrosits.
+Fregim amb oli d’oliva 2 puntes d’espàrrecs verds.
+Posem 8 galets en un plat fondo, les dues puntes d’espàrrec i ho servim a la taula on omplim el plat amb el brou que hi portarem en un gerro.
 
 [Categories]
 categoria = Entrants
