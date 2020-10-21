@@ -2,14 +2,13 @@
 de Sant Joan
  
 [Ingredients]
-persones = 12
 sucre = 50 g sucre i 50gr de sucre invertit
 ous = 2 ous i un altre per a pintar la superfície
 mantega = 65 g mantega
 llet = 120 g llet
 taronja = La pell d’una taronja
 llimona = La pell d’una llimona
-herbes= 30 g d’aigua de tarongina o anís
+herbes = 30 g d’aigua de tarongina o anís
 llevat = 30 g llevat de fer pa
 farina = 480 g farina de força
 sal = 1 pessic de sal
