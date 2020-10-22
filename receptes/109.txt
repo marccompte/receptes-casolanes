@@ -6,6 +6,7 @@ pa = 250 gr pa sec
 oli = 1dl oli d'oliva
 tomàquet = 1/2kg de tomàquets madurs
 all = 1 gra d'all
+rave = 1 rave
 vinagre = una copeta de vinagre
 sal = sal
 
