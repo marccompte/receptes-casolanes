@@ -1,0 +1,27 @@
+[Titol]
+de carbassa i bolets
+
+[Ingredients]
+carabassa = 1/2 kg carabassa
+bolets = 300g rossinyols o bolets de temporada
+llet = 400ml (2 gots) de llet Evaporada
+ceba = 1 ceba
+porro = 1 porro
+brou = 1 pastilla brou pollastre
+all = 1 dent all
+julivert = 1 ramet julivert
+oli = oli
+sal = sal
+pebre = pebre negre
+
+[Elaboracio]
+Ofegar ceba i porro picat en una mica d'oli, a foc suau, fins que comencin a daurar-se. Agregar la carabassa i ofegar uns 10 min, afegir la pastilla de brou esmicolada.
+Abocar llet evaporada i 400 ml (2 gots) d'aigua.
+Assaonar amb sal i coure 25 min.
+Netejar bolets, trossejar-les i ofegar en oli amb all i julivert, fins que hagin gairebé absorbit el suc de cocció. Fregir uns pinyons al costat dels bolets i empolvorar amb julivert picat, donarà més color.
+Passar la crema de carabassa pel pasapurés i barrejar amb els bolets.
+Rectificar la sal i assaonar amb una mica de pebre negre.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes i Cremes
