@@ -1,0 +1,18 @@
+[Titol]
+Salmorejo cordovès
+
+[Ingredients]
+pa = 250 gr pa sec
+oli = 1dl oli d'oliva
+tomàquet = 1/2kg de tomàquets madurs
+all = 1 gra d'all
+vinagre = una copeta de vinagre
+sal = sal
+
+[Elaboracio]
+Batre tot en la Thermomix en velocitats progressives de 5 a 10 durant 5 minuts o en batedora i després colar-lo.
+Posar-ho en bols afegint-hi pernil ibèric i ou dur, tallat tot en petits trosets i amb un xorret d'oli d'oliva per sobre.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes
