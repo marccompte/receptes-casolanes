@@ -1,0 +1,15 @@
+[Titol]
+carbassó, carbassa o verdures
+
+[Ingredients]
+carbassó = carbassó
+carbassa = carbassa
+verdura = verdures
+
+[Elaboracio]
+Tallar a trossets petits i posar-ho a bullir amb aigua (o si és té aigua de bullir verdures de dies abans), durant 20 minuts.  
+Triturar-ho tot, afegir-hi un got d’oli d’oliva i 1/2 paquet de formatge ratllat emmental. Tot ben triturat fins fer-ho puré.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Pure
