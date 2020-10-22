@@ -1,0 +1,18 @@
+[Titol]
+Alvocat amb gambes
+
+[Ingredients]
+gamba = 20 gambes
+vinagre = 20g de vinagre balsàmic
+oli = 60g d'oli d'oliva
+alvocat = 3 alvocats
+nata = 210ml de nata
+pebre = pebre i grans de pebre
+llimona = suc d'1,5 llimones
+herbes = Cerfull per a adornar
+
+[Elaboracio]
+Coure les gambes en un brou curt durant 8 minuts. Pelar-les i tallar-les en daus petits. Fer una vinagreta amb el vinagre, la sal, el pebre i l'oli i assaonar les gambes. Passar per la batedora la carn dels alvocats, la nata i el suc de llimona. Assaonar. Col•locar en la base dels gotets els daus de gambes i després l'alvocat batut. Repetir l'operació i acabar amb trossos de gamba. Decorar amb una mica de cerfull i alguns grans de pebre.
+
+[Categories]
+categoria = Entrants
