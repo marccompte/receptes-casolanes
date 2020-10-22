@@ -1,0 +1,24 @@
+[Titol]
+de castanyes
+
+[Ingredients]
+castanya = 300gr de castanyes
+ceba = 1/2 ceba
+pastanaga = 1 pastanaga
+oli = Oli d’oliva
+sal = Sal
+brou = 1 litre de brou de verdures o de pollastre
+moniato = 1 moniato gros
+
+[Elaboracio]
+Fes un tall en creu a les castanyes i posa-les uns 10 minuts al forn a 180 ºC, o submergeix-les en aigua bullent durant 10 minuts perquè es puguin pelar amb facilitat.
+Pela la ceba i pica-la.
+Raspa la pastanaga i després fes-les a trossos.
+En una cassola, posa un raig d’oli i ofega-hi durant uns 5 minuts la ceba amb la pastanaga, les castanyes ja pelades i a trossos, i una culleradeta de sal. Afegeix-hi el brou calent i deixa que arrenqui el bull; llavors, abaixa el foc al mínim i deixa-ho coure fins que les castanyes i la pastanaga siguin tendres. Tritura-ho amb la batedora, tapa-ho i reserva-ho mentre prepares els xips.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes i Cremes
+
+categ
+[][]
