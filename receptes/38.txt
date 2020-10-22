@@ -25,4 +25,4 @@ Quan estigui dauradeta, afegiu-hi l’all laminat i les fulles de julivert, reme
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes
+subcategoria = Sopes i Cremes
