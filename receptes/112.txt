@@ -1,0 +1,19 @@
+[Titol]
+freda d’alvocats
+
+[Ingredients]
+persones = 4
+alvocat = 4 alvocats
+llimona = 1 llimona
+oli = 1dl d’oli d’oliva
+vinagre = 1 rajolí de vinagre balsàmic
+aigua = 3dl aigua
+sal = Sal
+pebre = pebre blanc
+
+[Elaboracio]
+Partir els alvocats per la meitat, pelar-los i posar-los al turmix amb una mica d’oli, el suc d’una llimona, un rajolí de vinagre, aigua, sal i pebre blanc. Posem el turmix en funcionament durant 3 minuts, buidem, emplatem i decorem amb tomàquets cherry partits per la meitat i dues llesques fines d’alvocat.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes
