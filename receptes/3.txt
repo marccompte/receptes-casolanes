@@ -16,4 +16,4 @@ Ho retirarem del foc, afegim els ous batuts i remanem fins que les clares estigu
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes
+subcategoria = Sopes i Cremes
