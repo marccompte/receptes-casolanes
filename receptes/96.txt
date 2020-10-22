@@ -23,4 +23,4 @@ Batem els ous, els agreguem el saltat de pebrots i barregem el conjunt. Fem quat
 
 [Categories]
 categoria = Entrants
-subcategoria = ous
+subcategoria = Ous
