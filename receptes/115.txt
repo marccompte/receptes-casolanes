@@ -1,0 +1,30 @@
+[Titol]
+freda de meló
+
+[Ingredients]
+meló = 500gr Meló
+iogurt = 3 Iogurts naturals
+all = 1 gra d’all
+ceba = 100gr Ceba
+gingebre = Un polsim de Gingebre
+cogombre = Cogombre picat
+pernil = 150gr de Pernil Ibèric
+oli = Oli
+vinagre = Vinagre al gust
+sal = Sal
+pebre = Pebre
+
+[Elaboracio]
+Posarem en el got del Turmix el meló, l’all i la ceba (durant dos minuts).
+Afegim al iogurt, sal, pebre, oli i vinagre (durant dos minuts més). Ho guardem a la nevera
+Piquem el pernil en dauets i piquem el cogombre.
+Servim en bols amb el pernil i el cogombre.
+Empolvorem amb el Gingebre.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes i Cremes
+subcategoria =categoria =
+subcategoria =
+cate
+[]
