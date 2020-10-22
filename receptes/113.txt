@@ -1,0 +1,23 @@
+[]
+pastanaga, ibèric i pèsols
+
+Ingredients[]
+pastanaga = 500gr pastanaga
+ceba = 100gr ceba
+porro = 100gr porro
+patata = 100gr patata
+all = 20gr d'all
+pèsols = 40gr pèsols
+pernil = 10gr paleta ibèrica
+oli = 100ml oli d'oliva
+sal = 3gr sal
+
+Elaboracio[]
+Rentem el porro, pelem la pastanaga i la patata i trossegem de manera gruixuda totes les verdures.
+En una cassola escalfem l'oli d'oliva i ofeguem els grans d'all pelats i la ceba pelada i picada. Quan estigui transparent la ceba, afegim el porro, la patata i les pastanagues.
+Ofeguem durant 2 minuts i mullem fins a cobrir amb aigua. Cuinem a bulliment suau i continuat durant 40 minuts. Afegim una mica de sal. Triturem amb ajuda d'una batedora fins a aconseguir una crema fina i uniforme.
+Si queda massa espessa, es pot afegir una miqueta de llet o d'aigua. En el moment de servir acompanyem d'un fil d'oli d'oliva i d'uns pèsols saltejats juntament amb unes tires de paleta ibèrica.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes i Cremes
