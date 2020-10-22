@@ -1,0 +1,33 @@
+[Titol]
+Pizza de carxofes i gambes
+
+[Ingredients]
+carxofa = 1Kg carxofes
+espàrrecs = 1 manoll d'espàrrecs verds
+gamba = 200gr de gambes crues
+bacon = 100gr bacon
+tomàquet = 4 tomàquets i 12 tomaques cherry
+all = 5 grans d'all
+formatge = formatge d'ovella
+farina = ½ kg farina
+mantega = 100 gr mantega
+herbes = orenga i farigola
+oli = Oli d'oliva 
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Netejar les carxofes, tallar en quarts i confitar lentament, en un cassó mitjà, amb oli d'oliva i farigola.
+En un bol gran, barrejar la mantega i la farina tamisada. Anar barrejant i afegir 2 cullerades d'oli d'oliva i sal. Pastar i afegir l'aigua necessària per a obtenir una massa consistent i elàstica. Acabar de pastar fora del bol.
+Empolvorar la massa amb farina, filmar i deixar reposar uns 30 minuts a la nevera.
+Estirar la massa, amb ajuda d'una mica de farina.
+Cobrir la safata del forn amb paper de forn i dipositar la massa damunt d'aquest. Introduir la massa sola en el forn (4 minuts a 185 °C.).
+Mentre es fa la massa, tallar els espàrrecs, el bacon, el tomàquet i els tomàquets cherry. Reservar en un plat per al seu immediat ús.
+Pelar les gambes i ratllar el formatge d'ovella.
+Traiem la massa del forn i estenem sobre aquesta les rodanxes de tomàquet.
+Afegim formatge ratllat, els grans d'all sencers i la resta d'ingredients que teníem reservats.
+Empolvorar amb orenga i salpebrar.
+Tornar a introduir al forn, 185 °C durant, aproximadament, 10 minuts.
+
+[Categories]
+categoria = Aperos
