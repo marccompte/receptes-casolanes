@@ -21,4 +21,4 @@ Posem 8 galets en un plat fondo, les dues puntes d’espàrrec i ho servim a la 
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes
+subcategoria = Sopes i Cremes
