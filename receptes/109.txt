@@ -16,4 +16,4 @@ Posar-ho en bols afegint-hi pernil ibèric i ou dur, tallat tot en petits troset
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
