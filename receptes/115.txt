@@ -23,8 +23,4 @@ Empolvorem amb el Gingebre.
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
-subcategoria =categoria =
-subcategoria =
-cate
-[]
+subcategoria = Sopes_Cremes
