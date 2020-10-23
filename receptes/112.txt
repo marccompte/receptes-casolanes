@@ -16,4 +16,4 @@ Partir els alvocats per la meitat, pelar-los i posar-los al turmix amb una mica 
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
