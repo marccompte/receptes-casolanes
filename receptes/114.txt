@@ -24,4 +24,4 @@ Rectificar la sal i assaonar amb una mica de pebre negre.
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
