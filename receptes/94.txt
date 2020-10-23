@@ -26,4 +26,4 @@ Es pelen les gambes, s'impregnen d'oli d'oliva, gotes de suc de llima i un polsi
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
