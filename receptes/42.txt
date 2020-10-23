@@ -22,4 +22,4 @@ Saltar la carn trossejada dels pits de pollastre amb els bolets tallats en daus.
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes.Cremes
+subcategoria = Sopes_Cremes
