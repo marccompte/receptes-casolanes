@@ -18,7 +18,4 @@ En una cassola, posa un raig d’oli i ofega-hi durant uns 5 minuts la ceba amb 
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
-
-categ
-[][]
+subcategoria = Sopes_Cremes
