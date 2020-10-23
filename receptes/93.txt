@@ -24,4 +24,4 @@ Tallar el rap en daus petits i sofregir-los juntament amb les cloïsses, els lla
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
