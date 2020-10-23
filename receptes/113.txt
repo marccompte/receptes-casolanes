@@ -20,4 +20,4 @@ Si queda massa espessa, es pot afegir una miqueta de llet o d'aigua. En el momen
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes i Cremes
+subcategoria = Sopes_Cremes
