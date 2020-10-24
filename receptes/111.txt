@@ -12,4 +12,4 @@ Triturar-ho tot, afegir-hi un got d’oli d’oliva i 1/2 paquet de formatge rat
 
 [Categories]
 categoria = Vegetarià
-subcategoria = Pure
+subcategoria = Puré
