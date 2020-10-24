@@ -1,21 +1,26 @@
 [Titol]
-Flor de poma
+Suquet de rap i gambes
 
 [Ingredients]
-pasta fullada = 1 làmina pasta fullada
-poma = 2 pomes vermelles
-llimona = suc de 1/2 llimona
-farina = farina 
-mantega = mantega
-melmelada = 3 cullerades melmelada d'albercoc
-sucre = 1 cullerada sucre glas
+persones = 4 
+2 cues, un cap i un fetge de rap
+500 g de patates velles Kennebecel 
+gamba = gambes vermelles
+all = 1 cabeça d'alls
+tomàquet = 2 tomàquets
+musclos = 2 musclos
+ceba = 1 ceba
+oli = oli d'oliva verge extra
+sal = sal
+llorer = 1 fulla llorer
+vi = un raig de vi blanc
+pa= 1 llesca de pa fregit
 
 [Elaboracio]
-Per a fer-ne 6 unitats, mescla tres gots d'aigua amb el suc de llimona. Renta les pomes, lleva'ls el cor i la tija, talla-les en grillons i després en làmines que siguin molt fines.
-Sumergueix les làmines de poma en l'aigua amb llimona durant 5 minuts. Després, escorre-les i cou-les, per tandes, durant 3 minuts en aigua bullent. Escorre i reserva.
-Col·loca la làmina de pasta fullada en la taula de treball enfarinada i estén-la una mica més amb l'ajuda d'un corró també enfarinat perquè no s'enganxi. A continuació, talla la pasta fullada en sis tires de 3 cm aproximadament, barreja la melmelada d'albercoc amb dues cullerades d'aigua bullent i després reparteix-la uniformement sobre les sis tires de pasta fullada. Posa la melmelada damunt de les làmines de poma, lleugerament encavallades, deixant que sobresurti la zona de la pell per un dels costats de la massa. Doblega la tira de pasta fullada sobre les làmines de pomes, de tal manera que quedi a la vista la part de la pell, i finalment, enrotlla la pasta fullada començant per un extrem. 
-Distribueix els rotllos de poma en un motlle dels que s'utilitzen per a fer magdalenes, prèviament greixat amb mantega.
-Enforna les flors durant uns 40 minuts en el forn escalfat a 190 °C. Deixa refredar i posi sucre glaç per sobre.
+titol = Per al fumet 
+poseu les patates, el cap de rap, els musclos, les patates, les gambes, els alls, els tomàquets, la ceba, l'oli, el llorer, el vi i la sal en una olla amb aigua freda. Poseu-la al foc i, quan arrenqui el bull, deixeu que es cogui 20 min. Desescumeu-ho.
+titol = Per a la picada: 
+piqueu 1 gra d'all, el fetge de rap i la llesca de pa al morter. Sofregiu dos alls ratllats amb oli d'oliva. Afegiu-hi els tomåquets ratllats i un raig de vi blanc. Afegiu-hi les patates esqueixades i el fumet, fins a cobrir les patates, a foc molt alt (en total s'han de coure 20 min). A mitja cocció, afegiu-hi el rap. Uns 5 min més tard, afegiu-hi les gambes i la picada.
 
 [Categories]
-categoria = Postres
+categoria = Peix
