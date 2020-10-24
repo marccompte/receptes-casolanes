@@ -1,0 +1,21 @@
+[Titol]
+Flor de poma
+
+[Ingredients]
+pasta fullada = 1 làmina pasta fullada
+poma = 2 pomes vermelles
+llimona = suc de 1/2 llimona
+farina = farina 
+mantega = mantega
+melmelada = 3 cullerades melmelada d'albercoc
+sucre = 1 cullerada sucre glas
+
+[Elaboracio]
+Per a fer-ne 6 unitats, mescla tres gots d'aigua amb el suc de llimona. Renta les pomes, lleva'ls el cor i la tija, talla-les en grillons i després en làmines que siguin molt fines.
+Sumergueix les làmines de poma en l'aigua amb llimona durant 5 minuts. Després, escorre-les i cou-les, per tandes, durant 3 minuts en aigua bullent. Escorre i reserva.
+Col·loca la làmina de pasta fullada en la taula de treball enfarinada i estén-la una mica més amb l'ajuda d'un corró també enfarinat perquè no s'enganxi. A continuació, talla la pasta fullada en sis tires de 3 cm aproximadament, barreja la melmelada d'albercoc amb dues cullerades d'aigua bullent i després reparteix-la uniformement sobre les sis tires de pasta fullada. Posa la melmelada damunt de les làmines de poma, lleugerament encavallades, deixant que sobresurti la zona de la pell per un dels costats de la massa. Doblega la tira de pasta fullada sobre les làmines de pomes, de tal manera que quedi a la vista la part de la pell, i finalment, enrotlla la pasta fullada començant per un extrem. 
+Distribueix els rotllos de poma en un motlle dels que s'utilitzen per a fer magdalenes, prèviament greixat amb mantega.
+Enforna les flors durant uns 40 minuts en el forn escalfat a 190 °C. Deixa refredar i posi sucre glaç per sobre.
+
+[Categories]
+categoria = Postres
