@@ -9,6 +9,7 @@ gamba = gambes vermelles
 all = 1 cabeça d'alls
 tomàquet = 2 tomàquets
 musclos = 2 musclos
+titol = Per al fumet
 ceba = 1 ceba
 oli = oli d'oliva verge extra
 sal = sal
