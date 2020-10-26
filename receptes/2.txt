@@ -2,7 +2,7 @@
 Carxofes, pop i romesco
 
 [Ingredients]
-Persones = 4
+persones = 4
 enciam = 100 g de barreja d’enciams
 pop = 150 g de pop net
 carxofa = 10 carxofes
