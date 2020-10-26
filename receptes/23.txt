@@ -1,5 +1,5 @@
 ﻿[Titol]
-Paté
+Patés
 
 [Ingredients]
 persones =
