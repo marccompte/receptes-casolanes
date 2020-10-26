@@ -3,8 +3,8 @@ Suquet de rap i gambes
 
 [Ingredients]
 persones = 4 
-rap = 2 cues
-500 g de patates velles Kennebecel 
+rap = 2 cues de rap
+patates = 500 g de patates velles Kennebec 
 gamba = gambes vermelles
 all = 1 cabeça d'alls
 tomàquet = 2 tomàquets
@@ -12,7 +12,7 @@ sal = sal
 oli = oli d'oliva verge extra
 vi = un raig de vi blanc
 titol = Per al fumet
-un cap de rap
+rap = un cap de rap
 gamba = gambes vermelles
 musclos = 2 musclos
 ceba = 1 ceba
@@ -21,13 +21,12 @@ llorer = 1 fulla llorer
 titol = Per a la picada
 all = 1 gra d'all
 rap = un fetge de rap
-pa= 1 llesca de pa fregit
+pa = 1 llesca de pa fregit
 
 [Elaboracio]
-titol = Per al fumet 
-poseu les patates, el cap de rap, els musclos, les patates, les gambes, els alls, els tomàquets, la ceba, l'oli, el llorer, el vi i la sal en una olla amb aigua freda. Poseu-la al foc i, quan arrenqui el bull, deixeu que es cogui 20 min. Desescumeu-ho.
-titol = Per a la picada: 
-Per a la picada piqueu 1 gra d'all, el fetge de rap i la llesca de pa al morter. Sofregiu dos alls ratllats amb oli d'oliva. Afegiu-hi els tomåquets ratllats i un raig de vi blanc. Afegiu-hi les patates esqueixades i el fumet, fins a cobrir les patates, a foc molt alt (en total s'han de coure 20 min). A mitja cocció, afegiu-hi el rap. Uns 5 min més tard, afegiu-hi les gambes i la picada.
+Per al fumet, poseu tots els ingredients en una olla amb aigua freda. Poseu-la al foc i, quan arrenqui el bull, deixeu que es cogui 20 min. Desescumeu-ho.
+Per a la picada, piqueu tots els ingredients en el morter. 
+Sofregiu dos alls ratllats amb oli d'oliva. Afegiu-hi els tomåquets ratllats i un raig de vi blanc. Afegiu-hi les patates esqueixades i el fumet, fins a cobrir les patates, a foc molt alt (en total s'han de coure 20 min). A mitja cocció, afegiu-hi el rap. Uns 5 min més tard, afegiu-hi les gambes i la picada.
 
 [Categories]
 categoria = Peix
