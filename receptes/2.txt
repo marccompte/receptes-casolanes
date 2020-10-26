@@ -1,5 +1,5 @@
 [Titol]
-Carxofes amb romesco
+Carxofes, pop i romesco
 
 [Ingredients]
 Persones = 4
@@ -10,12 +10,12 @@ oli = 500 ml d’oli de gira-sol
 sal = Sal
 pebre = Pebre negre en gra
 herbes = 2 fulles de llorer, Orenga
-; Vinagreta
+titol = Vinagreta
 cava = 25 ml de cava brut
 vinagre = 25 ml de vinagre de Mòdena
 oli = 50 ml d’oli d’oliva
 sal = Sal
-; Per al romesco
+titol = Per al romesco
 tomàquet = 100 g de tomàquet canari escalivat
 fruits secs = 40 g d’ametlles torrades picades al morter
 all = 3 grans d’all escalivat
@@ -27,7 +27,10 @@ vinagre = 2 cullerades de vinagre bo
 sal = Sal
 
 [Elaboracio]
-Traieu les fulles més dures de les carxofes, rasqueu-ne les barbes i introduïu-les en una olla amb abundant oli de gira-sol, sal, pebre en gra, orenga i llorer. A foc al mínim, molt lent, coeu-les 20 min. Reserveu-les. Bulliu el pop, prèviament congelat, 30 min, amb força aigua, sal, llorer i pebre. Punxeu-lo per veure si és tou, coleu-lo i, un cop fred, talleu-lo fi. Per a la salsa romesco: piqueu al morter la menta, els alls pelats i les ametlles, fins que quedin com una pasta. Afegiu-hi la polpa de la nyora rascada amb un ganivet. Quan s’hagi convertit en una pasta, afegiu-hi el tomàquet pelat i sense llavors. Piqueu-ho fins que quedi fi. Aboqueu-hi l’oli a poc a poc i poseu-hi pebre, sal, julivert i vinagre. Prepareu la vinagreta, barregeu els ingredients fins que s’emulsionin. Amaniu amb la vinagreta la barreja d’enciams, neta i tallada. Munteu el plat amb una base de carxofes, a sobre l’enciam i acabeu-ho amb el pop. Acompanyeu l’amanida de salsa romesco.
+Traieu les fulles més dures de les carxofes, rasqueu-ne les barbes i introduïu-les en una olla amb abundant oli de gira-sol, sal, pebre en gra, orenga i llorer. A foc al mínim, molt lent, coeu-les 20 min. Reserveu-les. 
+Bulliu el pop, prèviament congelat, 30 min, amb força aigua, sal, llorer i pebre. Punxeu-lo per veure si és tou, coleu-lo i, un cop fred, talleu-lo fi. 
+Per a la salsa romesco: piqueu al morter la menta, els alls pelats i les ametlles, fins que quedin com una pasta. Afegiu-hi la polpa de la nyora rascada amb un ganivet. Quan s’hagi convertit en una pasta, afegiu-hi el tomàquet pelat i sense llavors. Piqueu-ho fins que quedi fi. Aboqueu-hi l’oli a poc a poc i poseu-hi pebre, sal, julivert i vinagre. 
+Prepareu la vinagreta, barregeu els ingredients fins que s’emulsionin. Amaniu amb la vinagreta la barreja d’enciams, neta i tallada. Munteu el plat amb una base de carxofes, a sobre l’enciam i acabeu-ho amb el pop. Acompanyeu l’amanida de salsa romesco.
 
 [Categories]
 categoria = Amanides
