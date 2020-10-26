@@ -2,7 +2,7 @@
 Niu d’ous, pernil i tòfona
 
 [Ingredients]
-Persones = 2
+persones = 2
 pa = dos panets rodons individuals
 ous = 4 ous (o 2, depenent dels que us soleu menjar)
 pernil = Pernil salat o ibèric (molt millor)
