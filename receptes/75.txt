@@ -3,7 +3,7 @@ Mongetes, calamarsons i cloïsses
 
 [Ingredients]
 persones = 4
-mongetes = 600g de mongetes del ganxet cuites i el seu caldo
+mongetes = 600g de mongetes del ganxet cuites
 calamars = 250g de calamarsons
 cloïssa = 12 cloïsses
 ceba = 1 ceba petita
@@ -16,7 +16,7 @@ sucre = Sucre
 julivert = Julivert picat
  
 [Elaboracio]
-Posar les mongetes, que hauran estat en remull des del dia abans, a bullir molt a poc a poc, que no trenqui el bull, amb aigua suficient per cobrir-les però no més; si fa falta més aigua n’hi anirem de freda a poc a poc.
+Posar les mongetes, que hauran estat en remull des del dia abans, a bullir molt a poc a poc, que no trenqui el bull, amb aigua suficient per cobrir-les però no més; si fa falta més aigua n’hi anirem afegint de freda a poc a poc.
 En una paella amb oli anem enrossint la ceba i els alls rallats, després hi afegim el tomàquet rallat fins que quedi ben reduït.
 Traiem la baina del mig i rentem amb aigua freda els calamarsons els posem en una altra paella amb oli, els salem i els deixem coure 2 o 3 minuts a foc ben fort fins que treguin tota l’aigua. Els escorrem en un colador i els tornem a posar a la paella amb all i julivert.
 Rentem les cloïsses amb aigua i sal, les afegim al pot de les mongetes amb el seu caldo, hi afegim el sofregit i els calamarsons i ho mantenim a foc suau durant 2 o 3 minuts fins que s’obrin les cloïsses rectifiquem de sal i emplatem tirant-li per sobre una mica de julivert rallat com a decoració.
