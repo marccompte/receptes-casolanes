@@ -3,10 +3,10 @@ salsa calçots
 
 [Ingredients]
 persones = 
-all = 1-2 grans d'all
+all = 1 o 2 grans d'all
 tomàquet = 4 tomàquets
 llimona = 1/4 de llimona
-ametlles torrades
+fruits secs = ametlles torrades
 espècies = 1 nyora. pebre negre i vermell dolç
 sal = sal
 oli = oli d'oliva
