@@ -2,9 +2,9 @@
 de Sant Joan
  
 [Ingredients]
+mantega = 65g mantega
 sucre = 50g sucre i 50g sucre invertit
 ous = 2 ous i un altre per a pintar la superfície
-mantega = 65g mantega
 llet = 120g llet
 taronja = la pell d'una
 llimona = la pell d'una
