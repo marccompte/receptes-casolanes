@@ -5,7 +5,7 @@ de carbassó
 persones= 4
 carbassó = 2 carabassons
 dàtils =  12 dàtils sense os
-fruits secs = 200 g d'ametlles picades
+fruits secs = 200g d'ametlles picades
 ceba = 2 cebes tendres
 menta = 1 ramet de menta
 llimona = 1 llimona
@@ -17,7 +17,7 @@ Neteja la verdura. Despunta els carabassons, renta'ls i asseca'ls. Talla 8 làmi
 Prepara la salsa
 Renta la llimona, ralla la pell i esprem-ne mitja. Renta la menta i reserva’n unes fulles. Tritura les altres amb la ralladura, el suc de llimona, 100 ml d'oli i 1 polsim de sal.
 Fes l'amanida amb el carabassó rallat, la ceba tendra, les ametlles, els dàtils i la salsa. Decora-ho amb el carabassó i la menta reservats, i serveix-ho.
-(35min 260 calories)
+35min 260 calories
 
 [Categories]
 categoria = Amanides
