@@ -2,7 +2,8 @@
 risotto de ceps
 
 [Ingredients]
-arròs = 400g d’arròs Aquarello
+persones = 4
+arròs = 400g arròs Aquarello
 brou = 1,2 l. brou de pollastre
 espàrrecs = 4  espàrrecs verds 
 formatge = 60g parmesà rallat
