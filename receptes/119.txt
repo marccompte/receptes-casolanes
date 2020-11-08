@@ -1,0 +1,24 @@
+[Titol]
+Lluç a la gallega
+
+[Ingredients] 
+persones = 4
+lluç = 1.5 kg lluç fresc
+ceba = 2 cebes
+patates = 8 patates
+all = 7 dents d’all
+pebre = 1 culleradeta pebre vermell de la Vera
+herbes = 2 fulles Llorer
+sal = Sal gruixuda
+oli = 150 ml oli d’oliva verge extra 
+
+[Elaboracio]
+Es renta i neteja el lluç, tallant-lo en medallons i assaonant amb sal gruixuda. Reservem una hora, perquè el lluç agafi la suficient sal. Abans de posar-lo a la cassola per a la cocció, el passem per l’aixeta d’aigua freda per treure la sal sobrant.
+Pelem les cebes i les tallem a quarts. Pelem i laminem els alls.
+En una cassola gran hi fiquem: abundant aigua, el llorer, les cebes, un grapat de sal gruixuda, les patates pelades i tallades per la meitat. Es cuina tot entre 10-12 minuts, sense que s’arribin a trencar les patates.
+S’afegeixen les rodanxes de lluç a la cassola, i es deixa a foc suau entre 5-8 minuts, depenent del gruix de les rodanxes. Quan hagi passat aquest temps i per trencar la cocció, tirem mig got d’aigua freda i retirem del foc, deixant-lo reposar 5 minuts més.
+D’altra banda, en una paella amb l’oli verge extra, fiquem els alls laminats i quan estiguin daurats, apartem del foc i afegim el pebre vermell. PRESENTACIÓ
+En una font, col·loquem el peix escorregut i afegim la atrotinada per sobre. Per a la resta de la atrotinada, se serveix en un bol a part.
+
+[Categories]
+categoria = Peix
