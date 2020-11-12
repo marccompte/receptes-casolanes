@@ -2,8 +2,8 @@
 Musclos en salsa blanca
 
 [Ingredients]
-musclos = 1 kilo de musclos
-nata = 1 decilitre de nata líquida.
+musclos = 1 kg de musclos
+nata = 1 dl de nata líquida.
 ceba = 100 g de ceba.
 all = 2 grans de all.
 mantega = 40 g de mantega.
@@ -21,3 +21,4 @@ Afegim un quart de litre del brou de cocció dels musclos i la nata liquida. Es 
 
 [Categories]
 categoria = Peix
+subcategoria = Marisc
