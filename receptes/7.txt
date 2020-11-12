@@ -2,7 +2,7 @@
 Gamba amb guacamole
 
 [Ingredients]
-persones = 2
+Persones = 2
 gamba = 2 gambes 
 sindria = 1/2 sindria
 meló = 1/2 melo
@@ -29,3 +29,4 @@ En un plat pla poseu-hi una base de guacamole. Poseu damunt del cos de la gamba 
 
 [Categories]
 categoria = Peix
+subcategoria = Marisc
