@@ -2,7 +2,7 @@
 Lluç a la gallega
 
 [Ingredients] 
-persones = 4
+Persones = 4
 lluç = 1.5 kg lluç fresc
 ceba = 2 cebes
 patates = 8 patates
