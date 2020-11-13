@@ -1,0 +1,33 @@
+[Titol]
+Costelles amb pebrots
+
+[Ingredients]
+pebrots = ½ Kg de pebrots rostits
+xai = 1 Kg de costelletes
+llimona = 1 llimona
+poma = 2 pomes
+all = 2 grans d'all
+ous = 2 ous
+iogurt = 1 iogurt grec
+llet = 1 litre de llet
+mantega = 1 tassa de margarina
+farina = Farina
+pa = Pa ratllat
+herbes = 1 cullerada de comí mòlt, farigola fresca
+oli = Oli d'oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Marcar les costelletes de xai en una paella. Salpebrar lleugerament.
+Fer una beixamel, ofegant els alls picats en una tassa de margarina. Afegirem una tassa de farina, la llet, una cullera de comí mòlt i salpebrar. Deixarem coure sense parar de moure. Apartar de l'escalfor.
+Introduir les costelletes de xai dins de la beixamel fins que quedin ben cobertes. Reservar en fred en un plat greixat amb oli d'oliva.
+Es renten les pomes i es tallen en làmines. Les saltagem amb una mica d'oli d'oliva, el suc de 1/2 de llimona, sal i pebre. Apartem i reservem.
+Escórrer els pebrots rostits. En un motlle de forn, cobert amb film plàstic, estendre pebrots rostits, intercalant làmines de poma saltada entre aquests. Tancarem amb film i disposarem en la nevera amb una mica de pes damunt del motlle, per a aconseguir compactar la terrina.
+Triturar 2 pebrots vermells amb un iogurt grec. Afegir un xorret d'oli d'oliva i salpebrar. Reservar en fred.
+Barrejar el pa ratllat amb farigola fresca.
+Empanar les costelletes, passant-les per farina, ou batut i el pa ratllat amb farigola. Fregir fins a daurar-les.
+
+[Categories]
+categoria = Carn
+subcategoria = Xai
