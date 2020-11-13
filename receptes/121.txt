@@ -1,0 +1,16 @@
+[Titol]
+Salxitxes al vi
+
+[Ingredients]
+salsitxes = salsitxes fresques
+all= all
+oli = oli
+vi = vi blanc
+bolets = un sobre de crema de xampinyons (opcional)
+
+[Elaboracio]
+es tira en una olla una mica d'oli d'oliva i es fregeixen els alls tallats en dauets i  una vegada dorats s'afegeixen les salsitxes per a fregir-les també una mica, després se li afegeix el vi blanc i es va deixant que es consumeixi el vi una mica, 5 minuts deprès d'haver-li tirat el vi, se li tira una mica de crema de xampinyons per sobre i es mou el brou perquè no hi quedin grumolls, es deixa coure uns 15 minuts.
+
+[Categories]
+categoria = Carn
+subcategoria = Porc
