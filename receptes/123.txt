@@ -1,0 +1,34 @@
+[Titol]
+amb salsa de mel
+
+[Ingredients]
+mel = mel
+porc = 1,5Kg. costellar ibèric
+bacon = 4 rodanxes de bacon
+bolets = 100 gr. de bolets
+carbassó = 2 carabassons
+patates = 2 patates cuites
+llimona = 1 llimona
+ceba = 1 ceba
+sucre = 3 cullerades de sucre glas
+fruits secs = panses i pinyons
+llet = ½ got de llet
+brou = ½ got de brou de carn
+oli = Oli d'oliva
+sal=sal
+pebre = pebre
+
+[Elaboracio]
+Tallar i preparar el porc ibèric en “doble costella”. Reservar en un bol.
+Fer una marinada amb 3 cullerades de mel, 3 cullerades d'oli i el suc de ¼ de llimona. Abocar sobre el porc i deixar reposar al fred 1 hora.
+Tallar la ceba en rodanxes molt fines. Empolvorar amb sucre glas, disposar entre paper de forn i portar unes 2 hores a 100 °C dins del forn.
+Tallar el bacon i els bolets en dauets petits. Salejtar-los i reservar.
+Picar les patates cuites en un bol, amb ajuda d'una forquilla. Afegir el bacon i els bolets, que teníem reservats, ½ got de llet i salpebrar.
+Tallar el carabassó en rodanxes fines i submergir en aigua bullint uns cinc segons. Apartar en un bol amb aigua i amb gel.
+Estirar les rodanxes de carabassó i emplenar amb el puré de patates, fent uns raviolis.
+Marcar la costella de porc, salpebrar i introduir al forn coberta amb paper d'alumini a 185 °C. durant 15 minuts.
+En la mateixa paella del porc, daurar els raviolis, apartar i reservar-los. I en la mateixa paella, abocar la marinada, on teníem la doble costella de porc, juntament amb algunes panses, pinyons i ½ got de brou de carn. Deixar reduir i utilitzar com a salsa.
+
+[Categories]
+categoria = Carn
+subcategoria = Porc
