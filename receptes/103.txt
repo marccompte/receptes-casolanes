@@ -1,5 +1,5 @@
 [Titol]
-Xai al forn
+Cuixa al forn
 
 [Ingredients]
 xai = 1 cuixa de xai
@@ -8,7 +8,7 @@ all = 5 grans d'all
 ous = 2 ous
 mantega = 1 cullerada de mantega
 nata = 100 ml. de nata
-vi = /2 got de vi blanc
+vi = 1/2 got de vi blanc
 llimona = 1 llimona
 herbes = romaní, llorer
 oli = Oli d'oliva 
@@ -22,5 +22,5 @@ Pelar les patates cuites i aixafar-les amb una forquilla fins a formar una pasta
 Greixar els motlles amb mantega, emplenar-los amb la massa de soufflé i enfornar 15 minuts a 180 °C. Emplatar.
 
 [Categories]
-categoria = Carns
+categoria = Carn
 subcategoria = Xai
