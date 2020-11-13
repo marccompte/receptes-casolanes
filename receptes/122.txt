@@ -1,0 +1,36 @@
+[Titol]
+Senglar estofat
+
+[Ingredients]
+senglar = 1,5 Kg. de carn
+ceba = 1 ceba 
+porro = 1 porro
+pastanaga = 8 pastanagues
+poma = 1 poma
+all = 5 grans d'all
+tomàquet = 2 tomàquets, 4 patates
+conyac = 1 copa de brandi
+vi = 1 litre de vi negre
+farina = 1 tassa de farina
+sucre = 1 cullerada de sucre
+pebre = 1 cullerada de pebre vermell dolç
+herbes = llorer, clau, farigola
+oli = oli d'oliva
+vinagre = vinagre
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Disposar en un bol la carn de senglar. Fer una marinada incorporant la ceba, la poma i la pastanaga tallada. Afegir farigola, 1 fulla de llorer, vi negre, vinagre, sucre i oli d'oliva. Deixar reposar en la nevera d'1 a dos dies.
+Treure la carn i reservar juntament amb la ceba, la pastanaga i el líquid del bol de la marinada. Daurar la carn. Apartar i reservar.
+Trossejar 3 grans d'all, llorer i el porro. Afegir-los a la casserola on hem daurat la carn, juntament amb la pastanaga i la ceba de la marinada. Ofegar fins a estovar la verdura. Abocar la copa de brandy i flambejar.
+Fregir la cullerada de pebre vermell i afegir el tomàquet trossejat. Deixar fregir el tomàquet uns minuts i incorporar suc procedent de la marinada i deixar-lo bullir.
+Tornar a introduir la carn de senglar en la casserola i cobrir amb aigua. Afegir una mica de sal i deixar coure fins que la carn estigui tova.
+Pelar les patates i tallar-les a daus. Disposar en un cassó cobertes d'aigua amb sal. Portar a ebullició fins que estiguin toves. Quan la carn estigui tendra, la traiem de la casserola i triturem la salsa amb la batedora.
+Tornem a introduir el senglar en la casserola i afegim un clau. Deixem bullir suaument cinc minuts.
+Quan les patates, que tenim al foc, estan tendres les escorrem. En una paella amb oli d'oliva, daurem els daus de patata cuita i afegim un cassó de salsa del senglar. Barrejar i reservar.
+Pelar i tallar quatre pastanagues en juliana fina i saltar-la amb oli d'oliva i dos alls laminats. Salpebrar.
+
+[Categories]
+categoria = Carn
+subcategoria = Porc
