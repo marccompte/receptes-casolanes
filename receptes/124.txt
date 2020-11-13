@@ -5,14 +5,13 @@ Galtes al vi negre
 porc = 1,5 Kg. de galta ibèrica
 cansalada = 1 tros de cansalada viada ibèrica
 salsitxes = 100 gr. de salsitxó ibèric
-2 Préssecs
+préssec = 2 préssecs
 ceba = 2 cebes
 pebrot = 2 pebrots verds i 2 de vermells
 all = 3 grans d'all
 patates = 2 patates cuites
 vi= 2 gots de vi negre
-1 Got de PX
-2 litres de brou de carn
+brou = 2 litres de brou de carn
 herbes = llorer, Julivert fresc
 oli = Oli d'oliva
 sal = sal
