@@ -1,0 +1,33 @@
+[Titol]
+Galtes al vi negre
+
+[Ingredients]
+porc = 1,5 Kg. de galta ibèrica
+cansalada = 1 tros de cansalada viada ibèrica
+salsitxes = 100 gr. de salsitxó ibèric
+2 Préssecs
+ceba = 2 cebes
+pebrot = 2 pebrots verds i 2 de vermells
+all = 3 grans d'all
+patates = 2 patates cuites
+vi= 2 gots de vi negre
+1 Got de PX
+2 litres de brou de carn
+herbes = llorer, Julivert fresc
+oli = Oli d'oliva
+sal = sal
+pebre= pebre
+
+[Elaboracio]
+Netejar la galta ibèrica i daurar-les en una cassola gran amb una mica d'oli d'oliva. Apartar en un plat i reservar.
+Tallar la cansalada viada ibèrica en petits daus i ofegar-los en la mateixa cassola.
+Trossejar les cebes, l'all i els pebrots i afegir-los a la cassola. Al costat d'unes fulles de llorer. Ofegar uns minuts.
+Incorporar les galtes de nou en la cassola i abocar el vi negre. Deixar evaporar l'alcohol i afegir el brou de carn. Salpebrar i deixar coure suaument fins que les galtes estiguin tendres.
+Pelar i tallar el préssec en daus. També tallarem el salsitxó ibèric en petits tascons.
+En una paella (petita) saltar el préssec i el salsitxó. Afegir julivert picat i reservar en un bol filmat (per a mantenir la calor)
+Tallar la patata cuita en rodanxes gruixudes. En la mateixa paella que hem utilitzat per als préssecs, amb una mica d'oli d'oliva, daurar les rodanxes de patates, salpebrar i reservar per a l'emplatat.
+Treure les galtes de la cassola i començar a triturar, en la mateixa cassola, fins a obtenir una salsa suau.
+
+[Categories]
+categoria = Carn
+subcategoria = Porc
