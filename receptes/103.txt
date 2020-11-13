@@ -1,19 +1,26 @@
 [Titol]
-d'oli
+Xai al forn
 
 [Ingredients]
-aigua = 1 tassa d'aigua
-oli = 1 tassa oli
-cervesa = 1 tassa de cervesa
-sal = una mica de sal
-farina = farina
-llevat = 1 pastilla de llevat
-pebre = pebre vermell
+xai = 1 cuixa de xai
+patates = 4 patates cuites
+all = 5 grans d'all
+ous = 2 ous
+mantega = 1 cullerada de mantega
+nata = 100 ml. de nata
+vi = /2 got de vi blanc
+llimona = 1 llimona
+herbes = romaní, llorer
+oli = Oli d'oliva 
+sal = sal
+pebre = pebre
 
 [Elaboracio]
-En un bol es posa l'oli, la sal, el llevat, la cervesa i l'aigua. Es barreja tot mentre, a poc a poc, se li va afegint la farina fins que quedi una massa que es desenganxi dels dits. Es fa una pilota i es deixa reposar fins que pugi.
-S'esten a la safata del forn una capa súper fina i amb el ganivet es marquen, amb ratlles al llarg i ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure un màxim de 15 minuts al forn.
+Daurar la cuixa en una paella amb una mica d'oli d'oliva. Posar-la en una safata de forn i salpebrar. Afegir romaní fresc, oli d'oliva i els grans d'all amb pell. Introduir al forn 1 hora i ½ a 185 °C.
+En un bol barrejar aigua, vi blanc, suc d'1 llimona, llorer, sal i pebre. Cada 15 minuts regarem la cuixa amb aquesta mescla.
+Pelar les patates cuites i aixafar-les amb una forquilla fins a formar una pasta. Incorporar-hi els rovells dels ous, la mantega i la nata. Salpebrar i barrejar bé. Batre les clares a punt de neu i barrejar amb tot l'anterior.
+Greixar els motlles amb mantega, emplenar-los amb la massa de soufflé i enfornar 15 minuts a 180 °C. Emplatar.
 
 [Categories]
-categoria = Postres
-subcategoria = Coques
+categoria = Carns
+subcategoria = Xai
