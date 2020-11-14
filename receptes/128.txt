@@ -1,0 +1,17 @@
+[Titol]
+Tataki de bou
+
+[Ingredients] 
+titol = 2 persones
+bou = 300-400g filet de bou
+oli = oli de tòfona
+sal = sal Maldon
+pebre = pebre negre
+
+[Elaboracio]
+Treure el filet de la nevera una estona abans perquè en el moment de coure’l estigui a temperatura ambient. Escalfar la planxa. Quan sigui ben calenta, marcar breument el filet per tots els costats.
+Tallar el filet a làmines primes i dipositar-les en un plat. Posar al damunt del tataki de bou oli de tòfona, pebre negre i repartir-hi per sobre una mica de sal Maldon.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
