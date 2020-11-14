@@ -1,0 +1,20 @@
+[Titol]
+Llom al pebre negre
+
+[Ingredients]
+bou = 500g llom de bou desossat
+nata = 200ml nata per a cuinar
+pebre = 1 culleradeta pebres variats, recentment mòlts
+oli = 4 culleradeta oli d'oliva
+conyac = 1 copa brandy
+sal = sal
+carbassó = 100g de carabassó
+
+[Elaboracio]
+Cuinem els daus de llom a l'estil planxa, però en una paella. Empastifats d'oli d'oliva, volta i volta, al gust del comensal, una vegada cuinats posem a punt de sal i un polsim de pebre variat recentment mòlt.
+Retirem els relloms de la paella, aprofitem els sucs que s'han quedat en la paella. Afegim una mica de brandy, la resta de pebre mòlt i la nata líquida. Deixem que redueixi, posem a punt de sal (si quedés molt espès afegim una mica d'aigua temperada).
+Colem la salsa i acompanyem els daus de llom amb uns trossets de carabassó cuits i després saltejats en la paella.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
