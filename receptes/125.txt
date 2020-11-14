@@ -1,5 +1,5 @@
 [Titol]
-Llom al pebre negre
+Llom al pebre
 
 [Ingredients]
 bou = 500g llom de bou desossat
