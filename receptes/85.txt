@@ -3,11 +3,11 @@ de carbassó
 
 [Ingredients] 
 titol = 4 persones
-carbassó = 2 carabassons
+carbassó = 2 carbassons
 dàtils =  12 dàtils sense os
 fruits secs = 200g d'ametlles picades
 ceba = 2 cebes tendres
-menta = 1 ramet de menta
+herbes = 1 ramet de menta
 llimona = 1 llimona
 oli = oli d'oliva
 sal = sal
