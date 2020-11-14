@@ -3,14 +3,14 @@ Fricandó
 
 [Ingredients] 
 titol = 4 persones
-vedella = 12 talls de carn de vedella (pot ser tapa plana, cap de mort o culetin)
+vedella = 12 talls de carn de vedella, pot ser tapa plana, cap de mort o culetin
 ceba = cebes
 pebre = pebre vermell dolç
 conyac = 1/2 copa conyac
 brou = 1/2l itre brou vegetal
 fruits secs = una picada
 bolets = moixernons o cama-grocs
-Per a la picada:
+titol = Per a la picada
 fruits secs = ametlles, avellanes, pinyons
 pa = una torrada
 
