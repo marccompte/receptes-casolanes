@@ -2,7 +2,7 @@
 de carbassó
 
 [Ingredients] 
-persones= 4
+titol = 4 persones
 carbassó = 2 carabassons
 dàtils =  12 dàtils sense os
 fruits secs = 200g d'ametlles picades
@@ -10,9 +10,9 @@ ceba = 2 cebes tendres
 menta = 1 ramet de menta
 llimona = 1 llimona
 oli = oli d'oliva
-sal = Sal
+sal = sal
 
-[Elaboració]
+[Elaboracio]
 Neteja la verdura. Despunta els carabassons, renta'ls i asseca'ls. Talla 8 làmines d'un i reserva-les. Ralla els altres, assaona'ls i deixa'ls escórrer. Neteja les cebes tendres, renta-les i parteix-les en rodanxes. Talla els dàtils en tires.
 Prepara la salsa
 Renta la llimona, ralla la pell i esprem-ne mitja. Renta la menta i reserva’n unes fulles. Tritura les altres amb la ralladura, el suc de llimona, 100 ml d'oli i 1 polsim de sal.
