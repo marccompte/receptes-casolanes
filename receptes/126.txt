@@ -2,7 +2,7 @@
 Mandonguilles amb tomàquet
 
 [Ingredients] 
-Persones = 4 persones
+titol = 4 persones
 vedella = 250g carn picada de vedella
 porc = 250g magre de porc picada
 julivert = 1 branca de julivert
