@@ -1,16 +1,36 @@
 [Titol]
-Amb tòfona
+Carrillada amb patates
 
 [Ingredients]
-pa = Unes llesques de pa de baguette tallades fines
-tòfona = Una o dues tòfones negres (poden ser de conserva)
-sal = Un pols de sal
-oli = Un raig d’oli d’oliva
+xai = 1Kg. de galtes de xai
+all = 5 grans d'all
+ceba = 1 ceba
+porro =1 porro
+pastanaga = 3 pastanagues
+tomàquet = 1 tomàquet
+patates = 4 patates mitjanes
+pebrot = 12 pebrots de piquillo
+vi = 2 gots de vi negre
+brou = 2 litres de brou de carn
+pebre = pebre vermell dolç
+herbes = llorer, farigola
+oli = oli d'oliva
+sal = sal
+pebre = pebre
 
 [Elaboracio]
-Tallem les llesques de pa i les torrem.
-Laminem la tòfona i la posem a sobre de les llesques de pa.
-Amanim amb oli i sal i ja podem començar a gaudir d’aquest bon plat.
+Netejar les galtes, salpebrar i enfarinar. (safata ceràmica forn) En una cassola (gran), daurar-les amb oli d'oliva i apartar en un plat.
+Picar 2 grans d'all, la ceba i 2 pastanagues. Sofregir aquesta verdura en la cassola on es van daurar les galtes. Tallar el tomàquet en daus petits. Afegir el pebre vermell dolç i, a continuació, el tomàquet tallat en daus. Sofregir 2 minuts.
+Fer un “bouquet garní” amb la pastanaga, el llorer i la farigola, incorporar-ho a la casserola.
+Disposar les galtes, de nou, dins de la cassola, afegir el vi negre i deixar reduir 1 minut a foc fort.
+Incorporar el brou de carn i deixar bullir a foc mig 2 hores aproximadament.
+Tallar les patates en rectangles gruixuts. En una paella (petita), amb oli d'oliva, fregir els rectangles de patates a foc suau perquè es coguin per dins.
+Tallar els piquillos en juliana. En una altra paella (petita), saltar els piquillos amb all i oli d'oliva.
+Salpebrar i reservar.
+Quan estiguin tendres, treure les galtes de la casserola i reservar-les en un plat.
+Amb la batedora, triturem la salsa.
+Pujar el foc de les patates per a acabar de daurar-les per l'exterior.
 
 [Categories]
 categoria = Carn
+subcategoria = Xai
