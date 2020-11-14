@@ -1,0 +1,26 @@
+[Titol]
+Fricandó
+
+[Ingredients] 
+Persones = 4 persones
+vedella = 12 talls de carn de vedella (pot ser tapa plana, cap de mort o culetin)
+ceba = cebes
+pebre = pebre vermell dolç
+conyac = 1/2 copa conyac
+brou = 1/2l itre brou vegetal
+fruits secs = una picada
+bolets = moixernons o cama-grocs
+Per a la picada:
+fruits secs = ametlles, avellanes, pinyons
+pa = una torrada
+
+[Elaboracio]
+En una paella amb oli d’oliva passem la carn. Volta i volta. No l’hem de fregir i tampoc enfarinar.
+Apartem la carn en un plat i en el mateix oli posem a fregir la ceba. Quan estigui ben rossa li tirem pebre vermell dolç i deixem que es torri.
+Afegim la carn, mitja copa de conyac i ho cobrim tot amb brou vegetal. Ho deixem que faci xup-xup fins que la carn estigui tova. Uns tres quarts d’hora aproximadament a foc lent.
+També posarem els bolets que prèviament haurem tingut una estona en remull. Quan veiem que la carn ja està tendre, afegim una picada, remenem i ja ho tenim preparat per servir.
+Ho podem acompanyar amb arroç bullit o amb una mica de puré de patates.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
