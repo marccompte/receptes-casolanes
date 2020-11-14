@@ -2,7 +2,7 @@
 Tataki de bou
 
 [Ingredients] 
-Persones = 2 persones
+titol = 2 persones
 bou = 300-400g filet de bou
 oli = oli de tòfona
 sal = sal Maldon
