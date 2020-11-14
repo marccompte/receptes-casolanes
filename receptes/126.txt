@@ -11,7 +11,7 @@ ceba = 1 ceba petita
 all = 2 grans d'all
 pa = 2 cullerades pa ratllat o molla de pa mullada en llet
 farina = 100g de farina per a enfarinar les mandonguilles
-3dl oli per a fregir
+oli = 3dl oli per a fregir
 sal = sal
 titol = Salsa de tomàquet i pebrot
 tomàquet = 300 g tomàquet pera
