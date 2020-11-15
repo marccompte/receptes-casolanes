@@ -1,0 +1,23 @@
+[Titol]
+al forn amb puré de patates
+
+[Ingredients]
+pollastre = 1 pollastre, millor si és de corral
+tomàquet = 1 paquet de tomàquets cherry
+vi= 1 got de vi blanc
+aigua = 1 got d’aigua
+tòfona = 10 g de tòfona d’hivern
+patates = 5 o 6 patates
+mantega = 10g mantega
+oli = oli oliva verge extra
+sal = sal
+pebre = pebre negre
+
+[Elaboracio]
+Reescalfar el forn uns 180-190ºC. Posar en una safata el pollastre tallat a quarts amb els tomàquets cherry, salpebrar. Deixar daurar la pell del pollastre i afegir un gotet d’aigua i un altre de vi blanc. Deixar que es vagi fent al forn ben viu. Mentrestant posarem a fer les patates amb aigua i sal.  Quan el pollastre estigui llest, una mitja hora, el treiem i guardem el suc. Filetegem la pechuga  per presentar al plat.
+Mentrestant, reduïm el suc en una paellera fins que quedi amb la textura que ens interessi. Passem les patates per el turmix. Li afegim la mantega i la tòfona ratllada ja sense foc. La tòfona no té que escalfar-se massa.
+Ja només ens queda presentar-ho amb els filets de pechuga, salsejar amb el suc i acompanyar el puré. Finalment ratllarem una mica més de tòfona per sobre del puré.
+ 
+[Categories]
+categoria = Carn
+subcategoria = Pollastre
