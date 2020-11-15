@@ -1,0 +1,29 @@
+[Titol]
+al forn amb romaní
+
+[Ingredients]
+pollastre = 4 cuixes pollastre
+patates = 6 patates mitjanes
+pebrot = 1 pebrot verd, 1 de vermell i 12 del piquillo
+ceba = 1 ceba
+all = 1 capsa d'alls
+llimona = 1 llimona
+oli = 2 gots oli d'oliva verge extra
+vi = 1 got manzanilla de Sanlúcar
+herbes = 1 ramet de romaní i 1 culleradeta de comí
+pa = pa ratllat
+sal = sal i pebre
+
+[Elaboracio]
+Fer un amanimont amb l'oli, all, romaní, comí, llimona, sal i pebre.
+Pelar i tallar les patates en rodanxes de ½ cm de gruix.
+Barrejar les patates amb els alls, els pebrots i la ceba tallada en juliana. Salpebrar i estendre en una safata de forn.
+Afegir l'oli d'oliva, la manzanilla i el pa ratllat.
+Disposar les cuixetes de pollastre sobre les patates i introduir-ho al forn  45 min a 180 °C
+En una paella saltagem els pebrots de piquillo amb all.
+Afegir el brou de pollastre i una mica de l'amaniment.
+Deixem coure fins a obtenir una salsa.
+
+[Categories]
+categoria = Carn
+subcategoria = Pollastre
