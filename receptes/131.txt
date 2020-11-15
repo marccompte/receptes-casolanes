@@ -1,0 +1,27 @@
+[Titol]
+de pagés amb llamantol
+
+[Ingredients] 
+titol= 4 persones
+pollastre = 1 pollastre de pagès tallat a vuitens
+llamàntol = 2 llamàntols de 400 grams
+ceba = 1 ceba
+pastanaga = 1 pastanaga
+porro = 1 porro
+oli = 6 cullerades d'oli d'oliva
+llet = crema de llet
+espècies = 6 fils de safrà
+herbes = Fonoll
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Coem els caps dels llamàntols amb les verdures, el mig litre d'aigua durant 1 hora. Colem i reservem.
+En una cassola daurem lleugerament el pollastre. Quan tingui color, afegim el brou de llamàntol just fins que ho cobreixi. Deixem que cogui durant 90 minuts.
+Afegim les cues de llamàntol obertes per la meitat longitudinalment i crues deixant coure juntament amb el pollastre 5 minuts.
+Traiem el pollastre, els llamàntols i mantenim calent. Posem els caps de les llagostes juntament amb les verdures en una safata al forn uns minuts, fins que es torrin i després es trituren amb la salsa de la cocció del pollastre. Triturem i passem pel colador xinès la crema de llamàntol, posem a punt de sal. Cobrim el pollastre i el llamàntol i introduïm en el forn pre-escalfats a 200 °C durant 5 minuts més.
+Servim amb una base de la salsa, el quart de pollastre, mig llamàntol i una mica d'escarola amanida.
+
+[Categories]
+categoria = Carn
+subcategoria = Pollastre
