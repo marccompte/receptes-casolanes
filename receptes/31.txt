@@ -2,18 +2,17 @@
 coca d’oli
 
 [Ingredients]
-persones =
 aigua = 1 tassa d’aigua
 oli = 1 tassa d’oli
 cervesa = 1 tassa de cervesa
-sal = 1 mica de sal
-farina = Farina
+sal = una mica de sal
+farina = 900g de farina
 llevat = 1 pastilla de llevat
-pebre = Pebre vermell
+pebre = pebre vermell
 
 [Elaboracio]
 S’agafa un bol i s’hi posa l’oli, la sal, la cervesa, i l’aigua, la pastilla de llevat, es barreja tot mentre se li afegeix, poc a poc, la farina fins que quedi una massa que es desenganxi dels dits. Es fa una pilota i es deixa reposar fins que pugi.
-S’estén a la safata del forn, una capa super fina i amb el ganivet es marquen, amb ratles al llarg i l’ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure una mica al forn, màxim uns 15 minuts, i llestos.
+S’estén a la safata del forn, una capa super fina i amb el ganivet es marquen, amb ratles al llarg i l’ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure una mica a 200ºC al forn, màxim uns 15 minuts, i llestos.
 
 [Categories]
 categoria = Aperos
