@@ -18,10 +18,8 @@ gingebre = 3g de gingebre
 menta = unes fulles de menta
 
 [Elaboracio]
-titol = Per a la salsa de formatge i cítrics
 Tallem el formatge en 16 làmines i el disposem en un recipient per a batre. Afegim la llet evaporada, el suc de taronja i llimona, salpebrem. Triturem el conjunt fins a aconseguir una crema hhomogénea i reservem.
-titol = Per als carabiners
-els pelem, obrim lleugerament per l'exterior i els escaldem durant 20 segons en aigua bullint. Refredem en aigua amb gel per a tallar-ne la cocció. 
+Pelem els carabiners, obrim lleugerament per l'exterior i els escaldem durant 20 segons en aigua bullint. Refredem en aigua amb gel per a tallar-ne la cocció. 
 En un bol, piquem finament l'api i el gingebre, hispremem les llimes. Amb això, marinem els carabiners durant 20 minutos a temperatura ambient.
 Emplatem en petits bols una mica de salsa de formatge i cítrics i tres carabiners marinats. 
 Decorem amb unes fulles de menta.
