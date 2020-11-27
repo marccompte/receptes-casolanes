@@ -2,7 +2,7 @@
 Mousse de xoxolata
 
 [Ingredients]
-Persones =  4
+Persones =  4 persones
 titol = PER A LA MOUSSE
 xocolata = 100 g xocolata 72%
 nata = 250 ml nata
