@@ -1,0 +1,36 @@
+[Titol]
+Mousse de xoxolata
+
+[Ingredients]
+Persones =  4
+titol = PER A LA MOUSSE
+xocolata = 100 g xocolata 72%
+nata = 250 ml nata
+ou = 3 rovells d'ou
+sal = escates de sal
+ titol = PER A LES TEULES
+nata = 30 ml nata
+sucre = 25 g sucre
+mel = 20 g mel de romaní
+fruits secs = 20 g ametlla i 20 g avellana torrades
+farina = 15 g farina
+vainilla = 2 beines vainilla
+
+[Elaboracio]
+Trossegem 100 g de xocolata 70% i els fiquem en un got túrmix.
+Posem a un bol pot 70 ml de nata i tres rovells d'ou i ho barregem. Guardem les clares al frigorífic per una altra preparació.
+Posem la nata amb els rovells al bany Maria i portem la barreja a 82º.
+Quan la temperatura sigui de 82º integrem aquesta barreja amb la xocolata que tenim al túrmix, ho emulsionem amb un braç elèctric i ho reservem.
+Posem 180 ml de nata en un bol fred (la fredor afavorirà el treball que hem de fer amb la nata)
+Semimuntem la nata amb unes varetes elèctriques.
+Afegim, de mica en mica i amb l'ajut d'una llengua, la barreja de xocolata dins el bol de la nata semimuntada.
+Deixem reposar aquesta mousse durant dues hores a la nevera.
+Comencem a fer les teules bullint 30 ml de nata en un pot amb 25 g de nata, 20 g de mel de romaní i l'interior de dues beines de vainilla.
+Piquem en una picadora 20 g d'avellanes torrades i 20 g d'ametlles torrades, que afegirem al pot de la nata un cop l'hàgim retirat del foc.
+Tamisem 15 g de farina dins del pot. Ho barregem tot.
+Posem la pasta ja temperada sobre una base de silicona (forma de tires) en una safata de forn.
+Ho enfornem a 160 ºC durant 7 minuts.
+Traiem la mousse de la nevera. La servim (també podíem haver-la servit abans de ficar-la a la nevera) i hi posem a sobre una mica d'escates de sal. Acompanyem la mousse amb les teules.
+
+[Categories]
+categoria = Postres
