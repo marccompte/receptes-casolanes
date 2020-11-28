@@ -2,9 +2,9 @@
 Mousse de xocolata
 
 [Ingredients]
-xocolata = 100 g xocolata negre
-nata = 250 ml nata
-ou = 3 rovells d'ou
+nata = 250ml nata
+xocolata = 100g xocolata negre
+ous = 3 rovells d'ou
 sal = escates de sal
  
 [Elaboracio]
