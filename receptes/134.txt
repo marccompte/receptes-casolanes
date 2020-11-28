@@ -1,5 +1,5 @@
 [Titol]
-Mousse de xoxolata
+Mousse de xocolata
 
 [Ingredients]
 Persones =  4 persones
