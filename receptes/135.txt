@@ -1,0 +1,21 @@
+[Titol]
+Teules
+
+[Ingredients]
+Persones =  8 persones
+nata = 90 ml nata
+sucre = 75 g sucre
+mel = 50 g mel de romaní
+fruits secs = 120 g ametlles torrades
+farina = 45 g farina
+vainilla = 2 beines vainilla
+
+[Elaboracio]
+Comencem a fer les teules bullint, en un pot, la nata amb el sucre, la mel i l'interior de les dues beines de vainilla.
+Piquem, en una picadora, les ametlles torrades, que afegirem al pot de la nata un cop l'hàgim retirat del foc.
+Tamisem la farina dins del pot i ho barregem tot.
+Posem la pasta ja temperada sobre una base de silicona en una safata de forn.
+Ho enfornem a 160 ºC durant 10 minuts.
+
+[Categories]
+categoria = Postres
