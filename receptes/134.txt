@@ -1,0 +1,26 @@
+[Titol]
+Conill al vi negre
+
+[Ingredients]
+vi = 1 litre vi negre
+conill = 1 conill
+ceba = 1 ceba
+pastanaga = 2 pastanagues
+porro = 2 porros
+cansalada = 200gr cansalada viada fumada
+ceba = 150gr cebetes franceses
+patata = 8 patates noves
+herbes = Julivert fresc i farigola
+oli = Oli d'oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Trossejar la ceba, la pastanaga i el porro, ofegant-los a foc mitjà.
+Trossejar el conill. Daurar els trossos, salpebrar i incorporar-los a les verdures. Abocar-hi el vi negre, l'aigua i deixar coure 30 minuts. Apartar els trossos de carn i triturar la salsa. Retornar la carn a la salsa i mantenir a foc moderat.
+Trossejar la cansalada i saltejar-lo juntament amb les cebetes franceses. Afegir-ho a la carn amb salsa.
+Pelar i tallar les patates en rodanxes molt fines. Unir de dos en dos amb una fulla de julivert al mig. Fregir en oli i apartar.
+
+[Categories]
+categoria = Carns
+subcategoria = Conill
