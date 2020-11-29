@@ -2,6 +2,7 @@
 Mousse de xocolata
 
 [Ingredients]
+Persones = 4 persones
 nata = 250ml nata
 xocolata = 100g xocolata negre
 ous = 3 rovells d'ou
