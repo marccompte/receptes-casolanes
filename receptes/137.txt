@@ -1,0 +1,26 @@
+[Titol]
+Hamburgueses de llenties
+
+[Ingredients]
+Persones = 4 persones
+llenties = 200g llenties cuites
+arròs = 50 g d'arròs
+pastanaga = 1 pastanaga
+ceba = 1 ceba
+pa = 40g de pa ratllat
+pebrot = 1 pebrot vermell
+carbassó = 1 carbassó
+formatge = 50g formatge de cabra
+olives = 8 olives negres
+remolatxa = 50g remolatxa cuita
+oli = oli oliva verge
+sal = sal
+
+[Elaboracio]
+Bullim l'arròs el temps que indica el fabricant. Ratllem el carbassó, la ceba i la pastanaga i els sofregim en una paella amb una mica d'oli d'oliva durant 15 minuts.
+En un bol posem les llenties cuites al costat de l'arròs i xafem molt bé amb l'ajuda d'una forquilla. Afegim les verdures fregides, sal al gust i barregem tot el conjunt molt bé fins a aconseguir una massa que ens permeti fer hamburgueses.
+Ens untem les mans amb una mica d'oli d'oliva i donem forma a les hamburgueses de llenties. Les arrebossem amb una mica de pa ratllat i les fem a la planxa amb una mica d'oli d'oliva pels dos costats.
+Muntem el cranc, per a això disposem una hamburguesa de llenties a manera de cos del cranc. Amb unes tires de pebrot vermell simulem les potes i les antenes, aquestes últimes les acabarem amb un cercle en la part superior. Amb un tros de formatge de cabra i un trosset d'oliva negra fem els ulls i finalment amb una tira de remolatxa fem la boca.
+
+[Categories]
+categoria = Vegetarià
