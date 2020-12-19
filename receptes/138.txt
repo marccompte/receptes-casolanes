@@ -3,7 +3,7 @@ al forn amb taronja
 
 [Ingredients]
 pollastre = 1 pollastre de pagès
-titol = PER A LA GUARNICIÓ
+titol = PER A LA GUARNICIÓ:
 mel = 50ml mel
 patates = 4 patates guarnició
 pastanaga = 4 pastanagues
@@ -13,7 +13,7 @@ mantega = 15g mantega
 sucre = sucre
 sal = sal
 pebre = pebre
-titol = PER A LA SALSA
+titol = PER A LA SALSA:
 pebre = 2,5g baies de pebre
 taronja = 200ml suc de taronja
 sucre = 30g sucre moré
