@@ -2,23 +2,23 @@
 al forn amb taronja
 
 [Ingredients]
-Persones = 2 pax
-pollastre = 2 pollastre de corral
+Persones = 4 pax
+pollastre = 1 pollastre de pagès
 titol = PER A LA GUARNICIÓ
-mel = 100ml mel
-patates = 8 patates guarnició
-pastanaga = 8 pastanagues
-herbes =  aromàtiques i 2 fulles llorer
-ceba = 8 cebes
-mantega = 30g mantega
+mel = 50ml mel
+patates = 4 patates guarnició
+pastanaga = 4 pastanagues
+herbes =  aromàtiques i 1 fulla llorer
+ceba = 4 cebes
+mantega = 15g mantega
 sucre = sucre
 sal = sal
 pebre = pebre
 titol = PER A LA SALSA
-pebre = 5g baies de pebre
-taronja = 400ml suc de taronja
-sucre = 60g sucre moré
-farina = 10g farina de blat de moro
+pebre = 2,5g baies de pebre
+taronja = 200ml suc de taronja
+sucre = 30g sucre moré
+farina = 5g farina de blat de moro
 brou = brou de pollastre
 sal = sal
  
