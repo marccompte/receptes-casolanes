@@ -2,7 +2,6 @@
 al forn amb taronja
 
 [Ingredients]
-Persones = 4 persones
 pollastre = 1 pollastre de pagès
 titol = PER A LA GUARNICIÓ
 mel = 50ml mel
