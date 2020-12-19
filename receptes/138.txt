@@ -1,0 +1,37 @@
+[Titol]
+al forn amb taronja
+
+[Ingredients]
+Persones = 2 pax
+pollastre = 2 pollastre de corral
+titol = PER A LA GUARNICIÓ
+mel = 100ml mel
+patates = 8 patates guarnició
+pastanaga = 8 pastanagues
+herbes =  aromàtiques i 2 fulles llorer
+ceba = 8 cebes
+mantega = 30g mantega
+sucre = sucre
+sal = sal
+pebre = pebre
+titol = PER A LA SALSA
+pebre = 5g baies de pebre
+taronja = 400ml suc de taronja
+sucre = 60g sucre moré
+farina = 10g farina de blat de moro
+brou = brou de pollastre
+sal = sal
+ 
+[Elaboracio]
+ Escalfa la mel i infusiona-la amb el llorer i les herbes aromatiques durant 10 minuts.
+Preescalfa el forn a 170 °C (perquè el pollastre no es ressequi, millor sense ventilador).
+Unta el pollastre amb la mel i posa'l en una plata amb les patates i 200ml d'aigua.
+Deixa que es cogui durant 20 minuts, afegeix-hi les pastanagues, rega'l amb el mateix suc i deixa'l 15 minuts més a 190 °C. Després, gratinal 5 minuts.
+Apaga el forn i deixa que reposi uns 10 minuts abans de servir-lo.
+Mentrestant, prepara la salsa bullint tots els ingredients a foc viu fins que tingui la consistència desitjada. Reserva-la.
+Posa les cebes pelades en un cassó amb mantega, sucre, sal i pebre. Cobreix-ho amb aigua i cuina-ho 255 minuts, tapat i a foc mitja, fins que es caramel-litzin.
+Serveix el pollastre amb la salsa i les guarnicions.
+ 
+ [Categories]
+ categoria = Carn
+ subcategoria = Pollastre
