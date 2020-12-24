@@ -20,7 +20,7 @@ oli = oli oliva verge
 
 [Elaboracio]
 Esmicolem la carn rostida.
-Escalfem 60 g de greix del rostit i 40 g de mantega. Si no tenim greix del rostit, es podria fer amb llard o amb oli d'oliva. Un cop el greix i la mantega estan fosos, afegim al pot 100 g de farina. Torrem la barreja (fem un roux) un mínim de 10 minuts a foc mig.
+Escalfem 60g de greix del rostit i 40g de mantega. Si no tenim greix del rostit, es podria fer amb llard o amb oli d'oliva. Un cop el greix i la mantega estan fosos, afegim al pot 100 g de farina. Torrem la barreja (fem un roux) un mínim de 10 minuts a foc mig.
 Escalfem 800 ml de llet fresca i 200 ml de nata. Ratllem dins el pot de la llet una mica de nou moscada. Piquem en un morter pebre i l'afegim a la llet. sal.
 Posem els porros en una paella al foc fins que estiguin ben cuits. També els podem fer al forn i els tallem. Afegim els porros tallats al roux i ho integrem. Incorporem la llet nata calent a la barreja. Remenem bé la beixamel fins que la pasta es desenganxi de les parets. (Trigarem uns 10 minuts). Afegim la carn tallada a la salsa beixamel i fem que coguin plegats 2 minuts perquè s'integrin bé. Tastem de sal i rectifiquem si cal.
 Posem tota la massa de les croquetes en un tupper o recipient. Ho filmem a pell i ho deixem a la nevera un mínim de 3 hores.
@@ -32,3 +32,4 @@ Posem oli en una paella alta i ho posem a escalfar. Fregim les croquetes i les d
 
 [Categories]
 categoria = Carn
+subcategoria = Porc
