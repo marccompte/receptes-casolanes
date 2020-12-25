@@ -31,5 +31,4 @@ Traiem de la nevera la massa de croquetes reposada. Donem forma a les croquetes.
 Posem oli en una paella alta i ho posem a escalfar. Fregim les croquetes i les deixem en una safata amb paper absorbent per eliminar l'excés d'oli. Dos minuts més tard, traiem les croquetes ja escorregudes del plat amb paper absorbent i les posem un plat sense paper.
 
 [Categories]
-categoria = Carn
-subcategoria = Porc
+categoria = Entrants
