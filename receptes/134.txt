@@ -1,5 +1,5 @@
 [Titol]
-Conill al vi negre
+al vi negre
 
 [Ingredients]
 vi = 1 litre vi negre
@@ -22,5 +22,5 @@ Trossejar la cansalada i saltejar-lo juntament amb les cebetes franceses. Afegir
 Pelar i tallar les patates en rodanxes molt fines. Unir de dos en dos amb una fulla de julivert al mig. Fregir en oli i apartar.
 
 [Categories]
-categoria = Carns
+categoria = Carn
 subcategoria = Conill
