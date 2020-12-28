@@ -1,9 +1,9 @@
 [Titol]
-Pollastre de pagès rostit amb llimona
+Pollastre de pagès rostit
 
 [Ingredients]
 Persones = 4pax
-pollastre = 1 pollastre de pagès de corral de 3 quilos
+pollastre = 1 pollastre de pagès de 3 quilos
 llimona = Llimona i Llimona adobada amb sal (opcional)
 all = 2 grans d'all
 HERBES = Farigola i Llorer
