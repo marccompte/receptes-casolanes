@@ -1,0 +1,25 @@
+[Titol]
+Raviolis de carbassó
+
+[Ingredients]
+carbassó = 1 carbassó (2 tires per cada ravioli)
+bolets = fredolics, camagrocs, etc
+ceba = Ceba tendra i Cebollí
+nata = Nata
+brou = Brou de gallina
+sal = Sal
+pebre = Pebre
+mantega = Mantega
+oli = Oli oliva verge
+formatge = Formatge de cabra
+
+[Elaboracio]
+Escalfem oli amb una gota de mantega, mentre preparem la ceba i el carbassó. Tallem la ceba a trossos petits. Posem la ceba al foc i tallem unes quantes tires de carbassó al llarg.
+En una altra paella, o en una planxa, hi posem el carbassó amb una mica d'oli.
+Netegem els bolets a raig d'aixeta, els tallem, els barregem a la paella amb la ceba ja mig feta i ho saltagem tot junt. Ho flamegem amb conyac i hi afegim una mica de nata.
+Ja podem muntar el plat, embolicant una cullerada dels bolets saltejats i una mica de formatge de cabra amb dues tires creuades de carbassó, fent un farcellet... I amb el que sobra de bolets i una mica de brou fem un fons de salsa per al plat, que finalment passarem pel túrmix. 
+Abans d'emplatar-ho, posem un moment els raviolis al forn perquè es gratinin i es desfaci el formatge.
+Ho emplatem. 
+
+[Categories]
+categoria = Vegetarià
