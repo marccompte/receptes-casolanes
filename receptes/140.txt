@@ -1,21 +1,21 @@
-[Titol]
-Pollastre de pagès rostit
+[Titol
+de pagès, rostit
 
 [Ingredients]
 Persones = 4pax
-pollastre = 1 pollastre de pagès de 3 quilos
+pollastre = 1 pollastre de 3 quilos
 llimona = Llimona i Llimona adobada amb sal (opcional)
 all = 2 grans d'all
-HERBES = Farigola i Llorer
+herbes = Farigola i Llorer
 oli = Oli d'oliva extra verge
 mantega = 50g mantega
 
 [Elaboracio]
 Traieu de la nevera el pollastre i la mantega 30 minuts abans de fer la recepta i preescalteu el forn a 200 °C.
-Farciu el pollastre amb els grans d'all amb pell, prèviament aixafats amb les mans, la farigola, el llorer i una llimona i mitja, que haureu tallat a trossets petits.Si en teniu, poseu-hi també dos trossos de llimona adobats amb sal.
-Repartiu amb les mans la mantega per la pell del pollastre.
+Farciu el pollastre amb els grans d'all amb pell, prèviament aixafats amb les mans, la farigola, el llorer i una llimona i mitja, que haureu tallat a trossets petits. Si en teniu, poseu-hi també dos trossos de llimona adobats amb sal.
+Repartiu amb les mans la mantega sobre la pell del pollastre.
 Poseu la safata al forn que prèviament haureu untat amb mantega. Repartiu-hi 4 limones tallades per la meitat amb les fulles de farigola i llorer picades, pel damunt juntament amb sal i oli d'oliva.
-titol = Cocció del pollastre:
+titol = Cocció del pollastre
 25min tombat sobre una cuixa. Afegiu-hi un got d'aigua
 25min tombat sobre l'altra cuixa
 10min sobre l'esquena
