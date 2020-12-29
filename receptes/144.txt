@@ -12,7 +12,7 @@ nou muscada = nou muscada
 sal = sal
 
 [Elaboracio]
-Desfem les farines en un pot l'ou amb 250ml de barreja de llet i brou. Posem a bullir en un altre pot tots els ingredients restants. Quan comenci a bullir, sense deixar de remanar hi afegim la barreja de l'altre pot deixant-ho el temps suficient perquè la farina quedi cuita. Si la beixamel es massa clara hi afegim més farina o llet o brou si és massa espesa.
+En un pot desfem les farines amb 250ml de barreja de llet i brou i l'ou . Posem a bullir en un altre pot tots els ingredients restants. Quan comenci a bullir, sense deixar de remanar hi afegim la barreja de l'altre pot deixant-ho el temps suficient perquè la farina quedi cuita. Si la beixamel es massa clara hi afegim més farina o llet o brou si és massa espesa.
 
 [Categories]
 categoria = Salses
