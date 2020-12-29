@@ -1,0 +1,34 @@
+[Titol]
+de carn
+
+[Ingredients]
+titol = canelons de carn:
+porc = un llom sencer de porc
+pollastre = 4 quarters posterior de pollastre i 3 fetges
+porro = 2 porros
+ceba = 2 cebes
+pastanaga = 2 pastanagues
+nata = 1/4l. crema de llet
+conyac = 1 raig conyat
+brou = 1/2l brou pollastre i verdures
+formatge = 1 sobre formatge ratllat
+
+titol = beixamel
+llet =1l. llet semidesnatada
+ou = 1 ou
+brou = 1l brou pollastre i verdures
+nata = 1/4l. crema de llet
+farina = 3 cullerades farina i 1 de maizena
+pebre = pebre
+nou muscada = nou muscada
+sal = sal
+
+[Elaboracio]
+Tallar el cap de llom a tires i desossar les cuixes de pollastre.
+Posar-ho tot al forn escalfat a 180ª - 200ªC. A mitja cocció afegir-hi porro, ceba, pastanaga i conyac. Continuar la cocció 1/2h més, afegir-hi el brou i deixar-li un altra mitja hora.
+Deixar-ho refredar. Triturar-ho amb la picadora, posar-ho en un bol, afegir-hi la crema de llet i tot el suc del rostit. Si no queda prou espés afegir-hi pa ratllat fins obtenir la textura desitjada i deixar-ho refredar.
+Per a fer la beixamel, desfem les farines en un pot l'ou amb 250ml de barreja de llet i brou. Posem a bullir en un altre pot tots els ingredients restants. Quan comenci a bullir, sense deixar de remanar hi afegim la barreja de l'altre pot deixant-ho el temps suficient perquè la farina quedi cuita. Si la beixamel es massa clara hi afegim més farina o llet o brou si és massa espesa.
+
+[Categories]
+categoria = Entrants
+subcategoria = Canelons
