@@ -1,0 +1,18 @@
+[Titol]
+beixamel
+
+[Ingredients]
+llet =1l. llet semidesnatada
+ou = 1 ou
+brou = 1l brou pollastre i verdures
+nata = 1/4l. crema de llet
+farina = 3 cullerades farina i 1 de maizena
+pebre = pebre
+nou muscada = nou muscada
+sal = sal
+
+[Elaboracio]
+
+
+[Categories]
+categoria = Salses
