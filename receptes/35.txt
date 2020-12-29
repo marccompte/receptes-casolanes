@@ -1,5 +1,5 @@
 ﻿[Titol]
-salsa de ceps
+de ceps
 
 [Ingredients]
 Persones = 
