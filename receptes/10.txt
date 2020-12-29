@@ -1,5 +1,5 @@
 ﻿[Titol]
-salsa calçots
+per als calçots
 
 [Ingredients]
 persones = 
