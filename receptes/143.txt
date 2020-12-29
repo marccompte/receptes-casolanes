@@ -6,7 +6,7 @@ espinacs = 4 paquets espinacs congelats (amb ceba, panses i pinyons)
 nata = 1/4l.crema de llet
 ou = 1 rovell
 pa = pa ratllat
-formatge = i sobre formatge
+formatge = 1 sobre formatge
 
 [Elaboracio]
 En un pot barrejar els espinacs, l'ou i la crema de llet i posar-ho al foc durant 1/2h.
