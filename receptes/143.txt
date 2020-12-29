@@ -12,9 +12,9 @@ herbes = 1 fulla de llorer
 [Elaboracio]
 En una paella saltejar els espinacs. Treure-ho del foc i afegir-hi l'ou i la crema de llet.
 Si no queda prou espés afegir-hi pa ratllat fins obtenir la textura desitjada i deixar-ho refredar.
-Bullim la pasta dels canelons en un pot amb aigua, un raig d'oli i una fulla. Quan siguin cuits els treiem amb una escumadora i els deixem refredar sobre un drap. 
-Hi posem una quantitat suficient de la massa de carn preparada, els enrotllem i els posem dins la safata del forn que previament haurem greixat amb mantega.
-Cobrim els canelons amb una abundant capa de beixamel i ho enfornem a 200ºC fins que siguin rossos.
+Bullim la pasta dels canelons en un pot amb aigua bullint, un raig d'oli i el llorer. Quan siguin cuits els treiem amb una escumadora, els fiquem dins un bol amb aigua freda i després els estirem sobre sobre un drap. 
+Hi posem una quantitat suficient de la massa preparada, els enrotllem, els posem dins una safata que pugui anar al forn que previament haurem greixat amb mantega.
+Cobrim els canelons amb una abundant capa de beixamel. Per sobre hi escampem formatge ratllat i uns daus de mantega. Ja ho tenim a punt per a gratinar-ho una estona abans de servir-ho.
 
 [Categories]
 categoria = Entrants
