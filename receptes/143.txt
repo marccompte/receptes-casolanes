@@ -7,12 +7,13 @@ nata = 1/4l.crema de llet
 ou = 1 rovell
 pa = pa ratllat
 formatge = 1 sobre formatge
+herbes = 1 fulla de llorer
 
 [Elaboracio]
-En un pot barrejar els espinacs, l'ou i la crema de llet i posar-ho al foc durant 1/2h.
-Deixar-ho refredar. Triturar-ho amb la picadora, posar-ho en un bol, afegir-hi la crema de llet i tot el suc del rostit. Si no queda prou espés afegir-hi pa ratllat fins obtenir la textura desitjada i deixar-ho refredar.
-Bullim la pasta dels canelons en un pot amb aigua i un raig d'oli. Quan siguin cuits els treiem amb una escumadora i els deixem refredar sobre un drap. 
-Hi posem una quatitat suficient de la massa de carn preparada, els enrotllem i els posem dins la safata del forn que previament haurem greixat amb mantega.
+En una paella saltejar els espinacs. Treure-ho del foc i afegir-hi l'ou i la crema de llet.
+Si no queda prou espés afegir-hi pa ratllat fins obtenir la textura desitjada i deixar-ho refredar.
+Bullim la pasta dels canelons en un pot amb aigua, un raig d'oli i una fulla. Quan siguin cuits els treiem amb una escumadora i els deixem refredar sobre un drap. 
+Hi posem una quantitat suficient de la massa de carn preparada, els enrotllem i els posem dins la safata del forn que previament haurem greixat amb mantega.
 Cobrim els canelons amb una abundant capa de beixamel i ho enfornem a 200ºC fins que siguin rossos.
 
 [Categories]
