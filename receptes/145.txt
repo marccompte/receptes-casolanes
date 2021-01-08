@@ -1,0 +1,45 @@
+[Titol]
+Caneló de tòfona
+
+[Ingredients]
+Persones = 4 pax
+caneló = 4 làmines grans i fresques
+llet = 500g llet
+vedella = 300g rostit de vedella
+nata = 150g nata 35%
+foie = 70g fetge d'ànec semicuit
+formatge = 70g formatge parmesà
+farina = 40g farina 
+mantega = 40g mantega
+brou = 1l brou carn
+tòfona = 1 tòfona d'uns 40g
+api = 1 branca d'api
+pastanaga = 2 pastanagues petites
+porro = 2 porros
+all = 1 gra d'all
+sal = sal
+oli = oli d'oliva verge
+pebre = pebre blanc
+nou muscada = nou muscada
+herbes = llorer i farigola
+
+[Elaboracio]
+Repelem i traiem la carn de 300 g de rostit. L'esmicolem i la guardem.
+Rostim 1 branca d'api, 2 porros i 2 pastanagues tallades a brunesa en una cassola amb oli, afegint-hi i 1 gra d'all aixafat, 1 fulla de llorer i farigola.
+Afegim un raig de vi ranci a la cassola i deixem evaporar l'alcohol. Afegim la carn esmicolada a la cassola.
+Escalfem 1 l de brou de carn.
+Tallem els menuts ben petits i els enrossim en una paella amb un raig d'oli. Afegim sal, pebre i un raig de vi ranci a la paella. Deixem evaporar l'alcohol. Afegim a la paella 70g de fetge d'ànec semicuit i ho barregem. Un cop barrejat ho fiquem a la cassola.
+Afegim a la cassola la meitat del brou i ho deixem evaporar del tot. Ho reservem.  L'altra meitat la deixem reduir en la mateixa olla.
+Posem en un pot 40g de mantega i 40g de farina. Ho remenem i ho deixem coure durant 10 minuts.
+Posem a escalfar en un pot 500ml de llet fresca i 150ml de nata i un polsim de sal.
+Ratllem 70 g de formatge parmesà.
+Aboquem la llet calenta sobre el roux tot remenant. Afegim la meitat del formatge ratllat i l'integrem. Hi afegim nou muscada ratllada i pebre blanc. Reservem.
+Ratllem part d'una tòfona dins la beixamel i reservem.
+Estirem les làmines de caneló sobre un drap humit i les farcim amb el contingut de la cassola.
+Posem en el fons d'una safata de forn una cullerada de beixamel, els canelons a sobre, ho napem amb la resta de beixamel i hi afegim la resta del formatge ratllat.
+Enfornem a 220º durant 10 minuts.
+
+[Categories]
+categoria = Carn
+subcategoria = Canelons
+    Ho servim amb la tòfona ratllada per sobre, un filet de la reducció de brou i cibulet.
