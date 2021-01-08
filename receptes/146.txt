@@ -2,13 +2,16 @@
 Romesco
 
 [Ingredients]
-tomàquet = 2 tomàquets pera i 1 tomàquet escalivat
+tomàquet = 1 tomàquet
 fruits secs = 25 ametlles i 25g avellanes torrades
 all = 1 all cru i 2 escalivats
 nyora = 1 nyora
 pa = 1 llesca de pa
 oli = oli oliva verge
+sal = sal gruixuda
 vinagre = vinagre merlot
+herbes = 6 fulles de menta
+pebre = pebre negra
 
 [Elaboracio]
 Fiquem al forn a escalivar 1 tomàquet i 2 grans d'all en una safata coberta amb sal gruixuda durant 30 minuts a 220º. Pelem els escalivats i els posem en un got de batedora.
