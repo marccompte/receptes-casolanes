@@ -1,5 +1,5 @@
 [Titol]
-Caneló de tòfona
+de tòfona
 
 [Ingredients]
 Persones = 4 pax
