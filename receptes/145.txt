@@ -37,9 +37,8 @@ Aboquem la llet calenta sobre el roux tot remenant. Afegim la meitat del formatg
 Ratllem part d'una tòfona dins la beixamel i reservem.
 Estirem les làmines de caneló sobre un drap humit i les farcim amb el contingut de la cassola.
 Posem en el fons d'una safata de forn una cullerada de beixamel, els canelons a sobre, ho napem amb la resta de beixamel i hi afegim la resta del formatge ratllat.
-Enfornem a 220º durant 10 minuts.
+Enfornem a 220º durant 10 minuts i ho servim amb la tòfona ratllada per sobre, un filet de la reducció de brou i cibulet.
 
 [Categories]
-categoria = Carn
-subcategoria = Canelons
-    Ho servim amb la tòfona ratllada per sobre, un filet de la reducció de brou i cibulet.
+categoria = Entrants 
+subbcategoria = Canelons
