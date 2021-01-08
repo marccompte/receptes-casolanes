@@ -1,0 +1,23 @@
+[Titol]
+Coliflor rostida
+
+[Ingredients]
+Persones = 4 pax
+coliflor = 1 coliflor
+brou = 1l de brou pollastre
+tom'aquet = 2 tomàquets pera
+12 fulles menta i un ram de julivert
+oli = oli oliva verge
+sal = sal
+
+[Elaboracio]
+Escalfem 1l de brou de pollastre.
+Posem al foc una cassola amb aigua mineral. Tallem 1 coliflor a llesques de 3-4 cm de gruix i l'escaldem en l'aigua bullint.
+Afegim la coliflor escaldada a l'olla amb el brou i la fem bullir lentament durant 15 minuts.
+Traiem la coliflor del brou bullint i el deixem reduir a foc més ràpid fins que el suc faci una glaça. Fem la creu a 2 tomàquets pera i els escaldem. Els tallem la cocció amb aigua i gel i els pelem. Triturem els tomàquets i els posem en un bol.
+Afegim al bol unes dotze fulles de menta i de julivert tallades i ho remenem.
+Marquem les llesques de coliflor a la planxa i les glaçagem amb el suc reduït.
+Servim la coliflor amb el tomàquet, menta i julivert i una cullerada de romesco per a sobre.
+
+[Categories]
+categoria = Entrants
