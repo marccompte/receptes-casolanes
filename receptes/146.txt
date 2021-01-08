@@ -3,7 +3,7 @@ Coliflor rostida
 
 [Ingredients]
 Persones = 4pax
-coliflor = 1 coliflor
+coliflor = una coliflor
 brou = 1l de brou pollastre
 tomàquet = 2 tomàquets pera i 1 tomàquet per a escalivar
 fruits secs = 25 ametlles i 25g avellanes torrades
