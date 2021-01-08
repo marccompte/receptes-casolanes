@@ -5,12 +5,25 @@ Coliflor rostida
 Persones = 4 pax
 coliflor = 1 coliflor
 brou = 1l de brou pollastre
-tom'aquet = 2 tomàquets pera
-12 fulles menta i un ram de julivert
+tomàquet = 2 tomàquets pera i 1 tomàquet per a escalivar
+fruits secs = 25 ametlles i 25g avellanes torrades
+all = 1 all cru i 2 escalivats
+nyora = 1 nyora
+pa = 1 llesca de pa
+18 fulles menta i un ram de julivert
 oli = oli oliva verge
 sal = sal
+vinagre = vinagre merlot
+pebre = pebre negra
 
 [Elaboracio]
+titol = Romesco
+Fiquem al forn a escalivar 1 tomàquet i 2 grans d'all en una safata coberta amb sal gruixuda durant 30 minuts a 220º. Pelem els escalivats i els posem en un got de batedora.
+Fregim 1 llesca de pa en una paella, en retirem l'oli sobrer amb paper absorbent. Tallem la llesca i l'afegim al got de la batedora.
+Hidratem una nyora deixant-la en remull una hora. En traiem la polpa i l'afegim al got.
+Afegim al got 25 g d'ametlles i 25 g d'avellanes torrades amb pela, tant les ametlles com les avellanes; 1 gra d'all cru, 6 fulles de menta, pebre negre i un raig de vinagre de merlot.
+Ho emulsionem amb la batedora i hi anem afegint oli a poc a poc. Ho reservem tot.
+titol = Coliflor
 Escalfem 1l de brou de pollastre.
 Posem al foc una cassola amb aigua mineral. Tallem 1 coliflor a llesques de 3-4 cm de gruix i l'escaldem en l'aigua bullint.
 Afegim la coliflor escaldada a l'olla amb el brou i la fem bullir lentament durant 15 minuts.
