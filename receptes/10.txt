@@ -1,12 +1,12 @@
 ﻿[Titol]
-per als calçots
+calçots
 
 [Ingredients]
 persones = 
 all = 1 o 2 grans d'all
 tomàquet = 4 tomàquets
 llimona = 1/4 de llimona
-fruits secs = ametlles torrades
+fruits secs = ametlles i avellanes torrades
 espècies = 1 nyora. pebre negre i vermell dolç
 sal = sal
 oli = oli d'oliva
