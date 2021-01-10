@@ -1,8 +1,8 @@
 [Titol]
-Magda
+de Sant Pere
 
 [Ingredients]
-Persones = 200 unitats
+Persones = per a 200 unitats
 farina = 400g farina
 sucre = 400g sucre
 fruits secs = 100g ametlles rallades amb pell
@@ -13,7 +13,7 @@ bicarbonat = 7g bicarbonat
 llevat = 7g llevat Royal
 
 [Elaboracio]
-Batre els ous en un bol i després afegir-hi tota la resta d'ingredients i amassar-ho fins tenir una massa completament homogènea.
+Batre els ous en un bol, després afegir-hi tota la resta d'ingredients i amassar-ho fins tenir una massa completament homogènea.
 Estendre la massa, molt espesa, sobre paper de forn i allisar-ho ben prim amb un corró.
 Tallar en forma de quadradets de 2 x 2 cm aprox.
 Enxegar el forn, dalt i baix, a 180ºC i mantenir-hi la massa durant 15min.
