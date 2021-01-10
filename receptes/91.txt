@@ -1,9 +1,9 @@
 [Titol]
-Canelons d’ànec, tòfona i formatge
+d’ànec, tòfona i formatge
 
 [Ingredients]
-persones = 4
-ànec = 500 g de cuixes d’ànec confitades i 100 g de fetge gras d’ànec
+Persones = 4 pax
+ànec = 500g de cuixes d’ànec confitades i 100 g de fetge gras d’ànec
 ceba = 2 cebes
 all = 2 alls
 alcohol = 1 raig de vi ranci, raig de conyac
@@ -11,13 +11,13 @@ tomàquet = 1 tomàquet madur
 oli = oli d’oliva verge extra
 pa = 2 llesques de pa (només la molla)
 llet = 1 litre de llet
-mantega = 30 g de mantega
-farina = 30 g de farina
+mantega = 30g de mantega
+farina = 30g de farina
 sal = sal
 pebre = pebre blanc
 caneló = 12 làmines de pasta de caneló
-formatge = 125 g de formatge
-tòfona = 100 g de tòfona d’hivern
+formatge = 125g de formatge
+tòfona = 100g de tòfona d’hivern
 
 [Elaboracio]
 Poseu una cassola al foc amb un raig d’oli i enrossiu els alls pelats i tallats a làmines i les cebes ratllades. Deixeu coure lentament. Quan sigui mig cuita, afegiu la tomata ratllada i deixeu concentrar. Mentrestant, traieu el greix de les cuixes confitades, la pell i l’os. Remulleu el sofregit amb el raig de vi ranci i el de conyac. Deixeu que s’evapori l’alcohol i afegiu-hi la carn de la cuixa confitada i el fetge gras. Deixeu coure 4 minuts.
@@ -27,3 +27,4 @@ Tireu una cullerada de beixamel al fons de la plàtera de forn, al damunt poseu-
 
 [Categories]
 categoria = Pasta
+subcategoria = Canelons
