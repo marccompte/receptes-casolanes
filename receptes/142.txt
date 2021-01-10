@@ -36,5 +36,5 @@ En un pot desfem les farines amb 250ml de barreja de llet i brou i l'ou . Posem 
 Cobrim els canelons amb una abundant capa de beixamel. Per sobre hi escampem formatge ratllat i uns daus de mantega. Ja ho tenim a punt per a gratinar-ho una estona abans de servir-ho.
 
 [Categories]
-categoria = Entrants
+categoria = Pasta
 subcategoria = Canelons
