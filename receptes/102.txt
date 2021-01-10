@@ -1,9 +1,10 @@
 [Titol]
-Carquinyolis d'ametlla
+d'ametlla
 
 [Ingredients]
 fruits secs = 125 g d'ametlles senceres amb pell
-farina = 340 g de farina fluixa amb 10 g de llevat
+farina = 340 g de farina fluixa
+llevat = 10 g de llevat
 mantega = 40 g de mantega a temperatura ambient
 aigua = 60 g d'aigua
 sucre = 160 g de sucre
@@ -23,3 +24,4 @@ Passat aquest temps traieu-les del forn i aneu-les tallant ràpidament de biaix 
 
 [Categories]
 categoria = Postres
+subcategoria = Carquinyolis
