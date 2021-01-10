@@ -1,5 +1,5 @@
 [Titol]
-de carn
+casolans
 
 [Ingredients]
 pollastre = pollastre
