@@ -1,5 +1,5 @@
 [Titol]
-Canalons de carn
+de carn
 
 [Ingredients]
 pollastre = pollastre
@@ -13,3 +13,4 @@ podrem posar al forn a gratinar.
 
 [Categories]
 categoria = Pasta
+subcategoria = Canelons
