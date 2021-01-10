@@ -1,5 +1,5 @@
 [Titol]
-carbasso, gingebre i magrana  
+carbassa, gingebre i magrana  
 
 [Ingredients]
 Persones = 4 pax
@@ -20,4 +20,4 @@ Decoreu la crema amb uns grans  de  magrana, unes pipes de carbassa i un brots d
 
 [Categories]
 categoria = Entrants
-subcategoria = Sopes
+subcategoria = Sopes_Cremes
