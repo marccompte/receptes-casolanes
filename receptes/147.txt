@@ -1,5 +1,5 @@
 [Titol]
-de Sant Pere
+Marga
 
 [Ingredients]
 Persones = per a 200 unitats
@@ -13,10 +13,10 @@ bicarbonat = 7g bicarbonat
 llevat = 7g llevat Royal
 
 [Elaboracio]
-Batre els ous en un bol, després afegir-hi tota la resta d'ingredients i amassar-ho fins tenir una massa completament homogènea.
-Estendre la massa, molt espesa, sobre paper de forn i allisar-ho ben prim amb un corró.
+Afegir tots els ingredients en un bol i barrejar-ho manualment o amb una batedora fins tenir una massa completament homogènea (molt espesa).
+Estendre la massa sobre una safata amb paper de forn, previament untat mab mantega i allisar-ho ben prim amb un corró.
 Tallar en forma de quadradets de 2 x 2 cm aprox.
-Enxegar el forn, dalt i baix, a 180ºC i mantenir-hi la massa durant 15min.
+Enxegar el forn, dalt i baix, a 180ºC, possar-hi la safata i coure-ho durant 15min.
 
 [Categories]
 categoria = Postres
