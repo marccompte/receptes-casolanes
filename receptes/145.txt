@@ -40,5 +40,5 @@ Posem en el fons d'una safata de forn una cullerada de beixamel, els canelons a 
 Enfornem a 220º durant 10 minuts i ho servim amb la tòfona ratllada per sobre, un filet de la reducció de brou i cibulet.
 
 [Categories]
-categoria = Entrants 
+categoria = Pasta
 subcategoria = Canelons
