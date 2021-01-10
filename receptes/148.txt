@@ -1,0 +1,23 @@
+[Titol]
+carbasso, gingebre i magrana  
+
+[Ingredients]
+Persones = 4 pax
+carbassa = 800 carbassa neta
+pastanaga = 150g pastanagues  
+porro = 1 porro  
+patates = 300g patates  
+ceba = 1 ceba  
+gingebre = 50g gingebre  
+brou = 1,5l caldo vegetal
+magrana = 1 magrana  
+
+[Elaboracio]
+Ofegueu la ceba picada i el porro tallat a rodanxes fines en una olla amb una mica d'oli d'oliva procurant que no s'hi daurin. Afegiu-hi la carbassa i les pastanagues tallades a daus, després les patates també a daus, el caldo de verdures i porteu a ebullició una mitja hora. 
+Quan faltin 5 minuts per acabar la cocció, afegiu-hi el gingebre ratllat.
+Tritureu-ho tot juntament amb el suc d'una magrana fins a aconseguir un puré ben fi.
+Decoreu la crema amb uns grans  de  magrana, unes pipes de carbassa i un brots de romani.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes
