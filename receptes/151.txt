@@ -2,7 +2,6 @@
 de porros
 
 [Ingredients]
-Persones = 4 pax
 porro = 500g porros
 patates = 400g patates
 pastanaga = 200g pastanagues
