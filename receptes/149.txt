@@ -1,0 +1,38 @@
+[Titol]
+arròs sec de gambes, sípia i carxofes
+
+[Ingredients]
+gamba = 6 gambes mitjanes 
+sípia = 2 sípies mitjanes 
+carxofa = 3 carxofes 
+ceba = 1 ceba (ofegada)
+all = 3 grans all
+arròs = 180 g d'arròs bomba 
+tomàquet = 2 tomàquets madurs ratllats
+pebre = 1 culleradeta de pebre vermell dolç
+brou = 800 ml brou de marisc
+oli = 1 raig d'oli
+titol = Per a 1 litre de brou de marisc
+gamba = 100g de gambots 
+peix = 150g de peixos de llotja (aranyes, caps de rap, espines d'escórpora)
+porro = 1/2 porro
+pastanaga = 1/2 pastanaga
+pebrot = 1/4 de pebrot vermell 
+pebre = 1 cullerada de pebre vermell dolç1
+conyac = 5 ml de brandi
+oli = 1 raig d'oli verge extra 
+aigua = 4l d'aigua
+
+[Elaboracio]
+titol =  brou de marisc:
+Poseu tots els ingredients del brou en una olla i deixeu-los bullir durant una hora. Passat aquest temps, deixeu-ho reposar amb el foc apagat, perquè s'infusionin tots els ingredients. Coleu-lo i reserveu-lo per fer-lo servir en el moment adequat.
+titol =  paella:
+Tallar la ceba i ofegar-la en una paella juntament amb els grans d'all a foc lent, fins que en resulti una pasta marronosa.
+Comenceu marcant les gambes en una paella calenta, amb una mica de sal. Marqueu-les banda i banda suaument, i tot seguit reserveu-les en un plat.
+Feu el mateix amb les carxofes, que heu de marcar a la mateixa paella on heu fet les gambes, amb un raig d'oli i un polsim de sal. Un cop marcades, retireu-les i reserveu-les.
+Ara serà el moment de tirar a la paella la sípia, ben tallada a trossos petits, amb una cullerada petita de pebre vermell. Remeneu-ho tot ben bé.Quan la sípia agafi un color daurat, afegiu-hi el tomàquet. Remeneu-ho bé fins que comproveu que s'ha absorbit l'aigua que deixa anar el tomàquet.Llavors serà el moment d'afegir-hi la ceba ofegada, que haurà adquirit un to marró de la cocció lenta que haureu fet. I d'afegir-hi també l'arròs. Remeneu-ho.Quan estigui tot ben barrejat, tireu a l'arròs el brou de marisc.
+Salpebreu-ho, tireu-hi les carxofes i coeu-ho tot a foc fort durant 9-10 minuts.Passats aquests minuts, abaixeu el foc a la mínima potència durant 6 o 7 minuts més.En els tres minuts finals, poseu-hi a sobre les gambes que havíeu marcat al principi. Així s'acabaran de coure.I, per acabar, tireu-hi un rajolí d'oli.
+Retireu-ho del foc i deixeu-ho reposar un parell de minuts abans de començar a menjar.
+
+[Categories]
+categoria = Arrossos
