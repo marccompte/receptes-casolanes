@@ -9,14 +9,14 @@ all = 5 grans d'all 
 oli = 100g d'oli d'oliva verge
 tomàquet = 2 cullerades de salsa de tomàquet o 2 tomàquets tallats a daus 
 nyora = 1 cullerada de nyora triturada en pols
-herbes = 2 fulles de llorer i branqueta de farigola 
+herbes = 2 fulles de llorer i 1 branqueta de farigola 
 xoxolata = 1 quadrat d'una rajola de xocolata
 aigua = 2 gots d'aigua
 patata = 4 patates mitjanes
 fruits secs = Una picada (opcional) 
 
 [Elaboracio]
-Aixafeu lleugerament els alls amb pell amb l'ajut d'un ganivet.En una cassola, poseu-hi oli i afegiu-hi els alls aixafats perquè hi deixin l'aroma. Deixeu-los-hi coure sense que es cremin, fins que n'aconseguiu un color daurat. Un truc és aixecar la cassola perquè l'oli submergeixi bé els alls.Tot seguit, afegiu-hi la ceba, tallada en juliana, el llorer i la farigola. Deixeu-ho coure uns cinc minuts perquè tot plegat agafi un color daurat. Deixeu-ho rostir una mica, però tampoc no es tracta de coure-ho molt perquè no és un sofregit.Afegiu-hi una cullerada de nyora en pols, després dues cullerades de tomàquet i, a continuació, la sípia, tallada i neta, però amb la melsa picada.Salpebreu-ho al gust, i afegiu-hi un got d'aigua.
+Aixafeu lleugerament els alls amb pell amb l'ajut d'un ganivet.En una cassola, poseu-hi oli i afegiu-hi els alls aixafats perquè hi deixin l'aroma. Deixeu-los-hi coure sense que es cremin, fins que n'aconseguiu un color daurat. Un truc és aixecar la cassola perquè l'oli submergeixi bé els alls.Tot seguit, afegiu-hi la ceba, tallada en juliana, el llorer i la farigola. Deixeu-ho coure uns cinc minuts perquè tot plegat agafi un color daurat. Deixeu-ho rostir una mica, però tampoc no es tracta de coure-ho molt perquè no és un sofregit. Afegiu-hi una cullerada de nyora en pols, després dues cullerades de tomàquet i, a continuació, la sípia, tallada i neta, però amb la melsa picada.Salpebreu-ho al gust, i afegiu-hi un got d'aigua.
 Tapeu la cassola i deixeu-ho coure lentament durant 40 minuts. El temps de cocció dependrà de la mida de la sípia. El cas és que ha de quedar tova.
 Mentre la sípia està coent-se, talleu les patates amb un ganivet de forma esqueixada. És com si n'arrenquéssiu els trossos. La mesura aproximada per als guisats és afegir una patata per persona.Afegiu-les a la cassola i rectifiqueu-ho tot plegat de sal.
 Passats els quaranta minuts de cocció, aboqueu-hi la xocolata i un got més d'aigua per acabar de coure-ho durant uns 10 o 12 minuts més. Rectifiqueu-ho de sal
