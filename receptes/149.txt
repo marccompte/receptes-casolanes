@@ -1,5 +1,5 @@
 [Titol]
-arròs sec de gambes, sípia i carxofes
+arròs sec
 
 [Ingredients]
 gamba = 6 gambes mitjanes 
