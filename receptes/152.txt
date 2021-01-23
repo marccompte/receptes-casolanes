@@ -1,0 +1,22 @@
+[Titol]
+Lasanya verdures
+
+[Ingredients]
+pebrot = pebrot vermell
+carbassó = carbassó
+bolets = xampinyons
+pastanaga = pastanagues
+tomàquet = salsa de tomàquet
+pebre = pebre negre
+oli = oli d'oliva
+herbes = orenga i alfàbrega fresca
+
+[Elaboracio]
+Tallem els pebrots, el carabassó i els xampinyons en daus, ratllem les pastanagues i saltagem en una paella amb oli d'oliva. Afegim salsa de tomàquet i salpebrem.
+Pinzellem la base d'un motlle de forn amb oli d'oliva, disposem unes làmines de lasanya i estenem sobre elles les verdures saltades.
+Completem amb una capa de beixamel, empolvorem amb formatge i repetim el procés fins a arribar a l'última capa que quedarà coberta amb més beixamel que les anteriors.
+Tornem a empolvorar amb formatge ratllat, enfornem durant 30 minuts a 180 °C. D
+Ddecorem amb l'orenga i l'alfàbrega.
+
+[Categories]
+categoria = Vegetarià
