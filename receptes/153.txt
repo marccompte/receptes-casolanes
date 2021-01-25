@@ -2,17 +2,17 @@
 melmelada taronja
 
 [Ingredients]
-taronja = 1,1 kg tarongues
+taronja = 1,1kg tarongues
 aigua = 250ml aigua
 sucre = 350g sucre
 canyella = 1/2 barra canyella
 
 [Elaboracio]
 Rentar les tarongues i pealar-les de manera que s'aprofiti la part de color taronja de la pell i no hi hagi la part blanca que amarganteja.
-Tallar a daus petits la part comestible de la taronja i posar-la en una cassola junt amb l'aigua i escalfar-ho.
+Tallar a daus petits la part comestible de la taronja i posar-la en una cassola junt amb l'aigua i la canyella. Començar a escalfar-ho.
 Ara, triturem la part taronja de la pell i ho afegim a la cassola.
 Mantenir durant 1 hora al foc sua perquè no bulli.
-Refreda i envasar en pots de vidre.
+Refredar i envasar en pots de vidre.
 
 [Categories]
 categoria = Conserves
