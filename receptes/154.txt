@@ -1,5 +1,5 @@
 [Titol]
-coca de llardons
+de llardons
 
 [Ingredients] 
 Persones = 4 pax
