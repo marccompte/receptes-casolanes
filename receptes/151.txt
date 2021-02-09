@@ -1,0 +1,24 @@
+[Titol]
+de porros
+
+[Ingredients]
+Persones = 4 pax
+porro = 500g porros
+patates = 400g patates
+pastanaga = 200g pastanagues
+ceba = 1 ceba
+all = 2 grans d'all
+oli = 90ml oli d'oliva
+sal = 4g sal
+   
+[Elaboracio]   
+Possem l'oli en una cassola juntament amb la ceba tendra tallada en brounoisse. La cuinem a foc suau. Quan s'hagi cuinat i estigui tova, li afegim la patata pelada, neta i tallada en trossos irregulars, i la pastanaga en rodanxes. Ofeguem el conjunt i el cobrim d'aigua, just fins a sobrepassar les patates.
+Una vegada que el conjunt comenci a bullir, afegim els porros nets i trossejats i un polsim de sal. Tapem la cassola i deixem bullir la mescla, a foc suau i durant 40 minuts.
+Quan les patates i porros estiguin cuits, traiem la cassola del foc. 
+Tallem els grans d'all en làmines i el daurem lleugerament en una paella amb dues cullerades d'oli d'oliva. Ho afegim a la cassola.
+Posem tot el conjunt a punt de sal, tapem la cassola i deixem que reposi una mica la 'purrusalda'. Després la passem pel pasapurés o per la batedora fins a aconseguir una crema suau i uniforme. En cas que quedi excessivament espessa, li agreguem una mica d'aigua calenta i rectifiquem posteriorment amb sal.
+Podem acompanyar aquest puré d'uns trossets de porro fregit tallat a juliana, saltejats en una paella amb una cullerada d'oli d'oliva.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
