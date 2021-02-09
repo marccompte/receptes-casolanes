@@ -10,7 +10,7 @@ llimona = 120g llimona confitada
 sucre = 70g sucre i sucre moré
 ous = 5 ous
 pasta fullada = 2 làmines pasta de full
-llevat = Llevat químic
+llevat = llevat químic
 bicarbonat = bicarbonat sódic
 
 [Elaboracio]
