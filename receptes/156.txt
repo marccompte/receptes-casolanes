@@ -2,9 +2,9 @@
 melmelada taronja
 
 [Ingredients]
-taronja = 1,1kg tarongues (es pot barrejar amb llimona)
-aigua = 250ml aigua
-sucre = 350g sucre
+taronja = 1kg tarongues (es pot barrejar amb llimona)
+aigua = 200ml aigua
+sucre = 250g sucre
 canyella = 1/2 barra canyella
 
 [Elaboracio]
