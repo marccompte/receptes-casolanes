@@ -5,7 +5,7 @@ Coca hivern
 Persones = 4 pax
 farina = 500g farina
 sal = 15g sal
-100g massa mare
+massa mare = 100g massa mare
 herbes = 300ml d'aigua infusionada amb romaní i julivert
 sucre = 5g de sucre
 oli = 25g oli
