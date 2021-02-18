@@ -8,11 +8,9 @@ sucre = 350g sucre
 canyella = 1/2 barra canyella
 
 [Elaboracio]
-Rentar les tarongues i pealar-les de manera que s'aprofiti la part de color taronja de la pell i no hi hagi la part blanca que amarganteja.
-Tallar a daus petits la part comestible de la taronja i posar-la en una cassola junt amb l'aigua i la canyella. Començar a escalfar-ho.
-Ara, triturem la part taronja de la pell i ho afegim a la cassola.
-Mantenir durant 1 hora a foc suau perquè no bulli.
-Refredar i envasar en pots de vidre.
+Rentar les tarongues i tallar-les a daus petits. Posar-ho en una cassola junt amb l'aigua, el sucre i la canyella.
+Deixar-ho bullir durant 2 hores, remenant-ho sovint per evitar que s'enganxi.
+Retirar del foc i en calent omplir pots de vidre. Tapar-los i deixar-los refredar de cap per avall.
 
 [Categories]
 categoria = Conserves
