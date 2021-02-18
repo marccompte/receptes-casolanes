@@ -3,7 +3,6 @@ Coca hivern
 
 [Ingredients]
 Persones = 4 pax
-titol = per a la coca
 farina = 500g farina
 sal = 15g sal
 100g massa mare
