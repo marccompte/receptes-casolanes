@@ -1,5 +1,5 @@
 []Titol
-Llevat (massa mare)
+Massa mare
 
 [Ingredients]
 farina = 2 cullerades farina
