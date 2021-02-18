@@ -1,5 +1,5 @@
 [Titol]
-Coca d'hivern
+Coca hivern
 
 [Ingredients]
 Persones = 4 pax
