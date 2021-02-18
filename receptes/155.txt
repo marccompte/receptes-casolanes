@@ -1,0 +1,46 @@
+[Titol]
+Coca d'hivern
+
+[Ingredients]
+Persones = 4 pax
+titol = per a la coca
+farina = 500g farina
+sal = 15g sal
+100g massa mare
+herbes = 300ml d'aigua infusionada amb romaní i julivert
+sucre = 5g de sucre
+oli = 25g oli
+llevat = 10g llevat fresc
+codonyat = 50g codonyat
+all = 1 cabeça d'alls escalivada
+sal = sal
+pebre = pebre blanc
+llimona = llima
+
+titol = per a la samfaina
+calçots = 6 calçots o porros
+carbassa = 400g carbassa
+col = 10 cols de Brussel·les
+tomàquet = 200g tomàquet sofregit
+vi = Vi ranci
+pebre = pebre negre
+sal = sal
+
+[Elaboracio]
+En un pot bullim aigua amb unes branques de romaní per fer-ne una infusió. Un cop ha bullit la deixem infusionant 30 minuts.
+Escalivem al forn una cabeça d'alls.
+Posem al got de la pastadora 500 g de farina, 10 g de llevat sec, 5 de sucre, 100 g de massa mare i 300 m d'aigua de romaní infusionada, però tèbia, mai calenta.
+Un cop la massa no s'enganxi a les parets del got, hi afegim 15 g de sal i 25 ml d'oli OVE.
+Un cop aconseguida una massa elàstica la posem en un bol i la deixem reposar 30 minuts tapada amb un drap humit.
+Tallem la massa en dues parts i en fem quatre boles amb les mans.
+Les portem a una safata de forn sobre un paper sulfurat. Les cobrim amb un drap humit i ho deixem reposar 1 hora més.
+Traiem el gas de la massa pressionant-la amb els dits. Cobrim la massa amb una mica d'oli.
+Tallem 400 g de carbassa, 10 cols de Brussel·les per la meitat i 6 calçots (la seva part més blanca).
+Posem a una paella un raig d'oli. Hi afegim les cols de Brussel·les i la carbassa. Quan s'hagin fet una mica, fins a perdre una mica de color, hi afegim els calçots i un polsim de sal i pebre.    
+Quan les verdures ja estiguin més aviat fetes hi afegim 200 g de tomàquet sofregit.  Hi aboquem un rajolí de vi ranci. Quan hagi desaparegut l'olor d'alcohol retirem la paella del foc i la reservem.
+En un got batedor munyim la cabeça d'all escalivada, 50 g de codony, el suc de mitja llima, pebre banc i oli OVE. Ho emulsionem.Posem aquest allioli en un biberó.
+Enfornem les coques a 200º durant 15 minuts.(en forn de vapor, sinó posar-hi aigua bullint) 
+Posem a sobre de cada coca les verdures i hi posem a sobre una mica d'allioli. Ho rematem amb una mica de julivert.
+
+[Categories]
+categoria = Entrants
