@@ -1,0 +1,36 @@
+[Titol]
+Carxofes arrebossades
+
+[Ingredients]
+Persones = 4 pax
+carxofa = 8 carxofes
+sidra = 200ml de sidra
+farina = 140g farina de blat
+all = 1 cabeça d'alls
+llimona = 2 llimones
+llard = llard
+oli = Oli de confitar i oli verge
+sal = sal
+pebre = pebre negre i vermell dolç
+
+titol = per a l'almogrote
+formatge = 150g de formatge curat
+pa = 20g de pa torrat
+tomàquet = 2 tomàquets madurs
+all = 2 grans d'all
+bitxo = 1 bitxo
+oli = oli
+
+[Elaboracio]
+Pelem les carxofes fins a deixar-ne només els cors. Les reservem en un recipient amb aigua i sal
+Posem en una cassola oli OVE, 3 cullerades soperes de llard, la pela d'una llimona i una cabeça d'alls tallada per la meitat.
+Confitem les carxofes a foc molt baix. Tapem la cassola amb un cercle de paper sulfurat del diàmetre de la mateixa. Les mantindrem confitant durant 30 minuts a 80 graus.
+En un bol, tamisem 140 g de farina de blat. Hi afegim sal, ratlladura de llimona, 4 voltes de pebre negre i 2 cullerades de cafè de pebre vermell dolç.
+Hi afegim de mica en mica 200 ml de sidra. Ho removem fins a tenir una massa uniforme. Reservem el bol, filmat, a la nevera.
+En un got batedor ratllem 150 g de formatge curat, ratllem 2 tomàquets madurs, hi afegim 2 grans d'alls pelats, 1 bitxo sense llavors, 20 g de pa torrat i oli OVE. Ho turbinem fins tenir una pasta i ho reservem en un bol. Hem fet la salsa almogrote.
+Preparem una paella amb oli per fregir. Tallem les carxofes a quarts.
+Traiem de la nevera l'orly (la pasta que hem fet per arrebossar). Enfarinem lleugerament les carxofes, les passem per la massa d'arrebossar i les fregim en oli OVE molt calent i abundant.    
+Posem les carxofes escorregudes d'oli en un plat i les banyem amb la salsa almogrote.
+
+[Categories]
+categoria = Entrants
