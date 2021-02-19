@@ -8,8 +8,7 @@ aigua = 2 cullerades aigua
 
 [Elaboracio]
 Dia 1:
-Dins un pot de vidre hi posem la farina i l'aigua, mateixes quantitats. En aquest cas hem fet 2 cullerades plenes de farina i 2 cullerades d’aigua tèbia. No cal una precisió extrema. De fet, segons la farina, podreu afegir una mica més d’aigua.
-Ho remenem bé per a fer una pasta homogènia. Tapem el pot i el deixem a un racó fins l'endemà.
+Dins un pot de vidre hi posem la farina i l'aigua, mateixes quantitats. En aquest cas hem fet 2 cullerades plenes de farina i 2 cullerades d’aigua tèbia. No cal una precisió extrema. De fet, segons la farina, podreu afegir una mica més d’aigua. Ho remenem bé per a fer una pasta homogènia. Tapem el pot i el deixem a un racó fins l'endemà.
 
 Dia 2:
 Avui no hi hem de fer res, es tracta només d’observar el progrés. Si obriu el pot és possible que es comenci a sentir un lleuger aroma de ferment. Segons la quantitat de líquid que hi hàgiu posat pot esser que la farina s’hagi assentat i que hagi comparegut una fina capa de líquid que tapi la pasta. 
@@ -20,9 +19,10 @@ Passades 48 h, ja hi ha una mica d’activitat. Hauran comparegut bombolletes i 
 Dia 4:
 Avui el llevat ja ha crescut amb força i és a punt per a ser utilitzat. 
 
-Conservació:
-Una vegada preparat el llevat, es conserva perfectament tancat en el seu pot i dins la nevera. Pot durar anys si el refrescau de tant en tant, cada setmana o cada dues i traieu una part del llevat, substituïn-la amb farina i aigua tornant-la, després, a la nevera. Segons com conservem el llevat (més o manco grau d’humitat, temperatura de conservació, refrescaments més o manco constants, etc.) les seves propietats (acidesa, capacitat de tou…) aniran canviant. Existeix tota una ciència darrere la massa mare, i hi ha societats i grups especialitzats en la diversitat dels llevats i dels pans.
-Existeixen tècniques per a conservar el llevat a llarg termini: s'escampa el llevat sobre un paper de forn, fent una capa molt fina. Després, s’asseca deixant-ho a l’aire lliure o bé amb l’ajuda del forn a temperatura molt baixa (no més de 40 ºC). El resultat és una capa dura que s’esmicola molt fàcilment i que en forma d'escates o en pols, es pot conservar dins un pot de vidre tancat hermèticament durant molts de mesos. Per a recuperar-lo simplement cal mesclar la pols de llevat amb aigua tèbia, i en unes hores el tendreu actiu i a punt.
+Conservació del llevat:
+Una vegada preparat el llevat, es conserva perfectament tancat en el seu pot i dins la nevera. Pot durar anys si el refrescau de tant en tant, cada setmana o cada dues i traieu una part del llevat, substituïn-la amb farina i aigua tornant-la, després, a la nevera. Segons com conservem el llevat (més o meys grau d’humitat, temperatura de conservació, refrescaments més o menys constants, etc.) les seves propietats (acidesa, pastositat) aniran canviant. 
+Conservarvació a llarg termini: 
+S'escampa el llevat sobre un paper de forn, fent una capa molt fina. Després, s’asseca deixant-ho a l’aire lliure o bé amb l’ajuda del forn a temperatura molt baixa (no més de 40 ºC). El resultat és una capa dura que s’esmicola molt fàcilment i que en forma d'escates o en pols, es pot conservar dins un pot de vidre tancat hermèticament durant molts de mesos. Per a recuperar-lo simplement cal mesclar la pols de llevat amb aigua tèbia, i en unes hores el tendreu actiu i a punt.
 
 [Categories]
 categoria = Conserves
