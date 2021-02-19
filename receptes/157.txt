@@ -7,20 +7,12 @@ aigua = 2 cullerades aigua
 
 
 [Elaboracio]
-dia 1:
-Dins un pot de vidre hi posem la mescla de farina i aigua, amb la mateixa quantitat, segons el pot, en aquest cas hem fet 2 cullerades plenes de farina i 2 cullerades d’aigua tèbia. No cal una precisió extrema. De fet, segons la farina podreu afegir una mica més d’aigua.
-Ho remenam bé per a fer una pasta homogènia. Tapam el pot i el deixam a un racó fins l'endemà.
-dia 2:
-Avui no hi hem de fer res, es tracta només d’observar el progrés. Si obriu el pot és possible que es comenci a sentir un lleuger aroma de ferment. Segons la quantitat de líquid que hàgiu posat pot esser que la farina s’hagi assentat i que hagi comparegut una fina capa de líquid que tapi la pasta. 
-dia 3:
-Passades 48 h, ja hi ha una mica d’activitat. Hauran comparegut bombolletes i si obriu el tap sentireu una mica d’olor àcida, senyal de l’activitat microbiana.
-Enretirem una cullerada del llevat (la llencem) i hi afegim una cullerada de farina i una altra d’aigua. D’això se’n diu refrescar el llevat, o sigui, afegir-hi farina nova rica en nutrients.
-Tornam a tapar el pot i el deixam fins al sendemà.
-dia 4:
-Avui el llevat ja ha crescut amb força i és a punt per a ser utilitzat. 
-Conservació:
-Una vegada preparat el llevat, es conserva perfectament tancat en el seu pot i dins la nevera. Pot durar anys si el refrescau de tant en tant, cada setmana o cada dues i traieu una part del llevat, substituïn-la amb farina i aigua tornant-la, després, a la nevera.
-Segons com conservem el llevat (més o manco grau d’humitat, temperatura de conservació, refrescaments més o manco constants, etc.) les seves propietats (acidesa, capacitat de tou…) aniran canviant. Existeix tota una ciència darrere la massa mare, i hi ha societats i grups especialitzats en la diversitat dels llevats i dels pans.
+dia 1: Dins un pot de vidre hi posem la farina i l'aigua, mateixes quantitats. En aquest cas hem fet 2 cullerades plenes de farina i 2 cullerades d’aigua tèbia. No cal una precisió extrema. De fet, segons la farina, podreu afegir una mica més d’aigua.
+Ho remenem bé per a fer una pasta homogènia. Tapem el pot i el deixem a un racó fins l'endemà.
+dia 2: Avui no hi hem de fer res, es tracta només d’observar el progrés. Si obriu el pot és possible que es comenci a sentir un lleuger aroma de ferment. Segons la quantitat de líquid que hi hàgiu posat pot esser que la farina s’hagi assentat i que hagi comparegut una fina capa de líquid que tapi la pasta. 
+dia 3: Passades 48 h, ja hi ha una mica d’activitat. Hauran comparegut bombolletes i si obriu el tap sentireu una mica d’olor àcida, senyal de l’activitat microbiana. Enretirem una cullerada del llevat (la llencem) i hi afegim una cullerada de farina i una altra d’aigua. D’això se’n diu refrescar el llevat, o sigui, afegir-hi farina nova rica en nutrients. Tornem a tapar el pot i el deixem fins l'endemà.
+dia 4: Avui el llevat ja ha crescut amb força i és a punt per a ser utilitzat. 
+Conservació: Una vegada preparat el llevat, es conserva perfectament tancat en el seu pot i dins la nevera. Pot durar anys si el refrescau de tant en tant, cada setmana o cada dues i traieu una part del llevat, substituïn-la amb farina i aigua tornant-la, després, a la nevera. Segons com conservem el llevat (més o manco grau d’humitat, temperatura de conservació, refrescaments més o manco constants, etc.) les seves propietats (acidesa, capacitat de tou…) aniran canviant. Existeix tota una ciència darrere la massa mare, i hi ha societats i grups especialitzats en la diversitat dels llevats i dels pans.
 Existeixen tècniques per a conservar el llevat a llarg termini: s'escampa el llevat sobre un paper de forn, fent una capa molt fina. Després, s’asseca deixant-ho a l’aire lliure o bé amb l’ajuda del forn a temperatura molt baixa (no més de 40 ºC). El resultat és una capa dura que s’esmicola molt fàcilment i que en forma d'escates o en pols, es pot conservar dins un pot de vidre tancat hermèticament durant molts de mesos. Per a recuperar-lo simplement cal mesclar la pols de llevat amb aigua tèbia, i en unes hores el tendreu actiu i a punt.
 
 [Conserves]
