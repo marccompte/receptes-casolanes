@@ -1,14 +1,14 @@
 [Titol]
-melmelada taronja
+melmelada de fruita
 
 [Ingredients]
-taronja = 1kg taronges (es pot barrejar amb llimona)
+taronja = 1kg taronges, llimones, préssecs, etc
 aigua = 200ml aigua
 sucre = 250g sucre
 canyella = 1/2 barra canyella
 
 [Elaboracio]
-Rentar les taronges i tallar-les a daus petits. Posar-ho en una cassola junt amb l'aigua, el sucre i la canyella.
+Rentar la fruita, sence pelar-la, i tallar-les a daus petits. Posar-ho en una cassola junt amb l'aigua, el sucre i la canyella.
 Deixar-ho bullir durant 2 hores, remenant-ho sovint per evitar que s'enganxi.
 Retirar del foc i en calent omplir pots de vidre. Tapar-los i deixar-los refredar de cap per avall.
 
