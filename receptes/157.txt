@@ -15,5 +15,5 @@ dia 4: Avui el llevat ja ha crescut amb força i és a punt per a ser utilitzat.
 Conservació: Una vegada preparat el llevat, es conserva perfectament tancat en el seu pot i dins la nevera. Pot durar anys si el refrescau de tant en tant, cada setmana o cada dues i traieu una part del llevat, substituïn-la amb farina i aigua tornant-la, després, a la nevera. Segons com conservem el llevat (més o manco grau d’humitat, temperatura de conservació, refrescaments més o manco constants, etc.) les seves propietats (acidesa, capacitat de tou…) aniran canviant. Existeix tota una ciència darrere la massa mare, i hi ha societats i grups especialitzats en la diversitat dels llevats i dels pans.
 Existeixen tècniques per a conservar el llevat a llarg termini: s'escampa el llevat sobre un paper de forn, fent una capa molt fina. Després, s’asseca deixant-ho a l’aire lliure o bé amb l’ajuda del forn a temperatura molt baixa (no més de 40 ºC). El resultat és una capa dura que s’esmicola molt fàcilment i que en forma d'escates o en pols, es pot conservar dins un pot de vidre tancat hermèticament durant molts de mesos. Per a recuperar-lo simplement cal mesclar la pols de llevat amb aigua tèbia, i en unes hores el tendreu actiu i a punt.
 
-[Conserves]
+[Categories]
 categoria = Conserves
