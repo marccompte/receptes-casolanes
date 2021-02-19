@@ -1,4 +1,4 @@
-[]Titol
+[Titol]
 Massa mare
 
 [Ingredients]
