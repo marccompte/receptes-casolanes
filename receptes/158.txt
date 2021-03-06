@@ -1,0 +1,34 @@
+[Titol]
+Arròs de foie i ànec
+
+[Ingredients]
+Persones = 4 pax
+ànec = 75g pernil d'ànec i 1 confit
+brou = 1l brou pollastre
+arròs = 400g arròs bomba
+foie = 220g foie celler
+formatge = 120g formatge
+vi = 50ml vi ranci
+ceba = 2 cebes de Figueres
+safrà = Brins de safrà
+pebre = pebre blanc
+oli = Oli
+sal = sal
+créixens = créixens
+
+[Elaboracio]
+Desfem en una cassola al foc 50 g de foie celler. 
+Tallem dues cebes a microbrunesa. Les afegim al foie desfet i ho coem a foc suau.
+Rentem l'arròs deixant-lo dins un colador en un bol amb aigua.
+Escalfem ena una cassola 1 litre de brou de pollastre.
+Perlem l'arròs remenant-lo a la cassola del foie i la ceba. Amb dos minuts en tindrem prou.
+Hi afegim uns brins de safrà i remenem l'arròs. Salem i hi afegim pebre blanc.
+Hi afegim un rajolí de vi blanc (50 ml) i ho deixem al foc fins que l'alcohol s'evapori.
+Afegim el brou de pollastre calent i ho deixem coure 10 minuts. Un cop passats, retirem la cassola del foc.
+Ratllem 120 g de formatge a sobre l'arròs. Ho barregem embolcallant-lo.
+Tallem 170 g de foie celler (millor tenir-lo fred). Aboquem el foie a l'arròs per lligar-ho.
+Hi posem a sobre de l'arròs el confit esmicolat.
+Servim l'arròs amb més formatge ratllat per sobre i hi escampem per damunt una mica de trossets de pernil d'ànec i créixens.
+
+[Categories]
+categoria = Arrossos
