@@ -20,4 +20,4 @@ Ompliu les carxofes bullides amb el farciment de ceba i xampinyons i poseu-hi la
 Per acabar colloqueu-les al forn perquè es glacegin durant pocs minufs, fins que la salsa quedi lleugerament torrada.
 
 [Categories]
-categoria = Vegetarià 
+categoria = Vegetarià
