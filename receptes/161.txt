@@ -7,8 +7,8 @@ farina = 200g farina fluixa o de rebosteria
 mantega = 100g margarina vegetal
 ou = l ou
 sal = 4g sal
-50g panela
-titol = Per al farciment:
+sucre 50g sucre moré (panela)
+titol = Per al farciment
 ceba = 1 ceba grossa tallada a la juliana
 tomàquet = 1/2Kg tomàquet rosa petit, o cherry.
 herbes = Un bon grapat d'alfabrega.
