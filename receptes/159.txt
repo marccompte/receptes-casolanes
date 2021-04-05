@@ -3,15 +3,14 @@ Vedella al pebre verd
 
 [Ingredients]
 Persones = 6 a 8 pax
-1,5kg de vedella (filet, entrecot..)
-500 g d'ossos de vedella
-50g mantega
-50g oli d'oliva verge
-50 g whisky o brandi
-20g mostassa
-crema de llet
-pebre verd
-
+bou = 1,5kg de vedella (filet, entrecot..)
+ossos = 500g d'ossos de vedella
+mantega = 50g mantega
+oli = 50g oli d'oliva verge
+conyac = 50g whisky o brandi
+mostassa = 20g mostassa
+nata = crema llet
+pebre = pebre verd
 
 [Elaboracio]
 Salpebreu la carn marqueu-la banda i banda, a foc viu, en una cassola amb mantega i oli d'oliva. Reserveu la carn. A la mateixa cassola, tireu-hi el pebre verd i un raig de 
