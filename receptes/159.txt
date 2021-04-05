@@ -1,0 +1,25 @@
+[Titol]
+Vedella al pebre verd
+
+[Ingredients]
+Persones = 6 a 8 pax
+1,5kg de vedella (filet, entrecot..)
+500 g d'ossos de vedella
+50g mantega
+50g oli d'oliva verge
+50 g whisky o brandi
+20g mostassa
+crema de llet
+pebre verd
+
+
+[Elaboracio]
+Salpebreu la carn marqueu-la banda i banda, a foc viu, en una cassola amb mantega i oli d'oliva. Reserveu la carn. A la mateixa cassola, tireu-hi el pebre verd i un raig de 
+whisky (o brandi). Flamegeu la salsa amb l'ajut d'un bufador de cuina. Tot seguit tireu-hi el caldo de vedella que, prèviament, haureu preparat bullint els ossos amb aigua mineral.
+Reduiu-ho tot a toc baix. Al cap d'uns minuts tireu-hi una mica de crema de llet i la mostassa. Els dos ingredients són opcionals però donaran més gust a la salsa. 
+Talleu la carn a trossos i poseu-la a lacassola on heu fet la salsa amb pebre verd. Escalleu-ho perquè s'hi barregi tot i ja podeu emplatar.
+Podeu acompanyar-ho amb patates fregides, amb cebes glacejades o amb verduretes.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
