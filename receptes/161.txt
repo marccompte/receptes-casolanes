@@ -1,0 +1,25 @@
+[Titol]
+Pastis de tomaquet
+
+[Ingredients]
+Persones = 4 pax
+farina = 200g farina fluixa o de rebosteria
+mantega = 100g margarina vegetal
+ou = l ou
+sal = 4g sal
+50g panela
+titol = Per al farciment:
+ceba = 1 ceba grossa tallada a la juliana
+tomàquet = 1/2Kg tomàquet rosa petit, o cherry.
+herbes = Un bon grapat d'alfabrega.
+
+[Elaboracio]
+Barregeu tots els ingredients i integreu-los sense pastar-los excessivament. La massa ha de ser trencadissa, així que no la treballeu gaire, només que els ingredients quedin integrats entre si.
+Deixeu-la reposar una hora. Després, amb les mans, aneu-la col-locant al motlle, deixant un gruix d'uns 3-4 mm. Poseu el motlle amb la massa al congelador, si podeu, i deixeu-la fins l'endemà. Aquesta massa queda més cruixent si es congela abans d'enfornar.
+Escalfeu el forn a 180º i quan estigui calent poseu-hi la massa de les cassoletes punxada amb una forquilla, uns 15 minuts.
+Daureu la ceba molt lentament en una paclla gruixuda, fins que quedi gairebé caramel-litzada.
+Poseu la ceba sobre la cassoleta prefornejada i a sobre els tomàquets, sal i pebre, i deixeu-ho al forn 20 minuts. Una mica abans de treure-ho, per damunt de tot poseu-hi fulles d'alfabrega al gust i una mica d'oli.
+Traieu-ho del forni deixeu-ho refredar una mica, perquè els tomaquets calents cremen molt. Cal servir-ho a temperatura ambient.
+ 
+ [Categories]
+ Categoria = Vegetarià
