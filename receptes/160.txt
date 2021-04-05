@@ -1,0 +1,26 @@
+[Titol]
+Carxofes glacejades
+
+[Ingredients]
+Persones = 4 pax
+carxofa = 2kg carxofes
+bolets = 250g xampinyons
+herbes = julivert
+ceba = 1 ceba
+mantega = 300g mantega 
+nata = 2 cullerades soperes nata liquida
+ou = 2 rovells d'ou
+llimona = 1 cullerada de suc de llimona. 
+
+[Elaboracio]
+Netegeu les carxofes. Quedeu-vos amb els cors i buideu-ne el plomall interior. Aneu-les col-locant en un bol amb aigua i julivert, perquè no s'Oxidin. Tot seguit, aboqueu les 
+carxofes i l'aigua en una olla, on les coureu durant vint minuts amb l'olla tapada. Passat aquest temps, traieu-les i reserveu-les en un plat. En una paella foneu 50g de mantega
+i afegiu-hi la ceba, tallada a trossos petits. Quan la ceba estigui rossa afegiu-hi els xampinyons, tallats a trossos petils. Afegiu-hi també la nata liquida. RemeneU-ho tot i 
+reserveu-ho. 
+En un bol al bany maria, poseu-hi els rovells d'ou, un pessic de SUcre i un de sal, la llimona i una mica de l'aigua calenta de bullir les carxofes, i emulsioneu-ho enèrgicament
+ambl'ajuda d'unes varefes. Afegiu-hi a poc a poc la resta de la mantega(250 g) prèviament clariicada sense deixar de remenar i ja tindreu la salsa holandesa. 
+Ompliu les carxofes bullides amb el farciment de ceba i xampinyons i poseu-hi la salsa pel damunt.
+Per acabar colloqueu-les al forn perquè es glacegin durant pocs minufs, fins que la salsa quedi lleugerament torrada.
+
+[Categories]
+categoria = Vegetarià 
