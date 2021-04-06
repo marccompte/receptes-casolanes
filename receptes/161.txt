@@ -5,7 +5,7 @@ Pastís de tomaquet
 Persones = 4 pax
 farina = 200g farina fluixa o de rebosteria
 mantega = 100g margarina vegetal
-ou = l ou
+ou = 1 ou
 sal = 4g sal
 sucre = 50g sucre moré (panela)
 titol = Per al farciment
