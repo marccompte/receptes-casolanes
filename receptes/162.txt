@@ -2,10 +2,12 @@
 Mona de Pasqua
 
 [Ingredients]
+titol = Per al pa de pessic
 mantega = 115g mantega
 ou = 2 ous
-xocolata = 100g xocolata
-sucre = sucre
+xocolata = 70g xocolata 70%
+sucre = 100g sucre
+farina = 60g farina
 titol = Per a la mouse
 xocolata = 125g xocolata 70% cacau
 ou = 2 rovells
@@ -15,12 +17,12 @@ xocolata = 125g xocolata negra
 
 [Elaboracio]
 titol = Per al pa de pessic
-Ompliu un motlle de 18 cm amb la massa.
 Bateu els ous amb el sucre. Afegiu-hi la xocolata amb la mantega fosa. Finalment, barregeu-hi la farina.
-Coeu-lo al forn a 180°C durant 8 minuts i deixeu-lo refredar
+Ompliu un motlle de 18 cm amb la massa. Coeu-lo al forn a 180°C durant 8 minuts i deixeu-lo refredar
 
 titol = Per a la mouse de xocolata
-Bulliu la nata líquida. Aboqueu-hi al damunt la xocolata. Ategiu-hi els rovells i la nata muntada, Poseu la mousse sobre el pa de pessic i deixeu-lo retredar a la nevera una hora.
+Bulliu la nata líquida. Aboqueu-hi al damunt la xocolata. Ategiu-hi els rovells i la nata muntada. Poseu la mousse sobre el pa de pessic i deixeu-lo retredar a la nevera una hora.
+
 titol = Per a la decoració
 Congeleu una safata de forn amb una mánega, on haureu posat la xocolata desfeta feu uns fils de xocolata. Doblegueu-los i col-loqueu-los al voltant del pastís
 Acabeu de decorar la mona amb ous de xocolata que podeu comprar fets
