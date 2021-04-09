@@ -1,0 +1,27 @@
+[Titol]
+Melindros
+
+[Ingredients]
+Persones = 4 pax
+titol = Melindros
+ou = 3 ous  
+sucre = 90g sucre blanc  
+farina = 90g farina  
+fruits secs = 50g cacauets torrats i pelats   
+titol = Mousse
+xocolata = 80g xocolata 70%  
+nata = 210ml nata  
+sal = sal
+
+[Elaboracio]
+Piquem a  la picadora 50g de cacauets. No cal que els piquem gaire fins. Torrem els cacauets picats a la paella amb una mica de sal.
+Separem clares i rovells de 3 ous en dos bols. Muntem les clares amb les varetes elèctriques. Quan les clares comencin a agafar textura, hi afegim 90g de sucre en tres tandes. Ho batem tot uns 10 minuts fins a aconseguir una textura de merenga.
+Trenquem els rovells amb una forquilla (no cal batre'ls totalment). Incorporem, no cal que sigui completament, els rovells al bol de la merenga. Tamisem al bol 90 g de farina, a poc a poc. Ara sí que ho integrem tot degudament. Posem la massa resultant en una màniga pastissera.
+En una safata de forn on tenim un paper sulfurat amb unes marques fetes per nosaltres per poder col·locar adequadament la massa, hi posem la massa dels melindros. Haurem fet massa per a uns 16 melindros. Posem a sobre de la massa dels melindros els cacauets que teníem reservats. Guardem una mica de cacauets per emplatar.
+Enfornem els melindros a 180º durant 15 minuts.
+Escalfem en un pot 60 ml de nata. Trenquem 80g de xocolata 70%. Quan la nata bulli, retirem el pot del foc i hi afegim una cullerada sopera de pasta de cacauet i la xocolata trencada. Ho remenem fins a integrar tots els ingredients i deixem que la barreja perdi temperatura.
+Muntem 150ml de nata i poc abans que quedi muntada, hi afegim la barreja de nata, xocolata i pasta de cacauet (ja a temperatura ambient).
+En un plat posem els melindros, la mousse i els cacauets reservats per sobre.
+
+[Categories]
+categoria = Postres
