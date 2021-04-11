@@ -24,4 +24,4 @@ Fem una picada amb l'ametlla i l'avellana, i l'afegim a la cassola, sense integr
 Ho servim amb la reducció de vinagre per damunt.
 
 [Categories]
-categoria = Entrants
+categoria = Llegums
