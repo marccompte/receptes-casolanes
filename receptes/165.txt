@@ -6,7 +6,7 @@ Persones = 4 pax
 pèsols = 500g pèsols i les beines
 ceba = 125g ceba Figueres
 all = 1 manat d'alls tendres
-Cloisses al gust
+cloïssa = cloisses al gust
 cansalada = 145g cansalada
 oli = oli d'oliva
 aigua = aigua mineral
