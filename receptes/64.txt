@@ -20,4 +20,4 @@ Es menja untat en llesques de pa torrat.
 També es pot fer amb lluç, mes ràpid i barat.
 
 [Categories]
-categoria = Entrants
+categoria = Peix
