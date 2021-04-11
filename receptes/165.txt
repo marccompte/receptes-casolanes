@@ -1,0 +1,22 @@
+[Titol]
+Pèsols cansalada i cloisses
+
+[Ingredients]
+Persones = 4 pax
+pèsols = 500g pèsols i les beines
+ceba = 125g ceba Figueres
+all = 1 manat d'alls tendres
+Cloisses al gust
+cansalada = 145g cansalada
+oli = oli d'oliva
+aigua = aigua mineral
+
+[Elaboracio]
+Tireu les beines a una cassola al foc amb aigua bullent. Aparteu-la del foc i tapeu-la perquè les beines s'infusionin. Obtindreu una aigua amb gust de pèsol. Reserveu-la
+En una cassola amb oli sofregiu-hi els alls tendres i la ceba, tallats a daus. Quan ja estiguin daurats, poseu-hi la cansalada, també tallada a daus, perquè s'enrosseixi i deixi anar una mica de greix.
+Quan la cansalada ja estigui a punt, aboqueu-hi la infusió que teníeu reservada assegurant-vos que cobreix tots els ingredients. Saleu-ho i deixeu que bulli tot plegat una estona. Afegiu-hi els pèsols. Si tapeu la cassola, els pèsols bulliran més ràpidament, però també s'ofegarà el color verd viu.
+Quan els pèsols estiguin gairebé fets poseu-hi les cloïsses, que necessiten molt pocs minuts per obrir-se. Remeneu una mica la cassola amb les mans perquè s'obrin les cloïsses
+i no les deixeu gaire temps més al toc, perquè es podrien endurir.
+
+[Categories]
+categoria = Entrants
