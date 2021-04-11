@@ -35,32 +35,32 @@ sucre = 200g sucre
 llimona = 1 cullerada suc de llimona
 
 [Elaboracio]
-titol = de vainilla
+titol = de vainilla:
 Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeixa-ho al liquid calent i barreja fins que eigui uniforme. Deixa refredrar la mescla en el refrigerador.
 Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
-titol = de Màlaga
+titol = de Màlaga:
 A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
 
-titol = de xocolata
+titol = de xocolata:
 A la recepta bàsica de vainilla s'hi agrega 80g de cacau mentre s'escalfa la llet amb la crema.
 
-titol = de moca
+titol = de moca:
 A la recepta del gelat de xocolata s'hi agreguen 2 cullaradetes d'espresso en pols a la mescla de llet i crema.
 
-titol = de yogurt
+titol = de yogurt:
 Mescla el iogurt amb el sucre en pols i el suc de llimona. Afegeix-hi la crema. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
-titol = de baies
+titol = de baies:
 A la recepta del gelat de iogurt substitueix la nata per 300g de puré de bayes rentades i fredes.
 
-titol = de pinya
+titol = de pinya:
 Bull la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeixa-ho al liquid calent i barreja fins que eigui uniforme sense que bulli. Fesun  puré de la pinya amb una mica de sal i afegeix-li un cop enretirat del foc. Deixa refredrar la mescla en el refrigerador durant 5h. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
-titol = Sorbet de gerd
+titol = Sorbet de gerd:
 Barreja tots els ingredients i posa'ls al bol de congelació posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 30 a 40 minuts. Afegeix el licor al final.
 
-titol = Sorbet de poma
+titol = Sorbet de poma:
 Bull el suc de poma amb la resta d'ingredients, deixa-ho refredar a la nevera, posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 30 a 40 minuts.
 
 [Categories]
