@@ -1,5 +1,5 @@
 [Titol]
-Mousse de xocolata
+de xocolata
 
 [Ingredients]
 Persones = 4 persones
@@ -18,3 +18,4 @@ Podem acompanyar la mousse amb galetes o teules.
 
 [Categories]
 categoria = Postres
+subcategoria = Mousse
