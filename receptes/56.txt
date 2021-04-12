@@ -32,5 +32,5 @@ Posem uns plats al forn a 60ºC perquè s'escalfin.
 Traiem la carn de la nevera, la tallem a llesques fines i la posem al plat calent. Servim la carn amb la salsa per sobre, unes tàperes i pebre negre.
 
 [Categories]
-categoria = Carns
+categoria = Carn
 subcategoria = Porc
