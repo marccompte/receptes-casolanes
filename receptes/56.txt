@@ -2,6 +2,7 @@
 Llaminera salsa tonnata
 
 [Ingredients]
+Persones = 4 pax
 porc = 2 llamineres porc  
 ceba = 2 cebes Figueres
 pastanaga = 1 pastanaga
@@ -19,8 +20,7 @@ pebre = pebre
 oli = oli
 
 [Elaboracio]
-Lliguem amb cordill 2 llamineres i les submergim en una solució de sal i aigua de 25 grams de sal per litre. Els deixem una hora. Treiem les llamineres i les eixuguem.  
-Posem un raig d'oli a la cassola, marquem la carn i la reservem.
+Lliguem amb cordill 2 llamineres i les submergim en una solució de 25 grams de sal per litre d'aigua. Els hi deixem una hora. Treiem les llamineres i les eixuguem. Posem un raig d'oli a la cassola, marquem la carn i la reservem.
 Tallem a bresa una pastanaga, 2 cebes de Figueres, una fulla de llorer, aixafem 3 alls i ho tirem tot a la cassola.	Integrem les verdures i les rostim uns 10 minuts. Tirem un raig de vi blanc i un raig de vi ranci a la cassola per aixecar els sucres.  
 Posem dins l'olla a pressió les dues llamineres lligades, les verdures rostides de la cassola i 1,5 litres de brou de porc. Coem la carn durant 15 minuts des del moment en què l'olla comenci a xiular. Quan hagin passat els 15 minuts, apaguem el foc i deixem que l'olla es vagi refredant de mica en mica. Deixem que passi una hora.  
 Posem dos ous en aigua al foc durant 6 minuts que es compten des del moment en què bulli l'aigua. Els passem a un bol amb aigua freda i gel. Els rescatem de l'aigua i els pelem.  
