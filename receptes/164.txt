@@ -2,6 +2,12 @@
 Gelats i sorbets
 
 [Ingredients]
+titol =  crocant Urpina
+nata = 1kg nata líquida per muntar
+sucre = 300g sucre en pols
+fruits secs = 500g ametlles torrades i garrapinyades
+ou = 2 ous
+
 titol =  gelat vainilla
 llet = 300ml llet freda
 nata = 300ml crema freda 
@@ -35,9 +41,11 @@ sucre = 200g sucre
 llimona = 1 cullerada suc de llimona
 
 [Elaboracio]
+crocant Urpina:
+Posar la nata líquida a la batedora i no parar fins que hagi adquirit consistència. Triturar les ametlles fins ser un granulat que es puguin notar però que no sigui pols. Batre els dos ous amb clara i rovell i afegir-los a la batedora. Posar-ho a la nevera fins que sigui ben fred. Posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
+
 de vainilla:
-Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeix-ho al líquid calent i barreja fins que sigui uniforme. Deixa refredar la mescla en el refrigerador.
-Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
+Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeix-ho al líquid calent i barreja fins que sigui uniforme. Deixa refredar la mescla en el refrigerador. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
 de Màlaga:
 A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
