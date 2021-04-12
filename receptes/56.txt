@@ -1,18 +1,36 @@
 [Titol]
-Crocant Urpina
+Llaminera salsa tonnata
 
 [Ingredients]
-nata = 1 kg nata líquida per muntar
-sucre = 0,3 kg sucre en pols
-ametlles= 0,5 kg ametlles torrades i garapinyades
-ous = 2 ous
+porc = 2 llamineres porc  
+ceba = 2 cebes Figueres
+pastanaga = 1 pastanaga
+all = 3 grans d'all
+vi = 1 got vi blanc, 1 de vi ranci i 1 raig vermut negre
+herbes = 1 fulla llorer
+brou = 1,5l brou porc
+tonyina = 50g tonyina
+ou = 3 ous  
+anxova = 4 filets d'anxova
+tàperes = 2 cullerades tàperes
+vinagre = 1 raig vinagre Chardonnay
+sal = sal
+pebre = pebre
+oli = oli
 
 [Elaboracio]
-Posar la nata líquida a la batedora. Parar quan hagi adquirit consistència.
-Triturar les ametlles fins ser un granulat que es puguin notar però que no sigui pols.
-Batre els dos ous amb clara i rovell
-Barrejar tots els ingredients en un bol i posar-ho al congelador dins el motlle escollit.
-NOTA Si no és disposa de sucre en pols es pot moldre el sucre normal.
+Lliguem amb cordill 2 llamineres i les submergim en una solució de sal i aigua de 25 grams de sal per litre. Els deixem una hora. Treiem les llamineres i les eixuguem.  
+Posem un raig d'oli a la cassola, marquem la carn i la reservem.
+Tallem a bresa una pastanaga, 2 cebes de Figueres, una fulla de llorer, aixafem 3 alls i ho tirem tot a la cassola.	Integrem les verdures i les rostim uns 10 minuts. Tirem un raig de vi blanc i un raig de vi ranci a la cassola per aixecar els sucres.  
+Posem dins l'olla a pressió les dues llamineres lligades, les verdures rostides de la cassola i 1,5 litres de brou de porc. Coem la carn durant 15 minuts des del moment en què l'olla comenci a xiular. Quan hagin passat els 15 minuts, apaguem el foc i deixem que l'olla es vagi refredant de mica en mica. Deixem que passi una hora.  
+Posem dos ous en aigua al foc durant 6 minuts que es compten des del moment en què bulli l'aigua. Els passem a un bol amb aigua freda i gel. Els rescatem de l'aigua i els pelem.  
+Posem al batedor els ous pelats, un raig de vinagre chardonnay, un raig de vermut negre, un polsim de sal, unes voltes de pebre negre, 4 filets d'anxova i 50 g de tonyina.
+Traiem les llamineres de l'olla de pressió, les deslliguem. Portem aquesta carn a la nevera i deixem que es refredi un mínim de dues hores.   
+Colem el brou de l'olla de pressió i el posem al foc perquè redueixi fins a la meitat.  
+Afegim aquest brou reduït al batedor on tenim la salsa, hi afegim un ou sencer i ho emulsionen amb oli d'oliva.  
+Posem uns plats al forn a 60ºC perquè s'escalfin.  
+Traiem la carn de la nevera, la tallem a llesques fines i la posem al plat calent. Servim la carn amb la salsa per sobre, unes tàperes i pebre negre.
 
 [Categories]
-categoria = Postres
+categoria = Carns
+subcategoria = Porc
