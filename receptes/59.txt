@@ -1,5 +1,5 @@
 [Titol]
-Mousse de préssec
+de préssec
 
 [Ingredients]
 préssec = 500 g de préssec groc.
@@ -16,3 +16,4 @@ Adornem amb alguna fulla de menta.
 
 [Categories]
 categoria = Postres
+subcategoria = Mousse
