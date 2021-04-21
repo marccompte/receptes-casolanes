@@ -1,0 +1,28 @@
+[Titol]
+Llobarro al forn
+
+[Ingredients]
+Persones = 4 pax
+llobarro = 1 llobarro gros  
+patates = 500g patates monalisa  
+calçots = 500g calçots
+llimona = 2 llimes  
+all = 2 grans d'all  
+herbes = llorer, alfàbrega, julivert
+brou = 300ml fumet peix  
+pebre = pebre blanc  
+vi = Vi ranci  
+oli = Oli d'oliva verge
+
+[Elaboracio]
+Tallem a rodelles 500 g patates de monalisa netes, si són grosses. Si són petites, no caldrà que les tallem per la meitat.
+Tallem a juliana 500 g de calçot petit. Si no és temporada, també podem fer-ho amb ceba tendra.  
+Fem un llit amb els calçots a sota i després, hi posem la patata a sobre.  Posem sobre les patates i la ceba 300 ml de fumet de llobarro, un raig de vi ranci, un raig d'oli OVE i ho deixem 20 minuts a la lleixa baixa del forn, a 180 graus.  
+Mentrestant, posem una paella al foc amb un raig d'oli OVE i dos grans d'all pelats i laminats. Quan estiguin ballant, hi tirem una fulla de llorer. Una quantitat generosa de pebre blanc i un raig de vi ranci.  Un cop ofegat, ho retirem del foc.             
+Posem en un bol la ratlladura de dues llimes i el seu suc. Tallem un grapat generós d'alfàbrega i julivert i ho afegim al bol. Ho remenem tot. Afegim el refregit d'alls al bol de les herbes i la llima i ho remenem. Hi posem un raig d'oli d'oliva.
+Posem el llobarro filetejat sense cap ni espines sobre la fusta, el salem i hi tirem pebre blanc.  
+Apugem la temperatura del forn a 200 graus.   
+Traiem les patates del forn i hi posem el peix a sobre amb la pell tocant les patates. Hi afegim un raig de vi ranci i el refregit amb herbes. Portem peix i patates al forn, a 220º i 5 minuts, però el temps dependrà molt de la mida del peix i de la potència del forn.  
+
+[Categories]
+subcategoria = Peix
