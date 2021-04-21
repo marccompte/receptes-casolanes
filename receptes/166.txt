@@ -25,4 +25,4 @@ Apugem la temperatura del forn a 200 graus.
 Traiem les patates del forn i hi posem el peix a sobre amb la pell tocant les patates. Hi afegim un raig de vi ranci i el refregit amb herbes. Portem peix i patates al forn, a 220º i 5 minuts, però el temps dependrà molt de la mida del peix i de la potència del forn.  
 
 [Categories]
-subcategoria = Peix
+Categoria = Peix
