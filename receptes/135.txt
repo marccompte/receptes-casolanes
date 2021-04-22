@@ -19,3 +19,4 @@ Ho enfornem a 160 ºC durant 10 minuts.
 
 [Categories]
 categoria = Postres
+subcategoria = Galetes
