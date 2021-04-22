@@ -1,0 +1,33 @@
+[Titol]
+GALETES DÀTILS
+
+[Ingredients]
+Persones = 10 racions
+titol = pasta dàtils
+dàtils = 200g dàtils sense pinyol
+aigua = 250g aigua
+titol = galetes
+oli = 180g oli d'oliva
+dàtils = 220g pasta dàtils
+llimona = ratlladura mitja llimona
+sal = 2 culleradetes cafè sal
+ou = 1 ou mida mitjana
+civada = 150g farina, 50g flocs i 50g segó de civada
+canyella = l culleradeta postres canyella
+llevat = 1/2 culleradeta cafè d'impulsor
+
+[Elaboracio]
+Pasta dàtils:
+Escalfem l'aigua i, un cop estigui bullint, l'aboquem sobre els dàtils i els deixem reposar2 hores. Després colem l'aigua i passem els dàtils hidratats per una processadora d'aliments o una trituradora fins a obtenir-ne una pasta.
+Galetes:
+En un bol, barregem l'oli i la pasta de dàtils, a mà o amb la pastadora i l'eina de la pala. Hi incorporemla sal, l'ou i la ratlladura de llimona. A continuació, hi afegim
+la farina de civada, l'impulsor i la canyella prèviament tamisats junts. Ho barregem fins que s'integri la farina i, per últin, hi incorporem els flocs de civada iel segó.
+En fem boles de 60g amb les mans i les passem a una safata de forn. També amb les mans, les aixafem una mica (creixeranforça, per tant, en posarem eom a maxim 6 per safata).
+Ara les posem al congelador durant trenta minuts.
+Les enfornem a 185ºC durant deu minuts i les deixem refredar bé abans de moure les de la safata del forn. Si no, es trencaran.
+Un cop fredes, les podem decorar amb una mica de ganache de xocolata a l'aigua.
+Podem substituir la civada per ametlla
+
+ [Categories]
+ categoria = Postres
+ subcategoria = Galetes
