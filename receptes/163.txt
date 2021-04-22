@@ -25,3 +25,4 @@ En un plat posem els melindros, la mousse i els cacauets reservats per sobre.
 
 [Categories]
 categoria = Postres
+subcategoria = Galetes
