@@ -1,5 +1,5 @@
 [Titol]
-GALETES DÀTILS
+DE DÀTILS
 
 [Ingredients]
 Persones = 10 racions
