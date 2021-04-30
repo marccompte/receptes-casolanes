@@ -1,0 +1,31 @@
+[Titol]
+Seitons a l'allipebre
+
+[Ingredients]
+Persones = 4 pax
+seitó = 500g seitó
+all = 1 cabeça alls
+pebre = 2 cullerades pebre dolç, 1 de picant i pebre blanc
+patates = 500g patata monalisa
+Oli = Oli oliva
+llimona = 2 llimes
+pa = 2 llesques de pa fregit
+fruits secs = 20g ametlla torrada
+sal = 1kg de sal fina
+sucre = 1Kg de sucre
+brou = 700ml fumet blanc
+julivert = julivert
+
+[Elaboracio]
+Netegem els seitons treient cap i tripa. Acabem d'obrir la panxa amb els mateixos dits fins que els dos filets estiguin oberts fent  el moviment de dalt a baix, resseguint l'espina i separant-ne la carn amb delicadesa i fermesa. Quan l'espina s'ha desenganxat de la carn, es treu. Podem estirar cua i tot.
+Preparem la barreja per a la curació del seitó barrejant, en un bol, la sal i el sucre i la ratlladura de la pell d'una llima.
+En una safata posem una capa de la barreja de curació i al damunt una capa de seitons, que taparem amb una altra capa de curació. Així podem fer les capes que calgui, però procurant equilibrar les quantitats de manera que sempre la capa de sota i la de sobre siguin de curació. Ho deixem a la nevera 15 minuts.
+Posem una cassola al foc amb un raig d'oli i fregim la cabeça d'alls. L'aixafem, la deixem coure a foc lent durant 5 minuts i ho reservem.
+Pelem o netegem les patates, si són petitones i les volem fer amb pell i tot. Les escapcem i reservem.
+A la mateixa cassola on hem fet els alls fregim el pa i el reservem. Hi posem les dues cullerades de pebre vermell dolç i una de pebre vermell picant a la cassola i ho fregim una mica. Tallem la cocció dels pebres abocant-hi el fumet blanc i remenem bé perquè es barregin pebres i fumet. Afegim les patates al fumet, quan estigui calent, i ho deixem coure 20 minuts amb la pell d'una llima, sal i pebre blanc.
+Fem la picada amb el pa fregit, l'ametlla torrada, la cabeça d'alls fregida i ja pelada i el julivert. Ho triturem tot junt i ho afegim a la cassola on es couen les patates, remenem perquè el suquet quedi dens i deixem que cogui 2 minuts més.
+Traiem els seitons de la nevera i els rentem bé amb aigua per retirar tota la sal i el sucre.
+Apaguem el foc i posem els seitons damunt de les patates guisades. D'aquesta manera el peix agafarà temperatura amb l'escalfor residual de la cassola. Recordem que els seitons ja han fet la seva primera cocció amb la curació.
+
+ [Categories]
+ categoria = Peix
