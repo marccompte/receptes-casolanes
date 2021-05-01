@@ -22,6 +22,15 @@ xoxolata = 130ml xocolata negra
 ou = 3 rovells d'ou
 sucre = 20g sucre
 
+titol =  gelat maduixa
+llet = 150ml llet sencera freda
+nata = 100ml crema freda 
+maduixes = 180g maduixes
+ou = 1 rovell d'ou
+sucre = 150g sucre i un pols de sal
+vainilla = 1 cullarada vainilla
+llimona = 1 cullaradeta suc llimona
+
 titol =  gelat iogurt
 iogurt = 450g iogurt grec fred
 sucre = 90g sucre i un pols de sal
@@ -34,6 +43,12 @@ ou = 3 rovells d'ou
 sucre = 120g sucre
 pinya = 600g pinya
 vainilla = vainilla
+
+titol =  sorbet llimona
+aigua = 150ml aigua
+sucre = 180g sucre 
+llimona = 3 llimones
+ou = 2 clares
 
 titol =  sorbet gerds
 gerd = 500g puré fred gerds
@@ -53,26 +68,28 @@ Posar la nata líquida a la batedora i no parar fins que hagi adquirit consistè
 de vainilla:
 Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre i la sal. Afegeix-ho al líquid calent i barreja fins que sigui uniforme. Deixa refredar la mescla en el refrigerador. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
-
-de Màlaga:
-A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
-
 de xocolata:
 Barreja els rovells d'ou amb el sucre en un bol. En un altre, escalfa la llet, afegeix-hi la xocolata a trossos grans, remenar fins que es desfasi. Quan estigui a 75º afegir-hi, poc a poc, el remenat d'ou i deixar-ho refredar a 30º. Afegir-hi la nata. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
-de moca:
-A la recepta del gelat de xocolata s'hi agreguen 2 culleradetes d'expresso en pols a la mescla de llet i crema.
+de maduixa:
+Neteja les maduixes i fes-ne puré. Bat el rovell amb el sucre en pols, la sal i el suc de llimona. Afegeix-hi la resta d'igredients i posa-ho al bol de congelació, deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
 de yogurt:
 Mescla el iogurt amb el sucre en pols, la sal i el suc de llimona. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
-de baies:
-A la recepta del gelat de iogurt substitueix la nata per 300g de puré de baies rentades i fredes.
-
 de pinya:
 Bull la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeix-ho al líquid calent i barreja fins que sigui uniforme sense que bulli. Fes un  puré de la pinya amb una mica de sal i afegeix-li un cop enretirat del foc. Deixa refredar la mescla en el refrigerador durant 5h. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
-Sorbet de gerd:
+de Màlaga:
+A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
+
+de moca:
+A la recepta del gelat de xocolata s'hi agreguen 2 culleradetes d'expresso en pols a la mescla de llet i crema, en lloc de la xocolata.
+
+sorbet de llimona:
+Fes bullir l'aigua i el sucre fins que s'hagi desfet completament i deixa-ho refredar. Raspar i guardar la pell de les llimones, tallar-les per la mitad i exprimir-les. Afegir el suc i la meitad de la ratlladura a l'aigua amb sucre, ja refredat. Muntar les clares d'ou i, remenant suaument, afegir-ho a la resta.  Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 1 hora al congelador.
+
+Sorbet de gerds:
 Barreja tots els ingredients i posa'ls al bol de congelació posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 30 a 40 minuts. Afegeix el licor al final.
 
 Sorbet de poma:
