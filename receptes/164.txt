@@ -12,14 +12,13 @@ titol =  gelat vainilla
 llet = 300ml llet freda
 nata = 300ml crema freda 
 ou = 3 rovells d'ou
-sucre = 100g sucre 
+sucre = 100g sucre i un pols de sal
 vainilla = vainilla
 
 titol =  gelat iogurt
-iogurt = 300g iogurt fred
-nata = 400ml crema freda
-sucre = 150g sucre
-llimona = 2 culleradetes suc llimona 
+iogurt = 450g iogurt grec fred
+sucre = 90g sucre i un pols de sal
+llimona = suc 1/2 llimona 
 
 titol =  gelat pinya
 llet = 150ml llet freda
@@ -45,7 +44,8 @@ crocant Urpina:
 Posar la nata líquida a la batedora i no parar fins que hagi adquirit consistència. Triturar les ametlles fins ser un granulat que es puguin notar però que no sigui pols. Batre els dos ous amb clara i rovell i afegir-los a la batedora. Posar-ho a la nevera fins que sigui ben fred. Posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
 
 de vainilla:
-Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre. Afegeix-ho al líquid calent i barreja fins que sigui uniforme. Deixa refredar la mescla en el refrigerador. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
+Escalfa la llet, la crema i la vainilla. Barreja els rovells d'ou amb el sucre i la sal. Afegeix-ho al líquid calent i barreja fins que sigui uniforme. Deixa refredar la mescla en el refrigerador. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
+
 
 de Màlaga:
 A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
@@ -57,7 +57,7 @@ de moca:
 A la recepta del gelat de xocolata s'hi agreguen 2 culleradetes d'expresso en pols a la mescla de llet i crema.
 
 de yogurt:
-Mescla el iogurt amb el sucre en pols i el suc de llimona. Afegeix-hi la crema. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats de 20 a 30 minuts.
+Mescla el iogurt amb el sucre en pols, la sal i el suc de llimona. Posa-ho al bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
 de baies:
 A la recepta del gelat de iogurt substitueix la nata per 300g de puré de baies rentades i fredes.
