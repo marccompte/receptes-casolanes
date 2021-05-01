@@ -2,7 +2,7 @@
 de romesco i gambes
 
 [Ingredients]
-persones = 4
+Persones = 4 pax
 titol = Per al brou de peix
 peix  = 2 kg de carn de peix blanc, 800 g d'espines llenguado i 1 kg de caps de escórpora
 all= 1/2 cabeça d'alls pelats 
@@ -23,6 +23,15 @@ sal = sal
 pebre = pebre
 
 [Elaboracio]
+Romesco:
+Posar en remull un parell de pebrots de romesco. Escalivar un parell de tomàquets madurs. Fregir en una paella dos alls i una llesca de pa i afegir la polpa dels tomàquets i els pebrots, procurant que no es cremin.
+Picar ametlles o avellanes torrades, afegir el contingut de la paella i picar-lo tot en el morter amb una mica de vinagre i oli d'oliva.
+
+Brou de peix:
+Tallar les verdures a rodanxes. Picar les espines i els caps del peix. Posar a coure amb el vi blanc fins que pràcticament quedi evaporat.
+Mullar amb l'aigua mineral, afegir la sal i la resta de les aromàtiques i fer bullir durant 20 minutos. Deixar infusionar durant dues hores, passar el conjunt pel colador xinès i seguidament filtrar-lo.
+
+Arròs:
 Separar el cap de les gambes de la cua. Pelar les cues i reservar-les en la nevera. Treure el suc dels caps de les gambes i reservar-lo en la nevera.
 En una cassola, sofregir les gambes a foc viu, perquè quedin crues per dins. Reservar-les en calent.
 Afegir l'arròs i sofregir-lo amb una mica de mantega, oli, sal i pebre. Afegir el safrà i sofregir durant un minut. Seguidament, mullar amb el brou de peix.
@@ -30,13 +39,6 @@ Quan l'arròs estigui al punt, apartar-lo del foc, afegir el suc dels caps de le
 Lligar el conjunt amb una mica d'oli de romesco. Deixar coure durant un minut.
 Servir l'arròs en cada plat i disposar les tres gambes damunt.
 
-titol = Romesco
-Posar en remull un parell de pebrots de romesco. Escalivar un parell de tomàquets madurs. Fregir en una paella dos alls i una llesca de pa i afegir la polpa dels tomàquets i els pebrots, procurant que no es cremin.
-Picar ametlles o avellanes torrades, afegir el contingut de la paella i picar-lo tot en el morter amb una mica de vinagre i oli d'oliva.
-
-titol = Brou de peix:
-Tallar les verdures a rodanxes. Picar les espines i els caps del peix. Posar a coure amb el vi blanc fins que pràcticament quedi evaporat.
-Mullar amb l'aigua mineral, afegir la sal i la resta de les aromàtiques i fer bullir durant 20 minutos. Deixar infusionar durant dues hores, passar el conjunt pel colador xinès i seguidament filtrar-lo.
 
 [Categories]
 categoria = Arrossos
