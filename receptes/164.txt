@@ -15,6 +15,13 @@ ou = 3 rovells d'ou
 sucre = 100g sucre i un pols de sal
 vainilla = vainilla
 
+titol =  gelat xocolata
+llet = 160ml llet sencera freda
+nata = 100ml crema freda 
+xoxolata = 130ml xocolata negra
+ou = 3 rovells d'ou
+sucre = 20g sucre
+
 titol =  gelat iogurt
 iogurt = 450g iogurt grec fred
 sucre = 90g sucre i un pols de sal
@@ -51,7 +58,7 @@ de Màlaga:
 A la recepta bàsica de vainilla s'hi agrega, través de l'obertura de farciment mentre gira, 50g de panses que han estat xopades amb 4 cullerades de rom durant 12h.
 
 de xocolata:
-A la recepta bàsica de vainilla s'hi agrega 80g de cacau mentre s'escalfa la llet amb la crema.
+Barreja els rovells d'ou amb el sucre en un bol. En un altre, escalfa la llet, afegeix-hi la xocolata a trossos grans, remenar fins que es desfasi. Quan estigui a 75º afegir-hi, poc a poc, el remenat d'ou i deixar-ho refredar a 30º. Afegir-hi la nata. Ara, posa la mescla refredada en el bol de congelació i deixa funcionar la màquina de gelats 30 minuts, després posa el gelat 20min al congelador.
 
 de moca:
 A la recepta del gelat de xocolata s'hi agreguen 2 culleradetes d'expresso en pols a la mescla de llet i crema.
