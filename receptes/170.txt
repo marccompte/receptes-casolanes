@@ -22,10 +22,10 @@ romesco = romesco
 [Elaboracio]
 Escalfeu el brou vegetal. Quan bulli, incorporeu-hi la polenta en forma de pluja, remenant constantment fins que agafi cos. Quan estigui ben barrejada, apagueu el foc i barregeu-hi el romesco
 Unteu una safata amb oli d'oliva i aboqueu-hi la polenta uniformement. Poseu-la a la nevera.
-Tritureu tofs els ingredients de la vinagreta en el vas d'una batedora. Unteu la base de la satata amb la vinagreta, poseu-hi el calçols nets i pinteu-los amb la salsa, Poseu la satata al forn, que haureu escallat a 220ºC, durant deu minuts i deixeu-li 10min a 120 C
+Tritureu tots els ingredients de la vinagreta en el vas d'una batedora. Unteu la base de la safata amb la vinagreta, poseu-hi el calçols nets i pinteu-los amb la salsa, Poseu la safata al forn, que haureu escalfat a 220ºC i deixeu-li durant deu minuts.
 Salpebreu i saltegeu els bolets llescats
 Talleu els tomàquets cherry, amaniu-los amb la vinagreta, i coeu-los al forn durant dos minuts.
-Desemmotleu la polenta i talleu-la en la torma que vulgueu. Passeu-la per una planxa al foc amb un raig d'oli d'oliva per donar-li un toc cruixent.
+Desemmotlleu la polenta i talleu-la en la forma que vulgueu. Passeu-la per una planxa al foc amb un raig d'oli d'oliva per donar-li un toc cruixent.
  
  [Categories]
  categoria = Vegetarià
