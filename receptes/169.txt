@@ -1,34 +1,30 @@
+[Titol]
+suquet de rap
 
-suquet rap i musclos
+[Ingredients]
+musclos = 1kg de musclos grossos
+rap = 800g cua de rap
+brou = 700ml fumet de crustacis
+pastanaga = 2 pastanagues
+porro = 1 porro
+api = 1 tija d'api
+herbes = 1 fulla llorer i cibulet
+vi = 1/2 got de vi ranci
+llimona = 1 llima
+bitxo = 1 bitxo
+oli = oli d'oliva
+pa = crostonets de pa
+pebre = pebre negre
 
-
-1kg de musclos grossos
-800 g de cua de rap
-700 ml fumet de crustacis
-2 pastanagues
-1 porro
-1 tija d'api
-1 fulla de llorer
-1/2 got de vi ranci
-1 llima
-1 bitxo
-Oli Ove
-Crostonets de pa
-Cibulet
-Pebre negre
-
-
-Tallem a trossos petitsl'api pelat, dues pastanagues pelades i un porro net.
-Pelem una llima
+[Elaboracio]
+Tallem a trossos petits l'api pelat, les pastanagues pelades i el porro net. Pelem una llima.
 Sofregim en una olla la bresa de verdures, la pell de la llima, una fulla de llorer i un bitxo sec.
-Mentre se sofregeix, comencem a netejar els musclos i en traiem el "fregall" o les "barbes".
-Si el sofregit està llest, hi tirem un raig de vi ranci per aixecar els sucres.
-Quan s'hagi evaporat l'alcohol afegim a l'olla 700 ml de fumet de crustacis.
-Posem una vaporadora al foc i quan comenci a fer vapor, hi tirem els musclos nets. A mesura que es vagin obrint, els repesquem.
+Mentre se sofregeix, comencem a netejar els musclos i en traiem el "fregall" o les "barbes". Posem una vaporadora al foc i quan comenci a fer vapor, hi tirem els musclos nets. A mesura que es vagin obrint, els repesquem.
 Deixem que els musclos es temperin per no cremar-nos i els separem de les seves cloves. Llencem les cloves i tirem un raig d'oli a la carn de musclo.
+Si el sofregit està llest, hi tirem un raig de vi ranci per aixecar els sucres. Quan s'hagi evaporat l'alcohol afegim a l'olla el fumet.
 Descartem de l'olla amb verdures el llorer i el bitxo, hi afegim l'aigua dels musclos i ho triturem tot.
-Tallem ala mida de mossegada800 g de cua de rap i ho tirem a la cassola.
-Hi afegim els musclos.
-Afegim a la cassola els crostonets de pa i ho deixem coure 3 minuts.
-Piquem el cibulet.
-Emplatem en un plat fondo el suquet amb musclos i hi tirem el cibulet per sobre.
+Tallem ala mida de mossegada la cua de rap i ho tirem a la cassola. Hi afegim els musclos. Afegim a la cassola els crostonets de pa i ho deixem coure 3 minuts.
+Piquem el cibulet. Emplatem en un plat fondo el suquet amb musclos i hi tirem el cibulet per sobre.
+
+[Categories]
+categoria = Peix
