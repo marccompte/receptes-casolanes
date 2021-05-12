@@ -15,11 +15,11 @@ fruits secs = barreja de llavors, grapat d'ametlles crues
 mostassa = mostassa antiga
 soja = salsa de soja
 gingebre = gingebre
-me = mel
+mel = mel
 sal = sal
 pebre = pebre negre
 vinagre = vinagre de poma
-oli = oli
+oli = oli d'oliva
 
 [Elaboracio]
 Posem dins d'un bol 8 tomàquets secs i els cobrim amb aigua tèbia. Deixem que s'hidratin 10 minuts.  
