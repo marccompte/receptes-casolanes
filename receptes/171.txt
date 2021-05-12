@@ -1,0 +1,37 @@
+[Titol]
+amanida de llegum
+
+[Ingredients]
+mongetes = 200g mongeta xinesa
+tomàquet = 8 tomàquets secs
+carbassó = 2 carbassons
+coliflor = 1/2 coliflor
+ceba = 1 ceba Reca
+remolatxa = 1/2 remolatxa
+all = 1 gra d'all
+llimona = llima
+herbes = romaní
+fruits secs = barreja de llavors, grapat d'ametlles crues
+mostassa = mostassa antiga
+soja = salsa de soja
+gingebre = gingebre
+me = mel
+sal = sal
+pebre = pebre negre
+vinagre = vinagre de poma
+oli = oli
+
+[Elaboracio]
+Posem dins d'un bol 8 tomàquets secs i els cobrim amb aigua tèbia. Deixem que s'hidratin 10 minuts.  
+Passem per l'aigua -per treure-li la pols- 200 g de mongeta xinesa o mungo. Un cop neta la portem a un bol que ja té aigua i ho posem a bullir. L'aigua ha d'estar 4 dits per sobre de les mongetes. Deixem coure la mongeta durant uns 30 minuts a foc baix i li donem un repòs de 10 minuts. Escorrem la mongeta cuita i reposada.  
+Repesquem els tomàquets ja hidratats i els eixuguem bé amb un drap o paper de cuina. Posem els tomàquets dins una paella amb oli que els cobreixi. Hi afegim un branquilló de romaní i un gra d'all aixafat. Deixem que els tomàquets es confitin amb foc baix uns 10 minuts. Passat el temps, rescatem els tomàquets de l'oli i esperem que es temperin.  
+Posem la mongeta en un bol i hi afegim els tomàquets confitats i temperats i els tallem pel mig.  
+Tallem 1/2 colifor neta: el tronc a juliana i la resta en miniarbres. Afegim al bol amb les mongetes la colifor tallada.  
+Amb un pelador o amb una mandolina, tallem 2 carbassons i els posem al bol.
+Fem un confitat de ceba amb una ceba tallada i el suc d'una remolatxa. Ho cobrim amb una barreja de tant per tant de sucre, vinagre de poma i oli i ho deixem tres dies dins un pot de vidre.  Posem la ceba confitada al bol amb les mongetes i ho integrem tot.  
+En un bol preparem la salsa de l'amanida. Ratllem un dit de gingebre congelat, hi afegim 2 cullerades de mostassa antiga, un raig de salsa de soja, una cullerada de mel, la pell d'una llima i el suc. Ho emulsionem tot manualment. Tirem aquest amanit sobre el bol amb els llegums i les verdures i ho integrem.   
+
+[Categories]
+categoria = Vegetarià
+Piquem en un morter un grapat d'ametlla crua i ho tirem a l'amanit. Hi afegim un grapat de llavors i emplatem.
+
