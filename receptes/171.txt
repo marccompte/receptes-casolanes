@@ -33,5 +33,4 @@ En un bol preparem la salsa de l'amanida. Ratllem un dit de gingebre congelat, h
 Piquem en un morter un grapat d'ametlla crua i ho tirem a l'amanit. Hi afegim un grapat de llavors i emplatem.
 
 [Categories]
-categoria = Vegetarià
-
+categoria = Llegums
