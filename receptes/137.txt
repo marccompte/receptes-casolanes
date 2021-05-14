@@ -1,5 +1,5 @@
 [Titol]
-hamburguesa de llenties
+de llenties
 
 [Ingredients]
 Persones = 4 persones
