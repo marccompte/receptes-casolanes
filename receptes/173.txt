@@ -1,5 +1,5 @@
 [Titol]
-Mnadonguilles de pastanaga
+Mandonguilles de pastanaga
 
 [Ingredients]
 Persones = 4 pax
