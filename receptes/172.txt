@@ -1,0 +1,23 @@
+[Titol]
+de cigrons  
+
+[Ingredients]
+Persones = 4 pax
+carbassó = 300g carbassó
+cigrons = 200g cigrons cuits
+ous = 1 ou
+farina = 100g farina i 10g maizena 
+pa = 60g pa ratllat 
+herbes = 2g orenga i 2g timó 
+all =  1g all en pols 
+sal = sal 
+pebre = pebre negre
+
+[Elaboracio]
+Renta el carabassó i talla’n els extrems. Ratlla-la utilitzant una ratllador gros. Col·loca-la en un colador, afegeix-hi una miqueta de sal i deixa-la reposar 15 minuts. Escorre-la molt bé, pressionant. Escorre els cigrons i renta’ls.
+Tritura els cigrons amb mitja ceba, un poc de timó i orenga. afegeix-hi el carbassó, l’ou i la farina, pastant bé fins aconseguir una mescla homogènia. Condimenta-ho al gust i deixa-ho reposar a la nevera mitja hora.
+Forma unes 4-6 hamburgueses de més o menys la mateixa mida, d’uns 1,5-2 cm de gros. Arrebossa-les amb el pa ratllat i torra-les a la planxa amb una miqueta d’oli calent, uns 8 minuts per cada banda, girant-les amb cura.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Hamburgueses
