@@ -1,0 +1,22 @@
+[Titol]
+Saltejat de cigrons
+
+[Ingredients]
+Persones = 4 pax
+espinacs = 300g espinacs frescos
+cigrons = 300g cigrons cuits
+ceba = 120g ceba 
+all = 2 grans d’all 
+tomàquet = 20g salsa tomàquet 
+pebre = 1g pebre vermell
+panses = 10g panses de corint 
+fruits secs = 10g pinyons 
+oli = 40g oli d'oliva 
+sal = sal
+
+[Elaboracio]
+Escalfa una miqueta d’oli d’oliva en una cassola o paella àmplia. Trosseja la ceba i daura-la, quan estigui transparent, afegeix-hi els alls laminats. Una vegada estiguin daurats, tira-hi la salsa de tomàquet, cou-la un minut i a continuació posa-hi el pebre vermell. Mescla-ho i ofega-ho un parell de minuts vigilant que el pebre no es cremi.
+Afegeix-hi els espinacs nets i escorreguts i deixa que es vagin ablanint a poc a poc en perdre l’aigua que contenen. Quan estiguin quasi llestos i hagin perdut la meitat del volum inicial, tira-hi els cigrons perquè el conjunt s'escalfi i s’acabi de fer. Posa-hi els pinyons i les panses, salteja-ho un parell de minuts més i serveix-ho ben calent.
+
+[Categories]
+categoria = Llegums
