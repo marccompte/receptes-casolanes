@@ -1,0 +1,22 @@
+[Titol]
+Crema pastanaga 
+
+[Ingredients]
+Persones = 4 pax
+fonoll = 1 fonoll
+pastanaga = 750g pastanaga
+all = 2 grans d’all
+brou = 800ml brou verdures
+taronja = 50ml de suc taronja 
+oli = 40g oli d’oliva verge
+sal = sal
+pebre = pebre mòlt
+
+[Elaboracio]
+Talla el bulb de fonoll en trossets i reserva’n les fulles En una olla gran cuina els trossos de fonoll uns minuts amb una miqueta d’oli d’oliva perquè s’estovin. Després afegeix-hi la pastanaga prèviament tallada en rodes i els alls triturats, deixa-ho cuinar amb el fonoll un parell de minuts més.
+Seguidament afegeix-hi el brou de verdures o l’aigua, sala-ho i deixa-ho cuinar a foc mitjà 20 minuts aproximadament, fins que el fonoll i les pastanagues estiguen ben tendres.
+Retira la sopa del foc, afegeix-hi el suc de taronja i les fulles de fonoll i amb una batedora processa tots els ingredients fins a obtindre una barreja cremosa. Rectifica el punt de sal, afegeix-hi el pebre acabat de moldre al gust i serveix-ho.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Puré
