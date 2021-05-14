@@ -1,5 +1,5 @@
 ﻿[Titol]
-hamburguesa d’albergínia
+d’albergínia
 
 [Ingredients]
 Persones = 4 pax
