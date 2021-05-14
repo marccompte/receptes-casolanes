@@ -1,0 +1,22 @@
+[Titol]
+Cigrons amb sanfaina  
+
+[Ingredients]
+Persones = 4 pax
+carbassó = 240g  carbassó 
+cigrons = 200g cigrons cuits
+tomàquet = 500g tomàquet
+ceba = 240g ceba
+pebrot = 120g pebrot verd
+oli = 40g oli d'oliva
+sal = sal
+
+[Elaboracio]
+Col·loca els cigrons en remull el dia abans, i de matí cou-los en aigua suficient amb una ceba i unes fulles de llorer i sal. Unes 3 hores després a foc lent, estaran llestos.
+Per a la samfaina prepara els tomàquets. Lleva’n la pell i les llavors i posteriorment trosseja'els i reserva'ls per a utilitzar-los més tard.
+Neteja les cebes, els pebrots, els carbassons i talla-ho tot en trossos d’1 cm aproximadament.
+Cuina els ingredients al foc. Comença amb la ceba, després d’ofegar-la durant uns minuts, amb una miqueta de sal perquè s’estovi abans, i incorpora-hi els pebrots. Durant uns 10 o 12 minuts manten-los a foc mitjà i remena perquè es façi tot igual.
+Incorpora-hi el  carbassó i el tomàquet. Uneix-ho a la ceba i al pebrot, que ja haurien d’estar tendres. Remena-ho al foc uns 20 o 25 minuts, els necessaris perquè la samfaina estigui preparada; agrega-hi els cigrons ja cuits just acabada la samfaina.
+
+[Categories]
+categoria = Llegums
