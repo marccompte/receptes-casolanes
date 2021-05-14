@@ -1,0 +1,24 @@
+[Titol]
+Mnadonguilles de pastanaga
+
+[Ingredients]
+Persones = 4 pax
+pastanaga = 600g pastanaga 
+ceba = 80g ceba 
+formatge = 100g formatge ratllat 
+pa = 60g pa ratllat 
+ous = 3 ous 
+herbes = 10g alfàbrega 
+sal = sal 
+oli = 80g oli d'oliva 
+
+[Elaboracio]
+En un bol, mescleu la pastanaga pelada i ratllada amb el formatge ratllat.
+Afegiu-hi la ceba picada i l'alfàbega.
+Bateu lleugerament l'ou i afegiu-lo a la mescla anterior. Saleu-ho i remeneu-ho.
+Afegiu-hi el pa ratllat (reserveu-ne una xicoteta part per a l'arrebossat) i mescleu-ho fins a aconseguir una pasta compacta.
+Doneu forma a les mandonguilles, arrebosseu-les i fregiu-les en una paella amb oli ben calent.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Hamburgueses
