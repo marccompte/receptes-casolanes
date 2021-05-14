@@ -1,5 +1,5 @@
 [Titol]
-Hamburgueses de llenties
+hamburguesa de llenties
 
 [Ingredients]
 Persones = 4 persones
@@ -24,3 +24,4 @@ Muntem el cranc, per a això disposem una hamburguesa de llenties a manera de co
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Hamburgueses
