@@ -20,4 +20,4 @@ Col·loca una paella al foc amb una mica d'oli d'oliva verge extra. Aboca una cu
 
 [Categories]
 categoria = Vegetarià
-
+subcategoria = Hamburgueses
