@@ -1,0 +1,24 @@
+[Titol]
+Lassanya de carbassa  
+
+[Ingredients]
+Persones = 4 pax
+carbassa = 400g carbassa 
+bolets = 400g bolets frescos 
+all = 1 gra d’all 
+ceba = 120g ceba 
+herbes = 2 branquetes de timó 
+lassanya = 300g làmines de lassanya seques 
+formatge = 40g formatge parmesà ratllat 
+oli = 40g oli d’oliva verge 
+vi = 100ml de vi blanc 
+sal = sal 
+pebre = pebre 
+
+[Elaboracio]
+Pica els bolets i la polpa de carbassa en daus menuts. Salta l’all i la ceba picats fins amb 1 cullerada sopera d’oli fins que la ceba quede transparent. Afig-hi les herbes picades, la carbassa, el vi, mig got d’aigua, sal i pebre. Deixa-ho coure a foc lent i tapat durant 15 minuts. Afigeix-hi els bolets picats i acaba la cocció 5 minuts més. 
+Cou les làmines de lasanya en aigua bullint abundant, segons el temps indicat pel fabricant. Escorre-les amb un colador i deixa que s’eixuguen sobre un drap de cuina.
+Unta amb oli una safata de forn i cobrix-la amb unes fulles de pasta cuita. Cobrix-les amb una miqueta de salsa de bolets i una part del parmesà ratllat. Seguix posant capes de pasta i salsa i acaba amb parmesà ratllat. Cou-ho al forn a 180º uns 25-30 minuts o fins que la superfície quede ben daurada.
+
+[Categories]
+categoria = Pasta
