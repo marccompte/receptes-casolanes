@@ -1,0 +1,24 @@
+[Titol]
+Carbassó farcit 
+
+[Ingredients]
+Persones = 4 pax
+carbassó = 500g carbassó
+arròs = 160g arròs
+ceba = 300g ceba i  60g escalunya
+espinacs = 300g espinacs congelats
+brou = 400ml brou verdures
+pebre = 2g pebre mòlt
+oli = 40g oli d'oliva 
+sal = sal
+
+[Elaboracio]
+Llaveu els carbassons i partiu-los per la meitat. Saleu-los i coeu-los en el microones (uns 5 minuts a potència màxima). Buideu-ne la polpa i reserveu-la.
+Peleu la ceba, trossegeu-la i fregiu-la en una paella amb oli, fins que es daure. Retireu-la i fregiu l'escalunya trossejada.
+Descongeleu els espinacs i escorreu-los bé. Ofegueu-los amb un poc d'oli i salpebreu-ho.
+En la mateixa paella, ofegueu l'arròs uns minuts. Afegiu-hi el caldo bullint, tapeu-ho i deixeu que es cogui.
+Incorporeu-hi les verdures, remenant bé perquè es mescli tot.
+Farciu els carbassons amb l'arròs amb verdures
+
+[Categories]
+categoria = Vegetarià
