@@ -1,0 +1,19 @@
+[Titol]
+Albergínies al forn  
+
+[Ingredients]
+Persones = 4 pax
+albergínia = 4 albergínies
+formatge = 120g Mozarella
+oli = 40g oli d'oliva
+herbes = 10 fulles de alfàbrega fresca picada
+sal = sal
+
+[Elaboracio]
+Escalfa el forn a 180ºC. Col·loca sobre una de les reixetes les albergínies amb la pell, prèviament rentades, amb una plata amb aigua a sota.
+Ves girant l’alberginia, perquè es creme la pell. Retira-la del forn quan observes que l’alberginia es reduix i té la pell arrugada.
+Deixa-la refredar. Pela-la, talla-la en tires, col•loca-la en una plata apta per a forn i condimenta-la amb l’oli, l’alfàbrega picada i la sal.
+Distribuïx rodanxes fines de mozzarella per damunt i gratina-ho en el forn. Serveix-la calenta.
+
+[Categories]
+categoria = Vegetarià
