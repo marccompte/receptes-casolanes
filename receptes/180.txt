@@ -1,0 +1,25 @@
+[Titol]
+Llenties amb carbassa
+
+[Ingredients]
+Persones = 4 pax
+llenties = 240g llentilles pardines
+ceba = 150g ceba francesa
+porro = 50g porro
+carbassa = 100g carbassa
+pastanaga = 120g pastanaga 
+all  =2 dents d’all
+pebrot = 120g perot verd
+oli 0 40g oli d’oliva verge
+brou =1l brou verdures
+herbes = 5g timó
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Pela les hortalisses i pica-les en daus o en juliana.
+Col•loca-les en una cassola de fang juntament amb les llentilles i el timó i cobrix-ho amb el caldo.
+Sala-ho , afig-hi l’oli i cou-ho a foc mitjà-alt fins que arrenque el bull. Escuma-ho i continua coent-ho tapat a foc suau, fins que les llentilles estiguen tendres
+
+[Categories]
+categoria = Llegums
