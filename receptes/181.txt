@@ -1,0 +1,24 @@
+[Titol]
+Patates guisades
+
+Ingredients[]
+Persones = 4 pax
+patates = 800g patates
+ceba = 200g ceba
+ous = 2 ous
+pèsols = 160g pésols congelats
+oli = 40g oli d'oliva
+all= 4 gras d’all
+brou = 500ml brou d'aviram
+julivert = 5g julivert
+sal = sal
+
+[Elaboracio]
+Poseu en una cassola un bon raig d'oli. Coeu la ceba picada (sense que es daure).
+Afegiu-hi el julivert i els alls picats, i les patates pelades i tallades en daus,
+Ofegueu tot i afegiu-hi els pésols, saleu-ho i cobriu-ho amb el caldo.
+Deixeu-ho a foc lent fins que les patates estiguen tendres,
+En el moment de servir, afegiu-hi ou dur ratllat i una fulla de julivert.
+
+[Categories]
+categoria = Vegetarià
