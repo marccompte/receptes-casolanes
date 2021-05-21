@@ -20,3 +20,4 @@ Decorem amb l'orenga i l'alfàbrega.
 
 [Categories]
 categoria = Vegetarià
+subcategoria ? Pasta
