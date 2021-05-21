@@ -1,7 +1,7 @@
 [Titol]
 Patates guisades
 
-Ingredients[]
+[Ingredients]
 Persones = 4 pax
 patates = 800g patates
 ceba = 200g ceba
