@@ -1,0 +1,17 @@
+[Titol]
+Carxofes microones
+
+[Ingredients]
+Persones = 4 pax
+carxofa = 8 carxofes
+oli = oli
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Rentem les carxofes, tallem la tija i les posem en un plat amb una mica d'aigua. Les coem al microones a màxima potència durant 10 minuts.
+Les treiem de microones i les escarxofem, picant-les de cap per avall o les obrim, per separar les fulles. Els hi posem sal, pebre i oli.
+Les posem 10 minuts a gratinar al forn a 180º i les coronem amb una cullaredeta de all i oli ben espes.
+
+[Categories]
+categoria = Vegetarià
