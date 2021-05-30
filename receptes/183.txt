@@ -1,0 +1,31 @@
+[Titol]
+de llimona i merenga
+
+[Ingredients]
+Persones = 6 pax
+titol = BASE
+mantega = 35g mantega
+galeta = 150g galeta picada
+titol = CREMA
+llimona = 200g suc llimona colat
+mantega = 180g mantega
+sucre = 180g sucre
+xocolata = 180g xocolata blanca
+ous = 5 ous
+gelatina = 2 fulls gelalina
+titol = MERENGA
+ous = 150g clara d'ou 
+sucre = 300g sucre
+aigua = 70g aigua
+
+[Elaboracio]
+Barregeu la galeta esmicolada i la mantega fosa i poseu-ho de base en un motlle d'uns 20 cm de didmetre Deixeu-ho refredar a la nevera.
+Barregeu en un cassó el suc de llimona colat, el SUcre, els ous i la mantega. Poseu-ho a foc mitjà sense deixar de remenar-ho amb unes barnilles de cuina. Deixeu-ho coure fins que comenci a espessir-se, moment en que haureu de retirar-ho del foc. Es important que no bulli.
+Mentrestant, hidrateu dos fulls de gelatina en un bol amb aigua molt freda.
+Afegiu a la crema els dos fulls de gelatina hidratats i ben escorreguts i, finalment, la xocolata blanca Remeneu-ho fins que la crena estigui ben barrejada.
+Poseu la crema al motlle amb la base de galeta i deixeu-ho a la nevera dues hores més.
+Preparou una merenga amb les clares muntades, un almivar que haureu preparat amb aigua i el sucre. Ropartiu la merenga per damunt del pastis amb una manega o una espatula. Per acabar gratineu-la amb un butador o amb el gratinador del forn durant uns frenta segons fins que agafi color.
+
+[Categories]
+categoria = Postres
+subcategoria = Pastís
