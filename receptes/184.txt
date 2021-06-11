@@ -27,20 +27,20 @@ calamars = calamars
 formatge = formatge ratllat
 
 [Elaboracio]
-Primer tallarem la ceba a la juliana i la possarem dins d'un recipient ple d'oli d'oliva i  li deixarem 6 horas o 12h. 
-Preparem la salsa de tomàquet triturant i fregint, amb una mica de sal, tomàquets ben madurs.
-Ara hem de preparar la base que serà la coca d'oli de la recepta que trobaràs al menú APEROS però sense fer-ne porcions sinó coure-la sencera en forma rodona o rectangular segons volguem la nostra pizza.
+Primer tallarem la ceba a juliana i la possarem dins d'un recipient ple d'oli d'oliva deixant-li de 6 a 12 hores. 
+Preparem la salsa de tomàquet fregint, amb una mica de sal, tomàquets ben madurs i xanfant-los després.
+Ara hem de preparar la base que serà una base comprada o la coca d'oli de la recepta que trobaràs al menú APEROS. L'estenem sobre un safata en forma rodona o rectangular segons volguem la nostra pizza.
 Escalfem el forn a 180ºC enxegant forn i grill amb l'aire forçat.
 Suïssa:
 Escampem tots els ingredients sobre la base i ho enfornarem durant 20min.
 Bolonyesa:
-Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet. A continuació, hi estendrem la carn picada i el bacon i ho enfornarem durant 10min. Escorrem la ceba i l'escampem per sobre de la pizza després hi afegim la mozzarella escorreguda i ho deixem altres 10min al forn.
+Sobre la base hi estenem una fina capa de salsa de tomàquet, després la carn picada i el bacon. Ho enfornarem durant 10min. Escorrem la ceba i l'escampem per sobre de la pizza, després hi afegim la mozzarella escorreguda i ho deixem altres 10min al forn.
 Bolets:
-Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet. A continuació, hi estendrem la carn picada i els bolets i ho enfornarem durant 10min. Escorrem la ceba i l'escampem per sobre de la pizza després hi afegim el formatge ratllat i ho deixem altres 10min al forn.
+Sobre la base hi estenem una fina capa de salsa de tomàquet, després la carn picada i els bolets. Ho enfornarem durant 10min. Escorrem la ceba i l'escampem per sobre de la pizza després hi afegim el formatge ratllat i ho deixem altres 10min al forn.
 Escalivada:
-Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet. A continuació hi afegim l'escalivada, la mozzarella escorreguda i el formatge de cabra i ho enfornem durant 20min.
+Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet, després l'escalivada, la mozzarella escorreguda i el formatge de cabra. Ho enfornem durant 20min.
 Gambes:
-Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet. A continuació, hi estendrem les gambetes i els calamars i ho enfornarem durant 10min. Hi afegim el formatge ratllat i ho deixem altres 10min al forn.
+Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet, després les gambetes i els calamars, ho enfornarem durant 10min. Hi afegim el formatge ratllat i ho deixem altres 10min al forn.
 
 [Categories]
 categoria = Aperos
