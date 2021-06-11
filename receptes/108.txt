@@ -31,3 +31,4 @@ Tornar a introduir al forn, 185 °C durant, aproximadament, 10 minuts.
 
 [Categories]
 categoria = Aperos
+subcategoria = Pizzes
