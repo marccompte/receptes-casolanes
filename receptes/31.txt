@@ -12,7 +12,7 @@ pebre = pebre vermell
 
 [Elaboracio]
 S’agafa un bol i s’hi posa l’oli, la sal, la cervesa, i l’aigua, la pastilla de llevat, es barreja tot mentre se li afegeix, poc a poc, la farina fins que quedi una massa que es desenganxi dels dits. Es fa una pilota i es deixa reposar fins que pugi.
-S’estén a la safata del forn, una capa super fina i amb el ganivet es marquen, amb ratles al llarg i l’ample, les porcions. Se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa coure una mica a 200ºC al forn, màxim uns 15 minuts, i llestos.
+S’estén a la safata del forn, una capa super fina se li posa una mica de sal, oli i pebre vermell per sobre. Es deixa al forn a 200ºC un màxim de 15 minuts, i llestos.
 
 [Categories]
 categoria = Aperos
