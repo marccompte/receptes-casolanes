@@ -1,5 +1,5 @@
 [Titol]
-Pizza de carxofes i gambes
+de carxofes i gambes
 
 [Ingredients]
 carxofa = 1Kg carxofes
