@@ -1,5 +1,5 @@
 [Titol]
-Pizzes
+Varietat
 
 [Ingredients]
 titol = Suïssa
@@ -44,3 +44,4 @@ Sobre la base comencem per a estendra-hi una fina capa de salsa de tomàquet. A 
 
 [Categories]
 categoria = Aperos
+subcategoria = Pizzes
