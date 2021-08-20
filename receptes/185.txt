@@ -1,0 +1,23 @@
+[Titol]
+Pa d'espelta
+
+[Ingredients]
+400g farina d'espelta
+100g farina de força (conté més gluten)
+300g aigua temperada
+1 culleradeta de sal
+15g llevat fresc o massa mare
+
+[Elaboracio]
+D'una banda en un bol barregem la farina d'espelta amb la farina de força i la sal. En un altre bol barregem l'aigua tèbia amb el llevat, i removem fins que es dissolgui.
+Fem un forat en el centre de la mescla de farines a manera de volcà hi afegim la mescla d'aigua i llevat, barregem fins a integrar bé els ingredients. Bolquem la massa a la taula que tindrem prèviament enfarinada i pastem durant aproximadament 10 – 15 minuts.
+Pastem la massa amb les mans, estirem de tant en tant la massa mentre la retorcem per a continuar pastant a continuació. D'aquesta manera quedarà llisa i elàstica.
+Formem una bola amb la massa i la disposem en un bol ampli pinzellat amb una mica d'oli, tapem amb paper film i deixem reposar aproximadament 1 hora, dins del forn amb aquest apagat. Aquest temps és aproximat, la massa ha de doblegar el seu volum. A l'hivern podeu accelerar els temps precalentando el forn a 50 °C i apagant-lo abans de posar el pa.
+Una vegada la massa doble el seu volum o fins i tot el tripliqui, tornem a pastar per a retirar l'aire del seu interior. Pastem donant-li la forma allargada.
+Empolvorem amb farina la safata del forn i col·loquem el pa sobre ella; fem uns talls amb un ganivet esmolat i tapem amb un drap net; deixem reposar de nou 1 hora.
+Escalfem el forn a 250°C. Dins del forn en la base posem un bol apte per a forn amb aigua, d'aquesta manera aconseguirem que l'escorça quedi cruixent.
+Una vegada el pa hagi doblegat el seu volum el posem al forn, baixem la temperatura a 200 °C i enfornem durant 35 minuts. El pa està llest quan li pegues uns cops en la base i sona buit.
+Deixem refredar el pa en una reixeta.
+
+[Categories]
+categoria = Pa
