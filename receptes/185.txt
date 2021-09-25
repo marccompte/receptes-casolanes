@@ -1,5 +1,5 @@
 [Titol]
-Pa d'espelta
+d'espelta
 
 [Ingredients]
 400g farina d'espelta
