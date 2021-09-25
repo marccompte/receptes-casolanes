@@ -2,13 +2,13 @@
 rústic amb farina preparada
 
 [Ingredients]
-500g farina preparada pa rústic
+500g farina preparada per a pa rústic
 350ml d'aigua
 
 [Elaboracio]
-Barrejar en un recipient la farina preparada, amb aigua tèbia, fins a consegquir una massa unifome i compacta, que se separi del recipient i de les mans amb facilitat. Deixar reposar la massa tapada amb un drap durant 30 minuts en un lloc càlid.
+Barrejar en un recipient la farina preparada i l'aigua (ha de ser tèbia) fins a conseguir una massa unifome i compacta, que se separi del recipient i de les mans amb facilitat. Deixar reposar la massa tapada amb un drap durant 30 minuts en un lloc càlid.
 Una vegada reposat, donar-li la forma triada (bé un sol pa o diversos panets), també es pot posar en un motlle greixat, tornar a tapar la massa i deixar reposar altres 30 minuts en un lloc càlid.
-Humitejar amb aigua la superfície de la massa i fer petits talls amb un ganivet, empolvorar Farina normal per damunt i ficar en el forn, prèviament escalfat, durant 40/60 minuts aproximadament (en funció de la grandària del pa) a 220ºC.
+Humitejar amb aigua la superfície de la massa i fer petits talls amb un ganivet, empolvorar farina normal per damunt i ficar en el forn, prèviament escalfat, durant 40/60 minuts aproximadament (en funció de la grandària del pa) a 220ºC.
 
 [Categories]
 categoria = Pa
