@@ -1,10 +1,10 @@
 [Titol]
-Farcells d'albergínia i formatge de cabra
+farcells d'albergínia
 
 
 [Ingredients]
 Persones = 4 pax
-formatge = 100 g formatge de cabra
+formatge = 100g formatge de cabra
 albergínia = 1 albergínia
 oli = oli d'oliva verge
 herbes = branques de romaní
