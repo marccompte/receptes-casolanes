@@ -1,0 +1,20 @@
+[Titol]
+Farcells d'albergínia i formatge de cabra
+
+
+[Ingredients]
+Persones = 4 pax
+formatge = 100 g formatge de cabra
+albergínia = 1 albergínia
+oli = oli d'oliva verge
+herbes = branques de romaní
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Prepareu l'oli de romaní separant les fulles del tronc i tallant-les ben petites amb l'ajut d'un ganivet. Afegiu-les en un bol amb l'oli d'oliva, poseu-hi també un pensament de sal i de pebre negre molt. Reserveu-lo. Talleu l'albergínia làmines longitudinals. Un cop tallades, saleu-les una per una. Deixeu-les una estona fins que treguin el suc amargant. Passats uns 30 minuts, retireu l'excés de sal de les albergínies i fregiu-les en una paella a foc viu fins que estiguin daurades. 
+Poseu una rodanxa de formatge de cabra enmig de cada làmina i emboliqueu-lo Col·loqueu els farcells en una plata i poseu-los al forn a 120 C durant 5 minuts
+Serviu-los calents amb l'oli de romaní que havíeu reservat i una branqueta de romaní fresc al damunt. 
+
+[Categories]
+categoria = Vegetarià
