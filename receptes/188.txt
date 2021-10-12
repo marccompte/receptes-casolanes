@@ -9,6 +9,7 @@ brou = 1 litre brou
 nata = 400g nata
 fruits secs = ametlles salades
 formatge = daus de formatge
+oli = oli d'oliva
 sal = sal
 pebre = pebre
 herbes = coriandre
