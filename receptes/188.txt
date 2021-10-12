@@ -1,0 +1,24 @@
+[Titol]
+crema de ceps
+
+[Ingredients]
+porro = 160g porro
+bolets = 400g ceps
+patates = 200g patata pelada
+brou = 1 litre brou
+nata = 400g nata
+fruits secs = ametlles salades
+formatge = daus de formatge
+sal = sal
+pebre = pebre
+herbes = coriandre
+
+[Elaboracio]
+Picarem el porro i el sofregirem en l'oli i afegirem els ceps i la patata. Hi afegirem el brou i ho deixem coure durant 12 - 15 minuts. 
+Hi afegim la nata i esperem que torni a arrancar el bull.
+Ho triturem tot i després ho colem.
+Servim decorant-ho amb el pebre, les ametlles, el formatge i el coriandre.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
