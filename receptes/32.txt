@@ -22,3 +22,4 @@ Per a donar a aquest humus un bonic color, agrega a la recepta una remolatxa cui
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Puré
