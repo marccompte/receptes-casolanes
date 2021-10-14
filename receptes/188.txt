@@ -21,5 +21,5 @@ Ho triturem tot i després ho colem.
 Servim decorant-ho amb el pebre, les ametlles, el formatge i el coriandre.
 
 [Categories]
-categoria = Entrants
-subcategoria = Sopes_Cremes
+categoria = Vegetarià
+subcategoria = Puré
