@@ -1,0 +1,39 @@
+[Titol]
+de porro i formatge blau
+
+[Ingredients]
+Persones = 4pax
+porro = 6 porros
+pollastre = 1 cuixa gallina
+col = 1/4 cabdell col
+patates = 400g patata vermella
+formatge = 20g formatge blau
+pastanaga = 2 pastanagues
+api = 1 branca d'api
+all = 1 gra d'all
+herbes = 1 manat julivert
+safrà = safrà
+fruits secs = 40g nous
+pebre = pebre vermell i negra
+llard = llard
+cibulet = cibulet
+aigua = aigua mineral
+oli = oli d'oliva
+sal = sal
+
+[Elaboracio]
+Tallem a bresa la part verda de 6 porros, les dues pastanagues i la branca d'api. Hi afegim un quart d'una col, que no caldrà tallar.
+Posem aquestes verdures en una olla de pressió juntament amb ¿ de gallina, millor la cuixa, un all aixafat i un manat de julivert. Ho cobrim amb aigua i ho salem.
+Portem l'olla a ebullició durant 30 minuts i després li donem 10 minuts de repòs.
+Un cop fet, colem el brou i en reservem 800 ml (guardem la resta a la nevera) i la cuixa de la gallina.
+Tallem ben prim la part blanca dels 6 porros.
+Posem una cassola al foc amb una mica de llard, un raig d'oli, 1 cullerada de pebre vermell. Hi afegim els porros i 3 brins de safrà. Ho tapem i ho deixem suar 10 minuts.
+Pelem 400g de patates vermelles, les escapcem a la cassola directament i salpebrem. Afegim a la cassola els 800g de brou reservat. Tapem la cassola i la deixem coent a foc lent durant 15 minuts.
+Un cop hagin passat els 15 minuts hi afegim 20 g de formatge blau. Ho turbinem fins a aconseguir textura de crema.
+Esfilagarsem el quart de gallina cuit. Ho salem i hi afegim un rajolí d'oli OVE. Ho barregem.
+Piquem 40 g de nous amb el ganivet. Piquem cibulet i el reservem.
+Ja podem emplatar. Servim la crema, després hi afegim la gallina esfilagarsada, les nous picades, el cibulet i un rajolí d'oli d'oliva.
+
+[Categories]
+categori = Entrants
+subcategoria = Sopes_Cremes
