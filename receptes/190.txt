@@ -1,0 +1,30 @@
+[Titol]
+Humus mongeta i coliflor
+
+[Ingredients]
+Persones = 4 pax
+mongetes = 220g de mongeta del ganxet seca 
+fruits secs = 50g ametlla marcona crua pelada i 50g de nous 
+coliflor = 1/2 coliflor groga 
+vinagre = 1 raig de vinagre de xerès 
+herbes = 1 cullerada de comí i fulles de julivert 
+nou moscada = nou moscada
+pa = torradetes pa 
+oli = oli d'oliva
+pebre = pebre negre 
+sal = sal 
+
+[Elaboració]
+En un recipient posem les mongetes i les cobrim amb aigua mineral. En un altre recipient, posem les ametlles i 40g de nous. Les cobrim amb aigua, tapem els recipients i els fiquem a la nevera 12 hores. 
+En una olla de pressió afegim les mongetes ja hidratades amb l'aigua del remull. Cobrim fins a tres dits per sobre de les mongetes, tapem l'olla i ho coem 30 minuts a foc lent a partir del moment que l'olla xiuli. Passats els 30 minuts tanquem el foc i ho deixem reposar dues hores. 
+Colem les ametlles i les nous ja hidratades i les posem en un got batedor. Hi afegim una mica de suc de la cocció de les mongetes i ho turbinem fins que n'obtinguem una pasta. 
+En un got batedor més gran posem la pasta de nous i ametlles, les mongetes del ganxet colades, l'oli, pebre negre, el comí, hi ratllem una mica de nou moscada i 5 grams de sal. Ho turbinem fins que n'obtinguem una pasta homogènia. En aquest punt hi afegim un raig el vinagre, ho turbinem de nou i ho reservem.  
+Farem un caviar de coliflor. Primer separem els arbrets de mitja coliflor groga i els ratllem en un bol. Hi afegim una mica de sal i ho integrem tot. 
+En un morter piquem 10g de nous i, un cop picades, les afegim al bol amb la coliflor ratllada. Acabem el caviar de coliflor amb una mica de pebre negre molt i barrejant-ho bé.  
+En el bol de presentació, hi posem l'hummus de mongeta del ganxet amb una mica de comí en pols i oli d'oliva verge extra. Hi afegim el caviar de coliflor per sobre. 
+Piquem amb un ganivet unes quantes fulles de julivert i les afegim a l'hummus. Ho acompanyem d'unes torradetes de pa. 
+
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Puré
