@@ -35,5 +35,5 @@ Piquem 40 g de nous amb el ganivet. Piquem cibulet i el reservem.
 Ja podem emplatar. Servim la crema, després hi afegim la gallina esfilagarsada, les nous picades, el cibulet i un rajolí d'oli d'oliva.
 
 [Categories]
-categoria = Entrants
-subcategoria = Sopes_Cremes
+categoria = Vegetarià
+subcategoria = Puré
