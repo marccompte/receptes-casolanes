@@ -3,13 +3,13 @@ humus amb crudités
 
 [Ingredients]
 Persones = 4 pax (20 min. 431 cal)
-cigrons = 400 g de cigrons cuits 
+cigrons = 400g cigrons cuits 
 all = 1-2 grans d'all
-llimona = el suc de ½  llimona
+llimona = el suc de ½ llimona
 espècies = 2-3 cullaradetes de tahini
 espècies = 1 cullaradeta de comí mòlt
-pebre = 1 cullaradeta de pebre vermell dolç
-sal = sal i pebre negre
+pebre = 1 cullaradeta de pebre vermell dolç i pebre negre
+sal = sal
 oli = oli d'oliva
 verdures = verdures per a acompanyar (pastanagues, api, cogombre..)
 pa = pa de pita
