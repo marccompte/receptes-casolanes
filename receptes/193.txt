@@ -1,5 +1,5 @@
 [Titol]
-Crep xantillí i coco
+Crep nata i coco
 
 [Ingredients]
 llet = 450ml llet
