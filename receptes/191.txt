@@ -1,0 +1,25 @@
+[Tiitol]
+CREMA DE CARBASSA I CASTANYES 
+
+[Ingredients]
+carbassa = 400g carbassa
+castanya = 250g castanyes
+ceba = 1 ceba de Figueres
+brou = 500ml brou de verdures
+aigua = 250ml aigua
+formatge = 50g encenalls de parmesà
+sal = sal
+oli = oli d’oliva
+porro = porradell
+
+[Elaboració]
+Fem un tall a les castanyes a la base i les enfornem a 180º durant 20’.
+Pelem i tallem a juliana la ceba. Pelem i tallem a daus mitjans la carbassa. Mentre que les castanyes estan al forn posem la ceba a un cassó amb un raig d’oli a foc mitjà i un pessic de sal. Quan es comenci a posar transparent hi afegim la carbassa, i ho deixem coure a foc mitjà.
+Quan les castanyes ja estiguin cuites, les traurem del forn i les pelarem en compte.
+Les afegim a la carbassa i deixem cuinar 5-10’ més. Passat aquest temps cobrirem amb el brou de verdures rebaixat amb l’aigua. I deixarem coure altres 10’.
+A la crema li retirarem una part del brou si n’hi ha massa i triturarem fins que ens quedi ben fina. Rectificarem de sal.
+Fem els encenalls de parmesà i tallem ben petit el porradell, que afegirem al plat just abans de servir.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Puré
