@@ -1,5 +1,5 @@
 [Titol]
-Panellets Ruscalleda
+Panellets
 
 [Ingredients]
 – Per a 60 panellets:
@@ -8,23 +8,28 @@ sucre = 350g de sucre
 aigua =	150g d’aigua mineral
 ou = 1 clara d’ou + 1 rovell d'ou per a pintar
 cacau =	cacau en pols
-llimona =	ratlladura de llimona i/o taronja i llimona i/o taronja confitada
+llimona =	ratlladura de llimona i/o taronja i confitades
 
 [Elaboracio]
+– Per al massapà:
 En una cassola, es mescla l’aigua i el sucre. Es posa a foc mig fins que arrenqui el bull i es deixa bullir fins aconseguir textura de xarop.
 A continuació, s’hi aboquen les ametlles en pols, i es remena continuament amb l’ajuda d’una espàtula de fusta durant uns 2-5 minuts més fins que la pasta quedi ben lligada i es desenganxi de les parets.
 Es retira del foc i es deixa refredar.
 S’incorpora a la mescla la clara d’ou sense muntar, i es barreja bé.
 Es deixa reposar la massa a la nevera durant un mínim de 2 hores. (Es pot deixar tota la nit fins l’endemà).
-Es divideix la massa en diferents porcions segons els gustos que vulgueu preparar.
+Es divideix la massa en diferents porcions segons els gustos que vulgueu preparar. Es fa un cilindre llargarut amb cada porció i es talla en porcions iguals, així tots els panallets seran de la mateixa mida.
 – Per als de pinyó:
-S’agafa una porció de massa, es formen boles petites que es banyen en clara d’ou i s’arrebossen amb els pinyons. Es col•loquen al damunt d’una safata amb paper de forn i es pinten amb rovell d’ou diluït amb 6 gotes d’aigua. S’enfornen a 200ºC fins que quedin rossos (uns 6 minuts). D’aquesta manera, l’interior queda ben tendre.
+S’agafa un cilindre del massapà, es formen boles petites, mulla't les mans en l'ou batut i arrebossa-ho amb els pinyons. Col•loca'ls al damunt d’una safata amb paper de forn i enforna'ls a 250ºC fins que quedin rossos (uns 4 - 5 minuts). D’aquesta manera, l’interior queda ben tendre.
 – Per als de llimona i/o taronja:
-S’agafa una porció de massa, i s’hi barreja la ratlladura de llimona i/o taronja. Es formen petites boles i s’arrebossen amb sucre. Es col•loquen al damunt d’una safata sobre paper de forn i es decoren amb un tros de pela de taronja i/o llimona confitada al damunt. S’enfornen a 200ºC (390ºF) fins que quedin rossos (uns 5 minuts).
+S’agafa un cilindre de massapà, i s’hi barreja la ratlladura de llimona i/o taronja. Es formen petites boles i s’arrebossen amb sucre. Es col•loquen al damunt d’una safata sobre paper de forn i es decoren amb un tros de pela de taronja i/o llimona confitada al damunt. S’enfornen a 200ºC fins que quedin rossos (uns 5 minuts).
 – Per als de xocolata:
-S’agafa una porció de massa, i s’hi barreja una mica de cacau en pols i es barreja fins aconseguir una mescla de color marró uniforme. Es formen petites boles i amb el dit petit, es marca un petit forat al centre. Es col•loquen al damunt d’una safata sobre paper de forn. S’enfornen a 200ºC (390ºF) fins que quedin rossos (uns 5 minuts). A continuació, es desfà una mica de xocolata negra al bany Maria i s’omple el centre del panellet.
+S’agafa un cilindre del massapà, i s’hi barreja una cullarada de xocolata fosa o cacau en pols i es barreja fins aconseguir una mescla de color marró uniforme. Es formen petites boles i amb el dit petit, es marca un petit forat al centre. Aixafeu-los lleugerament amb una forquilla i pinteu-los amb l’ou batut. Col•loca'ls al damunt d’una safata sobre paper de forn. S’enfornen a 250ºC durant uns 4 - 5 minuts. A continuació, es desfà una mica de xocolata negra al bany Maria i s’omple el centre del panellet.
 – Per als de coco:
-S’agafa una porció de massa, i s’hi barreja el coco ratllat. Se’ls dóna la forma desitjada i s’arrebossen amb coco ratllat. Es col•loquen al damunt d’una safata sobre paper de forn. S’enfornen a 200ºC (390ºF) fins que quedin rossos (uns 4 minuts).
+S’agafa un cilindre del massapà, i s’hi barreja el coco ratllat. Se’ls dóna forma de muntanyeta i s’arrebossen amb coco ratllat. Es col•loquen al damunt d’una safata sobre paper de forn. S’enfornen a 250ºC fins que quedin rossos (uns 4 - 5 minuts).
+– Per als de cafè:
+S’agafa un cilindre del massapà, i es barreja amb una culleradeta de cafè mòlt. Se’ls dóna forma de granet de cafè marcant la ratlla del mig. Es col•loquen al damunt d’una safata sobre paper de forn. S’enfornen a 250ºC durant uns 4 - 5 minuts).
+- Recordeu: 
+El forn ha d’estar ben calent i només encès a la part de dalt, amb aire o sense. Cada varietat de panellets és millor coure-la per separat per controlar millor el moment de treure'ls.
 
 
 [Categories]
