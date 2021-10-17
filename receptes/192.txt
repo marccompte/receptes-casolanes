@@ -6,16 +6,6 @@ Persones = 4 pax
 llet = 450ml llet
 nata = 350ml nata 35%
 farina = 250g farina
-sucre = 90g sucre
-coco = 40g coco ratllat
-aigua = 100ml aigua mineral
-ous = 3 ous
-taronja = 2 taronges
-llimona = 2 llimes
-canyella = 1 branca de canyella
-llard = llard
-mantega = mantega
-moscatell = patxaran
  
 [Elaboracio]
 Posem un pot al foc amb la llet, l'aigua, una mica de pell de taronja i una branca de canyella. Ho escalfem sense que bulli. Tapem el pot i deixem que reposi amb el foc apagat 15 minuts. 
