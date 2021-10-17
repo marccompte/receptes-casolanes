@@ -5,11 +5,11 @@ de moniato i bolets
 pasta fullada = 1 base de pasta brisa
 moniato = moniatos petits
 bolets = 200g de bolets variats
-1/2 bròcoli
-1 ceba morada
-oli d'oliva
-escames de sal
-pebre negre
+bròquil = 1/2 bròcoli
+ceba = 1 ceba morada
+oli = oli d'oliva
+sal = escames de sal
+pebre = pebre negre
 
 [Elaboracio]
 Estira la pasta brisa en una safata de forn folrada amb paper vegetal, punxa-la i enforna-la a 180ºC fins que es comenci a daurar.
