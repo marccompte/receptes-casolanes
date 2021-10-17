@@ -3,7 +3,7 @@ de moniato
 
 [Ingredients]
 Persones = 18 pastissets aproximadament
-- Per a la massa:
+titol= Per a la massa:
 farina = 600g farina
 oli = 250ml oli d’oliva
 moscatell = 125ml moscatell
