@@ -2,9 +2,9 @@
 de moniato i bolets
 
 [Ingredients]
-1 base de pasta brisa
-moniatos petits
-200g de bolets variats
+pasta fullada = 1 base de pasta brisa
+moniato = moniatos petits
+bolets = 200g de bolets variats
 1/2 bròcoli
 1 ceba morada
 oli d'oliva
