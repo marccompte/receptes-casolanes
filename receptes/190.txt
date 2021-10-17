@@ -24,7 +24,6 @@ En un morter piquem 10g de nous i, un cop picades, les afegim al bol amb la coli
 En el bol de presentació, hi posem l'hummus de mongeta del ganxet amb una mica de comí en pols i oli d'oliva verge extra. Hi afegim el caviar de coliflor per sobre. 
 Piquem amb un ganivet unes quantes fulles de julivert i les afegim a l'hummus. Ho acompanyem d'unes torradetes de pa. 
 
-
 [Categories]
 categoria = Vegetarià
 subcategoria = Puré
