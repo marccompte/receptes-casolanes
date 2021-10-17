@@ -2,8 +2,7 @@
 Crep xantillí i coco
 
 [Ingredients]
-Persones = 4 pax
-
+ceba = ceba
  
 [Elaboracio]
 Posem un pot al foc amb la llet, l'aigua, una mica de pell de taronja i una branca de canyella. Ho escalfem sense que bulli. Tapem el pot i deixem que reposi amb el foc apagat 15 minuts. 
