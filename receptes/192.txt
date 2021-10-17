@@ -2,6 +2,7 @@
 Crep xantillí i coco
 
 [Ingredients]
+Persones = 4 pax
 llet = 450ml llet
 nata = 350ml nata 35%
 farina = 250g farina
