@@ -1,0 +1,38 @@
+[Titol]
+Suquet blanc de rap
+
+[Ingredients]
+Persones = 4 pax
+rap = 1 rap sencer
+brou = l fumet de rap
+patates = 400g patata monalisa
+vinagre = 20ml vinagre de xerès
+fruits secs = 220g ametlla crua marcona
+all = 2 cabeces d'all
+150ml oli d'oliva i Oli de gira-sol
+herbes = 10 fulles coriandre i 2 branques de julivert
+gingebre = 30g gingebre
+porro = 2 porros
+ceba = 1 ceba de Figueres
+pastanaga = 1 pastanaga
+llimona = 1 llimona
+farina = farina de cigró
+sal = Sal
+
+[Elaboraacio]
+Posem dins un recipient amb tapa 220g ametlles crues marcona i les cobrim amb aigua mineral. Les hidratem a la nevera 8 hores.
+Posem a l'olla el cap de rap, les espines, 1 ceba de Figueres neta, una pastanaga neta, dos porros nets i dues branques de julivert. Ho cobrim amb 2 litres d'aigua mineral. Ho portem a ebullició.
+Ho deixem coure 30min a foc fluix, que bulli però lentament.
+Posem dins una safata de forn dues cabeces d'all. Les enfornem 30min a 180ºC
+Colem el fumet de rap.
+Traiem els alls del forn i deixem que baixi la temperatura. Traiem la carn de la cabeça d'all i la posem al got batedor. Escorrem les ametlles hidratades. Les afegim al got batedor. Posem al got 1 litre de fumet de rap i 150ml d'oli d'oliva i ho triturem tot fins aconseguir una salsa fina i homogènia. Colem aquesta mena d'ajoblanco amb un colador fi.
+Posem una paella alta al foc i una quantitat generosa d'oli de gira-sol.
+Enfarinem el rap, tallat a rodanxes amb farina de cigró. Fregim el rap amb l'oli ben calent i ho deixem uns segons sobre un plat amb paper absorbent.
+Posem l'ajoblanco colat en una cassola al foc.
+Pelem i tallem a mida mossegada 400g de patates i les afegim a la cassola un cop l'ajoblanco hagi començat a bullir lentament. Tapem la cassola i deixem que les patates bullin a foc lent 10min
+Posem el rap fregit a la cassola. Tapem la cassola i deixem que bulli 5 minuts a foc lent. Apaguem el foc i afegim 50 ml vinagre de xerès.
+Ratllem a la cassola 30 g de gingebre fresc. Ho integrem tot i ho tapem. Deixem que reposi 5 minuts.
+Piquem 10 fulles de coriandre i ho afegim a la cassola i emplatem.
+
+[Categories]
+categoria = Peix
