@@ -28,3 +28,4 @@ Piquem el cibulet. Emplatem en un plat fondo el suquet amb musclos i hi tirem el
 
 [Categories]
 categoria = Peix
+subcategoria = Rap
