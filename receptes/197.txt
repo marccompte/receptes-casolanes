@@ -2,7 +2,7 @@
 Pastís d'espàrrecs
 
 [Ingredients]
-Persones = 4 pAX
+Persones = 4 pax
 espàrrecs = 2 menats d'espàrrecs verds frescos
 ous =5 ous
 pa = 1 llesca de molla i pa ratllat
