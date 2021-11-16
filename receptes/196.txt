@@ -1,0 +1,24 @@
+[Titol]
+Pastís d'espàrrecs
+
+[Ingredients]
+Persones = 4 pax
+espàrrecs = 2 menats d'espàrrecs verds frescos
+ous =5 ous
+pa = 1 llesca de molla i pa ratllat
+nata = 200ml crema de llet
+oli = oli
+sal = sal
+pebre = pebre negre
+
+
+[Elaboracio]
+Es couen els espàrrecs al microones uns 8 minuts salats i amb una mica d'oli
+En un pot es baten els ous, els espàrrecs tallats a trossos (reservant-ne 8 de sencers per la decoració), el pa i la crema de llet.
+S'escalfa el forn a 180ºC
+S'unta un motlle rodó amb oli i s'espolsa el pa ratllat que cobreixi tot el motllo (capa fina). S'hi aboca tots els ingredients triturats i es posa al forn ( a mitja alçada) durant 25 min. 
+Es treu del forn i es decora amb els espàrrecs sencers que tenim resservats i es posa al forn durant 10 min més.
+Tant es pot servir calent com fred.
+
+[Categories]
+categoria = Vegetarià
