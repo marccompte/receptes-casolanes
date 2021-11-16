@@ -30,3 +30,4 @@ Sofregiu dos alls ratllats amb oli d'oliva. Afegiu-hi els tomåquets ratllats i 
 
 [Categories]
 categoria = Peix
+subcategoria = Rap
