@@ -37,3 +37,4 @@ Un cop bullida la pasta, l'aboquem a la cassola del sofregit. Ho remenem. Hi afe
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Pasta
