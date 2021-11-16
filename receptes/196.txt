@@ -9,7 +9,7 @@ patates = 400g patata monalisa
 vinagre = 20ml vinagre de xerès
 fruits secs = 220g ametlla crua marcona
 all = 2 cabeces d'all
-150ml oli d'oliva i Oli de gira-sol
+oli = 150ml oli d'oliva i Oli de gira-sol
 herbes = 10 fulles coriandre i 2 branques de julivert
 gingebre = 30g gingebre
 porro = 2 porros
