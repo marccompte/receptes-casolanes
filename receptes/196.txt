@@ -1,4 +1,4 @@
-﻿[Titol]
+[Titol]
 Suquet blanc de rap
 
 [Ingredients]
