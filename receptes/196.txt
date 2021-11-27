@@ -19,7 +19,7 @@ llimona = 1 llimona
 farina = farina de cigró
 sal = Sal
 
-[Elaboraacio]
+[Elaboracio]
 Posem dins un recipient amb tapa 220g ametlles crues marcona i les cobrim amb aigua mineral. Les hidratem a la nevera 8 hores.
 Posem a l'olla el cap de rap, les espines, 1 ceba de Figueres neta, una pastanaga neta, dos porros nets i dues branques de julivert. Ho cobrim amb 2 litres d'aigua mineral. Ho portem a ebullició.
 Ho deixem coure 30min a foc fluix, que bulli però lentament.
