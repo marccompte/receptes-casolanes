@@ -37,4 +37,3 @@ Piquem 10 fulles de coriandre i ho afegim a la cassola i emplatem.
 [Categories]
 categoria = Peix
 subcategoria = Rap
-
