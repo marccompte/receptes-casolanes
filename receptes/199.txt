@@ -1,0 +1,25 @@
+[Titol]
+Coca de ceps i crema de patata trufada
+
+[Ingredients]
+12 ceps petits
+4 fulles de pasta fil·lo
+mantega
+1 patata
+400ml nata líquida de 35%
+oli d'oliva verge i oli de tòfona negra
+sal en escates
+porrradell
+pebre negre
+
+[Elaboracio]
+En un cassó amb aigua bullent coeu la patata fins que estigui ben tendra. Peleu-la encara calenta, tritureu-la amb la nata líquida i un rajolí d'oli de tòfona negra. Heu d'obtenir una crema llisa i homogènia. Salpebreu-la i reserveu-la. 
+Netegeu bé els bolets i làmines-los, confiteu-los en oli d'oliva durant 2 min a foc mitjà. 
+Talleu rectangles de pasta fil·lo i pinteu-los amb mantega fosa. Poseu-los al forn 3min a 190C fins que la pasta quedi ben daurada, Reserveu-la.
+En un plat poseu fulls de pasta fil·lo cruixent. A sobre, poseu-hi una culleradeta de crema de patata trufada i les làmines de ceps confitades, salpebreu-ho, amb sal en escates, afegiu-hi algunes branquetes de porradell i serviu-ho. 
+.
+CONSELL: Afegiu una mica d'escarola sobre la pasta fil·lo abans de posar-hi la crema de patata, perquè la pasta no s'estovi amb el contacte de la crema.
+
+[Categories]
+categoria = Aperos
+subcategoria = Pizzes
