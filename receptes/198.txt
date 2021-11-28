@@ -1,7 +1,7 @@
-[[Titol]
+[Titol]
 crumble cafe i mascarpone
 
-[[Ingredients]
+[Ingredients]
 Persones = 4 pax
 formatge = 500g mascarpone  
 ous = 4 ous mida M
@@ -14,7 +14,7 @@ gelatina = 2 fulls gelatina
 llimona = 1 llimona  
 cacau = cacau en pols 
 
-[[Elaboracio]
+[Elaboracio]
 Posem a hidratar dos fulls de gelatina. 
 Posem un pot amb aigua al foc per fer un bany maria. 
 Posem al bol 4 ous mida M i 100g de sucre, que anirem afegint de mica en mica mentre els blanquegem amb les varetes elèctriques. 
@@ -25,5 +25,5 @@ En un bol hi posem 100g de farina, 100g de mantega (millor pomada), 100g de sucr
 El traiem de la nevera, el posem en una safata de forn a sobre d'un paper sulfurat i l'esmicolem. El portem al forn a 180º durant 12 minuts. Quan traiem el crumble del forn ja el podem esmicolar per donar-li la seva típica textura d'engrunes. 
 I ja podem empatar. Posem en un got o una copa de vidre una base de crumble, després una capa de crema de mascarpone, una altra capa de crumble i una altra, ja final, de mascarpone. Hi posem per sobre una mica de cacau en pols i llest!!  
 
-[[Categories]
+[Categories]
 categoria = Postres
