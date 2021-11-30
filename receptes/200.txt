@@ -1,0 +1,33 @@
+[Titol]
+Pastís brillant xocolata
+
+[Ingredients]
+Persones = 4 pax
+xocolata = 350g xocolata a la pedra 70% cacau
+llet = 200ml llet
+nata = 200ml nata
+farina = 200g farina d'arròs
+sucre = 85g sucre  
+llevat = 15g llevat químic
+kuzu = 7g kuzu
+ou = 5 clares
+gelatina = 3 fulls gelatina
+mel = 2 cullerades de mel de romaní
+melmelada = melmelada de taronja
+mantega = mantega
+sal = flor de sal
+
+[Elaboracio]
+Posem en un got un raig de llet i el kuzu. La resta de la llet, la posem a escalfar. Dissolem el kuzu. Barregem al pot inox la llet i el kuzu dissolt fins que arrenqui a bullir suaument, ho integrem i ho traiem del foc. Afegim al pot amb llet i kuzu 115 g xocolata al 70% cacau ratllada o triturada. Ho dissolem i remenem amb llengua. Traiem aquesta barreja del foc perquè baixi la temperatura. Ha d'estar per sota de 40ºC.  
+Mentrestant, posem al bol de la pastadora o del braç batedor les clares d'ou i les muntem. Anem afegint de mica en mica 40 g de sucre. Afegim la xocolata desfeta amb kuzu a la merenga. Ho integrem amb molta cura perquè no perdi aire. Tamisem al bol la farina d'arròs i el llevat.  
+Posem la massa en una màniga pastissera sense broquet. 
+Untem 4 motllos individuals amb mantega i els empolsem amb farina d'arròs per veure si ens hem deixat algun lloc sense mantega. Omplim els motllos amb la xocolata. Ho enfornem 25min a 160ºC. Passat aquest temps, traiem els pastissos del forn.  
+Posem la gelatina en un bol amb aigua freda. 
+Comecem a fer la cobertura de xocolata. Posem a escalfar un pot amb aigua per a fer el bany Maria. Disolem 150 g de xocolata tallada en talls petits. 
+Afegim a un altre pot la nata i l'escalfem uns uns 60º (no cal que bulli). 
+En un altre pot fem un almívar escalfant 90 ml aigua amb 45 g de sucre. Integrem nata i xocolata. Afegim 2 cullerades mel de romaní i l'almívar. Afegim la gelatina escorreguda. Ho integrem tot i ho portem a una gerra perquè baixi la temperatura.  
+Farcim els 4 pastissos. Els tallem pel mig i els buidem una mica.  Els farcim amb melmelada de taronja i els tapem. Posem els pastissos sobre una reixa de forn i els banyem amb cobertura de xocolata. Esperem uns minuts i ho tornem a repetir, fent un parell o tres banys per pastís. Deixem que escorrin bé per no tacar, Decorem amb flor de sal per sobre.
+
+[Categories]
+categoria = Postres
+subcategoria = Pastís
