@@ -2,6 +2,7 @@
 Caldereta de llamàntol
 
 [Ingredients]
+
 Persones = 4 pax
 llamàntol = 2 llamàntols
 ceba = 1 ceba gran
