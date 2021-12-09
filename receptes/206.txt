@@ -13,7 +13,7 @@ farina = 25g farina
 oli = 100ml oli oliva
 nyora = 2 nyores
 sal = sal
-per a la picada:
+titol = per a la picada:
 all = 3 grans all
 fruits secs = 30g ametlles
 pa = 60g pa fregit
