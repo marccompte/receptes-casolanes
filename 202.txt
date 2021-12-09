@@ -4,7 +4,7 @@ Alvocat farcit de gambes
 [Ingredients]
 Persones = 2 pax
 alvocat = 2 alvocats
-gamba = 8 cues gamba cuites
+gamba = 8 cues gambes cuites
 coriandre = 1 cullerada coriandre picat
 llimona = suc i ralladura d'1 llimona 
 taronja = unes gotes de suc de taronja
