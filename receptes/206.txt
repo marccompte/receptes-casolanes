@@ -1,0 +1,32 @@
+[Titol]
+Caldereta de llamàntol
+
+[Ingredients]
+Persones = 4 pax
+llamàntol = 2 llamàntols
+ceba = 1 ceba gran
+pebrot = 1 pebrot verd italià
+tomàquet = 2 tomàquets grans madurs
+brou = 1,5l brou peix
+conyac = 200ml conyac
+farina = 25g farina
+oli = 100ml oli oliva
+nyora = 2 nyores
+sal = sal
+
+per a la picada:
+all = 3 grans all
+fruits secs = 30g ametlles
+pa = 60g pa fregit
+
+[Elaboracio]
+Prepara els llamàntols tallant i separant el cap del cos.
+Sofregeix totes les verdures trossejades i el tomàquet ratllat en una cassola amb oli d'oliva verge. Quan estigui ben fet, tritura-ho i reserva-ho.
+En la mateixa cassola, col·loca els llamàntols, afegeix una mica més d'oli i salta'ls. Quan hagin agafat color, afegeix el conyac i amb molta cura flambeja'l. Retira tots els trossos del llamàntol menys els caps, afegeix les verdures triturades i mescla bé.
+Afegeix-hi la farina, la carn de nyora i torna a barrejar. Incorpora el brou de peix i deixa'l coure uns 30 minuts.
+Per a la picada, pica els alls, les ametlles fregides i les llesques de pa fregit. Afegeix una mica de brou per a poder treballar-ho bé i agrega-ho a la cassola.
+Deixa-ho coure tot junt durant 10-15 minuts i incorpora els trossos de llamàntol abans de servir.
+
+[Categories]
+categoria = Peix
+subcategoria = Marisc
