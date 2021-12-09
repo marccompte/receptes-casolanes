@@ -14,7 +14,7 @@ ceba = 1 ceba
 pastanaga = 2 pastanagues
 api = 2 branques d'api
 sal = sal
-titol = Per a decorar:
+
 ou = ous de guatlla
 foie = foie en daus 
 tòfona = 5 tòfones de pot ratllada
