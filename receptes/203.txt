@@ -3,7 +3,6 @@ Consomé Gelée amb ou de guatlla
 
 [Ingredients]
 Persones = 4 pax
-titol = BROU
 ossos = 1’5kg ossos vedella i porc
 aigua = 3l d'aigua
 50ml brandi o similar
@@ -15,8 +14,7 @@ ceba = 1 ceba
 pastanaga = 2 pastanagues
 api = 2 branques d'api
 sal = sal
-
-titol = Per a decorar
+titol = Per a decorar:
 ou = ous de guatlla
 foie = foie en daus 
 tòfona = 5 tòfones de pot ratllada
