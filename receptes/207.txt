@@ -1,0 +1,23 @@
+[Titol]
+Pa d'esponja
+
+[Ingredients]
+titol = esponja
+llevat = 7g llevat fresc
+aigua = 250g aigua tèbia
+farina = 115g farina
+titol = massa
+farina = 550g farina
+llevat = 10g llevat fresc
+aigua = 200g aigua
+sal = 10g sal
+
+[Elaboracio]
+La nit anterior o unes 6-8 hores abans prepara l'esponja. Barreja tots els ingredients i deixa-la reposar coberta amb un drap en un lloc càlid.
+A l'hora d'elaborar el pa, dissol el llevat en l'aigua, incorpora-hi la farina. Afegeix després l'esponja i a continuació la sal. Pasta durant deu minuts aproximadament, també pots utilitzar la Thermomix o la màquina de pastar.
+Aquesta massa resultarà una mica més enganxosa que les habituals, enfarina't les mans i fes una bola amb ella. Deixa-la reposar en un bol ben gran empolvorada amb una mica de farina i coberta amb un drap. Deixa-la aproximadament una hora en un lloc càlid. 
+Quan la massa hagi doblat el seu volum aboca-la sobre una superfície enfarinada i divideix-la en dos trossos per a fer dos pans, també pots fer amb una de les porcions un pa rodó i amb l'altra fer dues barres. Dóna-li la forma de pa desitjada. Deixa-la llevar de nou, dins un bol i coberta amb un drap, fins que dobli altre cop el seu volum, una altra hora aproximadament.
+Mentrestant precalenta el forn a 250 °C. Enforna el pa creant vapor en el forn, amb un safata d'aigua en el seu interior o polvoritzant-la de tant en tant durant la cocció. Quan introdueixis el pa en el forn baixa la temperatura a 200 °C i quan l'escorça estigui daurada i soni a buit, el pa estarà llest, el temps rondarà la mitja hora (depenent de la grandària del pa i del forn). Retira'l del forn i col·loca'l sobre una reixeta perquè es refredi. 
+
+[Categories]
+categoria = Pa
