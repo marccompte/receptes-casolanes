@@ -1,0 +1,41 @@
+[Titol]
+
+Alvocat farcit de gambes
+
+
+
+[Ingredients]
+
+Persones = 2 pax
+
+alvocat = 2 alvocats
+
+gamba = 8 cues gamba cuites
+
+coriandre = 1 cullerada coriandre picat
+
+llimona = suc i ralladura d'una llimona 
+
+taronja = unes gotes de suc de taronja
+
+ceba = ½ ceba morada
+
+sal = sal
+
+pebre = pebre negre
+
+
+
+[Elaboracio]
+
+Col·loquem en posició vertical els alvocats, els tallem per la meitat i els buidem. Després ens encarreguem de trossejar l'interior i reservar la pell perquè és el que utilitzarem com a bol per al còctel.
+
+Tallem la ceba en glaçons, ho posem en un bol hi afegim la sal i ho ruixem amb el suc de la llimona i la taronja. Agreguem l'alvocat, les gambes cuites, el coriandre, la sal, el pebre i ho barregem tot suaument.
+
+Emplenem els alvocats i els decorem.
+
+
+
+[Categories]
+
+categoria = Aperos
