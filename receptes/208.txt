@@ -1,0 +1,24 @@
+[Titol]
+Milfulls de pinya
+
+[Ingredients]
+Persones = 4 pax
+pinya = 1 pinya
+formatge = 1  tarrina Mascarpone
+sucre = 100g sucre blanc i una mica de moré
+nata = 50ml nata 
+mantega = mantega
+titol = per a decorar
+gelat = gelat de vainilla
+herbes = menta
+
+
+[Elaboracio]
+Pela i talla la pinya en rodanxes fines. Passa-les per una paella amb mantega fosa a foc baix.
+Passa-les per sucre bru i torna a ficar-les en la paella perquè es caramel·litzin.
+Prepara la crema de mascarpone barrejant el formatge, la nata i el sucre fins a aconseguir textura de crema.
+Munta el plat intercalant capes de pinya amb crema de mascarpone.
+
+
+[Categories]
+categoria = Postres
