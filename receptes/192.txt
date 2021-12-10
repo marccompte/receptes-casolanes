@@ -1,25 +1,36 @@
 [Titol]
-Crep xantillí i coco
+Creps de coco i xantillí
 
 [Ingredients]
-ceba = ceba
- 
+Persones = 4 pax
+llet = 450ml llet
+farina = 250g farina
+sucre = 90g sucre
+nata = 350ml nata 35%
+coco = 90g coco ratllat
+aigua = 100ml aigua mineral
+ou = 3 ous
+taronja = 2 taronges 
+limona = 2 llimes 
+mantega = mantega
+llard = llard
+canyella = 1 branca de canyella  
+
 [Elaboracio]
-Posem un pot al foc amb la llet, l'aigua, una mica de pell de taronja i una branca de canyella. Ho escalfem sense que bulli. Tapem el pot i deixem que reposi amb el foc apagat 15 minuts. 
-Posem un altre pot al foc amb 200ml de nata i el coco ratllat. Ho escalfem sense que arribi a bullir. Apaguem el foc i deixem que reposi 10 minuts. 
-Passem la infusió de nata i coco al got batedor i ho triturem. 
-Colem la nata infusionada amb un colador de malla fina o un drap de fil. La posem en un recipient amb tapa. Ho refredem un mínim d'una hora a la nevera. Alhora posem a refredar a la nevera un bol buit que ens servirà per muntar la nata.  
-Després d'una hora, recuperem de la nevera el bol buit fred, la nata amb coco i 150ml més de nata.  Afegim a aquest bol la ratlladura d'una llima i semimuntem la nata amb varetes elèctriques. Quan la nata estigui semimuntada, hi afegim a poc a poc 50g sucre i seguim muntant la nata fins a tenir una textura de xantillí. Passem el xantillí a un recipient, el tapem i el reservem a la nevera. 
-Comencem a fer la massa de creps. Posem en un bol 3 ous, 40g de sucre, la farina i ho remenem. Hi posem la ratlladura d'una taronja. Posem al mateix bol una mica de llet infusionada i desfem els grumolls. Quan tenim una textura similar a un allioli, hi podem tirar la resta de la llet i remenar una mica més. Filmem la massa i deixem que reposi mínim una hora a la  nevera. 
-Posem una paella antiadherent al foc i la pintem amb una mica de llard.  
-Remenem bé la massa de les creps. Posem a la paella una cullerada de massa de crep. Quan la massa es comenci a separar de les vores de la paella, la girem. 
-Anem fent totes les creps en sortiran unes 8. 
-Espremem una taronja i colem el suc dins d'una gerreta. 
-Posem al foc la paella amb mantega i el suc de taronja.  
-Partim les creps en dos i les dobleguem en forma de triangle. Afegim la crep a la paella. Quan estigui calenta, hi tirem un raig de patxaran.  
-Encenem el patxaran amb el bufador, fem que es cremi part de l'alcohol i ho retirem del foc. 
-Emplatem les creps i hi posem tres boles de xantillí fetes amb dues culleres.  
-Acabem el plat amb una mica de ratlladura de llima. 
+Posem un pot al foc amb: 450 ml llet, 100 ml d'aigua, un twist de pell de taronja i una branca de canyella. Ho escalfem sense que bulli.  Tapem el pot i deixem que reposi amb el foc apagat 15 minuts. 
+Posem un altre pot al foc amb: 200 ml de nata i 40 g de coco. Ho escalfem sense que arribi a bullir. Apaguem el foc i deixem que reposi 10 minuts. 
+Passem la infusió de nata i coco al got batedor i ho triturem. Colem la nata infusionada amb un colador de malla fina o un drap de fil. La posem en un recipient amb tapa. Ho refredem un mínim d'una hora a la nevera. Alhora posem a refredar a la nevera un bol buit.
+Després d'una hora, recuperem de la nevera el bol buit fred, la nata amb coco i la resta de nata.  
+Afegim al bol de les nates la ratlladura d'una llima. Semimuntem la nata amb varetes elèctriques. Quan la nata estigui semimuntada, hi afegim a poc a poc 50 g de sucre. Seguim muntant la nata fins a tenir una textura de xantillí. Passem el xantillí a un recipient, el tapem i el reservem a la nevera. 
+Comencem a fer la massa de creps. Posem en un bol els ous, la resta de sucre i la farina, ho remenem. Hi posem la ratlladura d'una taronja. Posem al mateix bol una mica de llet infusionada i desfem els els grumolls. Quan tenim una textura similar a un allioli, hi podem tirar la resta de la llet i remenar una mica més. 
+Posem una paella antiadherent al foc. Pintem la paella amb una mica de llard.  
+Remenem bé la massa de les creps. Posem a la paella una cullerada de massa de crep.  Quan la massa es comenci a separar de les vores de la paella, la girem. Anem fent totes les creps en sortiran uns 8. 
+Espremem una taronja i colem el suc dins d'una gerreta. 
+Posem al foc la paella amb mantega i el suc de taronja.  
+Partim les creps en dos i les dobleguem en forma de triangle.  
+Afegim la crep a la paella. Quan estigui calenta, hi tirem un raig de patxaran.  Encenem el patxaran amb el bufador, fem que es cremi part de l'alcohol i ho retirem del foc. 
+Emplatem les creps i hi posem tres boles de xantillí fetes amb dues culleres.  
+Acabem el plat amb una mica de ratlladura de llima. 
 
 [Categories]
 categoria = Postres
