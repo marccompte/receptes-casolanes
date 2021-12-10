@@ -1,0 +1,57 @@
+[Titol]
+
+Sopa de peix i marisc
+
+
+
+[Ingredients]
+
+Persones = 4 pax
+
+gamba = ½kg gambes
+
+600g filet de peix blanc (rap, corbina, mero…) 
+
+calamars = 300g calamar trossejat
+
+cloïssa = 350g cloïsses
+
+ceba = 1 ceba mitjana picada
+
+all = 2 grans d'all
+
+tomàquet = 2 tomàquets mitjans
+
+pebre = 1 culleradeta de pebre vermell
+
+herbes = 1 branqueta julivert i 1 fulla llorer
+
+pa = 4 cullerades rases de pa ratllat
+
+conyac = 100ml brandi
+
+oli = 60ml oli oliva verge
+
+brou = 1l brou de peix
+
+sal = sal
+
+
+
+[Elaboracio]
+
+En una cassola, sofregim la ceba i els alls picats molt petits. Quan comenci a daurar-se, afegim els tomàquets ratllats. Li donem unes voltes a foc mitjà durant uns minuts. Afegim el brandi i deixem reduir.
+
+Incorporem el pa ratllat i el pebre vermell, li fem un volt i afegim el calamar, el peix trossejat, el llorer i el brou. Cuinem 20 minutos a foc mitjà tapat.
+
+Afegim les gambes, les cloïsses i ho cuinem tot 10 minuts més.
+
+A l'hora de servir la sopa, l'empolvorem amb un pessic de julivert picat.
+
+
+
+[Categories]
+
+categoria = Entrants
+
+subcategoria = Sopes_Cremes
