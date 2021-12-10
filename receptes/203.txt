@@ -1,0 +1,63 @@
+[Titol]
+
+Consomé gelée i ou de guatlla
+
+
+
+[Ingredients]
+
+Persones = 4 pax
+
+titol = Per al brou
+
+ossos = 1’5kg ossos vedella i porc
+
+aigua = 3l d'aigua
+
+50ml brandi o similar
+
+ou = 2 clares d'ou
+
+gelatina = 4 fulles de gelatina per litre de brou
+
+porro = 2 porros
+
+nap = 1 nap
+
+ceba = 1 ceba
+
+pastanaga = 2 pastanagues
+
+api = 2 branques d'api
+
+sal = sal
+
+titol = Per a decorar
+
+ou = ous de guatlla
+
+foie = foie en daus
+
+tòfona = 5 tòfones de pot ratllades
+
+
+
+[Elaboracio]
+
+Posem el forn a 220° i hi fiquem la ceba partida en dues meitats, els ossos de vedella i porc. Ho torrem bé uns 20 minuts. 
+
+En una cassola, posem els ossos torrats i daurem la ceba juntament amb la resta de verdures rentades i trossejades. Afegim el brandi, flambegem i deixem que es redueixi per complet. Afegim l'aigua i cuinem a foc mitjà durant dues hores i mitja aproximadament, escumejant-ho de tant en tant (en l'olla a pressió serien 45 minuts). Colem el brou i el guardem en el frigorífic fins que es refredi. 
+
+Una vegada fred, retirem el greix de la superfície. Escalfem el brou i hi afegim les clares removent, però sense batre, tallem l'ebullició amb un xorret d'aigua freda i continuem movent-lo mentre les clares es quallen i pugen les impureses, que haurem de treure amb una escumadora. Retirem el brou i colem amb l'ajuda d'un colador amb un drap humit. Posem a punt de sal, hi afegim la gelatina remullada prèviament en aigua freda i ben escorreguda.
+
+Posem el consomé en les tasses on ho servirem i deixem refredar a la nevera fins que estigui gelatinós. 
+
+Ho servim amb ou de guatlla laminat, tòfona ratllada i dauets de foie.
+
+
+
+[Categories]
+
+categoria = Entrants
+
+subcategoria = Sopes_Cremes
