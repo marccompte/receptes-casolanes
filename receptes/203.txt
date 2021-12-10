@@ -1,0 +1,26 @@
+[Titol]
+Guisat de patates
+
+[Ingredients]
+patates = 800g patates
+ou = 3 ous
+ceba = 1 ceba
+all = 2 grans d'all
+vi = 100ml vi blanc
+brou = 700ml brou pollastre
+oli = oli oliva verge extra
+julivert = julivert fresc
+safrà = brins de safrà
+sal = sal
+
+[Elaboracio]
+El primer que hem de fer és rentar les patates i pelar-les. A continuació, les tallem en rodanxes d'un centímetre de gruix aproximadament i les assaonem.
+La primera part del plat consisteix en la fritada; el segon, en el guisat. Posarem farina en un plat, batrem els ous en un altre, i passarem les patates per la farina i després pels ous batuts. Després, escalfem l'oli (és important que estigui molt calent) i fregim les patates. Les reservem en un plat o safata que ens permeti que no s'espatlli l'arrebossat.
+Per a la part del guisat, cal xafar en un morter l'all, el safrà, el julivert i la sal.
+Després, escalfem tres cullerades d'oli i hi ofeguem la ceba picada fins que estigui daurada. Hi tirem una mica de farina (una cullerada és suficient), donem unes voltes ràpides i hi agreguem el contingut del morter.
+Afegim després el vi, i ho deixarem coure durant uns dos minuts perque s'evapori l'alcohol.
+Amb cura, incorporem les patates a la cassola del sofregit i cobrim amb brou (també s'hi poden afegir uns brins de safrà). En el moment en què comenci a bullir, ho deixarem a foc suau durant uns 20-30 minuts, movent de tant en tant i assegurant-nos, de pas, que les patates estiguin tendres. Just quan comprovem que estan fetes, les apartem del foc. 
+Per a conservar la calor d'aquest plat es recomana servir-lo en una cassola de fang.
+
+[Categories]
+categoria = Vegetarià
