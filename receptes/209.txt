@@ -1,0 +1,24 @@
+[Titol]
+Ceviche llagostins 
+
+[Ingredients]
+Persones = 4 pax
+llagostins = 12 llagostins
+pebrot = 50g pebrot vermell
+mango = 50g mango
+ceba = 50g ceba de Figueres
+llimona = 5 llimes
+gingebre = gingebre en pols
+brou = 25ml brou
+herbes = cilandro
+espècies = tabasco
+
+[Elaboracio]
+Talla el pebrot i el mango en juliana i la ceba morada en rodanxes molt fines.
+Fes-la “llet de tigre” amb: el suc de llima, uns tocs de tabasco i el gingebre
+Pela els llagostins i marina'ls en la “llet de tigre” juntament amb la verdura 10 min
+Munta el plat amb la verdura en la base i els llagostins per damunt.
+
+[Categories]
+categoria = Peix
+subcategoria = Marisc
