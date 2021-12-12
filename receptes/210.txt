@@ -1,0 +1,27 @@
+[Titol]
+Strudel de poma
+
+[Ingredients]
+ous = 4 ous i 3 rovells
+farina = 25g maizena
+sucre = 150g sucre i sucre glas
+llet = 350ml llet
+poma =1  poma
+mantega = 50g mantega
+vainilla = 1 beina vainilla
+pasta brisa = 1 rollo massa filo
+titol = per a decorar
+gelat = gelat vainilla
+fruits secs = ametlles, pinyons...
+panses = panses
+
+
+[Elaboracio]
+Posem en un cassó els ous, els rovells, el sucre, la vainilla, la maizena i removem bé.
+Afegeix la llet i posa-ho a foc mitjà. Quan s'espesseixi retira-ho i refreda-ho.
+Pela i talla la poma a daus petits i barreja-ho amb la crema que has fet abans.
+Estén una fulla de massa filo, pinta-la amb mantega fosa, posa una altra capa i així fins a fer un conjunt de tres capas. Fes-ne un cilindre per a farcir-lo amb la barreja de poma i crema. Enrotlla-ho estreny-ho bé.
+Enforna-ho 7 minuts a 180ºC i decora-ho amb el sucre glass, les panses i la fruita seca.
+
+[Categories]
+categoria = Postres
