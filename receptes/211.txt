@@ -1,0 +1,26 @@
+[Titol]
+Pa de pagès
+
+[Ingredients]
+titol = Massa mare
+farina = 200g farina
+aigua = 100g aigua
+llevat = 8g llevat 
+titol = Massa fınal
+massa mare = 300g massa mare
+farina = 425g farina
+aigua = 325g aigua 
+sal = 10g sal
+llevat = 5g llevat 
+
+
+[Elaboracio]
+Preparar la massa mare la nit anterior i fermentar-la almenys 12 hores per damunt de 20 °C (l'ideal és prop de 25°C)
+L'endemà, barrejar tots els ingredients. Quedarà una massa no gaire enganxosa. Deixar reposar en una reixeta fins que es refredi per complet. Barrejar-la, i deixar-la descansar 10 o 15 minuts en el bol tapat. Pastar sobre la taula entre 5 i 10 minuts, plegant-la i fent-la rodar fins que quedi fina. Fermentar de 2,5h a 3h. 
+Sobre la taula enfarinada, fer boles suaument per a donar una mica de tensió prèvia i llevar l'excés de gas que hi hagués. Deixar reposar 20 minuts sobre la taula. Fer boles plegant des de les vores fins al centre, fent un farcel-let i marcant cada plec amb el canto de la mà, fins que quedi una bola. La clau és donar una tensió intermèdia: molt fluixa, i la massa no aguantaria; molt forta, i es danyaria la textura (dificultant a més la correcta obertura en el forn.
+Col·locar sobre una tela enfarinada amb el segellament cap avall i fermentar entre 45 i 60 minuts aproximadament; és important que la massa entri una mica jove al forn, perquè es pugui desenvolupar. Si entra passada, no s'obrirà. 
+Coure amb el forn a 250 °C, calora baix. En una safata metàl·lica a la base del forn tirar-hi 300ml d'aigua calenta al començar la cocció. Després de 15 minuts, retirar la safata amb aigua i continuar altres 45 o 50 minuts més a 200 °C, calor a dalt i a baix, fins a completar 60 o 65 minuts de cocció total.
+Deixar reposar en una reixeta fins que es refredi per complet.
+
+[Categories]
+categoria = Pa
