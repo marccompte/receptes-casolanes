@@ -1,15 +1,25 @@
 [Titol]
-carbassó, carbassa o verdures
+Crema carabassa
 
 [Ingredients]
-carbassó = carbassó
-carbassa = carbassa
-verdura = verdures
+Carabassa = carabassa
+Porro = porros
+Mantega = mantega
+Formatge =  Emmenthal, Mozarela, Gorgonzola, Filadelfia
+Llet = crema llet
+herbes =  anet, orenga ...
+pebre = pebre
+nou muscada = nou muscada
+
 
 [Elaboracio]
-Tallar a trossets petits i posar-ho a bullir amb aigua (o si és té aigua de bullir verdures de dies abans), durant 20 minuts.  
-Triturar-ho tot, afegir-hi un got d’oli d’oliva i 1/2 paquet de formatge ratllat emmental. Tot ben triturat fins fer-ho puré.
+Tallem la carabassa a tires fines per a fer palitos i la resta a tacs.
+Agafem els palitos de carabassa i els posem en la safata del forn damunt de paper forn i després els taparem amb un altre full de paper. Col·locarem tacs de carabassa en una safata per al forn amb una miqueta d'oli i sal i el taparem bé amb paper de plata i ho posem al forn a 180ºC durant 30min les dues safates. Quan traguem la safata dels taquitos mirem com estan els palitos i si no estan cruixents els deixem una miqueta més.
+En una cassola posem la mantega i els porros tallats a daus i deixarem que s'escalfin després hi afegirem els tacs de carabassa la crema de llet, els formatges Emmenthal, la mozarela, la nou moscada i el pebre.
+Deixem coure un quart d'hora màxim i triturem. Barregem la gorgonzola amb la Filadèlfia, li afegim el cebollí, l'orenga i l'anet, barregem bé.
+Muntem el plat amb una nou de la crema de Gorgonzola, palitos de carabassa, pipes de carabassa i una mica d'oli. Servirem en una gerra.
 
-[Categories]
+
+[Categories] 
 categoria = Vegetarià
 subcategoria = Puré
