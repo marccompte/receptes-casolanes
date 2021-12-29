@@ -1,0 +1,21 @@
+[Titol]
+Gelatina tomàquet i olivada
+
+[Ingredients]
+tomàquet =  tomàquet natural ratllat
+all = 1 dent d'all
+olives = olivada
+gelatina = 4 lamines gelatina neutre
+pebre = pebre
+sal = sal
+sucre = sucre
+
+[Elaboracio]
+Fica les làmines de gelatina dins d'un bol amb aigua freda, per uns S minuts. perquè es vagin hidratant. 
+Mentre pela el gra d'all, el piques bé i amb una mica d'oli d'oliva ho daures. Agrega llavors el tomàquet, salpebrant al teu gust i una mica de sucre.
+Remou bé i que es íntegre tot perfectament en la salsa. Agrega la gelatina i remou perquè quedi ben integrat per complet.
+Aboca la mescla sobre els diferents motlles, perquè la gelatina tingui la forma que tu vulguis, i fica-ho en la nevera perquè qualli.
+El millor és deixar-ho un dia sencer. En treure-la la pots servir amb una mica de formatge fresc per damunt o olivada. Ruixar amb una mica d'oli d'oliva.
+
+[Categories]
+categoria = Vegetarià
