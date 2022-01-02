@@ -1,0 +1,46 @@
+[Titol]
+Tortell de Reis
+
+[Ingredients]
+Persones = 6 pax
+titol = per a la massa mare
+farina = 35g farina força
+aigua = 20g aigua
+llevat = 15g llevat fresc
+titol = per a resta massa
+farina = 200g farina força
+sucre = 50g sucre
+sal = 4g sal
+llet = 25g llet
+ous = 2 ous
+mantega = 60g mantega
+llimona = pell d'1 llimona ratllada
+taronja = pell d'1 taronja ratllada
+anís = 5g aiguanaf
+titol = per al massapà
+sucre = 50g sucre llustre
+fruits secs = 60g ametlla en pols
+ous = 15g clara ou
+titol = per a decorar
+fruita = fruita confitada
+sucre = sucre  perlat
+
+[Elaboracio]
+Massa mare:
+Barregeu en un bol els ingredients fins a tenir una massa homogènia. Deixeu-la reposar fins que dobli el seu volum, torneu a amassar-la una estona més.
+A la massa mare oblinguda, afegiu-hi la farina, el sucre, la sal els ous, la llet, les pells ratllades de llimona i taronja i l'aiguanaf. Barregeu-ho i pasteu-ho durant deu minuts.
+Afegiu-hi la mantega, tallada a daus, i torneu a pastar la massa. Quan la mantega hi estigui ben incorporada, tapeu la massa i deixeu-la reposar durant deu minuts.
+
+Massapà:
+Barregeu el sucre de llustre amb l'ametla i la clara fins que n'obtingueu la textura adequada. Reserveu-lo.
+
+Tortell:
+Poseu una mica de farina sobre la taula de la cuina. Estireu-hi la massa i doneu-li forma rodona. Poseu-hi al damunt el massapà en forma de caneló. Amagueu-hi un rei i una fava.
+Doblegueu la massa del tortell per damunt del massapà, Per ler-ho, feu un forat en mig de la massa estireu-la cap a fora del tortell, i la massa de la part de fora cap a dintre fins que fapi el massapà i us quedi la forma rodona.
+Deixeu-lo reposar una hora, ins que dobli el seu volum.
+Pinteu la superficie amb un rovell batut i colloqueu-hi al damunt la fruita confitada i el sucre perlat.
+Fornegeu-lo a 190ºC durant quinze minuts.
+
+[Categories]
+categoria = Postres
+subcategoria = Pastís
