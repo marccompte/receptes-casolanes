@@ -1,0 +1,29 @@
+[Titol]
+Pastís moniato i llenties
+
+[Ingredients]
+moniato = 500g moniato cuit al forn  
+llenties = 250g llenties  
+bolets = 300g xampinyons portobello  
+ceba = 200g ceba rossa  
+brou = 200ml brou de verdures i xiitake  
+soja = 30ml salsa de soja  
+formatge = 80g grana padano i 2 mozzarelles  
+tomàquet = 2 tomacons  
+all = 1 gra d'all  
+herbes = farigola i romaní frescos
+vi = vi ranci  
+oli = oli oliva verge
+sal = sal  
+pebre = pebre negre 
+
+[Elaboracio]
+Coem unes llenties amb un dit d'aigua. Una hora a foc lent o 25 minuts en una olla de pressió. Passat el temps de cocció, deixarem que reposin un mínim d'una hora. 
+Tallem a làmines els bolets un cop nets.  
+Posem un raig d'oli en una paella i un gra d'all aixafat. Hi tirem els bolets laminats i els saltem. Lliguem una mica de farigola fresca i romaní fresc i ho afegim a la paella. Posem un colador sobre la paella i ratllem dos tomacons perquè la polpa caigui a la paella i puguem descartar pell i grana. Hi tirem un raig de vi ranci i deixem que s'evapori. Quan comenci a estar sec, hi tirem el brou.  
+Mentrestant, pelem el moniato, cuit al forn a 220ºC uns 45 minuts. L'aixafem en un plat i hi posem pebre, oli i sal.  
+Quan el brou de la paella s'hagi evaporat, hi afegim la ceba, les llenties cuites i la salsa de soja. Un cop està tot barrejat, agafem una safata que pugui anar al forn i hi posem una capa al fons amb la barreja de la paella i una capa de moniato per sobre.  
+Tallem a macedònia les mozzarelles, sense xerigot, i les afegim per sobre del moniato. Ratllem sobre la mozzarella el formatge grana padano i ho posem al forn, 10' a 200ºC iho servim. 
+
+[Categories]
+categoria = Vegetarià
