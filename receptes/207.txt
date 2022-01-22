@@ -4,12 +4,12 @@ Pa d'esponja
 [Ingredients]
 titol = esponja
 llevat = 14g llevat fresc
-aigua = 400g aigua tèbia
+aigua = 350g aigua tèbia
 farina = 330g farina
 titol = massa
 farina = 1000g farina
 llevat = 20g llevat fresc
-aigua = 400g aigua
+aigua = 450g aigua
 sal = 20g sal
 
 [Elaboracio]
