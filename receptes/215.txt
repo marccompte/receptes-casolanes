@@ -8,7 +8,7 @@ ceba = 3 cebes  
 pebrot = 1 pebrot vermell 
 albergínia = 2 albergínies 
 porro = 2 porros 
-all = 1 cabeça i 1 gra
+all = 1 cabeça i 1 gra d'all
 formatge = 70g parmesà   
 festuc = 150g festucs verds pelats 
 cibulet = 10g cibulet 
@@ -21,8 +21,8 @@ aigua = 3l aigua 
 
 [Elaboracio]
 Emboliquem en paper sulfurat les cebes, el pebrot i les albergínies.  Posem els tres paquets en una safata de forn. La cabeça d'alls no cal embolicar-la. Ho enfornem a 200º durant 1 hora (millor tapar la safata amb una altra, i així no es desfà el paper. Si no en teniu, ho cobriu amb paper d'alumini). 
-Tallem la part blanca de 2 porros a microbrunesa i els boquem en una cassola amb oli calent. 
-Posem a hidratar en un bol amb aigua temperada 150 g de festucs pelats. Caldrà una mitja hora de remull. 
+Tallem la part blanca de 2 porros a microbrunesa i els aboquem en una cassola amb oli calent. 
+Posem a hidratar en un bol amb aigua temperada els festucs pelats. Caldrà una mitja hora de remull. 
 Traiem els vegetals del forn i procurem desfer els farcells sense perdre el líquid que han deixat anar al forn. Pelem les albergínies i la resta de vegetals. Reservem el suc. 
 Posem els vegetals en un colador que posem al forn sense encendre. Per sota posem a cremar uns branquillons de romaní. Tanquem la porta del forn i deixem fumejar el romaní 30 minuts. 
 Posem a reduir el suc dels vegetals a foc molt lent. Acabarà fent una salsa espessa. 
