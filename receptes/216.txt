@@ -1,0 +1,18 @@
+[Titol]
+Romesco verd
+
+[Ingredients]
+all = 1 gra d'all
+festuc = 150g festucs verds pelats 
+cibulet = 10g cibulet 
+vinagre = 25ml vinagre poma 
+oli = 100ml oli oliva verge
+julivert = julivert
+pebre = pebre blanc 
+
+[Elaboracio]
+Posem a hidratar en un bol amb aigua temperada els festucs pelats. Caldrà una mitja hora de remull. 
+Posem en un got batedor els festucs hidratats, el cibulet tallat, el vinagre, sal, pebre, oli i el julivert. Ho emulsionem. Ja hem fet un romesco verd. Podem afegir-hi una mica d'aigua per aconseguir una textura no gaire densa. Posem el romesco verd en una mànega.
+
+[Categories]
+categoria = Salses
