@@ -1,0 +1,38 @@
+[Titol]
+Caneló d'escalivada
+
+[Ingredients]
+Persones = 4 pax
+caneló = 8 plaques canelons
+ceba = 3 cebes  
+pebrot = 1 pebrot vermell 
+albergínia = 2 albergínies 
+porro = 2 porros 
+all = 1 cabeça i 1 gra
+formatge = 70g parmesà   
+festuc = 150g festucs verds pelats 
+cibulet = 10g cibulet 
+vinagre = 25ml vinagre poma 
+oli = 200ml oli oliva verge
+herbes = julivert, llorer, farigola
+vi = vi ranci 
+pebre = pebre blanc 
+aigua = 3l aigua 
+
+[Elaboracio]
+Emboliquem en paper sulfurat les cebes, el pebrot i les albergínies.  Posem els tres paquets en una safata de forn. La cabeça d'alls no cal embolicar-la. Ho enfornem a 200º durant 1 hora (millor tapar la safata amb una altra, i així no es desfà el paper. Si no en teniu, ho cobriu amb paper d'alumini). 
+Tallem la part blanca de 2 porros a microbrunesa i els boquem en una cassola amb oli calent. 
+Posem a hidratar en un bol amb aigua temperada 150 g de festucs pelats. Caldrà una mitja hora de remull. 
+Traiem els vegetals del forn i procurem desfer els farcells sense perdre el líquid que han deixat anar al forn. Pelem les albergínies i la resta de vegetals. Reservem el suc. 
+Posem els vegetals en un colador que posem al forn sense encendre. Per sota posem a cremar uns branquillons de romaní. Tanquem la porta del forn i deixem fumejar el romaní 30 minuts. 
+Posem a reduir el suc dels vegetals a foc molt lent. Acabarà fent una salsa espessa. 
+Posem en una cassola les verdures que ja hem tret del forn. Fem un buquet amb romaní, farigola i dos grans d'all aixafats i ho afegim a la cassola. Munyim la cabeça d'alls que hem fornejat a sobre de la cassola. Aixequem sucres amb una mica de vi ranci.
+Posem a bullir l'aigua per a coure els canelons. Bullim les plaques durant uns 7 minuts (seguir instruccions del paquet). Reservem les plaques ja cuites a sobre d'un drap. 
+Agafem un pot amb aigua de la cocció, ben calenta, i el portem al forn. Farcim les plaques dels canelons i les posem en una safata de forn. Sempre amb el plec a dalt. 
+Posem els canelons al forn, 10 minuts a 100ºC  (l'aigua que hem posat al pot ens ajudarà a generar humitat i evitar que se'ns assequin els canelons). 
+Posem en un got batedor els festucs hidratats, el cibulet tallat, el vinagre, sal, pebre, oli i el julivert. Ho emulsionem. Ja hem fet un romesco verd. Podem afegir-hi una mica d'aigua per aconseguir una textura no gaire densa. Posem el romesco verd en una mànega.
+Traiem els canelons del forn, els servim en un plat (dos per cap), amb un fil de romesco, una mica de formatge parmesà ratllat per sobre i una mica del suc reduït de la cocció dels vegetals.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Pasta
