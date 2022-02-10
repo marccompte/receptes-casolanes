@@ -4,7 +4,7 @@ Marga
 [Ingredients]
 Persones = per a 200 unitats
 farina = 400g farina
-sucre = 400g sucre
+sucre =  300g sucre
 fruits secs = 100g ametlles rallades amb pell
 ou = 3 ous
 llimona = pell ratllada d'una llimona
