@@ -19,15 +19,15 @@ pebre = pebre negre i roig de la Vera.
 
 
 [Elaboracio]
-titol = Patates
+titol = Patates:
 Pela i deixa les patates en remull 5 min. Talla-les en bastons grossos i irregulars i dona'ls-hi un altre remull de 5 min més. Seca bé els trossos abans de fregir-los.
 Escalfa l'oli (millor en cassó alt i estret) a temperatura mitja i afegeix-hi els trossos amb cura. Que respirin. No omplis el cassó. Deixa'ls fregir uns 5 min. (punxa amb l'escuradents fins que siguin tous). Treu les patates, deixa-les refredar en un plat amb paper absorbent.
 Quan estiguin ben fredes, escalfa l'oli ben calent. Just abans de tirar-les a fregir, rebrega-les en grups de 4 o 5 (no les destrossis, però estreny-les una miqueta, fins i tot que alguna es trenqui). Deixa-les fregint un parell de minuts, treu-les quan les vegis ben torradetes. Asseca-les bé amb paper absorbent. Afegeix-hi sal a gust.
 
-titol = Allioli
+titol = Allioli:
 Posa tots els ingredients en la batedora i agita-ho des del fons, fins que pugi l'emulsió. Una vegada emulsionat, pots corregir d'all (n'hi hem posat molt poc, perquè sempre ets a temps d'afegir-n'hi). Fins i tot pots afegir-hi all en pols.
 
-titol = Oli picant
+Oli picant:
 Submergeix els bitxos i el pebre en l'oli, i deixa'ls macerar unes 48h. Jo sempre en tinc a casa, però se'n pot comprar. Si encara vols esperar menys, escalfa l'oli a baixa temperatura durant almenys 45 min. Quan tinguis un oli ja rabiosament picant, li afegeixes una cullereta de pebre roig dolç de la Vera. Remou, deixa-ho reposar uns 10 min. Emplata les patates en un platet, afegeix.hi un pegot d'allioli, i un xorret d'oli picant.
 
 [Categories]
