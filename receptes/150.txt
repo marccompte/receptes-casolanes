@@ -3,7 +3,7 @@ Sípia estofada
 
 [Ingredients] 
 Persones = 4 persones
-sípia = 3 sípies de mida mitjana1 
+sípia = 3 sípies de mida mitjana
 ceba = 1 ceba
 all = 5 grans d'all 
 oli = 100g d'oli d'oliva verge
@@ -23,3 +23,4 @@ Passats els quaranta minuts de cocció, aboqueu-hi la xocolata i un got més d'a
 
 [Categories]
 categoria = Peix
+subcategoria = Sípia
