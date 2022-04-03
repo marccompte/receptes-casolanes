@@ -1,0 +1,28 @@
+[Titol]
+Fricandó amb bolets
+
+[Ingredients]
+Persones = 4 pax
+vedella = 800g filet vedella
+ceba = 2 cebes
+pastanaga = 1 pastnaga
+tomàquet = 1 tomàquet
+bolets = camagrocs i moixernons
+all = 4 grans d'all
+pa = carquinyolis
+julivert = julivert
+espècies =  brins safrà
+fruits secs = grapat d'ametlles
+vi = 1 gotet vi blanc sec i 1 de ranci
+brou = brou de carn
+
+[Elaboracio]
+Salpebrar els talls de vedella i enfarinar-los treient-ne l'excés de farina. Posar-los a la casola amb un bonn raig d'oli d'oliva.
+Quan els talls quedin ben enrossits, els anem reservant en un plat.
+En una altra casola, també amb un bon raig d'oli, fem un sofregit de ceba ratllada i pastanaga. Quan sigui mig cuit, afegim el tomàquet també ratllat. Deixem coure uns minuts.
+Ara hi tirem el vi blanc i el vi ranci ho deixem reduir i hi afegim els talls de carn cobrir-los amb el brou de vedella deixant-ho coure tot ben bé, que hi faci xup-xup una bona estona.
+Un cop està tova la carn, s'hi afegeixenn els bolets i en els últims minuts de la cocció s'hi tira la picada, feta prèviament amb alls, julivert, carquinyolis i brins de safrà.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
