@@ -1,0 +1,40 @@
+[Titol]
+Sípia amb pèsols i mandonguilles
+
+[Ingredients]
+Persones = 4 pax
+titol = Mandonguilles
+sípia = 500g sípia neta
+oli = oliva verge extra
+vi = 1dl vi blanc sec
+brou =  brou peix
+pèsols = 250g pèsols
+ceba = ceba
+carn = 500g carn picada
+ous = 1 ou
+sal = sal
+pebre = pebre negre
+pa = 1 molla pa
+all = 2 grans d'all
+julivert = julivert
+tomàquet = tomàquet
+farina = farina
+titol = Picada
+all = 2 grans d'all
+julivert = julivert
+fruits secs = ametlles
+pa = pa fregit
+
+[Elaboracio]
+ Barregeu la carn picada de porc amb l'ou, la molla de pa, la sal, un pols de pebre negre, les potes de la sípia ben picades, l'all i el julivert.
+Remeneu-ho bé i feu petites pilotilles amb les mans. Feu-ne de la mida que més us agradin, però preferiblement petites. Tot seguit, enfarineu-les i fregiu-les en una cassola amb un raig d'oli d'oliva verge extra.
+Per continuar, talleu la sípia a talls regulars i poseu-la a coure en una cassola tapada amb un raig d'oli verge extra.
+En una altra cassola feu un sofregit amb la ceba ben trinxada i el tomàquet ratllat fins que quedi ben confitat. Tireu-hi el vi blanc i deixeu-ho reduir. Aneu-ho remenant, perquè quedi ben fet.
+Un cop aconseguit, serà el moment d'afegir-hi la sípia, que ja la tindreu estofada, les mandonguilles, que les tindreu fregides, i ho cobriu tot plegat amb aigua mineral o bé amb brou de peix.
+Deixeu-ho coure lentament uns 20 minuts perquè es barregin tots els sabors.
+A mitja cocció, és a dir, quan faltin deu minuts per al final, afegiu-hi els pèsols i tasteu-ho de sal. Si els pèsols són petits, encara necessitaran menys minuts per coure's.
+En els últims minuts, tireu-hi una picada feta amb un parell d'alls, unes fulles de julivert, les ametlles i el pa fregit. Comproveu el punt de sal i pareu el foc.
+
+[Categories]
+categoria = Peix
+subcategoria = Sípia
