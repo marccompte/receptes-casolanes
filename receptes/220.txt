@@ -1,0 +1,22 @@
+[Titol]
+Pa de llavors
+
+[Ingredients]
+farina = 500g farina força i sègol  1:1
+aigua = 380ml aigua
+llavors = 40g llavors carbassa i lli  1:1 i sèsam
+llevat = 15g llevat fresc
+sal = 8g sal
+fruits secs = 6 nous
+oli = oli oliva verge
+
+[Elaboracio]
+Barregem, en un bol, les farines el llevat i l'aigua tèbia. Ho pastem durant uns 10' si teniu pastadora. Si ho feu a mà, serà una mica més d'estona. Ho tapem amb un drap humit i ho deixem reposar durant 10'.
+Torrem les llavors de carbassa i de lli, en una paella sense oli, fins que sentim que els perfums s'activen.
+Afegim una punta sal a la pasta del pa, ja reposada, juntament amb les llavors que hem torrat i les nous que haurem esmicolat. Ho tornem a barrejar fins que estigui tot ben integrat. Ho funyim amb les mans enllustrades amb oli, ho tapem amb un drap humit i ho deixem reposant durant 3 hores.
+Enllustrem un motlle rectangular amb mantega; així el pa no se'ns enganxarà. Hi espolsem farina per comprovar que no ens hem deixat cap racó sense mantega. Posem el pastó a dins, ho cobrim amb llavors de sèsam i ho deixem reposar durant dues hores més.
+Ho enfornem durant 1 h a 180º, amb l'escalfor a baix.
+El desenfornem, el desemmotllem i el deixem refredar damunt d'una reixeta perquè no se'ns humitegi.
+
+[Categories]
+categoria = Pa
