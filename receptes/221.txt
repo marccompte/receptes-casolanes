@@ -1,0 +1,24 @@
+[Titol]
+Rodó de vedella al forn
+
+[Ingredients]
+Persones = 4 pax
+xai = 1kg lligat d'anoll
+vi = 200ml vi negre
+aigua = 200ml aigua
+ceba = 250gr cebes petites
+patates = 500gr patates baby
+pastanaga = 3 pastanagues
+pebre = pebre
+sal = sal
+oli = oli d'oliva
+
+[Elaboracio]
+Renteu les patates, peleu les cebes i les pastanagues, a continuació talleu les pastanagues en petites rodanxesi reserveu.
+Tireu un rajolí d'oli a una satata pel forn disposeu-hi el rodó salpebrat al gust. Repartiu les patates, les pastanagues i les cebes al voltant. Afegiu el vi, l'aigua i un rajolí d'oli per sobre la carn i les verdures.
+Pre-escalfeu el forn a 190°C.
+Introduiu la safata al forn cada 15-20 minuts doneu la volta al rodo ahora aneu-lo banyant sovint amb el matex suc.
+
+[Categories]
+categoria = Carn
+subcategoria = Boví
