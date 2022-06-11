@@ -1,0 +1,24 @@
+[Titol]
+Truita suflé
+
+[Ingredients]
+ous = 2 ous 
+llevat = 1 culleradeta de llevat químic 
+ceba = cibulet 
+oli = oli oliva verge
+sal = sal
+
+[Elaboracio]
+Separem les clares i els rovells de 2 ous que tenim a temperatura ambient. 
+Afegim un pessic de sal a les clares i les muntem a punt de neu amb les varetes elèctriques.  
+Afegim un pessic de sal al bol dels rovells i una culleradeta d'impulsor químic. Muntem els rovells amb les varetes elèctriques. 
+Posem una paella petita a escalfar. Afegim un raig d'oli a la paella. 
+Incorporem amb cura 1/3 de les clares muntades al bol dels rovells. Quan estiguin integrades, hi afegim la resta de les clares, amb cura per no perdre aire.  
+Tallem unes branques de cibulet ben petites. 
+Afegim amb molta cura el cibulet a la barreja de l'ou.   
+Si l'oli de la paella ja és calent, hi afegim la barreja d'ou i l'escampem bé. Tapem la paella i ho deixem coure 4 minuts a foc baix. 
+Destapem la paella i comprovem que la truita està cuita per la base i es desenganxa. La dobleguem per la meitat i la deixem coure uns minuts més.
+
+[Categories]
+categoria = Entrants
+subcategoria = Ous
