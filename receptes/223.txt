@@ -1,0 +1,21 @@
+[Titol]
+Lluç estil Santurtzi
+
+[Ingredients]
+Persones = 1 pax
+lluç = 250g llom lluç
+brou =100ml fumet peix
+patata = 1 patata
+all = 3 grans all
+bitxo = 1 bitxo
+oli = oli oliva verge extra
+pebre = pebre vermell (meitat dolç i meitat picant)
+
+[Elaboracio]
+Talleu la patata a rodanxes i col loqueu-les en una olla, cobriu-les amb oli d'oliva i confiteu-les a foc lent durant 20 minuts.
+Mentrestant, talleu els alls a trossos petits i poseu-los en una cassola amb un bitxo. Confiteu-ho a foc lent durant 20 minuts.
+Col·loqueu la patata confitada com a base en una cassola de ferro. Poseu-hi a sobre el llom de lluç amb el vi blanc i fumet de peix calent. Fiqueu-ho al forn durant 12 minuts a 220º C.
+Traieu-ho del forn i poseu-hi l'all i el bitxo confitats i un polsim de pebre vermell. Poseu-ho al forn 3 minuts més.
+
+[Categories]
+categoria = Peix
