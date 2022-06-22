@@ -1,5 +1,5 @@
 [Titol]
-de llardons
+de llardons mc
 
 [Ingredients]
 pasta fullada = 1 làmina pasta de full
