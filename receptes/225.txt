@@ -1,0 +1,20 @@
+[Titol]
+de llardons
+
+[Ingredients]
+pasta fullada = 1 làmina pasta de full
+llardons = 100g llardons
+sucre = 100g sucre
+fruits secs = pinyons o ametlla “palet”
+ou = 1 ou
+
+
+[Elaboracio]
+Piquem els llardons una mica. Estirem la pasta de full amb un corró per donar-li forma rectangular.
+Dividim imaginàriament la pasta de full en tres trossos i cobrim la part central amb llardons i sucre.
+Dobleguem una de les bandes sobre la part central i l’aixafem una mica amb el corró.
+Tornem a posar llardons i sucre i ho tapem amb el tros de pasta restant. Aixafem una mica més amb el corró i acabem de donar-li la forma desitjada. Pintem la coca amb l’ou batut i la cobrim amb pinyons i sucre. Coem la coca al forn a 200ºC fins que la coca estigui cuita i quedi daurada.
+
+[Categories]
+categoria = Postres
+subcategoria = Coques
