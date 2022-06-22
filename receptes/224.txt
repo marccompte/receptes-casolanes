@@ -1,0 +1,25 @@
+[Titol]
+melòs de pop i gambes
+
+
+[Ingredients]
+Persones = 4 pax
+arròs = 400g arròs bomba
+pop = 1 o 2 potes de pop (congelades)
+gamba = 10 gambes crues llagostineres o vermelles
+brou = 1500ml fumet peix
+nyora = 2 nyores
+all = 3 alls
+tomàquet = 3 tomacons
+oli = oli d’oliva
+sal = sal
+
+
+[Elaboracio]
+Pelem les gambes. Posem a hidratar les nyores obertes, sense llavors i cobertes d’aigua fins que s’hidratin.
+Dins la cassola on farem l’arròs, escalfarem un raig d’oli d’oliva generós i enrossirem els caps i les closques de les gambes amb un all amb un cop i amb la seva pell. Els retirarem i els farem bullir amb el fumet durant uns minuts.
+Tallem el pop a rodelles i el saltarm amb l’oli de les gambes i el reservem. Enrossim els dos alls restants i coem la nyora escorreguda junt amb el tomàquet. Afegim un gotet del fumet i ho triturem tot. Ho tornem a la cassola. Incorporem l’arròs i afegim el brou ben calent courem durant uns 18 minuts i quan faltin 3 minuts per acabar posarem les gambes i el pop per sobre.
+
+
+[Categories]
+categoria = Arrossos
