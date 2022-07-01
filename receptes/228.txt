@@ -1,0 +1,39 @@
+[Titol]
+Briox amb plàtan
+
+[Ingredients]
+titol = per a la massa
+farina = 400g farina força 
+mantega = 50g mantega  
+sucre = 20 sucre  
+llevat = 20g llevat fresc 
+llet = 200ml llet fresca  
+ous = 3 ous 
+vainilla = 1 beina vainilla 
+mantega = mantega 
+
+titol = per a la cobertura
+plàtan = 1 plàtan mascle 
+cacau = crema cacau
+fruits secs = cacauets torrats salats 
+canyella = canyella en pols 
+mel = mel
+oli = oli d'oliva verge
+
+[Elaboracio]
+En un bol pastadora hi afegim 400 g de farina de força, 20 g de llevat fresc, 2 ous, 20 g de sucre, l'interior d'una beina de vainilla, 100 ml de llet fresca i un polsim de sal. Pastem ja sigui amb pastadora o a mà. 
+Al cap d'una estona hi incorporem la resta de la llet, 100 ml. Pastem uns 15 minuts més. 
+Hi afegim a poc a poc 15 g de mantega tallada a quadradets fins que estigui ben integrada. 
+Traiem la massa de la pastadora i la posem a la fusta, on la treballarem fins que ens quedi una bola. La posem en un pol amb un drap humit al damunt durant 30 minuts. 
+Destapem la massa i la dividim en 8 boles. Donarem a cada tros forma de brioix.  
+Posarem els brioixos dins un motlle de 21 cm x 17 cm untat prèviament amb mantega. Tapem el motlle amb un drap humit fins que la massa dobli el seu volum. 
+Pintem el brioix fermentat amb un ou batut.  
+Enfornem el brioix durant 30 minuts a 180º. 
+En una cassola petita hi posem oli. Tallem un plàtan mascle a rodelles fines i les fregim en l'oli calent. Salem i reservem en un paper absorbent. 
+Agafem els brioixos que hem deixat refredar i els obrim pel mig, com un entrepà. N'untem l'interior amb crema de cacauet i un fil de mel. 
+En un morter piquem un grapat de cacauets salats. 
+Fiquem dins dels brioixets els xips de plàtan, els cacauets picats i una mica de canyella per sobre.
+
+[Categories]
+categoria = Postres
+subcategoria = 
