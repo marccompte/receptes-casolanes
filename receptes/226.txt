@@ -5,12 +5,12 @@ Pollastre amb nous
 Persones = 4 pax
 nous = 12 nous en gra
 pollastre =4 cuixes pollastre
-brou = 2l brou gallina
+brou = 2 litres brou gallina
 ceba = 3 cebes Figueres
 tomàquet = 2 tomàquets penjar
 all = 1 cabeça d'alls
 vi = vi ranci
-herbes = llorer i orenga fresca
+herbes = llorer, orenga i silvia fresques
 oli = oli d'oliva verge
 pebre = pebre negre
 sal = sal
