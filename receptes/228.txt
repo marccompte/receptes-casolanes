@@ -36,4 +36,3 @@ Fiquem dins dels brioixets els xips de plàtan, els cacauets picats i una mica d
 
 [Categories]
 categoria = Postres
-subcategoria = 
