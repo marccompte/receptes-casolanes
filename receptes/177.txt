@@ -22,3 +22,4 @@ Farciu els carbassons amb l'arròs amb verdures
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Cucurbitàcies
