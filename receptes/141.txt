@@ -23,3 +23,4 @@ Ho emplatem.
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Cucurbitàcies
