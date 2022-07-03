@@ -1,0 +1,25 @@
+[Titol]
+Pastís de carbassó
+
+[Ingredients]
+Persones = 5 o 6 pax
+formatge = 250g mató o formatge fresc i 50g de rallat
+carbassó = 500g carbassó
+nata = 100g crema llet
+oli = 3 cullerades oli oliva verge
+ous = 4 ous
+farina = 1 cullerada farina galeta
+julivert = 1 cullerada julivert picat
+sal = sal
+pebre = pebre negre
+
+[Elaboracio]
+Rentar els carbassons i treure'n les puntes. Es tallen a fines rodanxes. En una cassola, escalfar 2 l’oli, salar i coure el carbassó a foc suau durant 10 min, remenant de tant en tant, afegir-hi el julivert.
+Escalfar el forn a 210ºC. Aixafar el formatge o mató amb una forquilla. Trencar els ous en una terrina i batre’ls com per a truita i afegir-hi el formatge, la crema de llet  i la farina de galeta. Salar i empebrar.
+Barrejar aquesta preparació amb els carbassons i coure-ho tot remenant durant 1 minut a foc suau. Afergir-hi el formatge ratllat i treure-ho del foc.
+Untar amb oli un motlle rodó de 22 a 24 cms., abocar-hi la preparació i coure-ho de 25 a 35 minuts (segons el forn) fins que el pastís quedi pres i daurat (punxar-ho amb una agulla per comprovar-ho). Deixar refredar una mica i treure’l del motlle.
+Servir-lo sol o amb un coulis de tomàquet perfumat amb alfàbrega.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Cucurbitàcies
