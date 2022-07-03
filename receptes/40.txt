@@ -24,3 +24,4 @@ Servim una llesca de carbassa amb l’allioli, les nous picades per sobre i l’
 
 [Categories]
 categoria = Vegetarià
+subcategoria = Cucurbitàcies
