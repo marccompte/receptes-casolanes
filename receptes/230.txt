@@ -1,0 +1,21 @@
+[Titol]
+Gelatina de tomàquet
+
+[Ingredients]
+tomàquet = tomàquet ratllat
+all = 1 gra d'all
+olives = olivada
+gelatina = 4 lamines gelatina
+pebre = pebre
+sal = sal
+sucre = sucre
+
+[Elaboracio]
+Fica les Iéminas de gelatina dins d'un bol amb aigua freda, uns S minuts perquè es vagin hidratant.
+Mentre, pela el gra d'all, el piques bé i amb una mica d'oli d'oliva el daures. Agrega llavors el tomàquet, salpebrant al teu gust i una mica de sucre.
+Remou bé que s'integri tot perfectament en la salsa. Agrega Ia gelatina i remou perquè quedi ben integrat per complet.
+Aboca la mescla sobre els diferents motlles, perquè la gelatina tingui la forma que vulguis, i fica'l a la nevera perquè qualli.
+És millor deixar-ho un dia sencer. Treure-la i serveix-la amb una mica de formatge fresc per damunt o olivada. Ruixar amb una mica d'oli d'oliva.
+
+[Categories]
+categoria = Vegetarià
