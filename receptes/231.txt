@@ -1,0 +1,42 @@
+[Titol]
+Ensaladilla de llamàntol
+
+[Ingredients]
+Persones = 4 pax
+titol = Per a l'amanida
+llamàntol = 500g llamàntol
+patata = 2 patates red pontiac
+pastanaga = 2 pastanagues
+mongetes = 100g mongeta tendra
+oli = oli d'oliva
+sal = sal
+herbes = farigola i romaní
+pebre = pebre negre
+tàperes = 40g tàperes
+cogombre = 40g cogombre
+all = all
+
+titol = Per a la maionesa
+ous = 1 ou
+oli = 300ml oli d'oliva verge extra
+sal = sal
+
+titol = Per al guarniment
+ous = ous salmó
+sal = escates sal
+pebre = pebre
+herbes = fulles d'anet
+
+[Elaboracio]
+Talleu la patata a daus regulars i els confiteu en una paella amb oli d'oliva amb sal, grans d'all, romani i farigola, i boletes de pebre.
+Al cap de vint minuts, retireu-la i deixeu-la en paper absorbent.
+Mentrestant, peleu la pastanaga, talleu-la a dauets, i bulliu-la amb aigua i sal. Refredeu-la amb aigua ben freda o aigua amb gel perque conservi el color taronja. 
+Feu el mateix amb la mongeta tendra. Talleu-la per la meitat en linia, idesprés també a daus. Un cop bullida, refredeu-la amb aigua amb gel.
+Es important bullir les pastanagues mongetes tendres per separat, perque es colors i les coccions son millors.
+Per a preparar el llamàntol, bulliu-lo 5 minuts en una olla amb aigua i sal. Un cop bullit peleu-lo amb un bon ganivet i després feu.ne rodanxes.
+Ajunteu el llamàntol amb la resta d'ingredients, afegiu-hi tàpares i cogombre.
+Poseu al vas de la batedora tots els ingredients, i aneu-ho batent amb la batedora començant des de baix i aneu pujant el braç elèctric. Quedarà muntada d'un color verd suau.
+Per al guarniment final, si teniu fulles d'anet i ous de salmó, amaniu-lo amb escates de sal i pebre negre acabat de moldre.
+
+[Categories]
+categoria = Amanides
