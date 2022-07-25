@@ -1,0 +1,19 @@
+[Titol]
+Pa de pagès
+
+[Ingredients]
+farina = 1kg farina blat
+sal = 15g sal
+aigua = 550ml aigua (2½ tasses)
+llevat = 50g llevat de fleca
+
+[Elaboracio]
+Posa la farina en un recipient profund en el qual puguis barrejar bé tots els ingredients. Fes un forat en el centre com si fos un volcà i afegeix-hi la sal.
+Escalfa l'aigua uns segons en el microones perquè estigui tèbia, però sense que cremi. Afegeix-hi tot el llevat i dissol-lo bé. A continuació, agrega a poc a poc l'aigua amb el llevat a la farina. Mescla bé amb una espàtula per a integrar tots els ingredients.
+Quan la massa del pa de pagès estigui homogènia, passa'l a una taula enfarinada i treballa'l amb les mans. Pasta durant 10 minuts estirant la massa i doblegant-la sobre si mateixa per a atrapar l'aire. Passats els 10 minuts, tapa-la amb un drap de cuina i deixa que reposi 20 minutos. Repeteix aquest procés 2 vegades més.
+Després de pastar per tercera vegada, fes una bola amb la massa, tapa-la una altra vegada i deixa que fermenti unes 2 hores o fins que la massa hagi doblat el seu volum. El temps de fermentat pot variar depenent de l'època de l'any i de la temperatura ambient. Escalfa el forn a 210°C.
+Passat el temps de fermentació, és moment de donar forma al pa de pagès. Enfarina la taula de treball i torna a formar una bola amb cura, No volem treure-li aire a la massa! Fes-li uns talls a la superfície abans de coure el pa.
+Enforna el pa de pagès a 210 ç°C amb calor a dalt i a baix durant 45 minuts aproximadament. Treu-lo del forn i deixa'l refredar, preferiblement sobre una reixeta, abans de tallar-lo.
+
+[Categories]
+categoria = Pa
