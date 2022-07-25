@@ -2,25 +2,25 @@
 Cigrons, llagostins i cloïsses
 
 [Ingredients]
-cigrons = 300 gr. de cigrons
-oli = ½ got d'oli d'oliva verge extra.
+cigrons = 300g cigrons
+oli = ½ got oli d'oliva verge extra.
 ceba = 2 cebes
 pebrot = 2 pebrots verds
-pebre = 1 cullerada de Pebre roig dolç
-tomàquet = 1 got de salsa de Tomàquet
-vi = ½ got de vi de Jerez
+pebre = 1 cullerada pebre roig dolç
+tomàquet = 1 got salsa tomàquet
+vi = ½ got Xerès
 all = 3 grans d'all
-cloïssa = 100 gr. de cloïsses
-llagostins = 150 gr. de llagostins
+cloïssa = 100g cloïsses
+llagostins = 150g llagostins
 bitxo = ½ bitxo sec
-sal = Sal
-herbes = Llorer
-julivert = Julivert
+sal = sal
+herbes = llorer
+julivert = julivert
 
 [Elaboracio]
 Posar els cigrons en remull la nit anterior. Esbandir i posar al foc amb l'aigua necessària per a cobrir-los. Pelar els llagostins i saltar els caps i les peles a foc fort fins a daurar. Cobrir amb aigua i una mica de sal. Deixar bullir mitja hora a foc suau.
-Colar i afegir el brou als cigrons. Sofregir la ceba, el mig bitxo i els pebrots amb una fulla de llorer. Agregar el pebre roig i la salsa de tomàquet fregit. Deixar coure a foc medio dos minuts i afegir als cigrons.
-Saltar en una paella lleugera d'oli, les cloïsses amb el ajito picat i una mica de vi. Afegir als cigrons i ajustar la sal. Abans de servir, incorporar els llagostins al guisat. 
+Colar i afegir el brou als cigrons. Sofregir la ceba, el mig bitxo i els pebrots amb una fulla de llorer. Agregar el pebre roig i la salsa de tomàquet fregit. Deixar coure a foc mig dos minuts i afegir-ho als cigrons.
+Saltajar en una paella amb poc oli, les cloïsses amb l'all picat i una mica de vi. Afegir-ho als cigrons i ajustar de sal. Abans de servir, incorporar els llagostins al guisat. 
 Emplatar amb una miqueta de julivert picat.
 
 [Categories]
