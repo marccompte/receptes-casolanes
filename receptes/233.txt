@@ -1,0 +1,35 @@
+[Titol]
+
+farina = 1000g farina
+
+aigua = 550g aigua
+
+llevat = 40g llevat fresc
+
+sal = 12g sal
+
+
+
+[Elaboracio]
+
+Diluïm el llevat en aigua tèbia.
+
+En un bol posem la farina i li afegim l’aigua amb el llevat. Barregem fins la absorció de l’aigua i, després,  hi afegim la sal. Continuem pastant fins aconseguir que la massa es desprengui del bol. Tapem i ho deixem reposar 20 minuts.
+
+Enfarinem lleugerament la superfície de treball i pastem la massa durant uns 10 minuts. Per pastar l’estirem en un sentit, la dobleguem cap a dins, li donem un quart de volta i repetim l’operació. Formem una bola i la posem en un recipient gran que haurem untat amb oli. El tapem amb film i un drap a sobre. Ho deixem reposar fins que dobli el seu volum. (1 o 2 hores).
+
+Tornem a enfarinar la superfície de treball i hi posem la massa. La “bolegem” per formar un bola perfecta. El sistema consisteix en estirar-la una mica fent doblecs cap a l’interior donant-li tota la volta. La posem en un safata de forn sobre un paper de forn, amb la part llisa cap amunt i la tapem amb un drap humit.
+
+Mentre, escalfem el forn a 210ºC amb calor a dalt i baix. Posarem a la part inferior del forn un recipient amb aigua.
+
+Quan estigui estabilitzat a aquesta temperatura, destapem la bola que haurà crescut lleugerament, la empolvorem lleugerament amb farina i li fem uns talls (una creu, línies paral·leles, 3×3, …)
+
+Posem la safata al forn i coem uns 45 - 60min a 210ºC. Ha de quedar ben daurat.
+
+El traiem de forn i el deixem refredar sobre una reixeta.
+
+
+
+[Categories]
+
+categoria = Pa
