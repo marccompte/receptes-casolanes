@@ -1,5 +1,5 @@
 [Titol]
-Pa d'esponja
+Pa d'esponja*
 
 [Ingredients]
 titol = esponja
