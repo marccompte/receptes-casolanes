@@ -1,5 +1,5 @@
 [Titol]
-Pa de pagès
+Pa de pagès*
 
 [Ingredients]
 titol = Massa mare
