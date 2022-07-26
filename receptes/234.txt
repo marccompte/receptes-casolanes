@@ -1,0 +1,22 @@
+[Titol]
+Espaguetis Vongole
+
+[Ingredients]
+Persones = 4 pax
+espaguetis = 300g espaguetis
+cloïses = 1kg rossellones, tallarines o cloïses
+tomàquet = 2 tomàquets pera madurs
+all = 4 grans d’all
+vi = 1/2 got vi blanc
+oli = oli
+sal = sal
+julivert = julivert
+
+Es bullen els espaguetis, es colen i es reserven
+Es posen les  cloïsses en un bol amb aigua i sal una estona, després es renten amb aigua freda i es posen  en una cassola amb el vi i es tapa fins que s’obrin les cloïsses. Es colen  (es guarda el suc ) es deixen refredar i se’ls hi treu la closca on no estàn adherides.
+En una paella amb oli s’hi sofregeix dos grans d’all tallats menuts i quan són a punt d’enrossir-se, s’hi aboquen els tomàquets ratllats i es deixa coure uns minuts. S’hi afegeix julivert picat, s’hi posa el suc que han fet les cloïsses i es reserva.
+En la mateixa cassola on s’hi han cuit les cloïsses s’hi posa una mica d’oli i dos grans d’all també tallats ben menuts i s’hi aboquen els espaguetis. Un cop ben remenats, s’hi afegeix el sogregit i les cloïsses i es torna a remenar fins que tot quedi ben barrejat. Se serveix ben calent.
+
+[Categories]
+categoria = Pasta
+subcategoria = Espaguetis
