@@ -3,17 +3,17 @@ Espaguetis, musclos, gambes i tonyina
 
 [Ingredients]
 persones = 4
-espaguetis = 250 grams d'espaguetis.
-gamba = 100 grams de gambes pelades.
-musclos = 200 grams de musclo sense closca.
-tonyina = 1 medalló de tonyina.
-ceba = 100 grams de ceba.
-all = 2 dents d'alls.
-julivert = julivert.
-oli = 1 decilitre d'oli d'oliva.
-vi = 1 decilitre de vi blanc.
-farina = 1 cullerada petita de maicena exprés.
-sal = Sal.
+espaguetis = 250g espaguetis
+gamba = 100g gambes pelades
+musclos = 200g musclo sense closca
+tonyina = 1 medalló de tonyina
+ceba = 100g ceba
+all = 2 grans d'alls
+julivert = julivert
+oli = 1dl oli d'oliva
+vi = 1dl vi blanc
+farina = 1 cullerada petita maizena
+sal = sal
 
 [Elaboracio]
 Coem la pasta en aigua bullint amb un polsim de sal durant 10 minuts. Una vegada cuita refresquem sota l'aixeta d'aigua freda i escorrem, untem d'oli d'oliva i reservar-nos.
@@ -23,3 +23,4 @@ Barregem la salsa amb la pasta, es dóna un toc de verd amb una mica de julivert
 
 [Categories]
 categoria = Pasta
+subcategoria = Espaguetis
