@@ -2,18 +2,18 @@
 Fideus, espinacs, bolets i gambes
 
 [Ingredients]
-pasta = 250 gr. de Pasta
-bolets = 200 gr. de bolets
-gambas = 200 gr. de gambes crues pelades
+pasta = 250g pasta
+bolets = 200g bolets
+gambas = 200 gambes crues pelades
 ceba = 1 ceba
 all = 4 grans d'all
 albergínia = 1 albergínia
 tomàquet = 1 tomàquet
 espinacs = ½ manoll d'espinacs
 nata = 1 got de nata
-formatge = 1 tascó de formatge
-herbes = Alfàbrega fresca
-oli = Oli d'oliva
+formatge = 1 tascó formatge
+herbes = alfàbrega fresca
+oli = Oli oliva
 sal = sal
 pebre = pebre
 
@@ -28,3 +28,4 @@ Cobrir un motlle amb fulles d'espinacs, emplenar amb la pasta, cobrir-lo amb for
 
 [Categories]
 categoria = Pasta
+subcategoria = Fideus
