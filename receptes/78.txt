@@ -3,25 +3,25 @@ Fideus mariners al forn
 
 [Ingredients]
 persones = 4
-fideus = 400 grams de fideus fins.
-calamars = 100 grams de calamarsons.
-llagostins = 100 grams de llagostins.
-musclos = 100 grams de musclos.
-porro = 1 porro.
-ceba = 1 ceba tendra fresca.
-all = 2 grans d'all.
-pebrot = 1 pebrot verd italià.
-brou = 1 litre de brou de peix o fumet
+fideus = 400g fideus fins
+calamars = 100g calamarsons
+llagostins = 100g llagostins
+musclos = 100g musclos
+porro = 1 porro
+ceba = 1 ceba tendra fresca
+all = 2 grans d'all
+pebrot = 1 pebrot verd italià
+brou = 1l brou de peix o fumet
 titol = Fumet
-peix = 1 tros de cap de rap i les seves espines.
-aigua = 1 litre i mig d'aigua.
-porro = 1 porro.
-julivert = julivert.
+peix = 1 tros cap de rap i les seves espines
+aigua = 1,5l d'aigua
+porro = 1 porro
+julivert = julivert
 
 [Elaboracio]
 Primer elaborem el fumet posant a bullir amb l'aigua freda el cap de rap les espines, la part verda del porro i les tiges de julivert. A mesura que va agafant calor, anem llevant l'escuma que es va formant en la superfície. Després de bullir durant 1 hora, colem per un colador fi i ho reservem. El fumet no es conserva d'un dia per a un altre i sol utilitzar-se immediatament. 
 Netegem els musclos i els calamarsons que després trossegem. Pelem els llagostins i reservem.
-Escalfem el forn a 200 °C.
+Escalfem el forn a 200°C.
 Piquem molt fines les verdures i les posem a escalfar (daurar) amb una mica d'oli calent en una paellera apta per a ficar després al forn i deixem que es cuini la verdura a foc suau durant 20 minutos.
 Quan la verdura estigui cuinada agreguem els calamarsons nets i trossejats, ofeguem el conjunt i a continuació tirem a la paellera els fideus i els torrem juntament amb la verdura i els calamarsons, removent constantment perquè no es cremin.
 Quan estiguin daurats, agreguem a la paellera els llagostins pelats i trossejats, els musclos. Mullem amb el brou de peix fins a gairebé cobrir-los. Posem a punt de sal però amb cura perquè ja té sabor marí amb tots els ingredients que li hem agregat.
@@ -30,3 +30,4 @@ Servim una vegada que es redueixi el brou i hagi quedat absorbit pels fideus.
 
 [Categories]
 categoria = Pasta
+subcategoria = Fideus
