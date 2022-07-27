@@ -1,0 +1,35 @@
+[Titol]
+Patates d'Olot
+
+[Ingredients]
+Persones = 4 pax
+patates = 1kg patates blanques
+ceba = 2 cebes
+pa = molla pa
+llet = un raig de llet
+tomàquet = 3 tomàquets
+carn = 400g carn picada (vedella/porc)
+vi = 1 got vi ranci
+espècies = nou moscada
+pebre = pebre negre
+ou = 3 clares d'ou
+herbes = 1 branqueta romaní
+oli = oli d'oliva
+aigua = aigua
+
+[Elaboracio]
+Ratllem els tomàquets madurs i remullem la molla de dues llesques de pa de pagès gran amb un raig de llet. Ho barregem bé fins fer una pasta.
+Barregem la carn picada amb aquesta pasta i ho podeu salem i empebrem. Ho reservem.
+En una cassola amb un raig d'oli d'oliva hi posarem un remet de romaní fresc. El fregit i el retirem. Ja tindrem l'oli aromatitzat.
+En aquest mateix oli farem el sofregit. Hi posarem la ceba trinxada i la deixarem coure 12-15 minuts. Quan agafi coloret hi incorporarem el tomàquet ratllat. Seguidament, la carn, ho remenem tot plegat, ho salem i empebrem una mica. Hi tirem un polsim de nou moscada. No massa ja que aromatitza molt. Ho remenem durant uns minuts, que es faci la carn, hi posem el vi ranci. Si no en teniu podeu posar-hi brandi o vi blanc. Ho tapem i ho deixem reduïr durant uns 15-20 minuts a foc mig-baix.
+Mentre, anirem preparant les patates, que pelarem amb cura primer. S’han de tallar a llesques...ni massa grosses ni massa primes. Les fregim en oli però no del tot, que es puguin menjar però que els falti un puntet de torrat. Les reservem en paper absorbent.
+De tant en tant, vigileu la carn....que no s'enganxi i es cremi.
+Un cop feta la carn, es pot triturar per a donar-li una textura cremosa, però aquest pas no caldria fer-lo si voleu.
+Ens quedarà una mena de pasta com la dels canelons que deixem refredar.
+Amb la pasta ja freda i les patates també, ens disposarem a farcir-les posant una cullerada generosa a sobre d'una patata i la cobrim amb un altre patata de la mateixa mida. L’apretem lleugerament per assentar-ho i fem el mateix amb la resta de patates.
+Les arrebossem amb clara d'ou batuda, com si d'un arrebossat normal es tractés, mullant les patates farcides amb molta cura perquè no se’ns desmuntin.
+Les fregim amb oli ben calent i un minutet de cocció per cada banda i les reservem en paper absorbent.
+Les emplatem posant-hi unes mongetes de guarnició.
+
+[Categories]
+categoria = Entrants
