@@ -1,11 +1,11 @@
 [Titol]
-risotto de ceps
+Risotto de ceps
 
 [Ingredients]
 persones = 4
 arròs = 400g arròs Aquarello
-brou = 1,2 l. brou de pollastre
-espàrrecs = 4  espàrrecs verds 
+brou = brou de pollastre
+espàrrecs = 4 espàrrecs verds 
 formatge = 60g parmesà rallat
 foie = 160g escalopa de foie
 sal = sal
@@ -20,7 +20,7 @@ vi = Vi blanc
 Daurar molt lentament la ceba picada amb la mantega, afegir-hi els ceps picats gruixuts, daurar, desglassejar amb vi blanc i deixar evaporar. 
 A aquest sofregit, s’hi afegeix l’arròs i es va remenant a foc suau fins que s’hagi daurat. Després de 8 o 10 minuts s’hi afegeixen els espàrrecs tallats a 1cm i 10 minuts després finalitzem lligant-ho amb el parmesà i la mantega. Rectificar de sal i pebre. 
 Deixar reposar uns minuts.
-Queda millor si, al servir-lo, hi posem una escalopa de foie a cada plat, però és opcional.
+Queda millor si, al servir-lo, hi posem un trosset de foie a cada plat, però és opcional.
 
 [Categories]
 categoria = Arrossos
