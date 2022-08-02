@@ -1,0 +1,23 @@
+[Titol]
+Pesto
+
+[Ingredients]
+
+herbes = 50g alfàbrega
+pinyons = 30g pinyons
+oli = ½ got oli oliva
+formatge =50g formatge Parmigiano i 20g manxec curat
+all = 1-2 grans all
+sal = 1 polsim de sal
+
+
+
+[Elaboracio]
+Torrem lleugerament els pinyons en una paella, a foc molt lent, i els deixem refredar en un plat.
+Rentem els ramets d'alfàbrega, sense manipular-les massa i així evitar que s'oxidin. Després, les assequem en la centrifugadora. Separem les fulles i les anem posant en una picadora elèctrica, al costat d'una part dels pinyons, dels formatges, de l'all trossejat, de l'oli i la sal.
+Comencem a picar la salsa, a poc a poc, sense mantenir premut massa temps el botó, perquè la salsa no s'escalfi massa i al mateix temps no quedi massa líquida. A poc a poc, anem tirant tots els ingredients, fins a aconseguir la consistència desitjada.
+Hi afegim algunes cullerades de l'aigua de cocció de la pasta, per a donar més cremosidad a la salsa.
+En el moment de servir la pasta, a cada plat podem afegir més formatge ratllat i pebre.
+
+[Categories]
+categoria = Salses
