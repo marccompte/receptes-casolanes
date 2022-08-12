@@ -1,0 +1,38 @@
+[Titol]
+Minestrone de verdures
+
+[Ingredients]
+nyàmeres = 300g nyàmeres
+mongetes = 200g mongeta tendra
+rave = 4 raves
+pastanaga = 2 pastanagues
+ceba = 2 cebes tendres
+carbassó = 1 carbassó
+remolatxa = 1 remolatxa
+llimona = 1 llimona
+brou = 1.250ml brou pollastre
+pebrot = mig pebrot vermell
+aigua = 500ml aigua
+formatge = 250g formatge
+vi = 50ml vi ranci
+anís = 25ml anís sec
+pa = pa
+pebre = pebre negre i blanc
+herbes = fonoll, julivert, alfàbrega, llorer i menta
+sal = sal
+
+[Elaboracio]
+Netegem les verdures i les tallem a trossos petits.
+En una cassola amb oli posem les cebes tallades i les hi deixem suar amb una fulla de llorer, a foc lent. No cal enrossir-les gaire.
+Quan la ceba hagi suat, apugem el foc, hi afegim una fulla de llorer i 50 ml de vi ranci. Deixem que se n'evapori l'alcohol. Hi afegim els 1.250 ml de brou de pollastre fred, no cal escalfar-lo prèviament, busquem una cocció molt suau. Hi afegim un rajolí d'anís sec, d'uns 25 ml. Tallem una mica de julivert i d'alfàbrega i l'afegim a la cassola.
+Tapem la cassola amb un paper sulfurat i, a sobre, hi posem la tapa, deixant una mica d'espai perquè en surti el vapor.
+Amb el foc al mínim, deixem coure les verdures durant 30 minuts. Si calgúes, a mesura que s'evapora el brou, podríem fer servir una mica d'aigua, però mai més de 500 ml. Un cop feta la sopa, apaguem el foc.
+En una paella amb oli fregim fins que quedin cruixents uns quants trossos de pa de motlle que prèviament haurem tallat a la brunesa.
+Un cop fregits els posem en un recipient, a sobre de paper absorbent, per evitar-ne l'oli sobrant, hi afegim pebre negre, pebre blanc i sal. Els reservem.
+Aboquem els crostonets de pa fregit a un bol, on afegirem menta tallada. Ho barregem.
+Directament a la cassola, ratllem 250 g de formatge Reixagó. Ho salpebrem, hi afegim unes quantes gotes de llimona i ho remenem.
+Servim la sopa afegint-hi una mica de formatge ratllat, alfàbrega picada, uns quants crostonets de pa i una rajolinet d'oli.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
