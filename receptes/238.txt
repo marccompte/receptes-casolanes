@@ -1,0 +1,33 @@
+[Titol]
+Nyoquis a la rabbiatta
+
+[Ingredients]
+titol = Nyoquis
+patates = 300g patata Kennebec
+farina = 100g farina
+mantega = 15g mantega
+ou = 1 ou
+formatge = 100g formatge parmesà
+nou muscada = nou muscada
+herbes = alfàbrega, julivert, orenga, llorer
+
+titol = Salsa
+tomàquet = 5 tomàquets pebrot i 2 cull. conc.
+bitxo = 2 bitxos Jalapeños
+all = 2 grans d'all
+formatge = 125g formatge parmesà
+vi = vi ranci i anís sec
+oli = oli d'oliva verge extra
+pebre = pebre
+sal = sal
+
+[Elaboracio]
+Bullim les patates en aigua que ja haurem salat. Les pelem i les ratllem damunt d'un bol. Hi afegim un rovell d'ou, un polsim de sal, la mantega i ho integrem bé. Hi afegim 100g de formatge parmesà ratllat i ho tornem a barrejar. Incorporem a la barreja, a poc a poc, a mesura que la vagi acceptant la farina que tamisarem amb un colador de malla fina. Un cop que la massa ja no s'enganxa, hi ratllem una mica de nou moscada, ho barregem de nou i ja ho tindrem.
+Posem una mica de farina a la taula de treball i anem fent xurros amb la massa, com si fos plastilina. De cada xurro en farem els talls dels nyoquis, a la nostra mida. Passem cada nyoqui pel dors d'una forquilla, de manera que ens quedi el característic relleu del nyoqui.
+Per fer la salsa, pelem cinc tomàquets i els tallem a la brunesa. Traiem les llavors dels bitxos i els tallem a rodelles. Laminem dos grans d'all.
+Posem una cassola al foc, hi afegim un raig d'oli i hi fem ballar els alls amb els bitxos. Quan comencen a agafar color, hi aboquem un bon raig d'anís i ho flamegem.
+Quan deixi de fer flama hi afegim una fulla de llorer, pebre i els tomàquets. Ho coem a foc ben fort uns tres minuts, hi afegim un parell de cullerades de pasta de tomàquet concentrat, ho integrem i ho mullem amb un raig de vi ranci. Quan l'alcohol s'ha evaporat, ja tenim la salsa feta.
+Bullim els nyoquis en aigua amb sal i, a mesura que surin, els anem passant a la cassola de la salsa. Ho barregem i hi afegim les herbes fresques que tallarem ben menudes. Ho acabarem amb la resta de formatge parmesà ratllat per sobre. Ho integrem tot bé.
+
+[Categories]
+categoria = Entrants
