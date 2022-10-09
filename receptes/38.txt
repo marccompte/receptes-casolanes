@@ -3,25 +3,21 @@ de fredolics
 
 [Ingredients]
 persones = 4 pax
-pa = 100g de pa de crosta
-bolets = 400g de fredolics
-ceba = 2 cebes mitjanes
-brou = 3l de brou de pollastre
-conyac = 1 copa de conyac
+pa = 200g de pa sec
+bolets = 300g de fredolics
+ceba = 1 cebes petita
+porro = 1 porro mitjà
+brou = 1,5l brou de pollastre
+ous = 1 ou
 oli = oli d’oliva 
 espècies = sal i pebre
-titol = Per a la guarnició
-cansalada = 50g de cansalada
-all = 50g d’all
-herbes = 20g de fulles de julivert
-oli = un raig d’oli d’oliva
+all = 2 grans d'all
+herbes = 1 bon ramet de orenga i farigola
 
 [Elaboracio]
-Per a començar, poseu el brou a escalfar en un cassó.                                                                              
-Mentrestant, poseu el pa tallat a llesques en una safata i deixeu-lo torrar al forn.Per fer la sopa, en una paella amb oli poseu-hi la ceba picada amb una mica de sal i pebre i deixeu-la sofregir uns minuts. 
-Quan estigui transparent, afegiu-hi els fredolics i deixeu-los coure fins que s’evapori tota l’aigua. Tot seguit, poseu els fredolics i la ceba al cassó del brou juntament amb el pa torrat i el conyac i deixeu-ho bullir durant 10 minuts. 
-Quan estigui cuit, tritureu-ho amb el túrmix i reserveu-ho.A continuació, en una paella amb una mica d’oli salteu la cansalada tallada a daus. 
-Quan estigui dauradeta, afegiu-hi l’all laminat i les fulles de julivert, remeneu-ho bé i deixeu-ho coure durant un parell de minuts més.I ja per acabar, emplateu la sopa, poseu-hi a sobre el saltat de cansalada i guarniu el plat amb un raig d’oli d’oliva.
+En una casola amb oli poseu-hi la ceba, el porro, els alls tallats i deixeu-ho sofregir uns minuts. Tritureu-ho i guardeu-ho en un bol.
+A la mateixa casola fregiu-hi els bolets amb el ramet d'herbes. Al final afegiu-hi un raig de vi ranci. Deixar evaporar l'alcohol, afegir-hi el sofregit, el brou, el pa trocejat, rectificar de sal i pebre i deixar-ho bullir uns 30 minuts.
+Retirar del foc, treure el ramet d'herbes tirar-hi mig got d'oli i l'ou i finar-ho amb un batedor manual.
 
 [Categories]
 categoria = Entrants
