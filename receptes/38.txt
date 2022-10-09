@@ -3,21 +3,21 @@ de fredolics
 
 [Ingredients]
 persones = 4 pax
-pa = 200g de pa sec
-bolets = 300g de fredolics
-ceba = 1 cebes petita
+pa = 200g pa sec
+bolets = 300g fredolics
+ceba = 1 ceba petita
 porro = 1 porro mitjà
 brou = 1,5l brou de pollastre
 ous = 1 ou
-oli = oli d’oliva 
+oli = 1/2 got oli d’oliva 
 espècies = sal i pebre
 all = 2 grans d'all
 herbes = 1 bon ramet de orenga i farigola
 
 [Elaboracio]
-En una casola amb oli poseu-hi la ceba, el porro, els alls tallats i deixeu-ho sofregir uns minuts. Tritureu-ho i guardeu-ho en un bol.
-A la mateixa casola fregiu-hi els bolets amb el ramet d'herbes. Al final afegiu-hi un raig de vi ranci. Deixar evaporar l'alcohol, afegir-hi el sofregit, el brou, el pa trocejat, rectificar de sal i pebre i deixar-ho bullir uns 30 minuts.
-Retirar del foc, treure el ramet d'herbes tirar-hi mig got d'oli i l'ou i finar-ho amb un batedor manual.
+En una cassola amb oli poseu-hi la ceba, el porro, els alls tallats i deixeu-ho sofregir uns minuts. Tritureu-ho i guardeu-ho en un bol.
+A la mateixa cassola fregiu-hi els bolets amb el ramet d'herbes. Al final afegiu-hi un raig de vi ranci. Deixar evaporar l'alcohol, afegir-hi el sofregit, el brou, el pa trossejat, rectificar de sal i pebre i deixar-ho bullir uns 30 minuts.
+Retirar del foc, treure el ramet d'herbes tirar-hi l'oli i l'ou i afinar-ho amb un batedor manual.
 
 [Categories]
 categoria = Entrants
