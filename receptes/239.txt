@@ -1,0 +1,30 @@
+[Titol]
+Bastonets bròcoli
+
+[Ingredients]
+titol = bastonets
+bròquil = 1 bròquil (500 g)
+formatge = 150g formatge ratllat
+farina = 100g farina
+ous = 2 ous
+herbes = 1 cullerada d'orenga  i 1 de farigola
+sal = sal
+pebre = pebre
+titol = salsa
+formatge = 200g formatge cremós
+iogurt = 1 iogurt natural
+cogombre = 1 cullerada tàperes o cogombrets en vinagre
+ceba = 1/2 ceba tendra
+sèsam = 1 cullerada sèsam
+sal = sal
+pebre = pebre
+
+
+[Elaboracio]
+Netegeu i ratlleu el bròcoli, podeu fer-ho amb un ratllador, a mà, o bé amb un robot de cuina, però ha de quedar ben esmicolat. Afegiu-hi la farina, el formatge ratllat,  la sal, el pebre, les espëcies i els ous. Barregeu-ho fins que quedi una massa compacta. ​Poseu la barreja en una mànega pastissera.  En una safata de  forn coberta amb paper sulfurat, aneu fent barretes. ​Coeu-les al forn durant 10 minuts a 180 °C.
+Talleu la ceba tendra, les tàperes i els cogombrets ben petits i afegiu-los a la crema de formatge. Afegiu-hi el sèsam, la sal i el pebre al gust.
+Serviu els bastonets calents i la salsa freda.
+Es tracta d'una recepta molt versàtil.​ Podem fer servir la massa dels bastonets per fer-ne hamburgueses, mandonguilles o, inclús, com a base per a una pizza.
+
+[Categories]
+categoria = Vegetarià
