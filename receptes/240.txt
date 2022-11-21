@@ -1,0 +1,28 @@
+[Titol]
+Crema xampinyons
+
+[Ingredients]
+patates = 200g patata monalisa
+bolets = 600g xampinyons
+ametlla = ametlla crua laminada
+herbes = farigola
+alls = cabeça d'alls
+pebre = pebre negre
+brou = 1,1l brou gallina
+sal = sal grossa i de cuina
+pa = 30g crostonets pa
+vi = vi ranci
+oli = oli verge oliva
+
+[Elaboracio]
+Posem una capa de sal grossa en una safata de forn i tres patates monalisa (uns 200 g aproximadament), netes amb la pela. Hi posem una cabeça d'alls i ho cobrim tot amb més sal grossa i ho fiquem al forn 35' a 200º.
+Quan les patates s'hagin refredat una mica, les desenterrem de la sal i les pelem. Les ratllem a mà amb un ratllador fi.
+Tallem a mida macedònia els bolets.
+Posem una paella grossa al foc, hi posem un raig d'oli i els bolets. Hi afegim farigola, sal i pebre negre. Quan els bolets ja siguin una mica cuits, n'aixequem els sucres amb un raig de vi ranci que tirem a la paella. Deixem que se n'evapori l'alcohol. Reservem una part dels bolets, que ens servirà per decorar la crema a l'hora de servir-la.
+Escalfem 1,1 litres de brou de gallina. No cal que bulli.
+Posem a un got americà la patata ratllada, els bolets portobel·lo de la paella, 25 g de crostonets de pa i el brou de gallina calent. Hi afegim la polpa d'all que hem fet a la sal, sal, pebre i un raig d'oli. Ho triturem tot fins que tingui la textura de crema.
+Emplatem la crema i la servim amb els portobel·los reservats per sobre, una mica d'ametlla crua laminada i un raig d'oli.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Puré
