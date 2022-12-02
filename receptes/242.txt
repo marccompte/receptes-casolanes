@@ -1,0 +1,18 @@
+[Titol]
+Cremós de llimona
+
+[Ingredients]
+nata = 350ml nata 35% MG 
+sucre = 100g sucre llustre 
+llimona = 1 llimona i 1 llima
+vi = vi blanc sec 
+
+[Elaboracio]
+Semimuntem la nata que traiem de la nevera. A la nevera hem refredat també el bol on les muntarem. 
+Un cop la nata està semimuntada, hi afegim el sucre i l'acabem de muntar. Hem de vigilar de no passar-nos perquè es podria tallar. 
+A la nata muntada, hi afegim el suc de mitja llimona grossa. Si la llimona és petita, hi posem el suc de la llimona sencera. Ho integrem una mica i hi afegim un raig de vi blanc sec. Ho integrem de nou. 
+Servim posant el cremós als gots de presentació i ho acabem amb ratlladura de llima per sobre. 
+
+[Categories]
+categoria = Postres
+subcategoria = Mousse
