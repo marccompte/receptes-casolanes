@@ -1,5 +1,5 @@
 [Titol]
-Coca amb xocolata
+Pa amb xocolata
 
 [Ingredients]
 titol = Preferment
@@ -7,7 +7,7 @@ farina = 150g farina de força 
 aigua = 150ml aigua 
 llevat = 2g llevat fresc 
 
-titol = Coca
+titol = Pa
 farina = 170g farina de força 
 aigua = 60ml aigua 
 llevat = 13g llevat fresc 
@@ -22,7 +22,7 @@ oli = oli
 Preferment:
 Barregem l'aigua, la farina que, tamisarem, i el llevat fresc. Ho deixem tota la nit, ben tapat, a la nevera.  
 
-Coca:
+Pa:
 Posem en un bol el preferment, la farina, que tamisem, el llevat el sucre i l'aigua que haurem escalfat a 40º. Ho pastem durant uns 15', seguint una pauta de 2' de pastat i 3 de repòs. A mig pastar hi afegirem un polsim de sal. 
 Hi afegim 1 cullerada de llard de porc, així com la ratlladura de pell d'una taronja. Ho tornem a pastar fins que quedi ben integrat. 
 Ho posem en un bol, ho pintem amb oli d'oliva extra verge, ho tapem amb un drap humit i ho deixem reposar 1 h. 
@@ -32,4 +32,4 @@ Ho pintem amb llard de porc que haurem desfet. Hi afegim la sal, i ho enfornarem
 La deixem refredar damunt d'una reixeta perquè no se'ns humitegi un cop treta del forn. 
 
 [Categories]
-categoria = Postres
+categoria = Pa
