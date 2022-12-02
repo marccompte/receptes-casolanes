@@ -1,0 +1,35 @@
+[Titol]
+Coca amb xocolata
+
+[Ingredients]
+titol = Preferment
+farina = 150g farina de força 
+aigua = 150ml aigua 
+llevat = 2g llevat fresc 
+
+titol = Coca
+farina = 170g farina de força 
+aigua = 60ml aigua 
+llevat = 13g llevat fresc 
+sucre = 10g sucre 
+taronja = 1 taronja 
+xocolata =xocolata a la pedra 60%
+sal = flor de sal 
+llard = llard 
+oli = oli
+
+[Elaboracio]
+Preferment:
+Barregem l'aigua, la farina que, tamisarem, i el llevat fresc. Ho deixem tota la nit, ben tapat, a la nevera.  
+
+Coca:
+Posem en un bol el preferment, la farina, que tamisem, el llevat el sucre i l'aigua que haurem escalfat a 40º. Ho pastem durant uns 15', seguint una pauta de 2' de pastat i 3 de repòs. A mig pastar hi afegirem un polsim de sal. 
+Hi afegim 1 cullerada de llard de porc, així com la ratlladura de pell d'una taronja. Ho tornem a pastar fins que quedi ben integrat. 
+Ho posem en un bol, ho pintem amb oli d'oliva extra verge, ho tapem amb un drap humit i ho deixem reposar 1 h. 
+Hi afegirem la xocolata i ho pastem amb les mans perquè els bocins s'integrin bé al pastó. 
+Pintem el fons d'un motlle d'acer inoxidable de 27x27x3 cm i hi estirem el pastó. Ho deixem reposar a dins del forn, apagat, on hi haurem deixat un pot amb aigua calenta, fins que dupliqui de mida.  
+Ho pintem amb llard de porc que haurem desfet. Hi afegim la sal, i ho enfornarem 25 minuts a 200º. 
+La deixem refredar damunt d'una reixeta perquè no se'ns humitegi un cop treta del forn. 
+
+[Categories]
+categoria = Postres
