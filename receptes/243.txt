@@ -1,0 +1,30 @@
+[Titol]
+Pèsols amb ous
+
+[Ingredients]
+Persones = 5 pax
+pèsols = 1kg pèsols desgranats ben tendres
+tomàquets = 200g tomàquet madur ratllat
+ceba = 500g ceba tendra
+all = 100g all tendre
+vi = 1 copa cava
+ous = 10 ous
+
+titol = per a la picada
+fruits secs = 20 ametlles torrades
+julivert = 5 brots julivert
+all = 1 gra d'all
+oli = oli oliva verge
+vinagre = un rajolí vinagre
+
+[Elaboracio]
+En una cassola grossa, poseu a sofregir amb un bon raig d'oli la ceba picada, a foc mitjà durant 10 minuts. Ha de quedar cuita, però no fosca.
+Passats els 10 minuts, incorporeu-hi l'all tendre picat petit i continueu el sofregit a foc mitjà durant 10 minuts més. Aneu salpebrant amb prudència cada vegada que hi afegiu un ingredient.
+Incorporeu-hi el tomàquet ratllat després dels últims 10 minuts. Quan faltin cinc minuts perquè s'acabi el sofregit, perfumeu-lo amb una copa de cava.
+Afegiu els pèsols a la cassola, mescleu-los amb el sofregit i tireu-hi aigua mineral bullent, just que no arribi a cobrir-los. Deixeu-los coure a foc mitjà amb la cassola tapada durant 5 minuts.
+Prepareu la picada pasant per la batedora el julivert, les ametlles, l'all, l'oli i el vinagre. Quan els pèsols ja estiguin cuits, ategiu-hi la picada i remeneu-ho bé.
+Mentrestant haureu cuit els ous durant 8 minuts perquè els rovells quedin cremosos. Deixeu-los refredar, peleu-los i reserveu-los.
+Poseu damunt els pèsols els ous tallats per la meitat. Apagueu el foc i deixeu-ho reposar amb la cassola tapada durant 1 minut abans de servir-ho.
+
+[Categories]
+categoria = Vegetarià
