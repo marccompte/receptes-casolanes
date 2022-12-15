@@ -1,0 +1,33 @@
+[Titol]
+Melós
+
+[Ingredients]
+Persones = 4/6 pax
+porc = 4 galtes porc (2 amb l’os i 2 sense)
+ceba = 1 ceba
+all = 2 dents d’all
+tomàquet = 3 tomàquets madurs
+llorer = 1 fulla llorer
+vi = 1 got vi ranci o vi negre
+brou = 2 gots brou pollastre
+xocolata = 2 peces xocolata negra
+sal = sal
+oli = oli d’oliva
+titol = per a la base
+patates = 1kg patates
+mantega = 100g mantega
+llet = llet
+sal = sal
+mantega = mantega
+bolets = ceps en pols
+
+
+[Elaboracio]
+Dins l’olla de pressió escalfarem un raig d’oli que cobreixi tot el fons. Posem sal i pebre a les galtes i les marquem amb l’oli ben calent. Ho reservem. Amb el mateix oli farem un sofregit amb la ceba picada i els alls picats. Esperem que quedi ben cuita. Quan la ceba estigui cuita afegim els tomàquets ratllats i esperem que confitin. Incorporem les galtes i pugem el foc per afegir-hi el vi. Deixarem reduir.
+Incorporem l’aigua o brou i tanquem l’olla. Quan surti el vapor ho deixem coure durant 35 minuts. Obrim l’olla i retirem la carn, la netegem de l’os i reservem.
+Triturem i passem la salsa pel colador xinès i reservem. Si la salsa queda clara la deixem fer xup-xup amb l’olla destapada perquè redueixi i hi afegim la xocolata picada a la salsa i si la volem més clara hi afegim més brou.
+Bullirem les patates pelades i tallades a daus grans just cobertes d’aigua. Quan estiguin tendres les traurem, les posarem a un bol i les aixafarem amb una forquilla o similar (mai amb batedora) amb la mantega, un pessic de sal i pebre, la pols de ceps i afegirem llet a poc a poc fins a aconseguir un puré espès però cremós alhora. Servirem la carn sobre el timbal de patata. Decorem amb algun detall de color verd.
+
+[Categories]
+categoria = Carn
+subcategoria = Porc
