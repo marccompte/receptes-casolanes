@@ -1,0 +1,29 @@
+[Titol]
+Capuccino
+
+[Ingredients]
+Persones = 6/8 gots
+titol = Per la crema de bolets
+bolets = 400g bolets variats (congelats o frescos)
+brou = 600ml brou pollastre
+porro = 1 porro
+ceba = 1 ceba
+sal = sal
+titol = Per la crema de formatge:
+nata = 75ml nata 35% o llet
+formatge = 200g formatge crema
+nou muscada = nou muscada
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Crema de bolets:
+farem un sofregit de ceba i porro picats menuts. Afegirem els bolets congelats. Quan deixin anar l’aigua afegim el brou de pollastre i deixarem fer xup-xup tot plegat durant uns 10 uns minuts. Ho triturem tot.
+
+Crema de formatge:
+en un cassó a foc mig escalfarem el formatge crema i afegirem la nata o la llet a poc, a poc, sense parar de remenar fins que quedi cremós. Un cop integrats els dos ingredients, retirarem del foc i hi afegirem sal i pebre.
+Omplirem els gots (millor si són transparents) amb la crema de bolets fins que estiguin gairebé plens. A continuació posem la crema de formatge, amb l'ajuda d'una cullera com si féssim un cafè irlandès.
+Afegirem nou moscada com si fos cacau en pols.
+
+[Categories]
+categoria = Aperitius
