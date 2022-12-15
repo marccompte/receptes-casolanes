@@ -26,4 +26,4 @@ Omplirem els gots (millor si són transparents) amb la crema de bolets fins que 
 Afegirem nou moscada com si fos cacau en pols.
 
 [Categories]
-categoria = Aperitius
+categoria = Aperos
