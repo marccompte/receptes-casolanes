@@ -1,0 +1,24 @@
+[Titol]
+Crema coliflor amb ou poché
+
+[Ingredients]
+coliflor = 500g coliflor
+patates = 250g patates
+ceba = 1 ceba tendra
+mantega = 20g mantega
+brou = 600ml caldo pollastre o verdures
+nata = 100ml nata líquida 35%
+ous = 4 ous
+oli = oli d’oliva
+sal = sal
+pebre = pebre
+
+
+[Elaboracio]
+Tallem la coliflor a floretes, tallem la patata en 4 o 6 trossets i la ceba picada. Sofregim la ceba en una cassola amb la mantega i l’oli fins que comenci a agafar una mica de color. Afegim la coliflor i la patata i ho sofregim uns minuts més. Cobrim amb el brou i deixem coure uns 15 minuts.
+Triturem la crema amb una batedora elèctrica junt amb la nata, hi afegim sal i pebre i tornem a triturar fins a obtenir una crema llisa.
+Folrem amb paper film 1 got o un bol petit. Posem unes gotes d’oli d’oliva i les escampem bé amb l’ajuda d’un pinzell. Trenquem l’ou i el col·loquem amb molt de compte al film. Posem sal i pebre. Agafem les puntes del film i fem una mena de saquet. Ho lliguem amb un tros de film o una pinça. Repetim aquesta operació amb els ous restants. Introduïm els saquets en una olla amb aigua bullent lleugerament i coure uns 6-7 minuts fins que els ous estiguin quallats. Els retirem amb molt de compte, deixem refredar una mica i obrim el saquet per retirar l’ou. Servim la crema de coliflor amb un ou a sobre, unes gotes d’oli d’oliva i una mica de pebre per damunt.
+
+[Categories]
+categoria = Vegetarià
+subcategoria = Puré
