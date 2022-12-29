@@ -1,0 +1,14 @@
+[Titol]
+Salmó marinat
+
+[Ingredients]
+salmó = 1 salmó gran sencer
+sucre = sucre
+sal = sal
+herbes = anet
+
+[Elaboracio]
+Posar grans de pebre i anet (herbes) dins les dues meitats del salmó, i barreja de sal i sucre a parts iguals, també a dins. Tancar-lo i cobrir-lo de sal i sucre per sobre i sota. Deixar-ho 36 hores a la nevera amb un pes a sobre. Rentar-lo bé sota l'aixeta i eixugar-lo amb un drap. Tallar-lo a filets prims i posar-hi oli per sobre per a poder-lo guardar uns dies.
+
+[Categories]
+categoria = Peix
