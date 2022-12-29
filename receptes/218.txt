@@ -37,4 +37,4 @@ En els últims minuts, tireu-hi una picada feta amb un parell d'alls, unes fulle
 
 [Categories]
 categoria = Peix
-subcategoria = Sípia
+subcategoria = Cefalòpodes
