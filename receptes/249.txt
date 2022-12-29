@@ -1,0 +1,21 @@
+[Titol]
+Rap allagostat
+
+[Ingredients]
+Persones = 4 pax
+rap = 600-800g rap
+pebre = 30g pebre vermell dolç
+llimona  = llimona
+julivert = julivert
+
+[Elaboracio]
+Treure l'espina central del rap, deixant dos filets allargats i lligar-los. Amanir-los i passar-los pel pebre vermell
+Ja preparats, posar-los a una safata del forn o a una cassola sense aigua, ficar-los al forn regular uns 20 minuts. Als 10 minuts donar-hi la volta. Ha de deixar anar l'aigua. Un cop cuit, treure un altre cop l'aigua que ha deixat anar per acabar la cocció i deixar refredar completament (mentre es va refredant deixa anar encara més
+aigua que també s'ha de retirar)
+Després es podrà servir tallat a rodanxes i adornat amb llimona i julivert.
+En una salsera presentar la salsa desitjada, maionesa, tàrtara, romesco,...
+Nota: La precaució de treure l'aigua és molt important, ja que d'aquesta manera ens queda el rap més fort o consistent, més semblant a la llagosta. Millor preparar-lo el dia abans.
+
+
+[Categories]
+categoria = Peix
