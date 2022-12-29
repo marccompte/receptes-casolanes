@@ -23,4 +23,4 @@ Passats els quaranta minuts de cocció, aboqueu-hi la xocolata i un got més d'a
 
 [Categories]
 categoria = Peix
-subcategoria = Sípia
+subcategoria = Cefalòpodes
