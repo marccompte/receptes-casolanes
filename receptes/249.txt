@@ -19,3 +19,4 @@ Nota: La precaució de treure l'aigua és molt important, ja que d'aquesta maner
 
 [Categories]
 categoria = Peix
+subcategoria = Rap
