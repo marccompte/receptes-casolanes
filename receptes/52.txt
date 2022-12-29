@@ -26,3 +26,4 @@ Finalment, afegiu la picada al cassó dels popets, rectifiqueu de sal i ja podeu
 
 [Categories]
 categoria = Peix
+subcategoria = Cefalòpodes
