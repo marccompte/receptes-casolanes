@@ -1,26 +1,26 @@
 [Titol]
-Carbassa rostida
+Carabassa rostida
 
 [Ingredients]
-persones = 4
-carbassa = 1 carbassa grossa
-fruits secs = 20 nous senceres
-all = 1 cabeça d’all negre
-herbes = Romaní, farigola, enciamet
-sal = Sal 
+Persones = 4 pax
+carbassa = 1/2 carbassa cacauet 
+llimona = 1 llimona
+taronja = 1 taronja
+ceba = 1 ceba Figueres petita i cibulet
+formatge = 80g formatge cremós cabra  
+gingebre = 12g gingebre
 pebre = pebre negre
-oli = oli d’oliva
+herbes = ruca  
+oli = oli oliva arbequina 
+sal = escates sal i sal
 
-[Elaboracio]
-Rentem la carbassa.
-Tallem la carbassa com si fos un meló. Hi afegim sal i pebre negre.
-Ho posem sobre una safata de forn amb paper sulfurat i hi tirem per sobre unes fulles de farigola i romaní.
-Ho posem al forn a 220 ºC durant 30 minuts.
-Pelem una cabeça d’alls negres i posem els grans en un got de batedora.
-Hi afegim sal i oli oliva. Ho triturem i emulsionem amb la batedora. Posem en una mànega aquesta mena d’allioli i ho reservem.
-Pelem 20 nous i les piquem en un morter.
-Netegem unes fulles d’enciamet.
-Servim una llesca de carbassa amb l’allioli, les nous picades per sobre i l’enciamet.
+Tallem per la meitat una carbassa cacauet i la posem en una safata amb paper sulfurat. Salpebrem la carbassa i hi afegim la ratlladura d'una llimona i d'una taronja amb el suc de totes dues. Girem la carbassa de manera que la pell quedi cap amunt. Pintem la pell de la carbassa amb oli d'oliva arbequina. La portem al forn a 160º durant 15 minuts.
+Pelem la carbassa un cop rostida. La tallem de manera que en surtin 4 racions. Reservem el suc del rostit. El retalls i el que ens sobri ho aprofitarem per fer-ne puré més tard.
+Tallem a microbrunesa una ceba de Figueres. 
+Posem una paella al foc amb un raig d'oli, la ceba i el gingebre ratllat. Ho coem inicialment a foc fort sense tapar. Al cap d'un dos minuts tapem la paella i la mantenim a foc suau 15 minuts. Afegim a la cassola els retalls de carbassa reservats, els desfem amb una forquilla fent una mena de puré i ho coem 5 minuts més.
+En un bol trenquem el formatge cremós de cabra. El salpebrem i hi afegim una mica de cibulet picat. Ho integrem. 
+Passem el contingut de la paella a un got batedor. Ho batem tot afegint-hi  el suc resultant de rostir la carbassa. Colem el puré fet al got batedor.
+Emplatem posant a la base el puré de carbassa, a sobre un tall de la carbassa rostida i ho rematem amb el formatge.
 
 [Categories]
 categoria = Vegetarià
