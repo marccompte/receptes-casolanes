@@ -1,0 +1,29 @@
+[Titol]
+Pastís poma i caramel
+
+[Ingredients]
+Persones = 4 pax
+farina = 150g farina 
+sucre = 100g sucre morè i 65g de blanc
+aigua = 90ml aigua  
+sucre = 80g sucre i llustre
+nata = 70ml nata 35%
+mantega = 65g mantega pomada i 30g de clarificada
+poma = 6 pomes golden 
+menta = fulles menta 
+
+[Elaboracio]
+Posem la mantega clarificada a escalfar dins un pot. 
+En un altre pot posem el sucre morè i 40ml d'aigua, ho portem a ebullició per fer-ne un almívar. Afegim la mantega clarificada fosa a l'almívar, ho remenem constantment i hi afegim 70 ml la nata i ho reduïm lleugerament. Ens ha de quedar una salsa líquida. Apaguem el foc i deixem que es vagi refredant de mica en mica.  
+Comencem a fer la massa del pastís tamisant la farina en un bol fent una forma de volcà, afegint-hi la mantega pomada, 50 ml d'aigua i el sucre blanc. Treballem la massa amb les mans fins que quedi homogènia. Tapem la massa amb un drap i la deixem reposar 1 hora a la nevera. 
+Posem el forn a escalfar a 200º 
+Untem amb mantega la base i les parets d'un motlle de 25 cm. Empolsem el motllo amb sucre de llustre i el reservem. 
+Pelem les pomes. Els hi traiem els cors i les tallem a grills grossos. Omplim la base del motlle amb els grills de poma ben junts. Repartim per sobre de la poma 40 g sucre. Fem una segona capa amb la resta de les pomes. Tornem a repartir 40 g de sucre per sobre. 
+Estenem amb un corró la massa de pastís, que quedi fina. La massa ha de ser una mica més grossa que el motlle. Posem la massa per sobre del motllo cobrint les pomes. Entrem bé la massa per les vores del motlle. Enfornem el pastís a 200º 30min. 
+Traiem el pastís del forn i el desemmotllem. L'enfornem de nou a 200º 15​min.fins que el sucre caramel·litzi. 
+Desenfornem i esperem que baixi de temperatura. 
+Decorem amb fulles de menta fresca netes i napem el plat amb la salsa de caramel i hi posem un tall de pastís per sobre.
+
+[Categories]
+categoria = Postres
+subcategoria ? Pastís
