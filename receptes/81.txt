@@ -1,5 +1,5 @@
 [Titol]
-Espaguetis, musclos, gambes i tonyina
+amb musclos, gambes i tonyina
 
 [Ingredients]
 persones = 4
