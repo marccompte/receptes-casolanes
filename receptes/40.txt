@@ -14,6 +14,7 @@ herbes = ruca  
 oli = oli oliva arbequina 
 sal = escates sal i sal
 
+[Elaboracio]
 Tallem per la meitat una carbassa cacauet i la posem en una safata amb paper sulfurat. Salpebrem la carbassa i hi afegim la ratlladura d'una llimona i d'una taronja amb el suc de totes dues. Girem la carbassa de manera que la pell quedi cap amunt. Pintem la pell de la carbassa amb oli d'oliva arbequina. La portem al forn a 160º durant 15 minuts.
 Pelem la carbassa un cop rostida. La tallem de manera que en surtin 4 racions. Reservem el suc del rostit. El retalls i el que ens sobri ho aprofitarem per fer-ne puré més tard.
 Tallem a microbrunesa una ceba de Figueres. 
