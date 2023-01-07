@@ -1,5 +1,5 @@
 [Titol]
-Carabassa rostida
+Carbassa rostida
 
 [Ingredients]
 Persones = 4 pax
