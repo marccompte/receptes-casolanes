@@ -9,9 +9,9 @@ llevat = 8g llevat
 titol = Massa fınal
 massa mare = 300g massa mare
 farina = 800g farina
-aigua = 550g aigua 
+aigua = 500g aigua 
 sal = 20g sal
-llevat = 10g llevat 
+llevat = 12,5g llevat (mig paquet)
 
 
 [Elaboracio]
