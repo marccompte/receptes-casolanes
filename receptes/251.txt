@@ -25,3 +25,4 @@ Emplatem el suquet afegint-hi una mica de cerfull i crostonets de pa.
 
 [Categories]
 categoria = Peix
+subcategoria = Lluç
