@@ -22,3 +22,4 @@ PRESENTACIÓ: En una safata, col·loquem el peix escorregut i afegim l'allada pe
 
 [Categories]
 categoria = Peix
+subcategoria = Lluç
