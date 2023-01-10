@@ -19,3 +19,4 @@ Traieu-ho del forn i poseu-hi l'all i el bitxo confitats i un polsim de pebre ve
 
 [Categories]
 categoria = Peix
+subcategoria = Lluç
