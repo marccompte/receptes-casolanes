@@ -1,0 +1,27 @@
+[Titol]
+Suquet de lluç
+
+[Ingredients]
+lluç = 1 lluç
+ceba = 2 cebes Figueres
+all =1 cabeça alls
+fuits secs = 125g ametlles i 50g pinyons
+vi = vi escumós
+pa = pa torrat i crostons
+espècies = safrà i claus d'olor
+gingebre = gingebre
+llard = llard
+oli = oli
+sal = sal
+
+[Elaboracio]
+Comencem fent una beguda d'ametlles. Posem les ametlles crues i pelades a remullar amb aigua durant 24 hores. Passat aquest temps, les colarem. Les posarem en un pot, hi afegirem 300 ml d'aigua nova, les triturarem i les colarem.  
+Continuem fent un fumet. Posem un raig d'oli en una olla. Hi afegim la cabeça d'alls partida pel mig i les cebes que haurem pelat i a les quals haurem clavat 4 claus d'olor a cada una. Un cop ho tenim ros, hi afegim el cap (sense ganyes), l'espina (sense tripa) i la cua d'un lluç. Ho enrossim fins que la carn es torni blanca. Hi aboquem un raig d'escumós i deixem que l'alcohol s'evapori. Hi afegim 1 litre d'aigua i ho coem 25 minuts a foc baix. Després, ho deixarem reposar 25 minuts més, tapat. 
+Posem la beguda d'ametlles en un got batedor. Hi afegim els pinyons i uns brins de safrà, que haurem torrat en una paella sense oli. Hi ratllem una mica de gingebre. Hi afegim 2 torradetes de pa i un polsim de sal. Ho turbinem bé i ho posem en una cassola.
+Afegim el fumet, colat, a la cassola i ho reduïm un parell de minuts, fins que ho tinguem amb una textura densa.
+Posem a desfer una cullerada de llard en una paella. Hi marquem, a banda i banda, quatre lloms de lluç que haurem enllustrat amb llard.
+Afegim els lloms a la cassola del suquet i ho coem tot 2 minuts a foc mitjà.
+Emplatem el suquet afegint-hi una mica de cerfull i crostonets de pa.
+
+[Categories]
+categoria = Peix
