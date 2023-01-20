@@ -1,16 +1,17 @@
-﻿[Titol]
+[Titol]
 calçots
 
 [Ingredients]
-persones = 
-all = 1 o 2 grans d'all
-tomàquet = 4 tomàquets
-llimona = 1/4 de llimona
-fruits secs = ametlles i avellanes torrades
-espècies = 1 nyora. pebre negre i vermell dolç
+persones = 300 calçots
+all = 1 cabeça d'alls
+tomàquet = 1kg tomàquets vermells
+nyora = 10 nyores o 125g carn nyora 'La Legua'
+pebrot = 2 pebrots xoricers o 2 cullaredetes carn pebrot 'La Legua'
+fruits secs = 500g ametlla torrada i 250g avellana torrada
+
+pebre = pebre negre i vermell dolç
 sal = sal
-oli = oli d'oliva
-pa = pa torrat
+oli = 1 litre oli d'oliva
 
 [Elaboracio]
 El primer que hem de fer és preparar les nyores: les obrim, traiem les llavors i les posem en remull en un got amb aigua calenta.
@@ -19,6 +20,8 @@ Mentre les nyores se segueixen estovant, preparem una olla o un bol molt gran, o
 Ho triturem tot amb el “minipimer”, de manera que ens quedi tot ben barrejat. Si veiem que no vol agafar una mica de consistència, li podem afegir una mica de l’aigua on hem estovat les nyores.
 Agafem l’oli i el tirem a dins l’olla. Amb el “minipimer” ho anem barrejant tot com si estiguéssim fent maionesa. La massa s’anirà lligant i cada vegada tindrà més consistència. Finalment hi posem el vinagre i ho barregem una estona més.
 Si ens falta una mica de sal, ara és el moment de provar la salsa i rectificar.
+Si ens queda salsa feta, es guarda bé a la nevera uns dies, o es pot congelar si ha de durar més temps.
+Si fem servir carn de nyora i de pebrot i no utilitzem el pot sencer, convé guardar-lo a la nevera amb un raig d’oli que cobreixi la salsa, sens guardarà millor. 
 
 [Categories]
 categoria = Salses
