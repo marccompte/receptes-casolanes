@@ -13,9 +13,9 @@ bicarbonat = 7g bicarbonat
 llevat = 7g llevat Royal
 
 [Elaboracio]
-Afegir tots els ingredients en un bol i barrejar-ho manualment o amb una batedora fins tenir una massa completament homogènea (molt espesa).
-Estendre la massa sobre una safata amb paper de forn, previament untat amb mantega. Fer 4 rectangles de aprox 1cm d'altura i 5cm d'amplada.
-Enxegar el forn, dalt i baix, a 180ºC, possar-hi la safata i coure-ho durant 15min.
+Afegir tots els ingredients en un bol i barrejar-ho manualment o amb una batedora fins tenir una massa completament homogènia (molt espesa).
+Estendre la massa sobre una safata amb paper de forn, prèviament untat amb mantega. Fer 4 rectangles de aprox 1cm d'altura i 5cm d'amplada.
+Engegar el forn, dalt i baix, a 180ºC, possar-hi la safata i coure-ho durant 15min.
 
 [Categories]
 categoria = Postres
