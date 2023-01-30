@@ -13,9 +13,9 @@ bicarbonat = 7g bicarbonat
 llevat = 7g llevat Royal
 
 [Elaboracio]
-Afegir tots els ingredients en un bol i barrejar-ho manualment o amb una batedora fins tenir una massa completament homogènia (molt espesa).
-Estendre la massa sobre una safata amb paper de forn, prèviament untat amb mantega. Fer quatre parts de la massa, fent una baguette una mica plana. Posar-ho a la plata del forn sense que es toquin (creix una mica).
-Engegar el forn, dalt i baix, a 180ºC, possar-hi la safata i coure-ho durant 15 o 20min.
+Afegir tots els ingredients en un bol i barrejar-ho manualment o amb una batedora fins tenir una massa completament homogènia (molt espessa).
+Fer quatre parts de la massa formant quatre baguets una mica planes. Posar-ho a la plata del forn sense que es toquin (creix una mica).
+Engegar el forn, dalt i baix, a 180ºC, posar-hi la safata i coure-ho durant 15 o 20min.
 Deixar refredar, tallar-lo amb un ganivet de serra i tornar a posar-los, plans, a la safata, gratinar una mica i repetir-ho per l'altre costat. Controlant-ho molt bé per evitar que es cremin.
 
 [Categories]
