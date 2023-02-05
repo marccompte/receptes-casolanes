@@ -1,0 +1,28 @@
+[Titol]
+Quiche de ceba i gruyère
+
+[Ingredients]
+titol = pasta brisa:
+farina = 250g farina
+mantega = 125g mantega 
+aigua = 60ml aigua
+sal = 5g sal
+
+titol = farcit:
+formatge = 100g formatge gruyère ratllat
+ous = 3 ous
+ceba = 1 kg cebes
+nata = 200ml nata per muntar 
+llet = 100 ml llet
+oli = oli oliva
+pebre = pebre
+sal = sal
+
+[Elaboracio]
+Per a la pasta brisa barregeu la mantega a temperatura ambient amb la farina, la sal i l’aigua. Amasseu ràpidament i enèrgica i no gaire. Deixeu-la reposar a la nevera embolicada amb paper film durant 30 minuts per tal de poder-la estirar amb més facilitat.
+Pelem les cebes i les tallem en juliana fina. En una paella o cassola gran, amb un rajolí d’oli d’oliva i un bon pessic de sal, courem les cebes fins que siguin ben tendres i daurades. Aquesta elaboració pot trigar uns 45 min o més. Si és necessari taparem l’olla i afegirem una mica d’aigua per tal de facilitar-ne la cocció de la ceba. Quan estigui tendra destaparem l’olla per tal d’evaporar-ne la humitat, si és que n’hi ha.
+Folrem un motlle baix per a pastissos amb la pasta brisa. L’omplim amb paper de forn i cigrons secs (tal com veureu a classe) i coeu-la al forn ja calent a 180º C, fins que estigui daurada.
+Barregem la nata amb els ous, la llet, un pessic de sal i pebre. Farcim el pastís amb la ceba al fons, al damunt el formatge i per acabar la barreja dels ous. Acabeu de coure durant uns 15 min més, fins que estigui quallada.
+
+[Categories]
+categoria = Entrants
