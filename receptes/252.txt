@@ -2,13 +2,13 @@
 Quiche de ceba i gruyère
 
 [Ingredients]
-titol = pasta brisa:
+titol = pasta brisa
 farina = 250g farina
 mantega = 125g mantega 
 aigua = 60ml aigua
 sal = 5g sal
 
-titol = farcit:
+titol = farcit
 formatge = 100g formatge gruyère ratllat
 ous = 3 ous
 ceba = 1 kg cebes
