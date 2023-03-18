@@ -1,0 +1,25 @@
+[Titol]
+FALS SUFLÉ ALS TRES FORMATGES
+
+[Ingredients]
+Persones = 6 pax
+mantega = 30g mantega i una mica més per a greixar
+farina = 50g farina
+sucre = 1 cullaradeta sucre extrafí
+ llevat = 1 cullaradeta llevat en pols
+ous = 6 ous batuts
+llet = 225ml llet sencera
+formatge = 200g formatge cottage
+formatge = 350g formatge Monterey Jack ratllat. Si no es troba, pot usar-se Port Salut, Cheddar tendre o Edam)
+formatge = 75g formatge cremós
+sal = sal marina
+pebre = pebre negre recentment molt
+
+
+[Elaboracio]
+Prescalfar el forn a 180 °C. Greixar amb mantega una safata de forn de 20 x 30 cm.
+En un bol, barrejar la farína, el sucre i el llevat en pols. Formar un buit en el centre i afegir els ous batuts, la llet i una mica de sal i pebre. Batre-ho bé. Incorporar el formatge cottage i el formatge ratllat. Afegir-hi el formatge cremós i la mantega en porcions petites i barrejar bé amb una cullera.
+Abocar-ho tot a la safata greixada i enfornar 30 - 40 minuts, fins que es qualli i es dauri. Una amanida de créixens i tomàquets és un acompanyament ideal.
+
+[Categories]
+categoria = Entrants
