@@ -3,7 +3,7 @@ Pastís líquid formatge
 
 [Ingredients]
 Persones = 4 pax
-titol = Pel formatge líquid
+titol = pel formatge líquid
 formatge = 200g formatge fresc d’untar i 25g Gorgonzola
 gelatina = 1 full gelatina neutra
 aigua = 200ml aigua
