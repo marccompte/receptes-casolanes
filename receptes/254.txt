@@ -1,0 +1,26 @@
+[Titol]
+Pastís líquid formatge
+
+[Ingredients]
+Persones = 4 pax
+titol = Pel formatge líquid
+formatge = 200g formatge fresc d’untar i 25g Gorgonzola
+gelatina = 1 full gelatina neutra
+aigua = 200ml aigua
+sucre = 100g sucre
+llimona = suc !/2 llimona
+maduixes = 200g maduixes
+titol = per a la galeta cruixent
+galeta = 50g galetes Maria
+mantega = 25g mantega
+sucre = 1 cullerada sucre
+
+[Elaboracio]
+Remulleu la gelatina coberta d’aigua freda. Escalfeu els 200 ml d’aigua i dissoldre-hi la gelatina escorreguda.
+Tritureu amb la batedora de mà els formatges, l’aigua amb la gelatina, el suc de llimona i el sucre. Reserveu a la nevera.
+Tritureu les galetes i barregeu-les amb la mantega fosa i el sucre. Estendre la massa plana sobre un paper de forn i coure-ho al forn 5 minuts a 180o. Deixar refredar.
+Tallar les maduixes a daus i barrejar amb el cruixent de galeta. Repartir dins les copes de servir. Posar el formatge líquid dins d’una gerra de presentació i, ja a taula, abocar-ho dins la copa de cada comensal.
+
+[Categories]
+categoria = Postres
+subcategoria = Pastís
