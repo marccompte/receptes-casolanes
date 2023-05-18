@@ -1,0 +1,23 @@
+[Titol]
+Albergínies farcides
+
+
+[Ingredients]
+titol = 4 Pax
+albergínia = 1 albergínia
+formatge = 100g formatge de cabra
+oli = Oli oliva verge extra
+pebre = pebre negre
+herbes = branques romaní
+
+
+[Elaboracio]
+Separeu les fulles del romaní del tronc. Talleu-les a trossets petitons i poseu-les en un bol amb oli d'oliva amb una mica de sal i de pebre negre. Reserveu-ho.
+Talleu l'albergínia en làmines fines i saleu-les, una per una.
+En una paella amb un fil d'oli, aneu fregint les làmines fins que estiguin daurades.
+Enmig de cada làmina, poseu-hi un trosset de formatge de cabra i emboliqueu-les fent-ne farcells.
+Col·loqueu-los en una plata i poseu-los al forn 5 minuts a 120 °C.
+Serviu-los amb unes branques senceres de romaní per sobre i amb l'oli de romaní que teníeu reservat. 
+
+[Categories]
+categoria = Vegetarià
