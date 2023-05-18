@@ -1,7 +1,6 @@
 [Titol]
 Albergínies farcides
 
-
 [Ingredients]
 titol = 4 Pax
 albergínia = 1 albergínia
