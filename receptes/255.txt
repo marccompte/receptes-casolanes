@@ -1,16 +1,22 @@
 [Titol]
-Cremós de gerds
+Batut fruites vermelles
 
 [Ingredients]
-formatge = 500g formatge fresc batut
-fruits secs = 500g ametlles garrapinyades
-gerd = 350g gerds
-galeta = 4 galetes
+fruita = 200g fruites vermelles   
+gel = 150g gel petit de còctel  
+llet = 300ml llet  
+iogurt = 125g iogurt natural  
+sucre = 50g sucre 
+menta = menta fresca  
+llimona = 1 llimona
+
 
 [Elaboracio]
-Triturem 300g de gerds i els hi incorporem 500g de formatge fresc batut. Ho barregem bé, amb cura.
-Piquem lleugerament 500 g d'ametlla garapinyada.
-Emplatem, posant una galeta digestiva al fons d'un got. Hi afegim una mica d'ametlla garapinyada, el cremós de gerds, una mica més d'ametlla garapinyada, i algun gerd fresc per coronar-ho. Aquesta recepta també us funcionaria si teniu els gerds congelats.
+Posem dins un batedor la llet, el iogur i el sucre. Hi afegim els fruits vermells congelats i el gel petit. Ho turbinem tot fins que tinguem una textura de granissat. 
+Posem en un plat fons el suc de 1/2 llimona. Posem en un altre plat fons una mica de sucre. 
+Mullem les vores del got on servirem el batut, capgirant-lo al plat amb suc de llimona i després fem el mateix amb el plat de sucre.  
+Omplim el got amb la vora arrebossada de sucre amb el granissat. 
+Ho acabem amb una fulla de menta fresca i un gerd.  
 
 [Categories]
 categoria = Postres
