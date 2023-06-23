@@ -1,0 +1,29 @@
+[Titol]
+Patates vídues
+
+[Ingredients]
+patata = 800g patata monalisa  
+tomàquet = 4 cullerades tomàquet ratllat  
+ous = 4 ous 
+20g ametlla torrada  
+pa = 1 llesca pa de pagès 
+all = 1 gra d'all 
+safrà = safrà
+julivert = julivert fresc 
+oli = oli oliva
+pebre = pebre negre 
+sal = sal
+
+[Elaboracio]
+Foradem els ous amb una agulla de cap i els posem en una olla amb aigua fins a cobrir-los. 
+Encenem el foc i quan l'aigua comenci a bullir comptem 10 min. Passat aquest temps els deixem en aigua freda. 
+Escalfem un raig d'oli dins una paella i hi posem un parell de grans d'all aixafats. Hi afegim una llesca de pa tallada a mida mossegada. 
+Quan el pa i l'all estiguin torrats hi posem unes fulles de julivert tallades. Ho integrem tot. Posem en un morter l'ametlla torrada amb pell i sense sal, el contingut de la paella, uns brins de safrà, pebre negre i un polsim de sal. Ho piquem.
+Esqueixem les patates netes, a mida mossegada.
+En una paella hi posem un raig d'oli i les patates escapçades. Remenem una mica i hi afegim el tomàquet ratllat. Ho salpebrem, ho deixem que cogui un minut i després hi posem mig litre d'aigua. Deixem que cogui uns 13 minuts. La majoria del líquid ha d'haver-se evaporat. 
+Mentrestant pelem els ous.
+Passat el temps de cocció de les patates tirem la picada a la paella i ho integrem perquè s'espesseixi.   
+Apaguem el foc i servim amb els ous tallats a quarts afegint-hi una fulleta de julivert a sobre.   
+
+[Categories]
+categoria = Vegetarià
