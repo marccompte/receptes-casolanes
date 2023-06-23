@@ -1,0 +1,17 @@
+[Titol]
+Cremós de gerds
+
+[Ingredients]
+formatge = 500g formatge fresc batut
+fruits secs = 500g ametlles garrapinyades
+gerd = 350g gerds
+galeta = 4 galetes
+
+[Elaboracio]
+Triturem 300g de gerds i els hi incorporem 500g de formatge fresc batut. Ho barregem bé, amb cura.
+Piquem lleugerament 500 g d'ametlla garapinyada.
+Emplatem, posant una galeta digestiva al fons d'un got. Hi afegim una mica d'ametlla garapinyada, el cremós de gerds, una mica més d'ametlla garapinyada, i algun gerd fresc per coronar-ho. Aquesta recepta també us funcionaria si teniu els gerds congelats.
+
+[Categories]
+categoria = Postres
+subcategoria = Mousse
