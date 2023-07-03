@@ -1,0 +1,30 @@
+[Titol]
+Croquetas de cabrales
+
+[Ingredients]
+titol = Per a les croquetes
+mantega = 70g mantega
+farina = 70g farina
+llet = 350g llet
+formatge = 100g formatge cabrales o blau
+mel = 10g mel
+nous = 20g nous pelades
+sal = sal
+titol = Per a l'arrebossat:
+farina = farina
+ou = ou
+farina = farina de galeta
+oli = oli per fregir
+
+[Elaboracio]
+Tallem o esmicolem el formatge.
+Dins una olleta desfarem la mantega i un cop desfeta afegirem la farina i la courem, sense parar de
+remenar durant uns 4 minuts. Incorporarem la llet freda o a temperatura ambient i ho courem sense
+parar de remenar amb unes barnilles de mà. Afegirem el formatge i la mel i ho incorporarem tot. Al final,
+hi afegim les nous i les barregem. Posarem la massa dins un recipient i taparem “a pell”. Cal deixar
+refredar aquesta massa a la nevera, d'un dia per l'altre.
+Fem boletes de 2- 3 cm les passem per farina, ou i pa ratllat. Fregirem amb oli abundant, dins un cassó,
+que agafin color i les servim.
+
+[Categories]
+categoria = Entrants
