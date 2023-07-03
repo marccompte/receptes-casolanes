@@ -1,0 +1,19 @@
+[Titol]
+Coca de tomàquet
+
+[Ingredients]
+pasta fullada = 1 làmina pasta de full
+mostassa = 3 cullerades mostassa
+ formatge = 150g formatge Cheddar (en llenques)
+ tomàquet = 4-5 tomàquets
+herbes = orenga
+sal = sal
+
+[Elaboracio]
+Estirem la pasta de full sobre la llauna de forn amb el paper de forn i la punxem amb una forquilla. La
+pintem amb una fina capa de mostassa al damunt, hi afegim el formatge al damunt de la mostassa i sobre
+aquest el tomàquet tallat a rodelles.
+Afegim una mica d’orenga i sal i ho enfornem a 180o C (escalfor de salt i baix) durant uns 20- 30 minuts.
+
+[Categories]
+categoria = Vegetarià
