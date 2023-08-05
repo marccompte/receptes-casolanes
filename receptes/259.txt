@@ -1,0 +1,21 @@
+[Titol]
+Ajoblanco
+
+[Ingredients]
+Persones = 4 pax
+pa = 150g molla dia anterior
+aigua = 500ml aigua freda
+oli = 100ml oli d'oliva verge
+fruits secs  = 100g ametlles crues
+all = 1 gra d'all
+vinagre =  2 culleradetes vinagre
+sal = sal
+
+
+[Elaboracio]
+Comencem remullant la molla de pa en trossos en l'aigua freda uns minuts, fins que xopi bé. La reservem. Pesem l'oli en una gerra i el reservem també.
+Posem en el got de la batedora la molla remullada amb l'aigua inclosa, l'ametlla crua, el gra d'all, el vinagre i la sal. Ho triturem un parellde minuts a velocitat mitja tirant l'oli per la tapa a poc a poc, com si fos una maionesa. Després pugem la velocitat al màxim uns 10 segons.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
