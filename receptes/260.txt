@@ -1,0 +1,17 @@
+[Titol]
+Pa Turris
+
+[Ingredients]
+farina = 200g massa mare
+farina = 1kg farina
+aigua = 650g aigua
+llevat = mida d'un cigró
+
+[Elaboracio]
+Barrejar tots els ingredients, deixar-ho a la nevera durant 3 o més hores dins el mateix recipient.
+Posar la masa sobre un marbre aixecar-la, deixar-la caure i plegar-la sobre ella mateixa. Fer aquesta operació durant 2 o 3 minuts, tornar-la al bol i deixar-la a la nevera per a que reposi 10min. Repetir aquesta operació 2 vegades més.
+Fer una vegada més l'operació de plegat, donar-li forma de barra i deixar-la reposar més de 6h a 15ºC
+Passat aquest temps, enxegar 45min el forn a 250ºC amb un recipient amb aigua dins. Després baixar la temperatura a 180ºC, entra-hi el pa, al que haurem fet uns talls amb el ganivet i deixar-li una mitja hora.
+
+[Categories]
+categoria = Pa
