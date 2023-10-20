@@ -26,4 +26,4 @@ Decorem amb fulles de menta fresca netes i napem el plat amb la salsa de carame
 
 [Categories]
 categoria = Postres
-subcategoria ? Pastís
+subcategoria = Pastís
