@@ -5,7 +5,7 @@ Pa Turris
 farina = 200g massa mare
 farina = 1kg farina
 aigua = 650g aigua
-llevat = mida d'un cigró
+llevat = llevat (mida d'un cigró)
 
 [Elaboracio]
 Barrejar tots els ingredients, deixar-ho a la nevera durant 3 o més hores dins el mateix recipient.
