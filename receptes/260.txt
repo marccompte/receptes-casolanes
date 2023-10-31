@@ -2,10 +2,11 @@
 Pa Turris
 
 [Ingredients]
-farina = 200g massa mare
+massa mare = 300g massa mare
 farina = 1kg farina
 aigua = 650g aigua
 llevat = llevat (mida d'un cigró)
+sal = 18g sal
 
 [Elaboracio]
 Barrejar tots els ingredients, deixar-ho a la nevera durant 3 o més hores dins el mateix recipient.
