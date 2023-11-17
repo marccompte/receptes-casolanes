@@ -1,3 +1,4 @@
+[Titol]
 Paté de bolets
 
 [Ingredients]
