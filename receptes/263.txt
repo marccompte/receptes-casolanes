@@ -1,0 +1,23 @@
+Paté de bolets
+
+[Ingredients]
+farina = 200g farina normal (fluixa)
+xampinyons = 300g xampinyons frescos
+mantega = 50g mantega
+all = 4 grans d’all
+ceba = 1 ceba
+fruits secs = 50g farina d’ametlla (o pa ratllat o avena)
+vi = ½ copeta vi ranci, brandi, ratafia
+oli = oli d’oliva
+sal = sal
+pebre = pebre
+
+[Elaboracio]
+Picarem la ceba i els alls ben menuts.
+Tallarem els xampinyons a làmines.
+Dins una paella gran courem la ceba i els alls fins que quedin ben cuits.
+Incorporem els xampinyons amb un pessic de sal i els courem fins que deixin anar tota l’aigua que tenen. Afegirem l’alcohol i deixarem reduir i evaporar.
+Quan estiguin ben secs els triturarem, preferiblement amb un robot, junt amb la farina d’ametlla i la mantega.
+
+[Categories]
+categoria = Aperos
