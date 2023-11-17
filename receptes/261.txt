@@ -1,0 +1,28 @@
+[Titol]
+Arròs melós de sobrassada i costella
+
+
+[Ingredients]
+arròs = 400g arròs bomba
+porc = 500g costella de porc
+sobressada = 100g sobrassada
+ceba = 1 ceba
+all = 1 gra all
+pastanaga = 1 pastanaga
+nyora = 1 culleradeta de polpa de nyora
+vi = 1 gotet brandi o vi ranci
+brou = 1200ml brou pollastre o carn
+oli = oli d'oliva
+pebre = pebre
+sal = sal
+
+[Elaboracio]
+Salpebrarem la costella tallada a trossos.
+Escalfarem un raig d'oli generós i sofregirem la carn. Reservem.
+Farem un sofregit amb la ceba picada menuda o ratllada i l'all picat juntament amb la pastanaga ratllada.
+Quan el sofregit estigui ben cuit afegirem la polpa de nyora, li donarem una volta i afegirem la sobrassada. Remenarem perquè es desfaci. Afegirem l'alcohol i deixarem evaporar. Retirem el sofregit i el triturarem amb la batedora elèctrica fins a aconseguir una crema.
+Tornem el sofregit a la cassola junt amb la costella i incorporem l'arròs i li donem unes voltes amb tot plegat. Aleshores anirem afegint el brou, ja calent, a mesura que l'arròs el vagi demanant, així fins a arribar als 18 minuts de cocció. Remeneu constantment fins a aconseguir que ens quedi melós.
+Rectificar de sal i pebre i servir ràpidament.
+
+[Categories]
+categoria = Arrossos
