@@ -3,6 +3,7 @@ Arròs melós de sobrassada i costella
 
 
 [Ingredients]
+Persones = 4 pax
 arròs = 400g arròs bomba
 porc = 500g costella de porc
 sobressada = 100g sobrassada
