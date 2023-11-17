@@ -1,0 +1,21 @@
+[Titol]
+Bastonets de formatge
+
+[Ingredients]
+farina = 200g farina normal (fluixa)
+formatge = 100g formatge parmesà ratllat
+mantega = 100g mantega “pomada”
+llevat = 1 culleradeta llevat Royal
+ous = 3 ous
+
+[Elaboracio]
+Dins un bol posem la mantega a temperatura ambient amb el formatge ratllat i, amb l’ajut d’una espàtula, ho remenem. Quan el formatge estigui ben integrat afegirem els ous i remenarem tot. Incorporem la farina i el llevat i remenarem fins a aconseguir una massa homogènia, no la treballarem.
+Deixem reposar 10 minuts.
+Donarem forma als bastonets fent mini botifarres sobre la taula i els anirem col·locant sobre una placa amb paper de forn. Els pintarem amb ou batut i els empolvorarem amb una mica de formatge.
+Courem al forn ja calent a 180º C (dalt i baix) fins que siguin daurats.
+Quan el sofregit estigui ben cuit afegirem la polpa de nyora, li donarem una volta i afegirem la sobrassada. Remenarem perquè es desfaci. Afegirem l'alcohol i deixarem evaporar. Retirem el sofregit i el triturarem amb la batedora elèctrica fins a aconseguir una crema.
+Tornem el sofregit a la cassola junt amb la costella i incorporem l'arròs i li donem unes voltes amb tot plegat. Aleshores anirem afegint el brou, ja calent, a mesura que l'arròs el vagi demanant, així fins a arribar als 18 minuts de cocció. Remeneu constantment fins a aconseguir que ens quedi melós.
+Rectificar de sal i pebre i servir ràpidament.
+
+[Categories]
+categoria = Aperos
