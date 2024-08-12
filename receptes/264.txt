@@ -20,3 +20,6 @@ Ofeguem el porro en la mantega, a foc molt lent perquè no prengui res de color.
 
 Per acabar la crema, la colem pel colador fi per treure tota resta de fils. També podem prendre aquesta deliciosa crema de porros en calent com qualsevol altre puré o crema de verdures, encara que el més habitual és consumir la vichyssoise en fred. Per això, la deixem refredar a la nevera i la servim en bols o bé en una gerra per prendre-la com a beguda.
 
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
