@@ -1,0 +1,22 @@
+[Titol]
+Vichyssoise
+
+[Ingredients]
+Persones=6pax
+mantega = Mantega 60g
+porro = Porro 500g (tros blanc)
+patata = Patata 500g
+brou = Brou pollastre 1l
+sal = Sal
+pebre = Pebre
+nata = Nata líquida 200ml
+
+ [Elaboracio]
+Netegeu bé els porros, fent incisions en creu a l'extrem verd i col·loqueu-los sota un raig d'aigua.  A continuació traiem la primera capa o exterior i aprofitem la resta (cal usar només la part blanca).
+
+Prenem la part blanca i la piquem a rodanxes o trossets.  La part verda és perfecta per aromatitzar brous de pollastre i de peix. També rentem, pelem i piquem les patates a trossos.
+
+Ofeguem el porro en la mantega, a foc molt lent perquè no prengui res de color.  Quan estigui tou afegim les patates i el brou.  La tradició diu que cal fer-ho amb brou de pollastre però si voleu una recepta vegetariana podeu fer servir aigua o brou de verdures. Pugem el foc i ho deixem coure durant 30 minuts fins que les patates estiguin ben tendres.  Després ho triturem amb la batedora i quan es refredi una mica, hi afegim la nata líquida.
+
+Per acabar la crema, la colem pel colador fi per treure tota resta de fils. També podem prendre aquesta deliciosa crema de porros en calent com qualsevol altre puré o crema de verdures, encara que el més habitual és consumir la vichyssoise en fred. Per això, la deixem refredar a la nevera i la servim en bols o bé en una gerra per prendre-la com a beguda.
+
