@@ -17,14 +17,14 @@ Llevat = 1 sobre Flam Royal (4 rac)
 avellanes = 50g avellanes torrades
 
 [Elaboracio]
-titol = Per a la base
+Per a la base:
 En un bol es munten les clares a punt de neu amb l'ajuda de la batedora de barnilles elèctrica. S'hi afegeix la meitat del sucre i es baten un parell de minuts més fins que el sucre quedi ben incorporat.  
 En un altre bol, es munten els rovells amb la resta del sucre (amb les barnilles elèctriques) fins que quedin una mescla espumosa i blanquinosa i hagi triplicat el seu volum.
 S'incorporen les clares a la mescla dels rovells de mica en mica, tot remenant amb una espàtula amb suavitat per tal que no es desmuntin.
 Finalment, s'hi afegeix la farina tamisada i el cacau en pols.
 Coem al forn, prèviament escalfat, durant 10 minuts a 180º.
 
-titol = Per al farciment
+Per al farciment :
 Triturem les avellanes amb la picadora o amb el morter fins que quedin pols.
 En un cassó, escalfem la nata líquida, la llet i el sobre de flam (4 racions). Quan sigui calent, s’afegeix la xocolata a trossos i remenem fins que es desfaci, a continuació, les avellanes. Quan arrenqui el bull i comenci a espessir, ho retirem del foc ho aboquem sobre la base de pa de pessic. Quan estigui a temperatura ambient, el reservem a la nevera fins al moment de servir.
 Just abans de servir, el decorem amb cacau en pols.
