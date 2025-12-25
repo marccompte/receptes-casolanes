@@ -6,7 +6,7 @@ de farigola
 persones = 4 pax
 pa = 250g pa sec
 aigua= 2l aigua
-ous = 2 ou
+ous = 2 ous
 oli = 1/2 got oli d’oliva 
 espècies = sal i pebre
 all = 2 grans d'all
