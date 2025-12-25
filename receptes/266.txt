@@ -1,0 +1,24 @@
+[Titol]
+de farigola
+
+
+[Ingredients]
+persones = 4 pax
+pa = 250g pa sec
+aigua= 2l aigua
+ous = 2 ou
+oli = 1/2 got oli d’oliva 
+espècies = sal i pebre
+all = 2 grans d'all
+herbes = 1 bon ramet de farigola
+
+[Elaboracio]
+En una olla poseu-hi l'aigua a bullir.
+Quan bulli afegir la farigola i els alls esclafats. Deixar que bulli 10 min. 
+Treure la farigola, afegir -hi  el pa sec trencat amb la ma de morter, sal i pebre. Deixar bullir 15 min més.
+Afinar-ho amb un batedor manual o amb un ganivet, tirar-hi els ous i continuar batent. 
+Afegir-hi l'oli i retirar del foc.
+
+[Categories]
+categoria = Entrants
+subcategoria = Sopes_Cremes
