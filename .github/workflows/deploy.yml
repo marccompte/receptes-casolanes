@@ -1,0 +1,45 @@
+name: Publish test recipe page
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate recipe 1 page
+        run: node scripts/generate-recipe-page.mjs receptes/1.txt _site/receptes/1.html
+
+      - name: Copy current static site
+        run: |
+          cp -a 404.html CNAME cropped-MB-5.262e61de.png db.50ec2a83.js index.html main.fb6bbcaf.js risotto-de-ceps.bbc29c5e.jpg style.6b54f5b7.css _site/
+          cp -a receptes/*.txt _site/receptes/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
